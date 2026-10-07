@@ -1,11 +1,12 @@
-"""Build the essay page from part-1-rational.md.
+"""Build the essay pages from the part files (part-1-rational.md, part-2-spiritual.md).
 
-    python prep_images.py          # once, makes img/*.jpg|png
-    python build_html.py           # writes part-1-rational.html (self-contained, images inside)
-    python build_html.py --fragment  # same page without doctype/head/body (for publishing as an Artifact)
+    python prep_images.py            # once, makes img/*.jpg|png
+    python build_html.py             # writes every part's .html (self-contained, images inside)
+    python build_html.py --part 2    # only one part
+    python build_html.py --fragment  # same pages without doctype/head/body (for publishing as an Artifact)
 
-Edit the text in part-1-rational.md, then rebuild. Figures and portraits are placed by the
-paragraph-start rules in INSERTS below.
+Edit the text in the .md file, then rebuild. Figures and portraits are placed by the
+paragraph-start rules in rules1() and rules2(): the key is the first words of the paragraph.
 """
 import base64
 import html
@@ -17,10 +18,9 @@ import sys
 from PIL import Image
 
 import figs2 as F
+import figs3 as F3
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-MD = os.path.join(HERE, 'part-1-rational.md')
-OUT = os.path.join(HERE, 'part-1-rational.html')
 IMG = os.path.join(HERE, 'img')
 
 
@@ -252,7 +252,7 @@ def figure(inner, caption, cls=''):
 
 # ---------------------------------------------------------------- placement rules
 # paragraph-start text -> (before_html_fn or None, after_html_fn or None)
-def rules():
+def rules1():
     return {
         'If DO and BE sound like a Sinatra': dict(after=figure(
             f'<img class="scooby" src="{uri("scooby")}" alt="Scooby-Doo" width="800" height="450" loading="lazy">',
@@ -302,6 +302,17 @@ def rules():
         'Put it together.': dict(after=figure(F.fig_footsteps(), 'Walking in step: the lazy leg catches up, again and again.')),
         'The reason is inertia.': dict(after=figure(F.fig_inertia(), 'Inertia.')),
         'There\'s a name for what Carrey and Phelps ran into': dict(who=[('benshahar', 'Tal Ben-Shahar', 'neutral')]),
+    }
+
+
+def rules2():
+    return {
+        "There's a word I could have used instead": dict(after=figure(F3.fig_door(), 'The door: a ring in the middle of the chart. Some people circle it for years, and some cross.')),
+        'Default protects it.': dict(after=figure(F3.fig_rooms(), 'Four rooms, one assumption underneath.')),
+        'You can check the body part of this right now': dict(after=figure(F3.fig_fist(), 'The same person, tensed and then released.')),
+        'A child lies in a dark room': dict(after=figure(F3.fig_dark(), 'The room is the same in both pictures.')),
+        'People have been writing about this for far longer': dict(after=figure(F3.fig_names(), 'Names from different traditions for the far side of the map. They are not the same claim, and they point in roughly the same direction.')),
+        'Start with the border itself.': dict(after=figure(F3.fig_rubber(), 'The rubber hand illusion. The felt border of the body is something the brain works out, and it can be moved.')),
     }
 
 
@@ -456,9 +467,8 @@ FONTS = ('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght
          '&family=IBM+Plex+Mono:wght@400;500&family=Literata:opsz,wght@7..72,400..700&family=Comic+Neue:wght@700&display=swap')
 
 
-def convert(md):
+def convert(md, R):
     blocks = [b for b in re.split(r'\n\s*\n', md.strip()) if b.strip()]
-    R = rules()
     out = []
     toc = []
     in_sources = False
@@ -500,43 +510,79 @@ def convert(md):
                     out.append(rule['after'])
         else:
             out.append(para)
+    unused = [k for k in R if not any(b.strip().startswith(k) for b in blocks)]
+    if unused:
+        print('  note: placement rules that matched no paragraph:', *unused, sep='\n    ')
     return out, toc
 
 
-def page(fragment=False):
-    md = open(MD, encoding='utf-8').read()
-    ver = open(os.path.join(HERE, '..', 'VERSION'), encoding='utf-8').read().strip()
-    body, toc = convert(md)
-    toc_html = ' '.join(f'<a href="#{s}">{smart(t)}</a>' for s, t in toc)
-    hero = ('<header class="hero"><div class="hero-in">'
-            '<p class="kicker">Part one of three</p>'
-            '<h1>Rational</h1>'
-            '<p class="lede">Two directions, four rooms, and a map that turns out to be bigger than it looks.</p>'
-            '<ul class="parts"><li class="now">Rational</li><li>Spiritual</li><li>Practical</li></ul>'
+def hero_html(part):
+    names = ['Rational', 'Spiritual', 'Practical']
+    nums = ['one', 'two', 'three']
+    lede = {
+        1: 'Two directions, four rooms, and a map that turns out to be bigger than it looks.',
+        2: 'What the middle of the chart is, what lies past the edge of it, and why a rational person might want to find out.',
+    }[part]
+    lis = ''.join(f'<li class="now">{n}</li>' if i == part - 1 else f'<li>{n}</li>' for i, n in enumerate(names))
+    return ('<header class="hero"><div class="hero-in">'
+            f'<p class="kicker">Part {nums[part - 1]} of three</p>'
+            f'<h1>{names[part - 1]}</h1>'
+            f'<p class="lede">{lede}</p>'
+            f'<ul class="parts">{lis}</ul>'
             '</div></header>')
+
+
+def cast_html():
     cast_people = [('squidward', 'default', 'Squidward'), ('costanza', 'default', 'George Costanza'), ('hank', 'default', 'Hank Hill'), ('jim', 'default', 'Jim Halpert'),
                    ('pam', 'default', 'Pam Beesly'), ('carrey', 'driven', 'Jim Carrey'), ('phelps', 'driven', 'Michael Phelps'), ('biles', 'driven', 'Simone Biles'),
                    ('dude', 'drifting', 'The Dude'), ('phoebe', 'drifting', 'Phoebe Buffay'), ('welwood', 'drifting', 'John Welwood'), ('malala', 'high', 'Malala Yousafzai'),
                    ('aurelius', 'high', 'Marcus Aurelius'), ('parks', 'high', 'Rosa Parks')]
-    cast = '<div class="cast" role="group" aria-label="The cast of this part">' + ''.join(
-        f'<img class="{r}" src="{uri(k, 120)}" alt="{n}" title="{n}" width="54" height="54">' for k, r, n in cast_people) + '</div><p class="cast-cap">Who shows up in this part</p>'
-    main = ('<main><div class="col"><nav class="toc" aria-label="In this part">' + toc_html + '</nav>' + cast
+    return ('<div class="cast" role="group" aria-label="The cast of this part">' + ''.join(
+        f'<img class="{r}" src="{uri(k, 120)}" alt="{n}" title="{n}" width="54" height="54">' for k, r, n in cast_people) + '</div><p class="cast-cap">Who shows up in this part</p>')
+
+
+PART1_FOOT = ('Character and portrait images are used as illustration in a personal draft. Check image rights before this goes public. '
+              'Free-licensed portraits from Wikimedia Commons: Henry David Thoreau (public domain, Benjamin D. Maxham), Viktor Frankl (CC BY-SA 3.0 DE, Franz Vesely), '
+              'Tal Ben-Shahar (CC0), Jeff Bezos (public domain, US government photo), Rosa Parks (public domain).')
+PART2_FOOT = 'A draft. The pictures in this part are drawn for it.'
+
+PARTS = {
+    1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=True, css_extra='', foot=PART1_FOOT),
+    2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA, foot=PART2_FOOT),
+}
+
+
+def page(part, fragment=False):
+    cfg = PARTS[part]
+    md = open(os.path.join(HERE, cfg['md']), encoding='utf-8').read()
+    ver = open(os.path.join(HERE, '..', 'VERSION'), encoding='utf-8').read().strip()
+    body, toc = convert(md, cfg['rules']())
+    toc_html = ' '.join(f'<a href="#{s}">{smart(t)}</a>' for s, t in toc)
+    main = ('<main><div class="col"><nav class="toc" aria-label="In this part">' + toc_html + '</nav>' + (cast_html() if cfg['cast'] else '')
             + '\n'.join(body) + '</div>'
-            f'<footer>Version {ver}. Built from part-1-rational.md. '
-            'Character and portrait images are used as illustration in a personal draft. Check image rights before this goes public. Free-licensed portraits from Wikimedia Commons: Henry David Thoreau (public domain, Benjamin D. Maxham), Viktor Frankl (CC BY-SA 3.0 DE, Franz Vesely), Tal Ben-Shahar (CC0), Jeff Bezos (public domain, US government photo), Rosa Parks (public domain).</footer></main>')
-    head = (f'<title>Part One: Rational</title>'
+            f'<footer>Version {ver}. Built from {cfg["md"]}. ' + cfg['foot'] + '</footer></main>')
+    head = (f'<title>{cfg["title"]}</title>'
             f'<meta name="viewport" content="width=device-width,initial-scale=1">'
             f'<meta name="version" content="{ver}">'
             f'<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
-            f'<link rel="stylesheet" href="{FONTS}"><style>{CSS}</style>')
+            f'<link rel="stylesheet" href="{FONTS}"><style>{CSS}{cfg["css_extra"]}</style>')
     if fragment:
-        return head + hero + main
-    return ('<!doctype html><html lang="en"><head><meta charset="utf-8">' + head + '</head><body>' + hero + main + '</body></html>')
+        return head + hero_html(part) + main
+    return ('<!doctype html><html lang="en"><head><meta charset="utf-8">' + head + '</head><body>' + hero_html(part) + main + '</body></html>')
 
 
 if __name__ == '__main__':
-    frag = '--fragment' in sys.argv
-    out = OUT.replace('.html', '.fragment.html') if frag else OUT
-    html_text = page(frag)
-    open(out, 'w', encoding='utf-8').write(html_text)
-    print(out, round(len(html_text) / 1024), 'KB')
+    args = sys.argv[1:]
+    frag = '--fragment' in args
+    only = int(args[args.index('--part') + 1]) if '--part' in args else None
+    for n, cfg in PARTS.items():
+        if only and n != only:
+            continue
+        if not os.path.exists(os.path.join(HERE, cfg['md'])):
+            continue
+        out = os.path.join(HERE, cfg['out'])
+        if frag:
+            out = out.replace('.html', '.fragment.html')
+        text = page(n, frag)
+        open(out, 'w', encoding='utf-8').write(text)
+        print(out, round(len(text) / 1024), 'KB')
