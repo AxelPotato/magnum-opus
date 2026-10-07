@@ -1,3 +1,5 @@
+> Backup. These are the notes for variant A of part two, the first draft, which is now `essay/backup/part-2-variant-a-psychological.md`. The current part two (variant B) has its own notes in `essay/part-2-notes.md`.
+
 # Part two · notes for Alex (not part of the essay)
 
 Draft 1, 2026-10-07. File: `part-2-spiritual.md`, about 4,700 words plus sources. The `humanizer` skill was not installed in this session, so I applied its rules by hand: no dashes, no "not X but Y", no bold, sentence-case headings, no triads for effect. Run the real skill on it when you can.
