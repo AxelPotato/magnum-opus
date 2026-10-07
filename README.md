@@ -2,7 +2,7 @@
 
 An essay in three parts by Alex Satya: **Rational**, **Spiritual**, **Practical**.
 
-Part one, "Rational", is written. It explains personal growth as two directions, **DO** (making things happen) and **BE** (letting go, and being here), the four rooms you can live in, why the top right is worth the trouble, and why almost nobody stays there. Part two, "Spiritual", is drafted: the door, what lies past the edge of the chart, and why a rational person might want to find out. Part three is not started.
+Part one, "Rational", is written. It explains personal growth as two directions, **DO** (making things happen) and **BE** (letting go, and being here), the four rooms you can live in, why the top right is worth the trouble, and why almost nobody stays there. Part two, "Spiritual", is drafted: two ways of reading a life, the axiom that we are one, and what follows from it in the world's religions. The first version of it is kept in `essay/backup/`. Part three is not started.
 
 The essay began as a talk, "Why letting go is a high-agency skill", given on 2026-09-25. Everything that came out of that talk is archived here too.
 
@@ -27,7 +27,7 @@ The current version is in `VERSION`, shown in the page footer and in `<meta name
 To make a change:
 
 ```bash
-# 1. edit essay/part-1-rational.md or part-2-spiritual.md (or build_html.py, figs2.py, figs3.py, img/)
+# 1. edit essay/part-1-rational.md or part-2-spiritual.md (or build_html.py, figs2.py, figs3.py, figs4.py, img/)
 # 2. release it:
 python tools/release.py fix "Corrected the Grant 2007 numbers"
 python tools/release.py minor "Added a section on ..." --push
@@ -54,7 +54,7 @@ python essay/build_html.py    # writes essay/part-1-rational.html and part-2-spi
 
 | path | what |
 |---|---|
-| `essay/` | the essay: text, page builder, charts (`figs2.py`, `figs3.py`), pictures, sources, notes |
+| `essay/` | the essay: text, page builder, charts (`figs2.py`, `figs3.py`, `figs4.py`), pictures, sources, notes; `essay/backup/` has an earlier version of part two |
 | `talk-2026-09-25/structure/` | the talk as given: structure, presenter notes, prep sheet, the life-goal notes |
 | `talk-2026-09-25/recording/` | transcript with timings (the audio itself is not in this repo) |
 | `talk-2026-09-25/deck/` | the 44-slide deck (PPTX, PDF, PNGs) and the scripts that build it |

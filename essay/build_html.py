@@ -19,6 +19,7 @@ from PIL import Image
 
 import figs2 as F
 import figs3 as F3
+import figs4 as F4
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 IMG = os.path.join(HERE, 'img')
@@ -305,7 +306,7 @@ def rules1():
     }
 
 
-def rules2():
+def rules2a():
     return {
         "There's a word I could have used instead": dict(after=figure(F3.fig_door(), 'The door: a ring in the middle of the chart. Some people circle it for years, and some cross.')),
         'Default protects it.': dict(after=figure(F3.fig_rooms(), 'Four rooms, one assumption underneath.')),
@@ -313,6 +314,20 @@ def rules2():
         'A child lies in a dark room': dict(after=figure(F3.fig_dark(), 'The room is the same in both pictures.')),
         'People have been writing about this for far longer': dict(after=figure(F3.fig_names(), 'Names from different traditions for the far side of the map. They are not the same claim, and they point in roughly the same direction.')),
         'Start with the border itself.': dict(after=figure(F3.fig_rubber(), 'The rubber hand illusion. The felt border of the body is something the brain works out, and it can be moved.')),
+    }
+
+
+def rules2():
+    return {
+        'The second view sits at the other extreme': dict(after=figure(F4.fig_views(), 'Two assumptions at opposite ends. Neither can be observed from outside, since the observing is done by the same mind.')),
+        'Under the axiom, you and I are programs.': dict(after=figure(F4.fig_cpu(), 'Far apart on the screen, side by side in the machine. The distance is a property of the drawing.')),
+        'It also turns out that the wall is built from soft material.': dict(after=figure(F3.fig_rubber(), 'The rubber hand illusion. The felt border of the body is something the brain works out, and it can be moved.')),
+        'The body keeps it in place.': dict(after=figure(F3.fig_fist(), 'The same person, tensed and then released.')),
+        'And if the run continues': dict(after=figure(F4.fig_lives(), 'If the process is a return, and most people do not finish it in one life, it has to run longer than one life.')),
+        'If we are one, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
+        'Every room on the chart is a separate program': dict(after=figure(F3.fig_rooms(), 'Four rooms, one assumption underneath.')),
+        "I've found one picture that carries the whole scale": dict(after=figure(F4.fig_arrow(), 'The arrow of consciousness as speed and freedom of movement. Gravity is the pull of the position you started from.')),
+        'The top right corner of the small square is escape velocity': dict(after=figure(F4.fig_escape(), 'From orbit to escape is a small change in speed and a total change in outcome.')),
     }
 
 
@@ -517,15 +532,20 @@ def convert(md, R):
 
 
 def hero_html(part):
+    backup = part == '2a'
+    if backup:
+        part = 2
     names = ['Rational', 'Spiritual', 'Practical']
     nums = ['one', 'two', 'three']
     lede = {
         1: 'Two directions, four rooms, and a map that turns out to be bigger than it looks.',
-        2: 'What the middle of the chart is, what lies past the edge of it, and why a rational person might want to find out.',
+        2: 'Two ways of reading a life, one assumption that separates them, and what follows from it in the world\'s religions.',
     }[part]
+    if backup:
+        lede = 'What the middle of the chart is, what lies past the edge of it, and why a rational person might want to find out.'
     lis = ''.join(f'<li class="now">{n}</li>' if i == part - 1 else f'<li>{n}</li>' for i, n in enumerate(names))
     return ('<header class="hero"><div class="hero-in">'
-            f'<p class="kicker">Part {nums[part - 1]} of three</p>'
+            f'<p class="kicker">{"Backup: an earlier version of part two" if backup else "Part " + nums[part - 1] + " of three"}</p>'
             f'<h1>{names[part - 1]}</h1>'
             f'<p class="lede">{lede}</p>'
             f'<ul class="parts">{lis}</ul>'
@@ -548,14 +568,17 @@ PART2_FOOT = 'A draft. The pictures in this part are drawn for it.'
 
 PARTS = {
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=True, css_extra='', foot=PART1_FOOT),
-    2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA, foot=PART2_FOOT),
+    2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA, foot=PART2_FOOT),
+    # kept for reference, not part of the default build: python build_html.py --part 2a
+    '2a': dict(md='backup/part-2-variant-a-psychological.md', out='backup/part-2-variant-a-psychological.html', title='Part Two, backup: Spiritual', rules=lambda: rules2a(),
+               cast=False, css_extra=F3.CSS_EXTRA, foot=PART2_FOOT + ' This is the first version of part two, kept as a backup.', fixed_ver='1.0.0', backup=True),
 }
 
 
 def page(part, fragment=False):
     cfg = PARTS[part]
     md = open(os.path.join(HERE, cfg['md']), encoding='utf-8').read()
-    ver = open(os.path.join(HERE, '..', 'VERSION'), encoding='utf-8').read().strip()
+    ver = cfg.get('fixed_ver') or open(os.path.join(HERE, '..', 'VERSION'), encoding='utf-8').read().strip()
     body, toc = convert(md, cfg['rules']())
     toc_html = ' '.join(f'<a href="#{s}">{smart(t)}</a>' for s, t in toc)
     main = ('<main><div class="col"><nav class="toc" aria-label="In this part">' + toc_html + '</nav>' + (cast_html() if cfg['cast'] else '')
@@ -574,9 +597,11 @@ def page(part, fragment=False):
 if __name__ == '__main__':
     args = sys.argv[1:]
     frag = '--fragment' in args
-    only = int(args[args.index('--part') + 1]) if '--part' in args else None
+    only = args[args.index('--part') + 1] if '--part' in args else None
     for n, cfg in PARTS.items():
-        if only and n != only:
+        if only and str(n) != only:
+            continue
+        if cfg.get('backup') and not only:
             continue
         if not os.path.exists(os.path.join(HERE, cfg['md'])):
             continue
