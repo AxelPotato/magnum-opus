@@ -319,7 +319,7 @@ def rules2a():
 
 def rules2():
     return {
-        'So here is my claim, in its bold form': dict(after=figure(F4.rosetta_html(), 'The same structure in different words, as far as I can check it. Dashed cells say only part of it, and shaded cells say something different. Judaism, Christianity and Islam are shown through their inner layers: Kabbalah and Hasidism, the mystics and the Eastern Fathers, and Sufism.', 'table')),
+        'So here is the claim of this part': dict(after=figure(F4.rosetta_html(), 'The same ideas in each tradition\u2019s own words. Judaism, Christianity and Islam are shown through their mystical and contemplative layers, Kabbalah and Hasidism, the mystics and the Eastern Fathers, and Sufism, and through some plain scripture. Buddhism and Jainism are shown in their own vocabulary.', 'table')),
         'The second view sits at the other extreme': dict(after=figure(F4.fig_views(), 'Two assumptions at opposite ends. Neither can be observed from outside, since the observing is done by the same mind.')),
         'Under the axiom, you and I are programs.': dict(after=figure(F4.fig_cpu(), 'Far apart on the screen, side by side in the machine. The distance is a property of the drawing.')),
         'It also turns out that the wall is built from soft material.': dict(after=figure(F3.fig_rubber(), 'The rubber hand illusion. The felt border of the body is something the brain works out, and it can be moved.')),

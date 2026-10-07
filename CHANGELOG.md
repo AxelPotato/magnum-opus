@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 2.2.0 (2026-10-07)
+
+- Part two: no longer argues the point. Removed the objection from Katz, the public-face-against-inner-face section and the where-specialists-object paragraphs, and the ranking of traditions by how close each leans to a single whole. The section now offers examples and says that, in different words, the traditions speak of the same ideas. The table loses its dashed and shaded marks and its caveat wording; the Theosophy caveat is one line; sources no longer cited are dropped.
+
+
 ## 2.1.0 (2026-10-07)
 
 - Part two: the traditions are now shown through their inner layers, per the author's correction. New cross-tradition table (Buddhism, Jainism, Judaism, Christianity, Islam), a section on public versus inner face and where specialists object, and each tradition's own words added to the sections on the one whole, the veil, letting go, lives, karma and the arrow. Withdraws the claim that Theravada, Jainism and the mainstream Western religions fit the axiom badly; keeps the honest limits (SN 12.48, the Sutrakritanga, union by participation).

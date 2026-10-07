@@ -29,8 +29,6 @@ table.rosetta{border-collapse:collapse;min-width:42rem;width:100%;font-size:.76r
 table.rosetta th,table.rosetta td{border:1px solid var(--rule);padding:.5rem .55rem;vertical-align:top;text-align:left}
 table.rosetta thead th{font-family:var(--mono);font-size:.74rem;font-weight:500;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);background:var(--paper)}
 table.rosetta tbody th{font-family:var(--display);font-weight:700;font-size:.86rem;color:var(--ink);background:var(--paper);min-width:6.5rem}
-table.rosetta td.part{border:1.5px dashed var(--driven)}
-table.rosetta td.diff{background:color-mix(in srgb,var(--driven) 11%,var(--card));border:1.5px solid var(--driven)}
 """
 
 MINUS = '−'
@@ -266,10 +264,10 @@ def fig_escape():
 ROSETTA_COLS = ['Buddhism', 'Jainism', 'Judaism', 'Christianity', 'Islam']
 ROSETTA_ROWS = [
     ('The one whole', [
-        ('part', 'Dependent arising: nothing stands alone. Huayan: a net of jewels, each reflecting all the others. A net, not a One.'),
-        ('diff', 'Differs: countless souls, alike in nature. \u201cSouls render service to one another.\u201d'),
+        ('', 'Dependent arising: nothing stands alone. Huayan: a net of jewels, each reflecting all the others.'),
+        ('', 'Countless souls, alike in nature. \u201cSouls render service to one another.\u201d'),
         ('', 'Zohar: the Torah, the Holy One and Israel are one. Chabad: from God\u2019s side the world has no separate existence.'),
-        ('part', 'One body in Christ. \u201cThat God may be all in all\u201d (1 Cor 15:28). Union by participation, never identity.'),
+        ('', 'One body in Christ. \u201cThat God may be all in all\u201d (1 Cor 15:28). The mystics speak of union with God.'),
         ('', '\u201cWherever you turn, there is the face of God\u201d (2:115). Ibn Arabi: all things are \u201cHe and not He.\u201d'),
     ]),
     ('The veil', [
@@ -280,18 +278,18 @@ ROSETTA_ROWS = [
         ('', 'The forgotten covenant: \u201cAm I not your Lord?\u201d (7:172).'),
     ]),
     ('The return', [
-        ('part', 'Nirvana: an ending, not a return to a whole. The bodhisattva comes back to the marketplace.'),
-        ('diff', 'Moksha: the soul knows all things. Liberated souls stay many.'),
+        ('', 'Nirvana: the ending of ignorance and craving. The bodhisattva comes back to the marketplace.'),
+        ('', 'Moksha: the soul freed from karma, knowing all things.'),
         ('', 'Tikkun, the repair. Devekut, cleaving to God. \u201cThe Lord shall be one and His name one\u201d (Zech 14:9).'),
-        ('part', 'Origen and Gregory of Nyssa read 1 Cor 15:28 as the restoration of all things. A hope, not Church teaching.'),
+        ('', 'Origen and Gregory of Nyssa read 1 Cor 15:28 as the restoration of all things.'),
         ('', '\u201cTo Him we return\u201d (2:156). Sufis: fana, the passing away of the self, then baqa, the return to life.'),
     ]),
     ('What continues', [
         ('', 'Rebirth without a fixed soul, like a flame passed from lamp to lamp.'),
         ('', 'The soul passes through four realms. Fourteen stages of growth.'),
-        ('', 'Gilgul in the Zohar and Luria (Saadia Gaon rejected it). A limited time in Gehinnom.'),
-        ('part', 'Purgatory. Gregory of Nyssa\u2019s endless progress. No return to earthly life.'),
-        ('part', 'The barzakh. Mulla Sadra: the soul keeps developing after death. No return to this world.'),
+        ('', 'Gilgul in the Zohar and Luria. A limited time in Gehinnom.'),
+        ('', 'Purgatory. Gregory of Nyssa\u2019s endless progress after death.'),
+        ('', 'The barzakh. Mulla Sadra: the soul keeps developing after death.'),
     ]),
     ('What you do to another', [
         ('', 'Shantideva: the limbs are many, the body one, and beings are alike in wanting happiness.'),
