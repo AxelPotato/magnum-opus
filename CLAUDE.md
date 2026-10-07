@@ -31,6 +31,7 @@ GitHub: `AxelPotato/magnum-opus` (public). The folder is the repo root. Read `RE
 |---|---|
 | `essay/part-1-rational.md` | **The essay, part one** (draft 1, about 8,700 words). `essay/part-1-notes.md` has the open slots, permissions and cut list. |
 | `essay/part-2-spiritual.md` | **The essay, part two** (variant B, 2026-10-07). `essay/part-2-notes.md` has the open slots, permissions, research and cut list. |
+| `essay/research/perennial-theosophy-digest.md` | **Research digest (2026-10-07, unchecked).** How the perennial philosophy movement (Traditionalists, anthologists, Smith, Wilber; Huxley is one voice) and Theosophy (Blavatsky and after) compare religions, read against Alex's axiom; proposals for Part two (none applied); what to open first. Not part of the essay. The long dossiers are not committed. Nothing in it is verified against a source. |
 | `essay/backup/` | **Part two, variant A** (first draft, kept on purpose because he likes some of its ideas): `part-2-variant-a-psychological.md`, its notes, and its built page. |
 | `talk-2026-09-25/recording/audio_2026-09-25_15-55-16.ogg` | **The recording.** Local only, not in git (audience voices, a first name). 58:29, 13 MB. Byte-identical to the Downloads original. |
 | `talk-2026-09-25/recording/transcript.md` | Deepgram nova-3 transcript, 148 timed paragraphs `[mm:ss]`. Machine text; see "Reading the transcript". |
