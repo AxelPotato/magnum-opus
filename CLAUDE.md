@@ -1,0 +1,95 @@
+# magnum-opus · Alex's new essay · read this first
+
+Working folder for **Alex Satya's** (lelen, Paradanta / Giving School) new essay. It starts from one spoken talk, archived here whole: the **recording**, its **transcript**, the **structure**, the **deck**, the **dictation** it was built from, and the **design conversation** that produced it. The essay has **three parts: Rational, Spiritual, Practical** (his plan, 2026-10-06). Part one is drafted in `essay/part-1-rational.md`; read `essay/part-1-notes.md` for open slots and what was kept out on purpose. Parts two and three are not started. Essay title is open.
+
+**The three parts.** Rational: grounded in reality, no esoteric or spiritual terms (his exceptions, all in the Drifting room: "spiritual drifter", spiritual bypassing, misused Stoicism and Advaita Vedanta); the two kinds of agency (inner and outer), why the top right is desirable, the middle line as harmony between inner wishes, outer abilities and current potential, so reaching the top right is gaining inner and outer harmony; it ends with the 10x zoom-out (1,000 x 1,000) as a hint of what lies beyond, without detail. Spiritual: what lies beyond (not started; open it on the door, and reveal his own goal and bigger reason here, not in Part one). Practical: not started.
+
+**The essay as a web page.** `essay/part-1-rational.html` is built from `part-1-rational.md` (single self-contained file, images inside, charts are inline SVG, light and dark). Rebuild after any text edit: `cd essay && python build_html.py`. Portrait crops: `python prep_images.py` (sources in `essay/img/raw` and the talk deck `people/`). Figure and portrait placement rules are in `build_html.py` (the `rules()` function, keyed by the first words of a paragraph). The extra illustrations (steering wheel, shelf, attention, legs, loop, jail cell, bars, Anokhin loop, studies chart, scales, spotlight, finish line, push and pull, inertia, footsteps, TV) are drawn in `essay/figs2.py`. If you change a paragraph's first words, update its key in `rules()`. `python build_html.py --fragment` writes a version without doctype/head/body for publishing as an Artifact. The images are character stills and photos used in a personal draft: check rights before publishing.
+
+**Axis names in the essay (his call, 2026-10-06).** The two directions are called **DO** (horizontal: things happen to me, I make things happen; outer agency) and **BE** (vertical: braced to released, which is how much you can be present and aware of what is happening right here and now; inner agency moves you up it). Letting go is how you raise BE. Use these names in Parts two and three.
+
+**Essay cast (his calls).** Patty and Selma, and Marge Simpson, are out of the essay entirely (they stay in the talk deck). Default uses Squidward, George Costanza, and a "nice corner" of Hank Hill, Jim Halpert and Pam Beesly. Driven: Carrey, Phelps, Biles. Drifting: the Dude, Phoebe. High agency: Malala, Marcus.
+
+**Voice for the essay.** Learn it from the talk transcript, the dictation and the reels (his spoken English: chained sentences, softeners, joins himself into the diagnosis, pop-culture humour, "don't quote me", hands it back to the reader). Humour is written in. Run the `humanizer` skill on every draft: no dashes, no "not X but Y", no bold, no triads for effect.
+
+## This folder is a public git repo
+
+GitHub: `AxelPotato/magnum-opus` (public). The folder is the repo root. Read `README.md`.
+
+- **Versioning.** The essay page `essay/part-1-rational.html` follows Major.minor.fix, starting at 0.1.0. After ANY change to the essay (`part-1-rational.md`, `build_html.py`, `figs2.py`, `img/`), do not hand-edit the HTML: run `python tools/release.py {major|minor|fix} "what changed"` (add `--push` to push and make a GitHub release). It bumps `VERSION`, rebuilds the page, writes `CHANGELOG.md`, commits and tags. A pre-commit hook in `.githooks/` blocks essay commits without a bump (`git config core.hooksPath .githooks`). When Claude commits, pass `--trailer "Co-Authored-By: ..."` with the attribution line the session gives.
+- **Never commit** `history/` or the audio (both are in `.gitignore`). No tokens, emails, private group links or surnames in any tracked file.
+- **Names.** The two friends in the stories are "friend A" and "friend B" everywhere in the repo. Their real first names are only in the local log and in Claude's memory.
+- Other files in the folder (talk structure, deck, related) are archive. Changing them is a plain commit and does not need a version bump.
+
+## The talk in one paragraph
+
+**"Why letting go is a high-agency skill"**, given Friday **2026-09-25** to Network School people, **58:29** including questions. Claim: *a person develops along two independent axes, letting go and taking action, and almost everyone works on only one. Where the two meet is a high-agency life.* The talk is one drawing that grows: two axes, four rooms with a famous face or two in each, a door in the centre, the swing and the shrinking swing, a reason bigger than yourself as the gate, a squares-and-numbers picture (10,000), and a zoom-out to a 1,000,000 square he calls "full human potential", named with words from many traditions. Co-teacher: **Anna** ("the goal Anna and I have").
+
+## Where everything is
+
+| path | what it is |
+|---|---|
+| `essay/part-1-rational.md` | **The essay, part one** (draft 1, about 8,700 words). `essay/part-1-notes.md` has the open slots, permissions and cut list. |
+| `talk-2026-09-25/recording/audio_2026-09-25_15-55-16.ogg` | **The recording.** Local only, not in git (audience voices, a first name). 58:29, 13 MB. Byte-identical to the Downloads original. |
+| `talk-2026-09-25/recording/transcript.md` | Deepgram nova-3 transcript, 148 timed paragraphs `[mm:ss]`. Machine text; see "Reading the transcript". |
+| `talk-2026-09-25/recording/transcript-deepgram-words.json` | Same run with **word-level timings** (8,833 words). The only safe source for an exact quote. |
+| `talk-2026-09-25/structure/TALK.md` | **The talk as given**, in the live order, with the live clock and a `▶ SLIDE` cue at every switch. Appendix A: what was planned and cut. Appendix B: facts on every famous face, incl. the female examples. |
+| `talk-2026-09-25/structure/NOTES.md` | Presenter notes, one section per slide file (the notes inside the PPTX). |
+| `talk-2026-09-25/structure/PREP.md` | Run sheet on the live clock, cut list for 45 min, Q&A beats, checklist. |
+| `talk-2026-09-25/structure/LIFE-GOAL.md` | How to say his life goal (enlightenment as "the edge of the map", the assumption of separation) to a non-spiritual listener. **The deepest material here.** |
+| `talk-2026-09-25/structure/*-read.html` | Phone-readable copies of the three files above. |
+| `talk-2026-09-25/source-dictation/dictation-2026-09-20.txt` | His voice-dictated first version of the quadrant idea (1,241 words), five days before the talk. |
+| `talk-2026-09-25/deck/` | `letting-go-talk.pptx` (44 slides, notes inside), `rational-spirituality-slides.pdf`, `slides/*.png`, `people/` portraits, `event-images/`, `qr_meditation_club.png`, and the build scripts. |
+| `related/` | Earlier pitch work: `paradanta_advanced.md` (a chain of why; root = living as if separate), the 5- and 7-minute pitches, `SETTLEMENT-PITCH.md`, and the ADHD talk (structure + deck) given two days before. |
+| `history/session-e54883f4-2026-09-20_to_26.jsonl` | Local only, not in git (tokens, emails, a group invite, full names). **Full log of the conversation that designed the talk** (39 MB, JSON lines). Search with grep or Python; never read it whole. The friend B and friend A stories are in his first user message, 2026-09-20 09:08 UTC. |
+
+Live working copies of the deck and docs stay at `C:\Users\lelen\claude\Alex-social\ns-rational-spirituality\`. This folder is a **snapshot taken 2026-10-06**. The older Boring Spirituality channel rules are in `C:\Users\lelen\claude\Alex-social\CLAUDE.md`.
+
+## The model, in his vocabulary
+
+- **y-axis = letting go.** Braced → released. Freedom from fear, tension, resistance. "Released, not relaxed: free from your internal limitations." It moves by **inner agency**: say sorry first, admit you were wrong, take the first step in a conflict, say the unsaid sentence. Not just meditation.
+- **x-axis = action.** Things happen to you → you make things happen. Outer agency. The easy test: do you follow up on your words?
+- **Four rooms.** DEFAULT (tense, passive; "about 95% of us"; Squidward, Patty and Selma, George Costanza) · DRIVEN (tense, active; Jim Carrey, Simone Biles) · DRIFTING (released, passive; the Dude, Phoebe Buffay, Welwood's *spiritual bypassing*) · HIGH AGENCY (released, active; Malala Yousafzai, Marcus Aurelius; Mack's jail-cell test).
+- **The door.** A ring at the centre, not a corner. His live line: "You might hear us say *awakening*. I'll call it the door." From an extreme you cannot turn straight toward the far corner: ease back to the middle first, then climb.
+- **How people reach the door.** From Drifting: the money runs out, life happens to them, the plateau ("screw this, I'm getting a job"). From Driven: depression or a crash, a loss, a shift in values.
+- **The gate is why.** Only *a reason bigger than yourself* takes a person across the ring ("I'll prove them wrong" becomes "I want to help people"; "I have kids"). Everything else is a driven person using meditation to be slightly more effective.
+- **The line and the corner.** From the door to the far corner: flow, the zone, the muse, the gut, and **being in love** as "life's hint". Everyone visits, nobody stays. The corner is 100 × 100: "nothing feels impossible".
+- **The swing.** Founder → burnout → island → money panic → hustle. Two anchors: **friend A** (Israeli founder, joints failing, a retreat in Minsk, back toward the middle, still building) and **friend B** (years of ashrams, "never again", business in Moscow, the emptiness, one talk). The trained version is the same swing, **shrinking**.
+- **The math, "don't quote me".** Effectiveness ≈ release × action. 100×1 = 100; 95×2 = 190. Squares: whole 10,000; Default 10×10 = 100; Driven at the wall 100×10 = 1,000; Drifting the mirror 1,000; the door 50×50 = 2,500; the corner 10,000.
+- **Zoom out.** The 10,000 square is a small grey box in a 1,000 × 1,000 map = 1,000,000. "This is the goal Anna and I have, personally, for our lifetime." He prefers **full human potential**. Names on the slide: samadhi, nirvana, moksha, satori, fana, theosis, the Kingdom within, the Tao, Jacob's ladder, stairway to heaven, ocean of consciousness. "Until you've used up this little cube it's difficult to talk about what comes after. It gets mystical. Not the point of today's talk."
+- **Mechanism sources:** Jonny Miller, "How to Unclench" (tension is a tax on the doors you can see); George Mack, "High Agency" (the jail-cell test); John Welwood (bypassing); Viktor Frankl (the existential vacuum); Gennady Givin's lectures (tension, resistance, non-acceptance). Credit Miller and Mack once each.
+
+## Planned and **not** said live (Appendix A of TALK.md)
+
+The whole METHOD section (stillness; why not the island; what damps the swing: a reference point, people further along, discipline and a guided method; the retreat as "days inside the top-right room"), **the child in the dark** (monsters, then the light: "to live with the light on"), the fist demo, Wilbur Wright, the longer friend B and friend A versions. They are kept whole. The essay may be where they belong.
+
+## Said live and **not** in the plan (all kept in TALK.md)
+
+The wider definition of letting go ("tension is a tax on your ability to see solutions"); the retreat observation ("my mind decides before me and I just do it"); "mainstream spirituality *teaches* the Drifting room"; the **cold observer** ("open your heart, not just your attention"); "money moves a human through the door from both sides"; being in love as life's hint; "unexpressed gratitude stays as tension inside"; the homework he promised the room, female examples for each room.
+
+## Reading the transcript
+
+It is **machine text from a room recording**. Audience replies are mostly inaudible, so there are gaps, e.g. 25:13–26:39, 27:32–28:28, 38:33–39:27. Known mis-hearings: "two access" = two axes · "John Miller" = Jonny Miller · "Jim Kelly" = Jim Carrey · "Joshua Stanza" = George Costanza · "John Goldwald" = John Welwood · "ate the diet spongy while we're learning long enough" = "die a SpongeBob or live long enough" · "good sport" = "good drifter" · "Sata" at 51:32 = probably friend B (the story matches the one he gave on 2026-09-20; confirm) · "Tendon" at 11:57 = unclear, do not guess. **Never quote from memory or from the prose transcript.** Locate the words in `transcript-deepgram-words.json`, take the timestamps, extract the exact string with code, and say when a line is garbled.
+
+## Chapters of the recording (live clock, from paragraph starts)
+
+0:00 letting go · 4:10 action · 5:40 the quadrant, two questions, the word *agency* · 7:40 Default (Squidward 7:58, George 10:08, the retreat observation 11:47) · 12:37 Driven (Carrey 14:00, Phelps 15:05) · 16:48 Drifting (the Dude 20:02, Welwood 21:24, the cold observer 22:08) · 23:21 High Agency (jail cell 23:41, two legs 24:21, Gandhi 26:39, Marcus 28:42) · 30:29 recap · 31:14 the door · 33:40 how people reach it · 37:30 the gate is why · 40:40 through the door, inside and outside · 44:47 the far corner · 45:52 the line, being in love · 48:19 everybody visits · 48:58 the swing · 49:30 friend A · 51:32 friend B · 52:53 the shrinking swing · 53:18 the math · 54:57 what changes · 55:54 zoom out · 56:27 the names, full human potential · 56:49 the workshop · 58:07 close.
+
+Phelps and Gandhi were swapped out of the deck after the talk (Biles, Malala). The recording still has Phelps and Gandhi; TALK.md and the deck have the new order.
+
+## Decisions and rules that carry over
+
+- **Vocabulary:** mechanism, not school vocabulary, in English. No *Light, Space, the two forces, Matrix, levels of consciousness, Conductor, Shambala, Primordial Sound, consonance*. Do not name the far corner or the door in school words.
+- **People:** friend A and friend B need his yes before they are named; surnames never go in files. Biles and Malala are living: say only what they have said themselves. Never invent a memory, story or fact. No named enemy; the only thing opposed is vagueness.
+- **Boring Spirituality channel rules** (cards not scripts, humour never written in, he joins himself into the mistake, Malaysia off limits) bind the channel. Whether they bind the essay is his call.
+- Gandhi was never president: "led the country to independence".
+- Phelps: Alex says "there is no cure, only management" is **untrue**. It was in `talk-2026-09-25/structure/TALK.md` Appendix B and was removed on 2026-10-07. Do not reuse it. The essay does not.
+- Deck format is **PPTX**. Canva was dropped (its upload channel rejected the file).
+
+## Open items
+
+The essay's title. Parts two and three. Retreat dates, place, length, price (spoken only). Workshop place (spoken only; Saturday 10:30–14:30, $25, WhatsApp "Meditation Club" QR). Friend a and friend B permissions. The child-in-the-dark story and the method have never been told to an audience.
+
+## How the files were made
+
+`ffmpeg -i audio.ogg -ac 1 -ar 16000 talk.wav`, then `dg -o json listen talk.wav --model nova-3 --language en --no-validate` (the Deepgram key works; local whisper would take about 3 hours for this length). Deck: `python slides.py` (Pillow; Montserrat Black from `Alex-social\Montserrat-Variable.ttf`) → `slides/*.png` and the PDF; `NODE_PATH=<folder with pptxgenjs and jszip> node build-deck.js [out.pptx]` → PPTX with notes from `NOTES.md`; `python md2read.py FILE.md out.html` → readable page. Run them in the live folder `Alex-social\ns-rational-spirituality\`.

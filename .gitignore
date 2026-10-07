@@ -1,0 +1,10 @@
+# kept on the author's machine only
+history/
+talk-2026-09-25/recording/*.ogg
+
+# generated or temporary
+__pycache__/
+node_modules/
+essay/_probe.html
+essay/*.fragment.html
+essay/img/_*.png
