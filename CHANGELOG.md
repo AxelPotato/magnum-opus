@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 2.1.0 (2026-10-07)
+
+- Part two: the traditions are now shown through their inner layers, per the author's correction. New cross-tradition table (Buddhism, Jainism, Judaism, Christianity, Islam), a section on public versus inner face and where specialists object, and each tradition's own words added to the sections on the one whole, the veil, letting go, lives, karma and the arrow. Withdraws the claim that Theravada, Jainism and the mainstream Western religions fit the axiom badly; keeps the honest limits (SN 12.48, the Sutrakritanga, union by participation).
+
+
 ## 2.0.0 (2026-10-07)
 
 - Part two rebuilt on a new structure (variant B): two worldviews, the axiom that we are one, the religions as consequences, karma as the fingers, the arrow of consciousness as speed and space travel. States early that the author is not religious and draws on many traditions. The first version is kept as a backup in essay/backup. New drawings in figs4.py. Builder gains a backup page (--part 2a).

@@ -24,6 +24,13 @@ CSS_EXTRA = r"""
 .chart .zones{fill:var(--drifting);fill-opacity:.1}
 .chart .num{font-family:var(--display);font-weight:800;font-size:19px;fill:var(--ink)}
 .chart .cell{fill:var(--card);stroke:var(--ink);stroke-width:1.8}
+.tscroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+table.rosetta{border-collapse:collapse;min-width:42rem;width:100%;font-size:.76rem;line-height:1.42;background:var(--card)}
+table.rosetta th,table.rosetta td{border:1px solid var(--rule);padding:.5rem .55rem;vertical-align:top;text-align:left}
+table.rosetta thead th{font-family:var(--mono);font-size:.74rem;font-weight:500;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);background:var(--paper)}
+table.rosetta tbody th{font-family:var(--display);font-weight:700;font-size:.86rem;color:var(--ink);background:var(--paper);min-width:6.5rem}
+table.rosetta td.part{border:1.5px dashed var(--driven)}
+table.rosetta td.diff{background:color-mix(in srgb,var(--driven) 11%,var(--card));border:1.5px solid var(--driven)}
 """
 
 MINUS = '−'
@@ -253,3 +260,61 @@ def fig_escape():
     b.append(T(x0 + 10.8 * k + 10, 194, 'never comes back', 'small'))
     b.append(T(350, 228, 'at the height of the International Space Station', 'small', 'middle'))
     return svg('0 0 700 244', 'At the height of the space station, orbital speed is about 7.7 kilometers per second and escape speed about 10.8, roughly 40 percent more', ''.join(b), u)
+
+
+# ------------------------------------------------------------------ the table: same structure, different words
+ROSETTA_COLS = ['Buddhism', 'Jainism', 'Judaism', 'Christianity', 'Islam']
+ROSETTA_ROWS = [
+    ('The one whole', [
+        ('part', 'Dependent arising: nothing stands alone. Huayan: a net of jewels, each reflecting all the others. A net, not a One.'),
+        ('diff', 'Differs: countless souls, alike in nature. \u201cSouls render service to one another.\u201d'),
+        ('', 'Zohar: the Torah, the Holy One and Israel are one. Chabad: from God\u2019s side the world has no separate existence.'),
+        ('part', 'One body in Christ. \u201cThat God may be all in all\u201d (1 Cor 15:28). Union by participation, never identity.'),
+        ('', '\u201cWherever you turn, there is the face of God\u201d (2:115). Ibn Arabi: all things are \u201cHe and not He.\u201d'),
+    ]),
+    ('The veil', [
+        ('', 'Ignorance (avidya). The belief in a permanent self is the first fetter to fall.'),
+        ('', 'Karma veils the soul\u2019s own knowledge, like clouds over the sun.'),
+        ('', 'God\u2019s hidden face, said by the Baal Shem Tov to be only apparent. The shattered vessels.'),
+        ('', '\u201cIgnorance that alienates from the life of God\u201d (Eph 4:18). The prince who forgets, in the Hymn of the Pearl.'),
+        ('', 'The forgotten covenant: \u201cAm I not your Lord?\u201d (7:172).'),
+    ]),
+    ('The return', [
+        ('part', 'Nirvana: an ending, not a return to a whole. The bodhisattva comes back to the marketplace.'),
+        ('diff', 'Moksha: the soul knows all things. Liberated souls stay many.'),
+        ('', 'Tikkun, the repair. Devekut, cleaving to God. \u201cThe Lord shall be one and His name one\u201d (Zech 14:9).'),
+        ('part', 'Origen and Gregory of Nyssa read 1 Cor 15:28 as the restoration of all things. A hope, not Church teaching.'),
+        ('', '\u201cTo Him we return\u201d (2:156). Sufis: fana, the passing away of the self, then baqa, the return to life.'),
+    ]),
+    ('What continues', [
+        ('', 'Rebirth without a fixed soul, like a flame passed from lamp to lamp.'),
+        ('', 'The soul passes through four realms. Fourteen stages of growth.'),
+        ('', 'Gilgul in the Zohar and Luria (Saadia Gaon rejected it). A limited time in Gehinnom.'),
+        ('part', 'Purgatory. Gregory of Nyssa\u2019s endless progress. No return to earthly life.'),
+        ('part', 'The barzakh. Mulla Sadra: the soul keeps developing after death. No return to this world.'),
+    ]),
+    ('What you do to another', [
+        ('', 'Shantideva: the limbs are many, the body one, and beings are alike in wanting happiness.'),
+        ('', 'Non-harm grounded in the equality of souls. \u201cI forgive all beings.\u201d'),
+        ('', 'All Israel are responsible for one another (Shevuot 39a). Tanya: Jewish souls share one root.'),
+        ('', '\u201cIf one member suffers, all suffer together\u201d (1 Cor 12:26). \u201cSaul, why do you persecute me?\u201d'),
+        ('', '\u201cYou do good to yourselves\u201d (17:7). The believers are like one body.'),
+    ]),
+    ('Letting go', [
+        ('', 'Relinquishing, in the breath practice (MN 118). The second pain you add (SN 36.6). Dropping off body and mind (Dogen).'),
+        ('', 'Samayika, equanimity. Kayotsarga, giving up attachment to the body.'),
+        ('', 'Bittul, nullifying the self. Praise and insult feel the same.'),
+        ('', 'Kenosis, \u201che emptied himself.\u201d Eckhart\u2019s letting go. The stillness of the hesychasts.'),
+        ('', 'Islam means surrender (3:83). \u201cI become his hearing and his sight\u201d (Bukhari).'),
+    ]),
+]
+
+
+def rosetta_html():
+    import html as _h
+    head = '<th scope="col"></th>' + ''.join(f'<th scope="col">{_h.escape(c)}</th>' for c in ROSETTA_COLS)
+    rows = []
+    for label, cells in ROSETTA_ROWS:
+        tds = ''.join(f'<td class="{cls}">{_h.escape(txt)}</td>' if cls else f'<td>{_h.escape(txt)}</td>' for cls, txt in cells)
+        rows.append(f'<tr><th scope="row">{_h.escape(label)}</th>{tds}</tr>')
+    return f'<div class="tscroll"><table class="rosetta"><thead><tr>{head}</tr></thead><tbody>{"".join(rows)}</tbody></table></div>'
