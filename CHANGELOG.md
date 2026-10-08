@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 2.3.2 (2026-10-08)
+
+- Part two: the two paragraphs on what 'illusion' means and on the computer as a picture rewritten more simply, using the two windows already introduced instead of a second desktop-folder example.
+
+
 ## 2.3.1 (2026-10-08)
 
 - Part two: Sources list tidied to match the text (dropped Matthew 25:40, Quran 5:32 and 57:3 which the body does not use; added Plotinus, the Milindapanha translation, Kathavatthu, Origen and the councils of 543 and 553, the Sikh Japji, the Druze, the Jain verse of forgiveness, gunasthanas and Tattvartha chapter 8, the Heart Sutra translation). New reading pack in essay/sources (183 entries, one per person, text, study or tradition cited) and CLAUDE.md rules for it.

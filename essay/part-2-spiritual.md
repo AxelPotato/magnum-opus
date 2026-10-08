@@ -44,9 +44,9 @@ Now picture the screen. Two windows sit in opposite corners of the display, and 
 
 Under the axiom, you and I are programs. "Me over here, you over there" is the screen. My private memory is the self I feel from inside, the border, the felt edge of me that Part one called being braced, is the wall around it, and the whole is the machine that was running both of us all along.
 
-I should say what the word illusion means here, because it gets misused. Something is there. The icons on a desktop exist, and you can click them and get results. What doesn't exist is the little folder you imagine you're dragging, because there is no folder inside the machine, only patterns of charge. An illusion is a wrong reading of something real, and the wall between programs is real in exactly that sense: a fact inside the system, read as if it were a fact about the machine.
+A quick word on "illusion," because the word gets misused. It doesn't mean that nothing is there. Take the two windows again. The distance between them is real: hold a ruler to the screen and you can measure it. What's wrong is the reading, the thought that two separate things sit that far apart inside the machine. The distance is true on the screen and tells you nothing about how the machine is built. The walls between programs work the same way. From inside a program they are completely real, and they still don't mean the machine is in pieces. That's what I mean by illusion: something real, read as more than it is.
 
-A computer is a picture, and a picture is all it is. I'm not saying the universe is a simulation, or that anyone is running it. It's the best picture I have for how one thing can look like many without being many, and I'll keep coming back to it.
+One more thing about the computer. It's a picture, and I'm using it as a picture. I'm not saying the universe is a simulation, or that anyone is running it. It's the best way I know to show how one thing can look like many without being many, and I'll keep coming back to it.
 
 ## The same things in different words
 
