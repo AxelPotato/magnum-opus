@@ -24,6 +24,8 @@ CSS_EXTRA = r"""
 .chart .zones{fill:var(--drifting);fill-opacity:.1}
 .chart .num{font-family:var(--display);font-weight:800;font-size:19px;fill:var(--ink)}
 .chart .cell{fill:var(--card);stroke:var(--ink);stroke-width:1.8}
+.chart .wallh{fill:none;stroke:var(--ink);stroke-width:9;stroke-linejoin:round}
+.chart .wallt{fill:none;stroke:var(--high);stroke-width:2.2;stroke-dasharray:3 6;stroke-linecap:round}
 .tscroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
 table.rosetta{border-collapse:collapse;min-width:42rem;width:100%;font-size:.76rem;line-height:1.42;background:var(--card)}
 table.rosetta th,table.rosetta td{border:1px solid var(--rule);padding:.5rem .55rem;vertical-align:top;text-align:left}
@@ -258,6 +260,33 @@ def fig_escape():
     b.append(T(x0 + 10.8 * k + 10, 194, 'never comes back', 'small'))
     b.append(T(350, 228, 'at the height of the International Space Station', 'small', 'middle'))
     return svg('0 0 700 244', 'At the height of the space station, orbital speed is about 7.7 kilometers per second and escape speed about 10.8, roughly 40 percent more', ''.join(b), u)
+
+
+# ------------------------------------------------------------------ the wall, held and let go
+def fig_wall():
+    u = 'wl'
+    b = []
+    # left: the wall held up
+    b.append('<g transform="translate(40 0)">')
+    b.append('<rect class="wallh" x="108" y="146" width="124" height="126" rx="20"/>')
+    b.append(person(170, 172, 1.0, 'st', legs=True))
+    for y, lab in ((172, 'tension'), (204, 'resistance'), (236, 'non-acceptance')):
+        b.append(f'<path class="leader" d="M90 {y} L108 {y}"/>')
+        b.append(f'<circle class="dot ink" cx="108" cy="{y}" r="3.2"/>')
+        b.append(T(84, y + 4, lab, 'small b', 'end'))
+    b.append(T(170, 300, 'I end here.', 't', 'middle'))
+    b.append('</g>')
+    # centre: the BE axis
+    b.append(f'<path class="hi" d="M340 300 V46" marker-end="url(#a{u}hi)"/>')
+    b.append(T(352, 40, 'released', 'small b'))
+    b.append(T(352, 300, 'braced', 'small b'))
+    b.append(T(326, 176, 'BE', 'big3', 'end'))
+    # right: the same person, less wall, higher
+    b.append('<ellipse class="wallt" cx="505" cy="108" rx="66" ry="72"/>')
+    b.append(person(505, 66, 1.0, 'st', legs=True))
+    b.append(T(505, 204, 'The same person, less wall.', 't', 'middle'))
+    b.append(T(505, 224, 'Tension, resistance and non-acceptance let go.', 'small', 'middle'))
+    return svg('0 0 680 320', 'On the left a person inside a thick wall labelled tension, resistance and non-acceptance, low on the BE axis; on the right the same person with only a thin dotted wall, higher on the axis', ''.join(b), u)
 
 
 # ------------------------------------------------------------------ the chain of steps

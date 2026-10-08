@@ -72,7 +72,7 @@ The body keeps it in place. That comes from observation, and the machine suggest
 
 The traditions name what holds the wall in their own terms: the self is built, veiled or forgotten, which is what makes it something that can be undone.
 
-* Buddhism treats the self as built. The belief in a permanent personal self is the first fetter a stream enterer drops, and the self is described as assembled from parts, which is why it can be let go of.
+* Buddhism says the self is built. What feels like one solid "me" is described as a bundle of parts, body, feelings, perceptions, habits and awareness, working together, and the first thing the path asks you to drop is the belief that there is a solid, permanent "me" behind them. That is why it can be let go of.
 * Jain teaching describes karma as fine matter that veils the soul's own natural knowledge, as clouds veil the sun, so the perfection was there all along.
 * The letter to the Ephesians says that people are alienated from the life of God because of the ignorance that is in them (4:18, ESV). In the Quran (7:172) God asks the descendants of Adam, "Am I not your Lord?", and Sufis read that moment as the origin the soul has forgotten and longs to return to.
 
@@ -157,7 +157,7 @@ Birth is a stage, so the arrow isn't the end of the story. Many traditions have 
 
 * The end of the story is told in each tradition's own way. Origen and Gregory of Nyssa read Paul's line that God may be all in all (1 Corinthians 15:28) as the restoration of all things. Zechariah has it that on that day the LORD will be one and his name one (14:9, ESV). The Quran has "To Him we return" (2:156). Buddhism calls the ending of ignorance and craving nirvana.
 * In John's gospel Jesus says that one must be born again, or born from above, since the Greek word can mean either. In the Hindu tradition the twice-born are those who received the initiation that counts as a second birth, and Meister Eckhart taught that God is born in the ground of the soul. The traditions use the image for different things, so using it for the stage after the top of a scale is my own extension of a shared image.
-* Other traditions draw staged maps too, so a scale like this isn't new. Early Buddhism has four stages from stream entry to the arahant, the Jains have fourteen, and Teresa of Avila described seven mansions of the inner castle. In Dante's Paradiso the pilgrim rises through the heavens without noticing, and Beatrice tells him it would be stranger if he stayed low, like a flame sitting still on the ground.
+* Other traditions draw staged maps too, so a scale like this isn't new. Early Buddhism has four stages of awakening, the Jains have fourteen steps of spiritual growth, and Teresa of Avila described seven mansions of the inner castle. In Dante's Paradiso the pilgrim rises through the heavens without noticing, and Beatrice tells him it would be stranger if he stayed low, like a flame sitting still on the ground.
 
 Some physicists think our universe is one of many, and if so even plus four has something after it. In Kerbal Space Program, reaching orbit feels like winning, right up until you notice the Mun.
 

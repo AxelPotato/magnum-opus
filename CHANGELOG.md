@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.2.1 (2026-10-08)
+
+- Part two: new illustration for the body keeping the wall in place (a person inside a thick wall labelled tension, resistance and non-acceptance, low on the BE axis, against the same person with a thin dotted wall, higher), replacing the fist and water drawing that referred to an example not in the text. Buddhism bullet and the staged-maps bullet rewritten without unexplained jargon (fetter, stream enterer, arahant).
+
+
 ## 3.2.0 (2026-10-08)
 
 - Part two: confident voice and no school. Removed the apologetic and defensive wording (only a theory, proves nothing, I can't prove, thought experiment, open question, stop short, I'd weigh it as less than a study, and similar); Buddhism and Jainism now say it in other words without announced limits; science sentence reduced to the best-known research. No mention of a school, of Gennady or of a co-teacher: the arrow is presented as a scale and birth as a stage the author calls birth.
