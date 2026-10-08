@@ -103,6 +103,8 @@ If someone pushes back:
 - That return means resurrection. Yes, in the mainstream reading. The essay's table only shows that Islam has the word return in a central place.
 - It is recited at funerals. Right, which shows how deeply the idea of returning is part of ordinary Muslim life.
 
+Translation check (2026-10-08): Sahih International reads 'Indeed we belong to Allah, and indeed to Him we will return.' The essay now quotes 'indeed to Him we will return (2:156, Sahih International)'.
+
 ## Quran 3:83 (everything submits; Islam as surrender)
 
 Kind: text. Status: partly checked.
@@ -149,6 +151,8 @@ Background: Surat al-Isra opens with the night journey and then turns to the Chi
 If someone pushes back:
 - The verse is about reward and punishment before God, and has no hint of oneness. Right. The essay says the idea comes out as a consequence of the axiom, and the Quran's version is accountability.
 - Which translation? Sahih International, and the essay already says so.
+
+Translation check (2026-10-08): quran.com prints Sahih International as '[And said], If you do good, you do good for yourselves; and if you do evil, [you do it] to yourselves.' Another printing of the same translation reads 'to them [i.e. yourselves]'. The Arabic second half is wa-in asa'tum fa-laha, 'then it is for/against it', the pronoun referring back to the souls.
 
 ## Quran 99:7-8 (an atom's weight)
 

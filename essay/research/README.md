@@ -23,6 +23,7 @@ Not part of the essay, and not part of the essay build. Kept for reference. Ever
 |---|---|
 | `perennial-theosophy-digest.md` | the short reading (above) |
 | `CHECKLIST.md` | what is wrong, what is unconfirmed and what to open, what was confirmed and where (521 claims) |
+| `translation-check-2026-10-08.md` | the check of every foreign-word gloss and quoted rendering in Part two (four agents with search, a skeptic per finding, a completeness critic): what was wrong, what was applied in v3.2.7, what was left on purpose |
 | `synthesis/S1-matrix.md` | nine ideas (the one, the veil, why separation, lives, karma, return, letting go, stages, cosmic scale) across the perennial authors and the Theosophists |
 | `synthesis/S2-alignment.md` | the axiom in their words, correspondence table, proposed changes to Part two, claims in the draft that are loose |
 | `synthesis/S3-methods.md` | how they compare religions: anthology, parallel passages, glossaries, outer and inner, levels, descent from one source, stage maps, claimed revelation, experience |

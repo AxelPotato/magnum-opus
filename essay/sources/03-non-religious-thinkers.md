@@ -151,6 +151,8 @@ If someone pushes back:
 - Confucian love is graded, so this is not oneness. Answer: fair. 'One body' with all things is a wide moral concern and not a claim of numerical identity, and the essay should not say more than that the great person feels the child's danger as his own.
 - The well is Mencius, not Wang. Answer: yes, and the essay says so. Wang takes the scene and turns it into evidence of a one-body humanity.
 
+Translation check (2026-10-08): the Chinese pair is chuti ceyin, alarm and commiseration (pity). 'On seeing a child about to fall into a well, one cannot but feel alarm and commiseration; this shows that his humaneness forms one body with the child.' The essay now says 'a jolt of alarm and compassion'.
+
 ## Mencius (Mengzi) 2A6, the child at the well (Mencius, traditional dates c. 372 to 289 BCE)
 
 Kind: text. Status: checked.
@@ -254,6 +256,8 @@ Background: The Republic ends with this myth to show that justice pays in this l
 If someone pushes back:
 - It is a literary myth, not evidence. Answer: yes. The essay cites it as an old answer to the forgetting question and not as proof of anything.
 - Plato's souls can come back as animals. Answer: yes, and the essay claims nothing about that. It uses the idea of choosing and forgetting only.
+
+Translation check (2026-10-08): strictly the souls camp on the plain of Lethe (forgetfulness) and drink from the river Ameles (unmindfulness, carelessness). Plato himself calls it 'the river of Lethe' in the last lines of the myth (621c), so 'river of forgetfulness' stands.
 
 ## Plotinus, Enneads (procession and return) (Plotinus c. 204 to 270 CE; treatises written from about 253 and arranged by Porphyry)
 

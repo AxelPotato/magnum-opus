@@ -75,6 +75,8 @@ If someone pushes back:
 - 'That is judgment, not karma.' Yes. The essay says so: accountability under God, no rebirth, same shape.
 - 'Doesn't Paul teach grace, not reaping?' He teaches both, and scholars discuss how they fit. I use the sentence for the shape of the idea, and I am not making a point about Paul's theology of salvation.
 
+Translation check (2026-10-08): the ESV reads 'whatever one sows, that will he also reap'. The essay now uses that wording and names the ESV.
+
 ## Ephesians 4:18 (alienated from the life of God through ignorance) (Ephesians dated between about AD 60 and 90, authorship debated)
 
 Kind: text. Status: checked.
@@ -99,6 +101,8 @@ If someone pushes back:
 - 'That verse is about pagans.' In context, yes. The essay uses it as a Christian statement that ignorance is what separates a person from the life of God, and I am not claiming Paul teaches forgotten identity.
 - 'Paul didn't write Ephesians.' Many scholars agree, and the essay's wording ('the letter to the Ephesians') allows for that.
 
+Translation check (2026-10-08): the ESV wording is exact. The subject in the letter is the Gentiles (verse 17: 'you must no longer walk as the Gentiles do'). The essay now says 'the non-Jewish world its readers left behind is alienated from the life of God because of the ignorance that is in them'.
+
 ## Philippians 2:5-8 (he emptied himself) (Philippians written about AD 55-62 (place and date debated))
 
 Kind: text. Status: partly checked.
@@ -122,6 +126,8 @@ Background: Paul introduces the hymn with an appeal to unity and humility: have 
 If someone pushes back:
 - 'Kenosis is about Christ, not about you.' In the text, yes. Later Christian writers took it as a pattern for the believer, and the essay says Christians 'have kenosis', which is fair if worded as a pattern the tradition draws from the verse.
 - 'Does this mean Christ gave up being God?' That question divided the Fathers and the modern kenotic theories, and I would not take a side in an essay about letting go.
+
+Translation check (2026-10-08): Paul uses the verb ekenosen (from kenoo, to empty), in heauton ekenosen, 'he emptied himself'. The noun kenosis is not in the New Testament; it became the theological name for this verse later. 'Equality with God a thing to be grasped' (ESV) renders harpagmos, a contested word (NRSV 'something to be exploited'). The essay now says: Christians have kenosis, Greek for emptying, their name for the emptying Paul writes about, and Jesus 'did not treat equality with God as something to hold on to, and emptied himself'.
 
 ## Kenosis (the idea of self-emptying) (From Philippians 2:7 (1st century); kenotic theories 19th century; Bourgeault 2008)
 
@@ -419,6 +425,8 @@ If someone pushes back:
 - 'Eckhart means a spiritual attitude, not relaxing the body.' True. The essay uses him for the instruction 'stop holding', and says the traditions differ on who or what you let go into.
 - 'Gelazenheit became a German Pietist and Heidegger word.' It did, and that is a separate history. I use Eckhart's own sense.
 
+Translation check (2026-10-08): gelazenheit is Middle High German gelazenheit (from lazen, to let), usually rendered letting go, letting be or releasement. Eckhart also uses abegescheidenheit (detachment), the subject of his treatise Von abegescheidenheit; scholars treat the two as near synonyms for one movement. Translators: the complete German sermons in English are Maurice O'C. Walshe's translation (The Complete Mystical Works of Meister Eckhart, Crossroad, revised with a foreword by Bernard McGinn). Colledge and McGinn's Meister Eckhart: The Essential Sermons, Commentaries, Treatises, and Defense (Paulist, 1981) is a different book. The essay's Sources line now reads 'Walshe's translation, revised by McGinn'.
+
 ## The Cologne inquiry of 1326 and the bull In agro dominico of 1329 (1326 to 1329)
 
 Kind: text. Status: checked.
@@ -524,6 +532,8 @@ If someone pushes back:
 - 'Purgatory is punishment, not growth.' The Catechism calls it purification. Catholic theology has used both ideas, and the essay uses the second.
 - 'Only Catholics teach this.' Yes. The essay says the Catholic Church, and gives the Orthodox view separately.
 
+Translation check (2026-10-08): Catechism 1030-1031 speaks of purification after death, not of further growth. The essay now says 'a purification after death' and puts growth on Gregory of Nyssa (epektasis).
+
 ## The Orthodox teaching on prayer for the dead and the intermediate state (Patristic origins; the Florence dispute 1439)
 
 Kind: tradition. Status: checked.
@@ -599,6 +609,8 @@ Background: Paradiso I opens with the glory of the one who moves all things pene
 If someone pushes back:
 - 'Dante's ascent is a Christian vision of the Beatific vision, not a physics lesson.' Yes. The essay uses the image of natural ascent as an old scale map and says so.
 - 'The living fire (foco vivo) is a flame on earth, not a flame sitting still.' The English renderings vary. Check Hollander's note on the simile.
+
+Translation check (2026-10-08): Paradiso I.136-141 says it would be a marvel if, 'privo d'impedimento' (freed of hindrance), he had stayed down below, 'com'a terra quiete in foco vivo' (as a living fire would be still on earth). The condition (freed of what held him back) is what makes the flame image work, and the essay now includes it.
 
 ## The Christian mystics and union with God (McGinn and the specialist objections) (From the Greek Fathers (4th century) to Teresa and John of the Cross (16th century))
 

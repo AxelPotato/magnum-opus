@@ -364,6 +364,8 @@ If someone pushes back:
 - Isn't the golden rule just reciprocity? Yes. The essay says so and puts the oneness argument, 'the other is me', as the stronger version some sources reach.
 - Did Hillel really say it? The Talmud reports it. I would say 'is reported to have said', as the essay does.
 
+Translation check (2026-10-08): the Aramaic is da'alach sani lechavrach la ta'avid; zo hi kol ha-Torah kulah, ve-idach perusha hu, zil gemor. Chavrach is 'your fellow' (the Leviticus 19:18 word for neighbor is re'acha). Perush is explanation or interpretation; 'commentary' is an accepted rendering. The essay now reads: 'what is hateful to you, do not do to your fellow. That is the whole Torah, and the rest is commentary (Shabbat 31a, in the Talmud)'.
+
 ## Babylonian Talmud, Shevuot 39a (all Israel are responsible for one another) (Talmud completed around the sixth century CE)
 
 Kind: text. Status: checked.
@@ -513,6 +515,8 @@ If someone pushes back:
 - Isn't this a folk belief, not mainstream Judaism? It is a minority and mystical strand with a large following in Hasidic and Kabbalistic circles. The essay presents it as such.
 - Is it in the Bible? Not directly. Kabbalists read it into several passages.
 
+Translation check (2026-10-08): gilgul is from the root g-l, to roll (galgal is a wheel); the literal sense is rolling or cycle. The essay now says 'the cycling of the soul through new bodies'.
+
 ## Teshuvah (return, repentance) (Biblical root; systematised in rabbinic law and by Maimonides)
 
 Kind: concept. Status: unchecked.
@@ -537,6 +541,8 @@ Background: In the Bible the call is simply to return. Rabbinic Judaism turned i
 If someone pushes back:
 - Are the three words really the same? No. They overlap. The essay says each has its own sense and lists the three meanings.
 - Does Judaism treat repentance as inner or outer? Both. Maimonides requires confession and, where possible, making amends.
+
+Translation check (2026-10-08): teshuvah is built on the root shuv (to return), but the ordinary noun also means an answer or reply (she'elot u-teshuvot, 'questions and answers', is the responsa literature). In the Bible the noun means return, the turn of the year (2 Samuel 11:1) or answer (Job 21:34); the repentance sense is rabbinic. The idiom lachazor bitshuvah is literally 'to return in answer/repentance' and means to repent or to become religiously observant. The essay now says teshuvah 'comes from the verb shuv, to return (it is also the everyday word for an answer)'. Seen in search results: Sefaria, Jewish Languages (jel.jewish-languages.org), TheTorah.com.
 
 ## Devekut (cleaving to God) (Biblical word; central in Hasidism from the eighteenth century)
 

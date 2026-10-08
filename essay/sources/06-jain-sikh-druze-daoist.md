@@ -29,6 +29,8 @@ If someone pushes back:
 - 'Jainism says souls are many, so this can't support oneness.' Agreed on the doctrine, and the essay says so in the same sentence. The text is a witness for the ethic of likeness, and the metaphysics differ.
 - 'Is it really the oldest Jain text?' It is the oldest on linguistic grounds in the Svetambara canon (Jacobi's judgment), and the Digambaras build on other texts.
 
+Translation check (2026-10-08): Jacobi (SBE 22, 1884, Book I, Lecture 5, Lesson 5) renders a parallel formula as 'As it would be unto thee, so it is with him whom thou intendest to kill', then the same for tyrannise over, torment, punish and drive away. The Prakrit is stronger (tumamsi nama sacceva jam hamtavvam ti mannasi, 'you are indeed the very one you think to kill'), which Mahaprajna's commentary reads as the non-duality of killer and killed. The essay now follows Jacobi: 'whoever you intend to kill or torment feels as you would'.
+
 ## Hermann Jacobi (1850 to 1937 (from memory))
 
 Kind: person. Status: partly checked.

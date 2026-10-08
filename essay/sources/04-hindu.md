@@ -57,6 +57,8 @@ If someone pushes back:
 - 'It is said to one student about his own self, not to everyone.' True. That all selves are one self is what Advaita draws out of it and what the axiom assumes. The essay does not claim the verse says it outright.
 - 'Other schools read it as something else.' Yes, Ramanuja and Madhva do. Say that you are quoting one witness and one reading, and that the reading is the Advaita one.
 
+Translation check (2026-10-08): the key word is aitadatmyam, 'has that as its self' (Hume: 'this whole world has that as its soul'), not 'is made of'. Tat tvam asi is 'that you are'. The essay now says 'the finest essence is the self of the whole world, and that he is that'.
+
 ## Brihadaranyaka Upanishad 1.4.10 (Early Upanishad, probably 7th to 6th century BCE (broad range, contested))
 
 Kind: text. Status: checked.
@@ -193,6 +195,8 @@ If someone pushes back:
 - 'Shankara says lila is only an answer at the everyday level, and the sutra never says God wants to know itself.' Agree on both. The sutra answers the question of motive. The knowing-needs-a-gap step is yours and the essay presents it as such.
 - 'Lila is a devotional idea, not Advaita.' It is in the sutra, and Shankara comments on it, but devotional schools made it central. Say that you are citing the sutra and not the later literature.
 
+Translation check (2026-10-08): lokavat tu lila-kaivalyam, 'but it is mere sport, as in the world'. The sutra's point is that creation has no need or motive. The 'hidden treasure' logic (a whole that wants to be known needs a point of view) is a different argument, from the Sufi saying. The essay now keeps the two apart: the sutra calls creation 'an activity with no need behind it', and 'its logic' refers only to the hidden-treasure saying.
+
 ## Gaudapada, Mandukya Karika 2.32 (Gaudapada about 500 CE (Internet Encyclopedia of Philosophy); tradition makes him the teacher of Shankara's teacher.)
 
 Kind: text. Status: checked.
@@ -247,6 +251,8 @@ Background: Maya in the Rigveda means a god's power or craft, even a trick. In t
 If someone pushes back:
 - 'Maya just means illusion.' Popularly yes. The technical Advaita position is that the world depends on Brahman and is neither fully real nor nothing, which is why the essay says an illusion is a wrong reading of something real.
 - 'Buddhist avidya is not the same as Advaita avidya.' Agreed. The essay says only that the word is shared. What the ignorance is about differs: not seeing impermanence and no-self in Buddhism, not seeing the self as Brahman in Advaita.
+
+Translation check (2026-10-08): 'neither real nor unreal' (anirvacaniya, sad-asad-vilakshana) is the Advaita answer; Ramanuja and Vishishtadvaita reject it. 'Dependent' is the standard gloss of the neighbouring word mithya, which Advaita teachers say is wrongly rendered illusion. The essay now says 'teachers of Advaita, the non-dual school of Hindu philosophy, warn that illusion translates the word badly: the world depends on something deeper for its being, so it is neither fully real nor simply unreal'.
 
 ## Rigveda 1.164.46 (the One that sages call by many names) (Composed orally, probably in the later second millennium BCE (broad range))
 

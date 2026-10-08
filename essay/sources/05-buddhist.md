@@ -137,6 +137,8 @@ If someone pushes back:
 - So Buddhism denies the self and the Upanishads affirm it. Doesn't that contradict the essay? On the doctrine, yes. The essay says the traditions use different words and sometimes gods. What it claims in common is the move: a separate self that is constructed and can be let go. It does not claim the doctrines are identical.
 - Does the Buddha say 'there is no self'? He says the aggregates are not self. Whether he ever says flatly that no self exists is argued; SN 44.10 is the passage everyone goes back to.
 
+Translation check (2026-10-08): the five aggregates are rupa (form, body), vedana (feeling), sanna (perception), sankhara (volitional formations: intentions and the habits they set), vinnana (consciousness). The essay now says 'body, feelings, perceptions, intentions and habits, and awareness'.
+
 ## The four stages of awakening and the ten fetters (AN 10.13; MN 118) (Pali discourses; systematized in the commentaries (Buddhaghosa, fifth century CE))
 
 Kind: concept. Status: partly checked.
@@ -269,6 +271,8 @@ If someone pushes back:
 - If there is no self, who is reborn? Nagasena's answer is that it is neither the same nor another. The next life depends on this one by causation, the way one flame depends on the one it was lit from. Whether that fully answers the question is argued among Buddhists too.
 - Is the Milindapanha even scripture? Not in the Sri Lankan and Thai canon. The Burmese canon includes it, and it is quoted with respect. Say 'the Milindapanha' and not 'the Buddha said'.
 
+Translation check (2026-10-08): two lamp images were fused in the old sentence. 'Neither the same nor another' is Nagasena's answer about the reborn person, and the lamp that goes with it burns through the night watches (the flame of one watch is not the flame of the next, yet it is one lamp). The lamp lit from another lamp is a separate simile for rebirth without transmigration: nothing passes across, and the second lamp burns because of the first (Rhys Davids, SBE 35). The essay now gives both.
+
 ## Samyutta Nikaya 15, the Anamatagga Samyutta (no beginning; everyone has been your mother) (Pali canon, Samyutta Nikaya (Connected Discourses on the Without Discoverable Beginning))
 
 Kind: text. Status: partly checked.
@@ -348,6 +352,8 @@ Background: Chapter 8 argues that pain is bad whoever has it, so there is no rea
 If someone pushes back:
 - Doesn't this show Buddhism teaches we are one body? It shows an argument for treating others' suffering as mine. The reasons given are shared wanting and the lack of any owner of suffering. A Madhyamaka author like Shantideva would not accept a single underlying whole.
 - Which verse is it? The numbering differs across translations. Read the chapter and find the limbs analogy by content.
+
+Translation check (2026-10-08): the wording 'different beings, in their joys and sorrows, are, like me, all one in wanting happiness' is the Padmakara-style English seen on the Tsadra site, where this verse is numbered 8.114 (Tibetan-based numbering). Wallace's translation of the Sanskrit speaks of the world being alike in suffering and happiness (from memory). The essay's Sources line now says the numbering varies and the wording is a paraphrase.
 
 ## Shantideva, Bodhicaryavatara 3.25 (born into the family of the Buddhas) (Eighth century CE)
 
@@ -454,3 +460,5 @@ Background: In the Pali texts nibbana is the ending of greed, hatred and delusio
 If someone pushes back:
 - Isn't nirvana just annihilation? The Pali texts deny that reading and describe it by negations of birth and making. What is left is left unsaid, which is why the essay should not name it.
 - Is the marketplace image Buddhist in general? It is Chan and Zen. The essay says Mahayana, and 'Mahayana and Zen' would be more exact.
+
+Translation check (2026-10-08): nibbana/nirvana literally means 'blowing out' or 'quenching', the image of a flame going out (etymology is not settled). The Buddha's standard definition is the destruction of greed, hatred and delusion (SN 45.7, AN 3.55, SN 38.1). The essay now says 'the ending of greed, hatred and delusion nirvana, a word that means a flame going out'.
