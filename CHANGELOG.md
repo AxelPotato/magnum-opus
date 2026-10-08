@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.2.2 (2026-10-08)
+
+- Part two: redrawn the karma illustration as a clean open hand with two fingers rubbing; step 5 now says plainly how the deed comes back (the thread stands where the other stood)
+
+
 ## 3.2.1 (2026-10-08)
 
 - Part two: new illustration for the body keeping the wall in place (a person inside a thick wall labelled tension, resistance and non-acceptance, low on the BE axis, against the same person with a thin dotted wall, higher), replacing the fist and water drawing that referred to an example not in the text. Buddhism bullet and the staged-maps bullet rewritten without unexplained jargon (fetter, stream enterer, arahant).

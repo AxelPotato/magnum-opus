@@ -26,6 +26,12 @@ CSS_EXTRA = r"""
 .chart .cell{fill:var(--card);stroke:var(--ink);stroke-width:1.8}
 .chart .wallh{fill:none;stroke:var(--ink);stroke-width:9;stroke-linejoin:round}
 .chart .wallt{fill:none;stroke:var(--high);stroke-width:2.2;stroke-dasharray:3 6;stroke-linecap:round}
+.chart .hnd-o{fill:none;stroke:var(--ink);stroke-width:42;stroke-linecap:round;stroke-linejoin:round}
+.chart .hnd-i{fill:none;stroke:var(--card);stroke-width:36;stroke-linecap:round;stroke-linejoin:round}
+.chart .hnd-p{fill:var(--card);stroke:var(--ink);stroke-width:3;stroke-linejoin:round}
+.chart .hnd-t{fill:var(--driven);fill-opacity:.16;stroke:none}
+.chart .hnd-r{fill:none;stroke:var(--driven);stroke-width:2.4;stroke-linecap:round;stroke-dasharray:2 6}
+.chart .hnd-h{fill:none;stroke:var(--driven);stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round}
 .tscroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
 table.rosetta{border-collapse:collapse;min-width:42rem;width:100%;font-size:.76rem;line-height:1.42;background:var(--card)}
 table.rosetta th,table.rosetta td{border:1px solid var(--rule);padding:.5rem .55rem;vertical-align:top;text-align:left}
@@ -95,23 +101,35 @@ def fig_cpu():
 def fig_fingers():
     u = 'fg'
     b = []
-    b.append('<rect class="card" x="190" y="160" width="160" height="96" rx="26"/>')
-    b.append('<path class="spoke" d="M214 166 C212 150 210 136 208 122"/>')    # little
-    b.append('<path class="spoke" d="M246 162 C245 138 244 118 244 96"/>')     # ring
-    b.append('<path class="spoke" d="M284 160 C282 134 276 108 270 86"/>')     # middle
-    b.append('<path class="spoke" d="M322 164 C320 136 300 108 274 86"/>')     # index
-    b.append('<path class="spoke" d="M340 214 C360 206 372 194 384 176"/>')    # thumb
-    for ang in (200, 240, 270, 300, 340):
-        x2 = 272 + 24 * math.cos(math.radians(ang))
-        y2 = 74 + 24 * math.sin(math.radians(ang))
-        b.append(f'<path class="spark" d="M272 74 L{x2:.0f} {y2:.0f}"/>')
-    b.append(T(176, 56, 'two fingers', 'small', 'end'))
-    b.append(T(176, 74, 'fighting', 'small', 'end'))
-    b.append(f'<path class="stm" d="M182 66 L238 70" marker-end="url(#a{u}mu)"/>')
-    b.append(f'<path class="hi" d="M222 210 L292 210" marker-end="url(#a{u}hi)"/>')
-    b.append(T(214, 214, 'where it lands', 'small b', 'end'))
-    b.append(T(270, 292, 'There was only ever one hand.', 't', 'middle'))
-    return svg('0 0 540 308', 'A hand in which two neighboring fingers push against each other, with the harm landing on the one hand they share', ''.join(b), u)
+    fingers = [((275, 270), (262, 178)), ((321, 270), (316, 152)), ((367, 270), (372, 126)), ((413, 270), (416, 142)), ((428, 322), (488, 272))]
+    for (x0, y0), (x1, y1) in fingers:
+        b.append(f'<path class="hnd-o" d="M{x0} {y0} L{x1} {y1}"/>')
+    b.append('<rect class="hnd-p" x="245" y="246" width="190" height="168" rx="48"/>')
+    for (x0, y0), (x1, y1) in fingers:
+        b.append(f'<path class="hnd-i" d="M{x0} {y0} L{x1} {y1}"/>')
+    # the hand takes the hit: tint and ripples in the palm
+    b.append('<rect class="hnd-t" x="249" y="250" width="182" height="160" rx="44"/>')
+    for r in (34, 62, 90):
+        b.append(f'<path class="hnd-r" d="M{340 - r} 330 A{r} {r * 0.72:.0f} 0 0 0 {340 + r} 330"/>')
+    # the two fingers pressing and rubbing
+    b.append('<path class="hnd-h" d="M394 130 l5 10 l-9 9 l9 9 l-9 9 l9 9 l-5 10"/>')
+    for ang in (-150, -115, -90, -65, -30):
+        x2 = 394 + 26 * math.cos(math.radians(ang))
+        y2 = 108 + 26 * math.sin(math.radians(ang))
+        x1 = 394 + 14 * math.cos(math.radians(ang))
+        y1 = 108 + 14 * math.sin(math.radians(ang))
+        b.append(f'<path class="hnd-h" d="M{x1:.0f} {y1:.0f} L{x2:.0f} {y2:.0f}"/>')
+    # the harm travels down to the hand
+    b.append(f'<path class="hnd-h dash" d="M394 188 V276" marker-end="url(#a{u}do)"/>')
+    # labels
+    b.append(f'<path class="leader" d="M438 116 L424 122"/>')
+    b.append(T(446, 112, 'two fingers', 'small b'))
+    b.append(T(446, 128, 'fighting', 'small b'))
+    b.append(f'<path class="leader" d="M236 330 L252 330"/>')
+    b.append(T(228, 326, 'the whole hand', 'small b', 'end'))
+    b.append(T(228, 342, 'feels it', 'small b', 'end'))
+    b.append(T(340, 452, 'There was only ever one hand.', 't', 'middle'))
+    return svg('0 0 680 472', 'One open hand in which two neighbouring fingers press and rub against each other, with the harm travelling down into the palm, which is the one hand they both belong to', ''.join(b), u)
 
 
 # ------------------------------------------------------------------ lives and the thread between
