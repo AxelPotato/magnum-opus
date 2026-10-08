@@ -199,11 +199,14 @@ Why separation feels so real
 - Lenggenhager, B., Tadi, T., Metzinger, T., & Blanke, O. (2007). Video ergo sum: Manipulating bodily self-consciousness. Science, 317(5841), 1096-1099. doi:10.1126/science.1143439
 - Blanke, O., & Metzinger, T. (2009). Full-body illusions and minimal phenomenal selfhood. Trends in Cognitive Sciences, 13(1), 7-13. doi:10.1016/j.tics.2008.10.003
 - Metzinger, T. (2003). Being No One: The Self-Model Theory of Subjectivity. Cambridge, MA: MIT Press.
-- Plato, Republic VII (the cave). Zhuangzi, chapter 2. Genesis 3. The Heart Sutra. Brahma Sutra 2.1.33.
+- Plato, Republic VII (the cave). Zhuangzi, chapter 2. Genesis 3. The Heart Sutra (Conze's translation, in Buddhist Wisdom Books, 1958, is the usual one). Brahma Sutra 2.1.33.
 
 Not enough time in one life
 
-- Bhagavad Gita 2.13 and 2.22. Plato, Phaedo, and Republic X (the Myth of Er). Milindapanha (Nagasena and the lamp).
+- Bhagavad Gita 2.13 and 2.22. Plato, Phaedo, and Republic X (the Myth of Er). Plotinus, Enneads (V.1 and VI.9, on the procession and return).
+- Milindapanha (Nagasena and the lamp), translated by T. W. Rhys Davids, The Questions of King Milinda, Sacred Books of the East, vols. 35 and 36. Kathavatthu (the Theravada rejection of a state between lives).
+- Origen, On First Principles, and the sixth century condemnations of Origenism (the anathemas of 543 and 553).
+- Guru Granth Sahib, the Japji (rebirth and grace). Hitti, P. K. (1928). The Origins of the Druze People and Religion. Columbia University Press.
 - Brihadaranyaka Upanishad 3.7.23. Gaudapada, Mandukya Karika 2.32.
 - Lessing, G. E. (1780). The Education of the Human Race, section 98 in the usual numbering.
 - Gregory of Nyssa, The Life of Moses (on the soul's endless progress toward God).
@@ -214,7 +217,7 @@ Not enough time in one life
 
 Karma, or the fingers
 
-- Anguttara Nikaya 6.63. Galatians 6:7. Matthew 7:12 and 25:40. Leviticus 19:18. Babylonian Talmud, Shabbat 31a. Quran 17:7 and 99:7-8. Bukhari 13 and Muslim 45. Analects 15.24. Udanavarga 5.18. Isha Upanishad 6 and 7.
+- Anguttara Nikaya 6.63. Galatians 6:7. Matthew 7:12. Leviticus 19:18. Babylonian Talmud, Shabbat 31a. Quran 17:7 and 99:7-8. Bukhari 13 and Muslim 45. Analects 15.24. Udanavarga 5.18. Isha Upanishad 6 and 7.
 - Mishnah, Avot 4:2 (Ben Azzai) and Sotah 1:7. Sifra, Kedoshim 4:12 and Genesis Rabbah 24:7 (Akiva and Ben Azzai).
 - Marcus Aurelius, Meditations 2.1 (George Long's translation is in the public domain). Schopenhauer, A. (1840). On the Basis of Morality. Wang Yangming (1527). Inquiry on the Great Learning; Mencius 2A6.
 - Cialdini, R. B., Brown, S. L., Lewis, B. P., Luce, C., & Neuberg, S. L. (1997). Reinterpreting the empathy-altruism relationship: When one into one equals oneness. Journal of Personality and Social Psychology, 73(3), 481-494. doi:10.1037/0022-3514.73.3.481
@@ -223,11 +226,11 @@ The traditions' inner layers
 
 - Shneur Zalman of Liadi, Tanya (Likkutei Amarim, 1796), including the Gate of Unity and Faith and chapter 32. The Zohar (the saying that the Torah, the Holy One and Israel are one). Mishnah Eduyot 2:10. Babylonian Talmud, Shevuot 39a.
 - Elior, R. (1993). The Paradoxical Ascent to God: The Kabbalistic Theosophy of Habad Hasidism. SUNY Press.
-- Quran 2:115, 2:156, 3:83, 5:32, 7:172, 17:7, 23:99-100, 57:3-4, 99:7-8. Bukhari 6502 (the hadith of voluntary devotion). Bukhari 6011 and Muslim 2586 (the believers as one body).
+- Quran 2:115, 2:156, 3:83, 7:172, 17:7, 23:99-100, 57:4, 99:7-8. Bukhari 6502 (the hadith of voluntary devotion). Bukhari 6011 and Muslim 2586 (the believers as one body).
 - Chittick, W. C. (1989). The Sufi Path of Knowledge. SUNY Press. Chittick, W. C. (1998). The Self-Disclosure of God. SUNY Press. Rizvi, S., Mulla Sadra, Stanford Encyclopedia of Philosophy.
 - John 17:20-23. 1 Corinthians 12:12-27 and 15:28. Ephesians 4:18. Philippians 2:5-8. Acts 9:4. The Hymn of the Pearl, in the Acts of Thomas. Teresa of Avila, The Interior Castle. Eckhart, German sermons (translations by Walshe and McGinn). Catechism of the Catholic Church, 1030-1031.
 - Samyutta Nikaya 15.14-19 and 36.6. Majjhima Nikaya 118. Shantideva, Bodhicaryavatara 3.25 (Sanskrit numbering; 3.26 in the Padmakara translation) and 8.91 (numbering varies by translation). Cook, F. H. (1977). Hua-yen Buddhism: The Jewel Net of Indra. Penn State University Press.
-- Tattvartha Sutra 5.21 (souls render service to one another) and chapter 10 (the liberated soul). The Acharanga Sutra, translated by Jacobi, H. (1884), Jaina Sutras, Part 1 (Sacred Books of the East, vol. 22), and in Mahaprajna's Acharanga Bhasyam.
+- Tattvartha Sutra 5.21 (souls render service to one another), chapter 8 (karma as the veil on the soul's knowledge) and chapter 10 (the liberated soul). The Jain verse of forgiveness, from the Pratikramana ritual. The fourteen gunasthanas, samayika and kayotsarga. The Acharanga Sutra, translated by Jacobi, H. (1884), Jaina Sutras, Part 1 (Sacred Books of the East, vol. 22), and in Mahaprajna's Acharanga Bhasyam.
 - Dante Alighieri, Paradiso, canto I.
 
 The arrow

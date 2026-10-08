@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 2.3.1 (2026-10-08)
+
+- Part two: Sources list tidied to match the text (dropped Matthew 25:40, Quran 5:32 and 57:3 which the body does not use; added Plotinus, the Milindapanha translation, Kathavatthu, Origen and the councils of 543 and 553, the Sikh Japji, the Druze, the Jain verse of forgiveness, gunasthanas and Tattvartha chapter 8, the Heart Sutra translation). New reading pack in essay/sources (183 entries, one per person, text, study or tradition cited) and CLAUDE.md rules for it.
+
+
 ## 2.3.0 (2026-10-08)
 
 - Part two: no longer cites the perennial philosophy or Theosophy (Alex's decision of 2026-10-08). The 'same things in different words' section now shows the traditions noticing the same thing about each other, one paragraph where he says his views are close to Theosophy minus the ascended masters and the mysticism, and the claim as examples. New non-religious witnesses (Emerson, Sagan, Lessing, Marcus Aurelius, Schopenhauer, Wang Yangming) and Gaudapada, Dante, the Jain liberated soul and Akiva against Ben Azzai. Corrections from a 521-claim check: Myth of Er order, Quran 17:7, universe size, Schrödinger, Zohar and Chabad wording, translations of Eph 4:18 and Zech 14:9, rubber hand timing, Cialdini, Part one cross-references, table cells. Sources list rebuilt.
