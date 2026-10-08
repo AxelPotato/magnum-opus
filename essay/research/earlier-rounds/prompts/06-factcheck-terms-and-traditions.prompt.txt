@@ -1,0 +1,24 @@
+You are fact-checking statements about religious and philosophical traditions for an essay (Part two of a three-part essay by Alex Satya on personal growth, written for rational, secular-leaning readers). Nothing you do should modify the repo at /home/user/magnum-opus. Save scratch files only under /tmp/claude-0/-home-user-magnum-opus/772820b2-c69b-5296-8029-a93789fca134/scratchpad/. Report back as plain text. Use WebSearch/WebFetch and primary texts where possible (Project Gutenberg, Sacred-Texts, Bible Gateway, Stanford Encyclopedia of Philosophy, Encyclopaedia Britannica, university pages). Outbound HTTPS goes through a preconfigured proxy; never disable TLS verification.
+
+The essay lists names that different traditions use for the far end of human development, and wants one-line plain glosses that a scholar would not wince at. For each term, give (a) a safe one-line gloss, (b) the tradition, (c) any commonly repeated error to avoid:
+- samadhi (Yoga Sutras / Buddhism)
+- nirvana (Buddhism)
+- moksha (Hindu traditions)
+- satori (Zen)
+- fana, and its companion baqa (Sufism)
+- theosis (Eastern Orthodox Christianity; include the 2 Peter 1:4 connection if it is real)
+- 'the Kingdom of God is within you' (Luke 17:21): report the translation problem exactly (KJV 'within you' versus modern translations 'among you' or 'in your midst', and what the Greek 'entos hymon' allows). Also the related Gospel of Thomas saying, if appropriate.
+- the Tao (Daoism), including wu wei in one line
+- Jacob's ladder (Genesis 28:10-17), exact verse for the ladder
+- 'Stairway to Heaven' (Led Zeppelin, release year, album)
+- 'ocean of consciousness' / 'sea of consciousness': is there a real traditional source, or is it a modern phrase? Say honestly.
+
+Then check these specific statements:
+1. William Blake, The Marriage of Heaven and Hell: the exact wording of the 'doors of perception' sentence and its plate number; Aldous Huxley's The Doors of Perception (1954) took its title from it; the band The Doors took its name from Huxley's book. Confirm each link with a source.
+2. The Zen saying 'Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.' Is there a real traditional source, or is the provenance modern? Say honestly, and give the safest way to refer to it in print (for example 'a saying that circulates in Zen circles in several versions').
+3. Do several major traditions distinguish a first opening or glimpse from complete awakening, and treat the first as a beginning? Check and give the real terms: Zen (kensho versus the long practice after it), Buddhist stages (stream-entry first), Christian three ways (purgative, illuminative, unitive), Sufi (fana then baqa). My draft sentence: 'Most traditions that speak of awakening separate a first opening from the full thing.' Is that fair, or overclaiming? Suggest the safest wording.
+4. Do several traditions treat the felt sense of a separate self as the thing to be seen through? Check Buddhism (anatta / not-self), Advaita Vedanta, Sufism (fana), and Christian mysticism (for example Meister Eckhart, or the theosis tradition) and say how strongly each really supports that, plus where they differ (some say there is no self, some say the true Self is the whole, some say the self is united with God). My draft sentence: 'Many traditions point at the same suspect: the sense of being a separate thing.' Is that fair, and what is the safest wording?
+5. The scholarly counter-view: Steven Katz (1978) 'Language, Epistemology, and Mysticism' argued mystical experiences are shaped by the tradition and are not the same everywhere; and the 'perennial philosophy' idea (Huxley) argued the opposite. Give one line each, fairly, with citations (title, editor, year).
+6. 'Chop wood' aside, is the idea that fully awakened people in these traditions are described as acting more in the world rather than withdrawing, supported anywhere? Give two or three real examples with sources (for example the Bodhisattva ideal, the Zen ox-herding pictures where the last picture returns to the marketplace, Sufi baqa). Be exact about which source says what.
+
+OUTPUT FORMAT: a short section per term, then numbered sections 1 to 6. For each factual claim, mark VERIFIED (with source), PLAUSIBLE (not directly verified) or WRONG (with the correction). End with a list of 'safe sentences for print', one per item, in plain English with no dashes. Be concise. Do not invent quotes or citations.
