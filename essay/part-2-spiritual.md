@@ -127,7 +127,7 @@ So what undoes the wall, and the harm that went with it? Punishment would only b
 #### What the traditions say
 
 * Hasidism calls it bittul, the nullification of the self, and the Baal Shem Tov read a verse in Psalm 16 as teaching equanimity, so that praise and insult feel the same. The Sufis speak of fana, the passing away of the self in God, followed by baqa, living on in God.
-* Christians have kenosis, the self-emptying of Philippians 2, and Eckhart's gelazenheit, letting go.
+* Christians have kenosis, the Greek word for self-emptying. Paul uses it in his letter to the Philippians (2:5-8), where he says that Jesus, though he was in the form of God, did not hold on to that status and emptied himself, taking the form of a servant. Paul offers this as the attitude his readers should share. The medieval German preacher Meister Eckhart called the same thing gelazenheit, letting go.
 * In the Buddha's instructions on breathing, one step is to breathe in and out contemplating relinquishment (Majjhima Nikaya 118). In the Sallatha Sutta he says that an untrained person feels two pains, the physical one and the mental one added on top, while a trained disciple feels only the first.
 * Repair has its own rules. The Mishnah says that Yom Kippur atones for sins between a person and God, but for sins against another person only once that person has been appeased (Yoma 8:9). In the Sermon on the Mount, Jesus says that if you remember at the altar that your brother has something against you, you should leave your gift there and first go and be reconciled (Matthew 5:23-24). The words for repentance point the same way: the Hebrew teshuvah means return, the Arabic tawba means turning back, and the Greek metanoia means a change of mind.
 

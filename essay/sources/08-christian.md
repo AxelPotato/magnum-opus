@@ -105,7 +105,7 @@ Kind: text. Status: partly checked.
 
 Who: Paul writing to the church at Philippi, probably from prison. Philippians 2:6-11 is often called the Christ hymn, and many scholars think Paul is quoting an earlier hymn.
 
-In the essay: Why separation feels so real: 'Christians have kenosis, the Greek word in Philippians for emptying oneself.' Table, row 'Letting go' (Christianity): 'Kenosis, he emptied himself.' Sources list: Philippians 2:5-8.
+In the essay: Step 6, 'Letting go, and repair': Paul uses kenosis in Philippians 2:5-8, where Jesus, though in the form of God, did not hold on to that status and emptied himself, and Paul offers this as the attitude his readers should share. Sources list: Philippians 2:5-8.
 
 Where it sits: Philippians 2:5-8 (the verb ekenosen is in 2:7; the hymn runs 2:6-11)
 

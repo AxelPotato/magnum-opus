@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.2.4 (2026-10-08)
+
+- Part two: step 6 now says who empties himself in Philippians 2 (Jesus, in Paul's letter) and why it is a letting go; reading pack entry brought in step
+
+
 ## 3.2.3 (2026-10-08)
 
 - Part two: the Wang Yangming child-at-the-well example in step 5 now says what the jolt of alarm is meant to show; reading pack entry for Mencius 2A6 brought in step
