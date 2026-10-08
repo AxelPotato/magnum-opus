@@ -260,6 +260,38 @@ def fig_escape():
     return svg('0 0 700 244', 'At the height of the space station, orbital speed is about 7.7 kilometers per second and escape speed about 10.8, roughly 40 percent more', ''.join(b), u)
 
 
+# ------------------------------------------------------------------ the chain of steps
+def fig_chain():
+    u = 'ch'
+    b = []
+    b.append('<rect class="cardhi" x="20" y="10" width="640" height="76" rx="12"/>')
+    b.append(T(40, 36, 'The axiom', 't'))
+    b.append(T(40, 56, 'clause 1: we are one    clause 2: the whole experiences separation', 'small'))
+    b.append(T(40, 74, 'clause 3: the separation ends', 'small'))
+    steps = [
+        ('Separation is a way of looking', 'a whole can only see itself from positions', ['from clause 2']),
+        ('The wall is held by the body', 'a way of looking needs something to hold it', ['from step 1']),
+        ('One life is too short', 'most do not finish, so the return takes longer', ['from clause 3']),
+        ('Something carries over', 'a run that long needs a thread: the soul', ['from step 3']),
+        ('What I do to another, I do to myself', 'one whole means nobody else to harm: karma', ['from clause 1,', 'carried by step 4']),
+        ('Letting go, and repair', 'loosen the wall, mend the fingers', ['from steps 2 and 5']),
+        ('The return, in stages', 'the small square, the big square, the arrow', ['from step 6,', 'and clause 3']),
+    ]
+    y0, h, gap = 112, 62, 24
+    prev_bottom = 86
+    for i, (title, because, tags) in enumerate(steps):
+        y = y0 + i * (h + gap)
+        b.append(f'<path class="st" d="M245 {prev_bottom + 2} V{y - 3}" marker-end="url(#a{u}ink)"/>')
+        b.append(f'<rect class="card" x="20" y="{y}" width="450" height="{h}" rx="10"/>')
+        b.append(T(40, y + 41, str(i + 1), 'big3'))
+        b.append(T(76, y + 28, title, 't'))
+        b.append(T(76, y + 48, because, 'small'))
+        for k, tg in enumerate(tags):
+            b.append(T(490, y + 28 + k * 17, tg, 'small b'))
+        prev_bottom = y + h
+    return svg('0 0 680 %d' % (prev_bottom + 14), 'A chain of seven steps, each following from the one before and from a clause of the axiom: separation is a way of looking, the wall is held by the body, one life is too short, something carries over, karma, letting go and repair, and the return in stages', ''.join(b), u)
+
+
 # ------------------------------------------------------------------ the table: same structure, different words
 ROSETTA_COLS = ['Buddhism', 'Jainism', 'Judaism', 'Christianity', 'Islam']
 ROSETTA_ROWS = [

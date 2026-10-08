@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.0.0 (2026-10-08)
+
+- Part two restructured to the author's structure: why 'we are all one' sits at the base of every religion (the opening), then the axiom and the computer picture, a chain figure and seven steps where each follows from the one before and from the axiom (separation is a way of looking, the wall is held by the body, one life is too short, something carries over, karma, letting go and repair, the return in stages), each with what the traditions and a few non-religious thinkers say. Text cut by about a quarter (body from about 8,200 to about 6,000 words); cross-tradition table removed from the page (code kept). Draft, under review.
+
+
 ## 2.3.3 (2026-10-08)
 
 - Part two: removed the paragraph about where the author stands relative to Theosophy, and the aside about Evans-Wentz's Theosophical background. The essay no longer mentions Theosophy or the perennial philosophy anywhere (Alex's instruction: not relevant to the essay).

@@ -319,10 +319,10 @@ def rules2a():
 
 def rules2():
     return {
-        'So here is the claim of this part': dict(after=figure(F4.rosetta_html(), 'The same ideas in each tradition\u2019s own words. Judaism, Christianity and Islam are shown through their mystical and contemplative layers, Kabbalah and Hasidism, the mystics and the Eastern Fathers, and Sufism, and through some plain scripture. Buddhism and Jainism are shown in their own vocabulary.', 'table')),
+        'From these three clauses I want to build the rest': dict(after=figure(F4.fig_chain(), 'The chain. Each step follows from the one before it and from a clause of the axiom, and under each one the traditions say how they put it.')),
         'The second view sits at the other extreme': dict(after=figure(F4.fig_views(), 'Two assumptions at opposite ends. Neither can be observed from outside, since the observing is done by the same mind.')),
         'Under the axiom, you and I are programs.': dict(after=figure(F4.fig_cpu(), 'Far apart on the screen, side by side in the machine. The distance is a property of the drawing.')),
-        'It also turns out that the wall is built from soft material.': dict(after=figure(F3.fig_rubber(), 'The rubber hand illusion. The felt border of the body is something the brain works out, and it can be moved.')),
+        'If the separation is a way of looking': dict(after=figure(F3.fig_rubber(), 'The rubber hand illusion. The felt border of the body is something the brain works out, and it can be moved.')),
         'The body keeps it in place.': dict(after=figure(F3.fig_fist(), 'The same person, tensed and then released.')),
         'And if the run continues': dict(after=figure(F4.fig_lives(), 'If the process is a return, and most people do not finish it in one life, it has to run longer than one life.')),
         'If we are one, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
@@ -472,6 +472,9 @@ figure{margin:0}
 .cast img.default{box-shadow:0 0 0 2px var(--default)}.cast img.driven{box-shadow:0 0 0 2px var(--driven)}.cast img.drifting{box-shadow:0 0 0 2px var(--drifting)}.cast img.high{box-shadow:0 0 0 2px var(--high)}
 .cast-cap{font-family:var(--mono);font-size:.74rem;color:var(--muted);text-align:center;margin:-1.6rem 0 2.2rem}
 .sources{font-size:.92rem;line-height:1.55;padding-left:1.1rem}
+.say{padding-left:1.15rem;margin:0 0 1.4rem}
+.say li{margin-bottom:.7rem;padding-left:.2rem}
+.say li::marker{color:var(--muted)}
 .sources li{margin-bottom:.7rem;overflow-wrap:anywhere}
 h4{font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:1.6rem 0 .8rem;font-weight:500}
 footer{max-width:40rem;margin:0 auto;padding:1.5rem 0 0;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.74rem;line-height:1.6;color:var(--muted)}
@@ -502,6 +505,13 @@ def convert(md, R):
             t = b[4:].strip()
             room = {'Default': 'default', 'Driven': 'driven', 'Drifting': 'drifting', 'High agency': 'high'}.get(t, 'default')
             out.append(f'<h3 class="room {room}"><span class="dot"></span>{smart(t)}</h3>')
+            continue
+        if b.startswith('#### '):
+            out.append(f'<h4>{smart(b[5:].strip())}</h4>')
+            continue
+        if b.startswith('* '):
+            lis = ''.join(f'<li>{smart(l[2:])}</li>' for l in b.split('\n') if l.startswith('* '))
+            out.append(f'<ul class="say">{lis}</ul>')
             continue
         if b.startswith('- '):
             lis = ''.join(f'<li>{smart(l[2:])}</li>' for l in b.split('\n') if l.startswith('- '))
