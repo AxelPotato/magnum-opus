@@ -14,7 +14,7 @@ Not part of the essay, and not part of the essay build. Kept for reference. Ever
 ## Where to start
 
 1. `perennial-theosophy-digest.md`: about 3,000 words, the reading. How the perennial philosophy movement and Theosophy look at the axiom, how they compare religions, and what it would change in Part two.
-2. `CHECKLIST.md`: what has to be opened and checked, in order (added in the next commit).
+2. `CHECKLIST.md`: the claim-by-claim check of Part two (2026-10-08, 521 claims): what is wrong and needs fixing, what is still unconfirmed and what to open, and the confirmed items with the pages they were seen on.
 3. `synthesis/S2-alignment.md`: Alex's axiom restated in the perennialists' and Theosophists' vocabulary, a correspondence table, and fifteen proposed replacement passages for Part two in his voice (none applied).
 
 ## What is where
@@ -22,7 +22,7 @@ Not part of the essay, and not part of the essay build. Kept for reference. Ever
 | path | what it is |
 |---|---|
 | `perennial-theosophy-digest.md` | the short reading (above) |
-| `CHECKLIST.md` | items needing a check, prioritised |
+| `CHECKLIST.md` | what is wrong, what is unconfirmed and what to open, what was confirmed and where (521 claims) |
 | `synthesis/S1-matrix.md` | nine ideas (the one, the veil, why separation, lives, karma, return, letting go, stages, cosmic scale) across the perennial authors and the Theosophists |
 | `synthesis/S2-alignment.md` | the axiom in their words, correspondence table, proposed changes to Part two, claims in the draft that are loose |
 | `synthesis/S3-methods.md` | how they compare religions: anthology, parallel passages, glossaries, outer and inner, levels, descent from one source, stage maps, claimed revelation, experience |
