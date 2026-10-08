@@ -647,3 +647,25 @@ Background: Hebrews 9:27 sits in a comparison: as people die once and then face 
 If someone pushes back:
 - 'Early Christians believed in reincarnation until Justinian.' No evidence supports this. See the councils entry.
 - 'Isn't the one life a late doctrine?' The creeds and Hebrews 9:27 are early, but the argument over pre-existence and restoration ran into the sixth century. The essay mentions it.
+
+## Matthew 5:23-24 (leave your gift and be reconciled) (Gospel of Matthew, about AD 80 to 90)
+
+Kind: text. Status: unchecked.
+
+Who: The Sermon on the Mount (Matthew 5 to 7) is the longest teaching of Jesus in Matthew's gospel. The verses on reconciliation sit in the section on anger, where Jesus extends the commandment against murder to the inner state.
+
+In the essay: In step 6, 'Letting go, and repair': in the Sermon on the Mount, Jesus says that if you remember at the altar that your brother has something against you, you should leave your gift there and first go and be reconciled.
+
+Where it sits: Matthew 5:23-24.
+
+The passage (paraphrase, not cleared for quoting): ESV, as best recalled: so if you are offering your gift at the altar and there remember that your brother has something against you, leave your gift there before the altar and go. First be reconciled to your brother, and then come and offer your gift. Not seen on a page in this work.
+
+Read it free:
+- Bible Gateway, Matthew 5 (ESV, NRSV and others side by side): https://www.biblegateway.com/passage/?search=Matthew+5%3A21-26&version=ESV (not checked)
+
+Read it in a book: The Jewish Annotated New Testament (Oxford University Press, 2011) reads the verse in its Jewish setting. For the Sermon as a whole, Dale Allison or W. D. Davies and Allison in the International Critical Commentary on Matthew.
+
+Background: The verse puts reconciliation ahead of worship, which echoes the rabbinic rule in Mishnah Yoma 8:9 and is probably meant to: Jesus is speaking inside a Jewish world where the same priority is taught. Brother here most likely means a fellow member of the community, though the church has widened it. The essay uses it for the same point as the Mishnah: letting go inside is not a substitute for mending what you broke outside.
+
+If someone pushes back:
+- Isn't it about guilt? It is about order of operations: the relationship first, then the offering. The essay uses it for that.

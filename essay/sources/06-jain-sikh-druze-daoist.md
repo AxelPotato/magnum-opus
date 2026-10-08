@@ -401,3 +401,26 @@ Background: Chapter 2 is about how every standpoint feels like the truth from wi
 If someone pushes back:
 - 'Isn't this just a dream argument?' Partly. The passage keeps a distinction between Zhou and the butterfly and is about shifting perspectives, not about the world being unreal. The essay says as much.
 - 'Is Zhuangzi a witness for oneness?' Better than the butterfly passage is the line 'heaven and earth were born together with me, and the ten thousand things are one with me' in the same chapter. Check a translation before you quote it.
+
+## Daodejing 42 (the Way gives birth to one) (Attributed to Laozi; the text took shape in the fourth to third century BCE)
+
+Kind: text. Status: unchecked.
+
+Who: The Daodejing is the foundational text of Daoism, a short collection of verses in 81 chapters. The traditional author is Laozi; scholars date the text to the fourth or third century BCE on the evidence of the Guodian and Mawangdui manuscripts.
+
+In the essay: In 'Why this idea is worth a closer look', Daoism bullet: in the Daodejing the Way gives birth to one, one gives birth to two, and the sequence runs on to the ten thousand things.
+
+Where it sits: Daodejing 42 in the standard (Wang Bi) numbering.
+
+The passage (paraphrase, not cleared for quoting): Paraphrase of a common rendering: the Way gave birth to one, one gave birth to two, two gave birth to three, and three gave birth to the ten thousand things. The wording differs between translators, and some say produces or generates.
+
+Read it free:
+- Chinese Text Project, Dao De Jing, with English translation: https://ctext.org/dao-de-jing (not checked)
+
+Read it in a book: Robert G. Henricks, Lao-Tzu: Te-Tao Ching (Ballantine, 1989); Philip J. Ivanhoe, The Daodejing of Laozi (Hackett, 2003); Roger Ames and David Hall, Dao De Jing (Ballantine, 2003).
+
+Background: The chapter is a short cosmogony: the many come from the one, and the one from the Way, which can't be named. Commentators read the one as primal unity or original breath, the two as yin and yang, and the three as their harmonized union, though the text does not say so. It does not say that we are one. The nearest Daoist text that says something like it is the Zhuangzi, in the Zhuangzi entry above. The essay uses chapter 42 only for the direction of travel, many from one.
+
+If someone pushes back:
+- Does the Daodejing say all is one? It says all things come from one, and later chapters speak of returning to the root. The essay claims no more than that.
+- Is Daoism a religion? Both, in different periods: a philosophy of the early texts and an organized religion with priests and temples from the second century CE. The essay quotes the texts.

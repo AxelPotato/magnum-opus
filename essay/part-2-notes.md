@@ -2,19 +2,24 @@
 
 Variant B, 2026-10-07, built on your brief of the same day. File: `part-2-spiritual.md`, about 7,000 words plus sources. The first version is kept whole in `essay/backup/` (variant A: the door, friend B, your own reason at length, the child in the dark). The `humanizer` skill was not installed in this session, so I applied its rules by hand: no dashes, no "not X but Y", no bold, sentence-case headings, no triads for effect. Run the real skill when you can.
 
-## The chain, in order
+## The chain, in order (restructured 2026-10-08, version 3.x)
 
-1. Where the room splits. Two extreme readings of a life, stated fairly. View one: observation, particles (or fields), a separate me, consciousness depending on the brain, so materialism and, with no gaps in the laws, determinism. View two: we are all one, a whole experiencing separation through individual lives. Both are assumptions. What each explains well and badly (the hard problem against "why does separation feel so convincing"). Respectable company for view two (Spinoza and Einstein, Schrödinger, Kastrup, Hoffman) with what each actually claimed. Then the plan: take view two as an axiom and see what follows.
-2. The axiom and the machine. Three clauses: we are one; the whole experiences separation; the separation ends. The computer picture: many programs with private memory walls on one machine, windows far apart on a screen but computed in one place. "Illusion" defined as a wrong reading of something real. Not a claim that we live in a simulation.
-3. The same things in different words. The old traditions noticing the same thing about each other (the Rigveda riddle, the Udana elephant and its Jain and Rumi retellings, Rumi's four men and the grapes, Ramakrishna's lake), a single paragraph where you say your views are close to Theosophy minus the ascended masters and the mysticism you dislike, and the claim of the part as examples and not proof, followed by the cross-tradition table showing each idea in each tradition's own words. Since 2.3.0 the essay does not cite the perennial philosophy or Theosophy (your call, 2026-10-08).
-4. Why separation feels so real. The illusion's names across traditions, why it feels solid (the wall is real inside the system), the rubber hand (the border is editable), the fist and Gennady's tension, resistance, non-acceptance as the wall being maintained, BE as "how much wall you hold up", and why the whole would do this (lila, tzimtzum, Plotinus, the hidden treasure).
-5. Not enough time in one life. If the aim is return and most do not finish, either the design is bad or the run is longer than one life; so something continues (the soul, in the traditions that use the word); the saved-state picture; the traditions on rebirth, honestly not unanimous; the objections (who carries over if there is one mind; no accepted scientific evidence; unfalsifiable).
-6. Karma, or the fingers. Two fingers fighting hurt the hand; karma as "something I did to another part of myself"; shared memory; the same idea in Paul, Matthew, the Quran; the golden rule as the same logic read forwards (Huxley's ethic); the two warnings (blame is the cheap version; the fix is repair, which is inner agency, and the words teshuvah, tawba, metanoia).
-7. The small square and the big one. The four rooms as four ways a separate program runs; the small square as the best a separate self can do; the big square begins when the separation itself stops being assumed; sandbox escape; why a reason bigger than yourself is the gate.
-8. The arrow. The school's scale, minus four to plus four, as speed and freedom of movement: run, ride, drive; fly; orbit (still under Earth's gravity); escape velocity at the top right corner; solar system, galaxy, universe; then "birth", with the traditions' words for a birth at the top of the path; the multiverse as a hint only.
-9. Why I want this. Your goal and reason, short, with the two counterfeit-reason questions from Part one turned on you, the vegetable question, "how do you know it exists", and the closing line "I don't know if I'll get there, and I know the direction."
-10. What you can check. The chart markers, the order people describe (listening, giving, clearer seeing), and the prediction the axiom makes (loosen the wall and giving should rise).
-11. Where this goes next. Two lines of preview of Part three and the question "where does the border of you sit right now?"
+Your brief of 2026-10-08: less text; the logical step by step build first; examples under each step; at the start, time on why "we are all one" is worth exploring because its base is in every religion.
+
+1. Where we part ways. The two views (observation and materialism, or "we are all one"), both as assumptions; "I'm not religious" and that many traditions will be quoted as witnesses.
+2. Why this idea is worth a closer look. The base of the idea in each tradition's own words, one line each: Hinduism (Chandogya 6.8.7), Buddhism (no single whole; the Huayan net), Jainism (many souls, alike; the ethic of non-harm), Judaism (the Shema; Chabad), Christianity (John 17:21; 1 Corinthians 15:28), Islam (Quran 2:115; Ibn Arabi), Daoism (Daodejing 42); then Spinoza, Einstein, Schrödinger, Sagan; the plan: take it as an axiom and see what follows. Buddhism and Jainism are stated honestly as coming at it from the side.
+3. The axiom (three clauses) and the machine (programs, private memory, walls, one processor, two windows).
+4. The chain, as a figure and seven steps. Each step: the logic, then "What the traditions say".
+   1. Separation is a way of looking (illusion, why the whole would do it).
+   2. The wall is held by the body (rubber hand; the fist; Gennady's three words; BE). An observation, said to be one.
+   3. One life is too short (clause 3 plus most do not finish; Lessing; the traditions on lives and on growth after death).
+   4. Something carries over (the soul as the saved state; who carries over; Advaita; Buddhism; the science caveat).
+   5. Karma, or the fingers (one whole, nobody else to harm; the thread meets what it did; the golden rule; non-religious witnesses).
+   6. Letting go, and repair (the way back; bittul, fana, kenosis, relinquishment; the rules of repair).
+   7. The return, in stages (small and big square; the arrow; the speed picture; birth; other staged maps).
+5. Why I want this, What you can check, Where this goes next (short).
+
+Figure `fig_chain` (figs4.py) shows the chain with the premises each step uses. The cross-tradition table was removed from the page in 3.0.0 because the steps now carry the examples; the code is still in figs4.py (`rosetta_html`) and can come back as a recap.
 
 ## What I used, and what I could not
 
@@ -100,3 +105,12 @@ Items still to confirm before this goes public: the exact wording of SN 12.48 in
 - Variant B's six pictures are in `figs4.py`: two views, one machine with many windows, the fingers, lives and the thread, the arrow from minus four to plus four, orbit versus escape. It also reuses the fist, the four rooms and the rubber hand from `figs3.py`.
 - Version: a restructured argument is a major bump in your table, so this is 2.0.0. If you would rather keep the numbers small while the essay is in draft, say so and I will renumber.
 - The `v1.0.0` tag was never pushed (the push was refused), and `v2.0.0` will not be pushed either unless that changes.
+
+
+## Version 3.1.0 (2026-10-08): review fixes
+
+Three independent reviewers (logic, accuracy, voice and length) read the restructured draft. Fixed: a paragraph duplicated in step 3; BE defined backwards (now: the less wall you hold up, the higher you sit); the opening claim about "every religion" (now honest for Buddhism and Jainism, and the Western entries say what is plain text and what is mystical); step 2 presented as a deduction (now said to be an observation); the gap in step 5 between "the whole is harmed" and "the doer feels it" (now closed with the thread from step 4); step 7's contradiction with BE; the Part one cross-references that did not hold (the border, the door, the gate, Anna, the shrinking swing, the unsaid sentence); a promise in Part one that the method comes in "the next part" (now "later"); Gita 2.22 and the Myth of Er moved to step 4, Gita 6.45 added to step 3; the rules of repair (Mishnah Yoma 8:9, Matthew 5:23-24) added to step 6; "My school" introduced at first use.
+
+Body length: about 8,200 words in 2.3.3, about 6,000 now. If you want it shorter still, the candidates are step 7's physics, the second half of step 5's bullets, and the Dante and staged-maps bullets.
+
+Still only you can settle: the arrow, its mapping on the chart and "birth" (Gennady's lectures); "my co-teacher" in Why I want this (the draft uses her role, not her name, until she says yes); whether "None of the traditions I'm about to quote is mine" (removed in this version) should come back in some form.

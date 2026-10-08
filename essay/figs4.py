@@ -266,16 +266,16 @@ def fig_chain():
     b = []
     b.append('<rect class="cardhi" x="20" y="10" width="640" height="76" rx="12"/>')
     b.append(T(40, 36, 'The axiom', 't'))
-    b.append(T(40, 56, 'clause 1: we are one    clause 2: the whole experiences separation', 'small'))
+    b.append(T(40, 56, 'clause 1: we are one  /  clause 2: the whole experiences separation', 'small'))
     b.append(T(40, 74, 'clause 3: the separation ends', 'small'))
     steps = [
-        ('Separation is a way of looking', 'a whole can only see itself from positions', ['from clause 2']),
-        ('The wall is held by the body', 'a way of looking needs something to hold it', ['from step 1']),
-        ('One life is too short', 'most do not finish, so the return takes longer', ['from clause 3']),
+        ('Separation is a way of looking', 'the whole looks at itself from positions', ['from clauses 1 and 2']),
+        ('The wall is held by the body', 'what keeps a way of looking in place', ['from step 1,', 'plus an observation']),
+        ('One life is too short', 'most do not finish, so the return takes longer', ['from clause 3,', 'and step 2']),
         ('Something carries over', 'a run that long needs a thread: the soul', ['from step 3']),
-        ('What I do to another, I do to myself', 'one whole means nobody else to harm: karma', ['from clause 1,', 'carried by step 4']),
+        ('Karma, or the fingers', 'nobody else to harm; the thread meets what it did', ['from clause 1,', 'carried by step 4']),
         ('Letting go, and repair', 'loosen the wall, mend the fingers', ['from steps 2 and 5']),
-        ('The return, in stages', 'the small square, the big square, the arrow', ['from step 6,', 'and clause 3']),
+        ('The return, in stages', 'a gradual road with an end, in stages', ['from steps 3 and 6,', 'and clause 3']),
     ]
     y0, h, gap = 112, 62, 24
     prev_bottom = 86

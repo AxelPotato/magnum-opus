@@ -297,3 +297,9 @@ Raised by the agents while building the entries. Some are already fixed in 2.3.1
 - (G10) Part one cross-references inside Part two: the chart, the 10,000 square and the corner, the gate (a reason bigger than yourself), the two reason-test questions, the 95 percent guess, 'cold observer' wording, and Anna's name (CHECKLIST 'Only Alex can settle these').
 - (G10) Lessing's The Education of the Human Race (1780), Gaudapada's Mandukya Karika 2.32 and Brihadaranyaka 3.7.23, Mulla Sadra, and the Cialdini, Mikulincer and Hafenbrack studies: probably assigned to other groups, but the talking points above link to some of their pages.
 - (G10) A terminology trap in the essay's own Sources list: Elior's book title uses 'Kabbalistic Theosophy of Habad', where Theosophy has an older Jewish and Christian meaning unrelated to Blavatsky. I noted this in the Chabad talking point.
+
+## Entries added after the restructure (2026-10-08)
+
+Four entries were added by hand when Part two was restructured, for citations the first build did not cover: the Shema (Deuteronomy 6:4) and Mishnah Yoma 8:9 in `07-jewish.md`, Matthew 5:23-24 in `08-christian.md`, and Daodejing 42 in `06-jain-sikh-druze-daoist.md`. They are marked unchecked: the passages were not seen on a page in the session, and the links are standard addresses.
+
+After the restructure the essay no longer cites a number of items that still have entries here (for example Laplace, Kalckert and Ehrsson, Lush, Metzinger and Blanke, Mulla Sadra, Akiva and Ben Azzai, Mishnah Sotah 1:7, the Zohar, the Druze). They stay as private background for discussions.

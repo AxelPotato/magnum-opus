@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.1.0 (2026-10-08)
+
+- Part two: review fixes after three independent reviews of the restructure. A paragraph duplicated in step 3 removed; BE defined correctly; the opening claim about every religion made honest for Buddhism and Jainism and for the Western traditions' plain and mystical layers; step 2 said to be an observation; the gap in karma closed with the thread from step 4; repair rules added to step 6; Part one cross-references corrected (border, door, gate, Anna, shrinking swing); Gita 2.22 and the Myth of Er moved to step 4; chain figure tags corrected; sources matched to the text. Part one: the method is promised for later, not the next part.
+
+
 ## 3.0.0 (2026-10-08)
 
 - Part two restructured to the author's structure: why 'we are all one' sits at the base of every religion (the opening), then the axiom and the computer picture, a chain figure and seven steps where each follows from the one before and from the axiom (separation is a way of looking, the wall is held by the body, one life is too short, something carries over, karma, letting go and repair, the return in stages), each with what the traditions and a few non-religious thinkers say. Text cut by about a quarter (body from about 8,200 to about 6,000 words); cross-tradition table removed from the page (code kept). Draft, under review.

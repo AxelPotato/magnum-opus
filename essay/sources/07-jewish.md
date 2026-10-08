@@ -560,3 +560,51 @@ Background: Devekut is the usual Jewish word for the goal of the mystic, and in 
 If someone pushes back:
 - Isn't devekut just closeness, not oneness? It depends on the thinker. Chabad leans toward nullification, others toward relationship. The essay places it only in the table.
 - Why is it in the table and not the body text? That is a question for Alex. A single sentence or a removal would settle it.
+
+## The Shema (Deuteronomy 6:4) (Hebrew Bible; the verse is part of Moses's last addresses, a text most scholars place in the seventh century BCE or later)
+
+Kind: text. Status: unchecked.
+
+Who: The Shema, from its first word, hear, is the central prayer of Judaism, recited morning and evening, and is the verse that traditionally opens and closes a Jewish life. Its core is the single line Deuteronomy 6:4, followed by the command to love God with all your heart, soul and might.
+
+In the essay: In 'Why this idea is worth a closer look', Judaism bullet: the Shema says that the Lord is one, which in its plain sense is about God, and Chabad Hasidism reads the unity further.
+
+Where it sits: Deuteronomy 6:4. The Hebrew is Shema Yisrael, Adonai Eloheinu, Adonai echad.
+
+The passage (paraphrase, not cleared for quoting): Paraphrase of the common translations: Hear, O Israel, the LORD our God, the LORD is one. Some translators render the last clause as the LORD alone. The essay does not rely on the exact English.
+
+Read it free:
+- Sefaria, Deuteronomy 6: https://www.sefaria.org/Deuteronomy.6 (not checked)
+- Bible Gateway, Deuteronomy 6:4 (ESV, NRSV and others side by side): https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4 (not checked)
+
+Read it in a book: The Jewish Study Bible (Oxford University Press, 2004), with its notes on the verse; or any scholarly Torah commentary. For the Hasidic reading, Elior's book on Chabad is listed in the Jewish entries.
+
+Background: In the plain sense the verse is a claim about God: the LORD is the one God, or the LORD alone is Israel's God, and the next verses make it a call to exclusive love and loyalty. Scholars argue about whether the original meant monotheism in the strict sense or exclusive devotion to one God among others. Later Jewish thought drew a great deal more from it. Medieval philosophers took the oneness as God's absolute simplicity, and Chabad Hasidism, in the Tanya, reads it as a unity that includes the world: from God's own point of view the world has no existence of its own, while it is real from ours. That reading is the one the essay borrows, and it is one school's, so the essay says where each reading sits. The verse is also the last thing a traditional Jew says before death.
+
+If someone pushes back:
+- Isn't the Shema just monotheism? In its plain sense, yes, and the essay says so. It is on the list because the mystics build on it, and the bullet marks which part is plain and which part is Chabad.
+- Does the essay claim Judaism teaches that everything is one? No. It claims that a version of the idea is held by Chabad Hasidism and the Zohar tradition, while mainstream Jewish thought stresses the distance between Creator and world.
+
+## Mishnah Yoma 8:9 (sins between people and Yom Kippur) (Mishnah edited about 200 CE)
+
+Kind: text. Status: unchecked.
+
+Who: The Mishnah is the first written collection of rabbinic oral law, edited in the land of Israel around 200 CE. Tractate Yoma deals with the Day of Atonement, and chapter 8 ends with the rules on what atones for what.
+
+In the essay: In step 6, 'Letting go, and repair': the Mishnah says that Yom Kippur atones for sins between a person and God, but for sins against another person only once that person has been appeased.
+
+Where it sits: Mishnah Yoma 8:9. Cited from memory by the research files, not seen on a page in the check.
+
+The passage (paraphrase, not cleared for quoting): Paraphrase: for transgressions between a person and God, the Day of Atonement atones; for transgressions between a person and a fellow person, the Day of Atonement does not atone until he has appeased his fellow.
+
+Read it free:
+- Sefaria, Mishnah Yoma 8: https://www.sefaria.org/Mishnah_Yoma.8 (not checked)
+- Sefaria, Mishnah Yoma 8:9 (standard address pattern): https://www.sefaria.org/Mishnah_Yoma.8.9 (not checked)
+
+Read it in a book: Herbert Danby, The Mishnah (Oxford University Press, 1933), or Jacob Neusner, The Mishnah: A New Translation (Yale University Press, 1988). Check the verse number in whichever edition you use, since the numbering of the last paragraphs of Yoma varies.
+
+Background: The rule is a plain piece of moral engineering: a ritual can repair a relationship with God, but a wrong done to a person has to be repaired with that person, by apology and, where possible, restitution. Maimonides turns it into the standard steps of teshuvah in the Mishneh Torah (Laws of Repentance 2). The essay uses it for the half of step 6 about mending the fingers: letting go loosens the wall, and repair deals with what the wall protected you from facing. The rule does not say everyone is one. It says the other person has a claim you can't bypass.
+
+If someone pushes back:
+- Isn't this just good manners? It is a rule with teeth: it says that no amount of ritual wipes out a wrong against a person until that person is appeased. That is the structure the step needs.
+- Does it show oneness? Not by itself. It shows that the traditions treat harm to another as something you answer for to the other, which fits the axiom.

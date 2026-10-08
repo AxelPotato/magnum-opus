@@ -319,7 +319,7 @@ def rules2a():
 
 def rules2():
     return {
-        'From these three clauses I want to build the rest': dict(after=figure(F4.fig_chain(), 'The chain. Each step follows from the one before it and from a clause of the axiom, and under each one the traditions say how they put it.')),
+        'From these three clauses I want to build the rest': dict(after=figure(F4.fig_chain(), 'The chain. The arrows show the order. The tags on the right give the premises each step uses, which are not always the step above.')),
         'The second view sits at the other extreme': dict(after=figure(F4.fig_views(), 'Two assumptions at opposite ends. Neither can be observed from outside, since the observing is done by the same mind.')),
         'Under the axiom, you and I are programs.': dict(after=figure(F4.fig_cpu(), 'Far apart on the screen, side by side in the machine. The distance is a property of the drawing.')),
         'If the separation is a way of looking': dict(after=figure(F3.fig_rubber(), 'The rubber hand illusion. The felt border of the body is something the brain works out, and it can be moved.')),
