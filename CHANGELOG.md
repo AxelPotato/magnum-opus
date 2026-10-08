@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.2.3 (2026-10-08)
+
+- Part two: the Wang Yangming child-at-the-well example in step 5 now says what the jolt of alarm is meant to show; reading pack entry for Mencius 2A6 brought in step
+
+
 ## 3.2.2 (2026-10-08)
 
 - Part two: redrawn the karma illustration as a clean open hand with two fingers rubbing; step 5 now says plainly how the deed comes back (the thread stands where the other stood)

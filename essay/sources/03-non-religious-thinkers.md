@@ -157,7 +157,7 @@ Kind: text. Status: checked.
 
 Who: Confucian philosopher who argued that human nature is good. The book Mencius (Mengzi) records his conversations with rulers and disciples.
 
-In the essay: In 'Karma, or the fingers', as the source of the well example that Wang Yangming 'took from Mencius'. The essay does not claim Mencius taught oneness. Listed in the Sources as 'Mencius 2A6'.
+In the essay: Not cited by name in the current draft. Background for the child at the well in the Wang Yangming bullet of 'Karma, or the fingers', in case someone asks where the scene comes from: Wang uses the scene from Mencius 2A6. The essay does not claim Mencius taught oneness.
 
 Where it sits: Mencius 2A6 (book 2, Gongsun Chou I, section 6). Legge numbers it Book II, Part I, chapter 6.
 
