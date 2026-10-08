@@ -163,13 +163,9 @@ Some physicists think our universe is one of many, and if so even plus four has 
 
 ## Why I want this
 
-Part one's zoom out ended on full human potential, and that's my goal for this lifetime: the whole map, past the corner of the chart. The reason is simple. I want to be useful, with nothing standing between me and whoever is in front of me. In the axiom's terms, that's a program that has stopped managing its walls and can look at the person in front of it as another part of the same machine.
+Part one's zoom out ended on full human potential, and that's what I'm after for this lifetime: the whole map, including everything past the corner of the chart. I don't want to believe it's there. I want to see it for myself, the way you see that a room is lit once you look up.
 
-I'd ask you to use on me the two questions Part one gave you for testing a reason: would I still do it if nobody ever found out, and does it make me gentler with the person in front of me, or does that person turn into material for the cause? The first is hard to check, since I'm writing this where people can read it. The second you can check better than I can.
-
-People ask two things at this point. The first: isn't this just becoming a vegetable? Part one met that version, the person who watches their whole life from the side and calls it calm. Feeling is one channel, and you can't dam half a river, so a person who cuts the channel to feel less pain feels less of everything. The second: how do you know it exists? The way you know any place you haven't been yet: you see the direction. Each step toward it shows up in things I can check on the chart, I've met people who are further along, and a room settles when they walk in. Beyond that, I'd rather spend my life walking toward something I'm not sure of than sitting in a room I'm sure I hate.
-
-So I know the direction, and I'm walking it.
+The reason is less lofty than it sounds. I want to be of use. At the moment a good share of my attention goes to managing walls: how I look, what I might lose, what I can get out of this conversation. All of that sits between me and the person in front of me. Take it away and what remains is someone who is simply there, and a person like that is useful to nearly everyone. In the machine's terms, it's a program that has stopped guarding its memory and treats whoever it is talking to as another part of the same machine, because they are.
 
 ## What you can check
 

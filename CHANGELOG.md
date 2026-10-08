@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.2.6 (2026-10-08)
+
+- Part two: removed the 'people ask two things' paragraphs and the closing line; rewrote 'Why I want this' as a short goal and reason
+
+
 ## 3.2.5 (2026-10-08)
 
 - Part two: the Kerbal Space Program line now says what the Mun is (the game's moon)

@@ -113,7 +113,7 @@ Three independent reviewers (logic, accuracy, voice and length) read the restruc
 
 Body length: about 8,200 words in 2.3.3, about 6,000 now. If you want it shorter still, the candidates are step 7's physics, the second half of step 5's bullets, and the Dante and staged-maps bullets.
 
-Still only you can settle: the arrow, its mapping on the chart and "birth" (Gennady's lectures); "my co-teacher" in Why I want this (the draft uses her role, not her name, until she says yes); whether "None of the traditions I'm about to quote is mine" (removed in this version) should come back in some form.
+Still only you can settle: the arrow, its mapping on the chart and "birth" (Gennady's lectures); (Why I want this no longer mentions a co-teacher or the two-questions test; rewritten 3.2.6 as goal plus reason, short); whether "None of the traditions I'm about to quote is mine" (removed in this version) should come back in some form.
 
 
 ## Version 3.2.0 (2026-10-08): confident voice, no school
