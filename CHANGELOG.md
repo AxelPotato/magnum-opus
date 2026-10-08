@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 2.3.0 (2026-10-08)
+
+- Part two: no longer cites the perennial philosophy or Theosophy (Alex's decision of 2026-10-08). The 'same things in different words' section now shows the traditions noticing the same thing about each other, one paragraph where he says his views are close to Theosophy minus the ascended masters and the mysticism, and the claim as examples. New non-religious witnesses (Emerson, Sagan, Lessing, Marcus Aurelius, Schopenhauer, Wang Yangming) and Gaudapada, Dante, the Jain liberated soul and Akiva against Ben Azzai. Corrections from a 521-claim check: Myth of Er order, Quran 17:7, universe size, Schrödinger, Zohar and Chabad wording, translations of Eph 4:18 and Zech 14:9, rubber hand timing, Cialdini, Part one cross-references, table cells. Sources list rebuilt.
+
+
 ## 2.2.0 (2026-10-07)
 
 - Part two: no longer argues the point. Removed the objection from Katz, the public-face-against-inner-face section and the where-specialists-object paragraphs, and the ranking of traditions by how close each leans to a single whole. The section now offers examples and says that, in different words, the traditions speak of the same ideas. The table loses its dashed and shaded marks and its caveat wording; the Theosophy caveat is one line; sources no longer cited are dropped.
