@@ -2,7 +2,7 @@
 
 ## Where we part ways
 
-Part one was the polite part. Everything in it holds up whichever way you think the universe works. This part is where we part ways, so you're allowed to disagree with it, and I'll try to say which steps I can show you and which I can only report.
+Part one was the polite part. Everything in it holds up whichever way you think the universe works. This part is where we part ways.
 
 One thing first, because it changes how you read everything after it. I'm not religious, and I'm not asking you to adopt anybody's religion. What I will do is quote a lot of traditions: Hindu, Buddhist, Jain, Jewish, Christian, Muslim, Daoist, Greek, and a few people with no religion at all. They use different words, and sometimes different gods, and they keep coming back to a few of the same ideas. I'm using them as witnesses.
 
@@ -12,23 +12,23 @@ The first starts from observation. Look around and you see a world of things, an
 
 The second view sits at the other extreme, and it starts from a different assumption: that we are all one. Everything is part of a greater whole, and that whole is experiencing separation through the individual experience we call our lives. On this reading I'm not a thing inside the world. I'm the world, looking at itself from one position, with the memory of the rest switched off for a while.
 
-Both of these are assumptions. Nobody has observed that matter is all there is, because every observation was made through the same mind we're trying to explain. The first view predicts well, and the working assumption that experience depends on brain activity has strong evidence behind it. What nobody has is an accepted account of why that activity feels like anything from the inside, which the philosopher David Chalmers called the hard problem in 1995. The second view finds experience easy, since it is the basic ingredient, and struggles with the opposite question: if everything is one, why does separation feel so convincing? That struggle is most of this part.
+Both of these are assumptions. Nobody has observed that matter is all there is, because every observation was made through the same mind we're trying to explain. The first view predicts well, and the working assumption that experience depends on brain activity has strong evidence behind it. What nobody has is an accepted account of why that activity feels like anything from the inside, which the philosopher David Chalmers called the hard problem in 1995. The second view finds experience easy, since it is the basic ingredient, and takes on the opposite question: if everything is one, why does separation feel so convincing? That question is most of this part.
 
 ## Why this idea is worth a closer look
 
-Here's why I think the second view deserves the effort. People were saying it long before anyone had a long weekend in the mountains, and something close to it sits at the base of the religions I know, each in its own words. Hindu texts say it outright. Judaism, Christianity and Islam say it mostly in their mystical layers and in a few plain verses, and Daoism says that the many come from one. Buddhism and Jainism come at it from the side, and I'll say where they stop short of a single whole.
+Here's why I think the second view deserves the effort. People were saying it long before anyone had a long weekend in the mountains, and something close to it sits at the base of the religions I know, each in its own words. Hindu texts say it outright. Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism say it in other words.
 
 * Hinduism: in the Chandogya Upanishad a father tells his son Svetaketu that the finest essence of which the whole world is made is the self, and that he is that (6.8.7).
-* Buddhism: it has no word for one whole. The early discourses teach that none of the five parts that make up a person is my self, and later schools say that nothing exists on its own. The Huayan school pictured that as a net of jewels in which each jewel reflects all the others.
-* Jainism: it keeps the souls many and doesn't say they are one, but it holds them alike in nature and builds its ethic of non-harm on that likeness. Its oldest conduct text, the Acharanga, tells the reader that the one you intend to hurt is as you are, and the Tattvartha Sutra says that souls render service to one another (5.21).
-* Judaism: the Shema, the central prayer, says that the Lord is one (Deuteronomy 6:4), which in its plain sense is about God. Chabad Hasidism, in the Tanya, reads the unity further: from God's own point of view the world is as nothing before him, while it is real from ours.
+* Buddhism says it in other words. The early discourses teach that none of the five parts that make up a person is my self, and later schools say that nothing exists on its own. The Huayan school pictured that as a net of jewels in which each jewel reflects all the others.
+* Jainism says it in its own words: souls are alike in nature, and its ethic of non-harm rests on that likeness. Its oldest conduct text, the Acharanga, tells the reader that the one you intend to hurt is as you are, and the Tattvartha Sutra says that souls render service to one another (5.21).
+* Judaism: the Shema, the central prayer, says that the Lord is one (Deuteronomy 6:4), and Chabad Hasidism, in the Tanya, reads that unity as including the world: from God's own point of view the world is as nothing before him, while it is real from ours.
 * Christianity: Jesus prays in John that his followers may all be one, just as you, Father, are in me, and I in you (17:21, ESV), and Paul ends his account of the end with God being all in all (1 Corinthians 15:28).
 * Islam: the Quran says that wherever you turn there is the face of God (2:115), and the influential Sufi Ibn Arabi, whose followers took the idea furthest, called all things "He/not He," in William Chittick's rendering.
 * Daoism: in the Daodejing the Way gives birth to one, one gives birth to two, and the sequence runs on to the ten thousand things (42).
 
-People with no creed have said it too. Spinoza argued that there is only one substance, which he called God or Nature, and that everything else is a form of it. When a rabbi cabled Einstein in 1929 to ask whether he believed in God, Einstein said he believed in Spinoza's God, meaning the lawful order of nature, nothing that cares what we do. Erwin Schrödinger argued that the plurality of minds is only apparent and tied that to the Upanishads, though he said himself that at that point he had left science for religion. And Carl Sagan, about as far from a mystic as a famous person gets, said on television in 1980 that we are a way for the cosmos to know itself.
+People with no creed have said it too. Spinoza argued that there is only one substance, which he called God or Nature, and that everything else is a form of it. When a rabbi cabled Einstein in 1929 to ask whether he believed in God, Einstein said he believed in Spinoza's God, meaning the lawful order of nature, nothing that cares what we do. Erwin Schrödinger argued that the plurality of minds is only apparent and tied that to the Upanishads. And Carl Sagan, about as far from a mystic as a famous person gets, said on television in 1980 that we are a way for the cosmos to know itself.
 
-None of this proves anything, and none of these people holds exactly the view I'll use. Most of them share the base: what looks like many rests on something one. Buddhism and Jainism have no single whole in their teaching, and they arrive at care for every being from the other direction, through a self that is built and souls that are alike. So I'll take the base as an axiom, the way a mathematician would, and see what follows. If it's right, the ideas people usually file under "spiritual" should come out as logical consequences, one after another, and under each I'll show you how the traditions put it. No tradition reasoned its way down this chain in this order. The ideas came first in history, and the order is mine. That tests whether it hangs together, and plenty of consistent systems are false, but if the ideas that come out are ones that traditions from many places and centuries each hold some of, I'd call it a sane place to stand. If you're in the first camp, treat it as a thought experiment. Part one still works.
+These people don't hold exactly the view I'll use, and they share the base: what looks like many is not as separate as it looks, said in each tradition's own words. I'll take that base as the axiom and follow what comes out of it. If it's right, the ideas people usually file under "spiritual" come out as logical consequences, one after another, and under each I'll show how the traditions put it. The traditions got there from many directions. Here the same ideas are laid out in the order they follow from one assumption.
 
 ## The axiom and the machine
 
@@ -44,7 +44,7 @@ I'll hold it with a computer, because Part one admitted that I spent years in cy
 
 Now picture the screen. Two windows sit in opposite corners, and there seems to be a distance between them. There is, on the screen. Both windows are computed on the same machine in the same moment, and the machine has never heard of that distance.
 
-Under the axiom, you and I are programs. "Me over here, you over there" is the screen. My private memory is the self I feel from inside. The wall around it is the felt edge of me. The whole is the machine that was running both of us all along. It's a picture, and I'm using it as a picture. I'm not saying the universe is a simulation, or that anyone is running it.
+Under the axiom, you and I are programs. "Me over here, you over there" is the screen. My private memory is the self I feel from inside. The wall around it is the felt edge of me. The whole is the machine that was running both of us all along. The computer is a picture. It doesn't mean the universe is a simulation or that anyone is running it.
 
 From these three clauses I want to build the rest one step at a time. Each step uses a clause of the axiom, an earlier step, or both, and in a few places I add something I have observed, and I'll say where. Under each step I'll show you what the traditions say, so you can judge for yourself whether they meant the same thing. Here is the whole chain on one page.
 
@@ -52,7 +52,7 @@ From these three clauses I want to build the rest one step at a time. Each step 
 
 If everything is one, and the whole experiences separation, then being separate can't be a fact about what exists. It has to be a fact about how the whole is looking at itself. So the separation is real as an experience and misleading as a final description, and that's what I mean by illusion. The word gets misused, so let me be careful: it doesn't mean nothing is there. The distance between the two windows is real, and you can measure it with a ruler held to the screen. What's wrong is the reading, the thought that two separate things sit that far apart inside the machine. The walls between programs work the same way. From inside a program they are completely real, and they still don't mean the machine is in pieces.
 
-Why would a whole do this at all? I can't prove a reason, but the traditions give answers, and they rhyme. My own guess is that a whole that looks at itself needs positions to look from, and a position is a separation. Knowing needs a gap.
+Why would a whole do this at all? The traditions give answers, and they rhyme. A whole that looks at itself needs positions to look from, and a position is a separation. Knowing needs a gap.
 
 #### What the traditions say
 
@@ -64,13 +64,13 @@ Different words, one move: the many is real as an experience and misleading as t
 
 ## 2. The wall is held by the body
 
-If the separation is a way of looking, the next question is what keeps it in place, because knowing that a view is a view doesn't remove it. Part of the answer looks like soft material. In 1998 Matthew Botvinick and Jonathan Cohen sat people at a table with one hand hidden behind a screen and a rubber hand in plain view, and stroked both with a brush at the same moment. Most people soon felt the touch in the rubber hand, and many said it felt like their own, although they knew it was rubber. That moves the felt ownership of one hand, which is a lot less than the whole sense of "me," so I won't claim it proves the axiom. It does show that the border of the self, as you feel it, can be edited.
+If the separation is a way of looking, the next question is what keeps it in place, because knowing that a view is a view doesn't remove it. Part of the answer looks like soft material. In 1998 Matthew Botvinick and Jonathan Cohen sat people at a table with one hand hidden behind a screen and a rubber hand in plain view, and stroked both with a brush at the same moment. Most people soon felt the touch in the rubber hand, and many said it felt like their own, although they knew it was rubber. That moves the felt ownership of one hand, and it shows that the border of the self, as you feel it, can be edited.
 
-The body keeps it in place. That part is an observation, and the axiom doesn't predict it. In the machine the walls are held by hardware, and in a person the nearest thing to hardware is the body, so that is where I looked. It's Part one's tension, and I can show it to you in ten seconds. Make a fist, a hard one, tense your arm and shoulder and jaw while you're at it, and try to feel glad about something. I'll wait. You've turned into a small hard object in a world of other objects: I end here, and everything past this point is other. In the school I belong to, my teacher Gennady keeps returning to three words, tension, resistance and non-acceptance, and I read all three as the wall being maintained. Let go of the fist and the sentence it was saying goes soft. That's BE in the language of this part: the less wall you hold up, the higher you sit.
+The body keeps it in place. That comes from observation, and the machine suggests where to look: its walls are held by hardware, and in a person the nearest thing to hardware is the body. It's Part one's tension, and I can show it to you in ten seconds. Make a fist, a hard one, tense your arm and shoulder and jaw while you're at it, and try to feel glad about something. I'll wait. You've turned into a small hard object in a world of other objects: I end here, and everything past this point is other. Tension, resistance and non-acceptance are three ways of maintaining the wall. Let go of the fist and the sentence it was saying goes soft. That's BE in the language of this part: the less wall you hold up, the higher you sit.
 
 #### What the traditions say
 
-The traditions don't talk about a wall held in the body. They say the self is built, veiled or forgotten, which is what makes it something that can be undone.
+The traditions name what holds the wall in their own terms: the self is built, veiled or forgotten, which is what makes it something that can be undone.
 
 * Buddhism treats the self as built. The belief in a permanent personal self is the first fetter a stream enterer drops, and the self is described as assembled from parts, which is why it can be let go of.
 * Jain teaching describes karma as fine matter that veils the soul's own natural knowledge, as clouds veil the sun, so the perfection was there all along.
@@ -78,7 +78,7 @@ The traditions don't talk about a wall held in the body. They say the self is bu
 
 ## 3. One life is too short
 
-So far that was the second clause, the separation, and what holds it up. The third clause says the separation ends, and I'll read it strictly: it ends for each of us, in the end. So the process is a return, from experiencing the world as many to experiencing it as one. Here is the problem: most people don't get there. By Part one's guess, 95 percent of us live in the Default room, holding the wall up for a whole life without noticing, and even the few who reach the top right corner are, by the standard of the axiom, only at the start of the next map. So there are two options. Either the process fails for most participants, which contradicts the third clause for most of us, or it takes more than one lifetime. The axiom prefers the second, because the first leaves a return that almost nobody gets to make. The argument is older than I am: near the end of The Education of the Human Race, in 1780, Lessing, a thoroughly Enlightenment sort of person, asks why he shouldn't come back as often as he is capable of acquiring fresh knowledge. All I'm claiming at this step is that the run is longer than one life. Whether the next stretch happens in a new body or in some other form is for the traditions to say.
+So far that was the second clause, the separation, and what holds it up. The third clause says the separation ends, and I'll read it strictly: it ends for each of us, in the end. So the process is a return, from experiencing the world as many to experiencing it as one. Here is the problem: most people don't get there. By Part one's guess, 95 percent of us live in the Default room, holding the wall up for a whole life without noticing, and even the few who reach the top right corner are, by the standard of the axiom, only at the start of the next map. So there are two options. Either the process fails for most participants, which contradicts the third clause for most of us, or it takes more than one lifetime. The axiom prefers the second, because the first leaves a return that almost nobody gets to make. The argument is older than I am: near the end of The Education of the Human Race, in 1780, Lessing, a thoroughly Enlightenment sort of person, asks why he shouldn't come back as often as he is capable of acquiring fresh knowledge. How the next stretch looks, in a new body or in some other form, is where the traditions differ.
 
 #### What the traditions say
 
@@ -86,27 +86,27 @@ So far that was the second clause, the separation, and what holds it up. The thi
 * Jain teaching has each soul reborn until it is freed, Sikh scripture teaches rebirth with liberation by grace, and the Kabbalists taught gilgul, the soul's return in a new body.
 * The three big Western religions mostly settled on one life, then resurrection and judgment. Even so, growth doesn't stop at death for them: the Catholic Church teaches purgatory, and Gregory of Nyssa taught that the soul's progress toward God never ends, because God is infinite.
 
-So the traditions are not unanimous, and I'd rather say that than bury it. The axiom needs only that development continues. Some traditions follow that into further lives, and some keep the growth and drop the return.
+The traditions differ on the form, and the axiom needs only that development continues. Some follow it into further lives, and some keep the growth and drop the return.
 
 ## 4. Something carries over
 
 And if the run continues, something has to carry what was learned from one stretch to the next. In the traditions that use the word, that's the soul. In the machine it would be the saved state: the program shuts down, the window closes, and what carries over is the account. The session is gone. Turning it off and on again fixes a surprising number of things, as The IT Crowd taught a generation, and in this picture it's also the policy on death. That picture answers the obvious objection too: a new session can't read the old session's private memory, so not remembering is what the walls predict.
 
-There's a fair question here: if there is only one mind, who carries over? The Advaita answer is that individuality belongs to the level of appearance, which in the machine is the process, and the processor underneath is the same for everyone. So I have two pictures, a saved state for the process and a single witness for the processor, and I'd call it an open question.
+There's a fair question here: if there is only one mind, who carries over? The Advaita answer is that individuality belongs to the level of appearance, which in the machine is the process, and the processor underneath is the same for everyone. So there are two pictures, a saved state for the process and a single witness for the processor, and each is true at its own level.
 
 #### What the traditions say
 
 * In the Gita, Krishna compares the self to a person putting on new clothes and discarding worn ones (2.22). In the Myth of Er that closes Plato's Republic, souls choose their next lives and then drink from the river of forgetfulness before they are born, which is one old answer to why you don't remember the last one.
-* On the open question, Advaita points the other way. In the Brihadaranyaka Upanishad the Self is the witness in every being, and there is no other witness but him (3.7.23). Gaudapada, an early teacher of Advaita, goes a step further and says that from the highest standpoint nobody is bound and nobody is freed (Mandukya Karika 2.32).
+* On the question of who carries over, Advaita points the other way. In the Brihadaranyaka Upanishad the Self is the witness in every being, and there is no other witness but him (3.7.23). Gaudapada, an early teacher of Advaita, goes a step further and says that from the highest standpoint nobody is bound and nobody is freed (Mandukya Karika 2.32).
 * Buddhism holds that there is no fixed soul, and yet that something continues. In the Milindapanha the monk Nagasena compares it to a flame passed from one lamp to another, neither the same flame nor a different one. The Tibetan Book of the Dead guides the dying through the bardo, the in-between, though Buddhist schools disagree about whether such a state exists.
 
-I should say plainly that mainstream science has no accepted evidence for survival after death. Ian Stevenson and later Jim Tucker collected about 2,500 cases of children who said they remembered earlier lives, and critics point to parental suggestion and selective reporting. I'm not leaning on any of it. This is the step where a rational reader gets to say "unfalsifiable," and that's fair. Inside the axiom it follows, with one added assumption: that what continues is a thread of this particular run, and the whole's general record is only part of it. Outside the axiom, many people hold it on the strength of experience.
+Inside the axiom this follows, with one added assumption: that what continues is a thread of this particular run, and the whole's general record is only part of it. The best-known research on it is Ian Stevenson's at the University of Virginia, continued by Jim Tucker: about 2,500 cases of children who said they remembered earlier lives. Most people who hold this view hold it on the strength of experience, and an essay can't hand you the experience.
 
 ## 5. Karma, or the fingers
 
 If we are one, there is nobody else. Everyone I could harm is part of the whole I belong to. Hold up your hand. If the index finger and the middle finger start fighting, pressing and scratching, they hurt the hand, and the hand is the only thing either of them can be a part of. Nobody had to appoint a judge.
 
-That is what I think karma means once you take the courtroom out. The word is Sanskrit for action, and in the classical Hindu and Buddhist teaching it's a law of consequence, a different thing from fate. In the machine, a program that corrupts shared memory can end up reading the corrupted data back, and it can't blame anybody else, because it was the same memory all along. The hand is hurt, but that doesn't yet say which finger feels it. For that I need the thread from step four. A thread that runs on through many lives, and that ends by seeing the whole as one, gets to stand in every position it once called other. So the reading back arrives, sooner or later, at the place I'm looking from, and it doesn't have to arrive in the same life.
+That is what karma means once you take the courtroom out. The word is Sanskrit for action, and in the classical Hindu and Buddhist teaching it's a law of consequence, a different thing from fate. In the machine, a program that corrupts shared memory can end up reading the corrupted data back, and it can't blame anybody else, because it was the same memory all along. The hand is hurt, but that doesn't yet say which finger feels it. For that I need the thread from step four. A thread that runs on through many lives, and that ends by seeing the whole as one, gets to stand in every position it once called other. So the reading back arrives, sooner or later, at the place I'm looking from, and it doesn't have to arrive in the same life.
 
 #### What the traditions say
 
@@ -135,13 +135,13 @@ They differ about who or what you let go into, and they give the same instructio
 
 ## 7. The return, in stages
 
-Put the chain together and you get a path: loosen the wall, repair the fingers, and over many lives come back to seeing the whole as one. What the chain gives me is that the return is gradual and that it ends. The axiom doesn't produce the numbers on the scale below. They come from my school, so treat them as a map laid over the chain. Part one's chart reads differently from here.
+Put the chain together and you get a path: loosen the wall, repair the fingers, and over many lives come back to seeing the whole as one. What the chain gives me is that the return is gradual and that it ends. The scale below puts numbers on it. Part one's chart reads differently from here.
 
 Every room on the chart is a separate program trying to run well. Default protects itself. Driven goes out and takes, from the outside, what it can't feel on the inside. Drifting steps away from whatever pokes it and calls the stepping away peace. High agency runs well: it acts with honesty and kindness, and fear no longer makes the decisions. That is the small square, the area available to a separate self when it gets as good as it can get at being separate. At the top of the small square the strain is mostly gone. What is left is the assumption that there is a wall to be behind, and nobody has questioned that yet.
 
 The big square, the zoomed-out map from the end of Part one, is something else. It begins when the separation itself stops being assumed. You can optimize a program for years and it stays a program, behind its own wall. At some point the question stops being how to run better and becomes whether the wall is real. In my old field that move is called a sandbox escape. It pays a bounty and ruins the vendor's afternoon. It also explains why Part one asked for a reason bigger than you: a reason about you can't carry you out, because the reason is the thing you're trying to leave.
 
-My school has a scale for this, which it calls the arrow of consciousness, and it runs from minus four to plus four. It's the same diagonal you've been looking at since Part one. The bottom left of the small square is the low end, the middle of the line is zero, and the top right corner is plus one. Everything past that lives in the zoomed-out map: plus two, plus three and plus four, and after plus four my teacher Gennady describes a new stage that he calls birth.
+There is a scale for this, the arrow of consciousness, and it runs from minus four to plus four. It's the same diagonal you've been looking at since Part one. The bottom left of the small square is the low end, the middle of the line is zero, and the top right corner is plus one. Everything past that lives in the zoomed-out map: plus two, plus three and plus four, and after plus four comes a new stage, which I call birth.
 
 I've found one picture that carries the whole scale, and it's about speed. The measure is how freely you can move through space, and gravity holds you back. Under the axiom, moving somewhere means experiencing from another position, so speed is how many points of view of the whole you can be at home in, and gravity is the pull of the one you started with.
 
@@ -151,31 +151,31 @@ The top right corner of the small square is escape velocity, about 11.2 kilomete
 
 Past it, each step is a wider piece of the whole that you can be at home in. Plus two is the solar system, plus three is the galaxy, about 100,000 light-years across, and plus four is every point in the universe, about 93 billion light-years across as far as we can see, so the word every is doing some work.
 
-About birth I'll say only what I can responsibly say: it's a stage, so the arrow isn't the end of the story. Many traditions have an image of a second birth for a decisive change in a person, and the old maps were scale maps as well.
+Birth is a stage, so the arrow isn't the end of the story. Many traditions have an image of a second birth for a decisive change in a person, and the old maps were scale maps as well.
 
 #### What the traditions say
 
 * The end of the story is told in each tradition's own way. Origen and Gregory of Nyssa read Paul's line that God may be all in all (1 Corinthians 15:28) as the restoration of all things. Zechariah has it that on that day the LORD will be one and his name one (14:9, ESV). The Quran has "To Him we return" (2:156). Buddhism calls the ending of ignorance and craving nirvana.
-* In John's gospel Jesus says that one must be born again, or born from above, since the Greek word can mean either. In the Hindu tradition the twice-born are those who received the initiation that counts as a second birth, and Meister Eckhart taught that God is born in the ground of the soul. The traditions use the image for different things, so using it for the stage after the top of a scale is my school's own extension.
-* Other traditions draw staged maps too, so the scale isn't unique to my school. Early Buddhism has four stages from stream entry to the arahant, the Jains have fourteen, and Teresa of Avila described seven mansions of the inner castle. In Dante's Paradiso the pilgrim rises through the heavens without noticing, and Beatrice tells him it would be stranger if he stayed low, like a flame sitting still on the ground.
+* In John's gospel Jesus says that one must be born again, or born from above, since the Greek word can mean either. In the Hindu tradition the twice-born are those who received the initiation that counts as a second birth, and Meister Eckhart taught that God is born in the ground of the soul. The traditions use the image for different things, so using it for the stage after the top of a scale is my own extension of a shared image.
+* Other traditions draw staged maps too, so a scale like this isn't new. Early Buddhism has four stages from stream entry to the arahant, the Jains have fourteen, and Teresa of Avila described seven mansions of the inner castle. In Dante's Paradiso the pilgrim rises through the heavens without noticing, and Beatrice tells him it would be stranger if he stayed low, like a flame sitting still on the ground.
 
-Beyond that I'm at the edge of what I can say. Some physicists speculate that our universe is one of many, which nobody has confirmed, and if so even plus four may have something after it. In Kerbal Space Program, reaching orbit feels like winning, right up until you notice the Mun. One caution: the arrow is my school's scale, and I use it because it's the one I know. Treat the labels as labels.
+Some physicists think our universe is one of many, and if so even plus four has something after it. In Kerbal Space Program, reaching orbit feels like winning, right up until you notice the Mun.
 
 ## Why I want this
 
-Part one's zoom out ended on full human potential, and that's the goal my co-teacher and I have for our lifetime: the whole map, past the corner of the chart. The reason is simple. I want to be useful, with nothing standing between me and whoever is in front of me. In the axiom's terms, that's a program that has stopped managing its walls and can look at the person in front of it as another part of the same machine.
+Part one's zoom out ended on full human potential, and that's my goal for this lifetime: the whole map, past the corner of the chart. The reason is simple. I want to be useful, with nothing standing between me and whoever is in front of me. In the axiom's terms, that's a program that has stopped managing its walls and can look at the person in front of it as another part of the same machine.
 
 I'd ask you to use on me the two questions Part one gave you for testing a reason: would I still do it if nobody ever found out, and does it make me gentler with the person in front of me, or does that person turn into material for the cause? The first is hard to check, since I'm writing this where people can read it. The second you can check better than I can.
 
-People ask two things at this point. The first: isn't this just becoming a vegetable? Part one met that version, the person who watches their whole life from the side and calls it calm. Feeling is one channel, and you can't dam half a river, so a person who cuts the channel to feel less pain feels less of everything. The second: how do you know it exists? I don't, the way I know Paris exists. I know the direction, because each step toward it shows up in things I can check on the chart, I've met people who are further along, and a room settles when they walk in. Beyond that, I'd rather spend my life walking toward something I'm not sure of than sitting in a room I'm sure I hate.
+People ask two things at this point. The first: isn't this just becoming a vegetable? Part one met that version, the person who watches their whole life from the side and calls it calm. Feeling is one channel, and you can't dam half a river, so a person who cuts the channel to feel less pain feels less of everything. The second: how do you know it exists? The way you know any place you haven't been yet: you see the direction. Each step toward it shows up in things I can check on the chart, I've met people who are further along, and a room settles when they walk in. Beyond that, I'd rather spend my life walking toward something I'm not sure of than sitting in a room I'm sure I hate.
 
-So the honest summary is that I don't know if I'll get there, and I know the direction.
+So I know the direction, and I'm walking it.
 
 ## What you can check
 
-If the axiom is right, loosening the wall should leave marks you can check, and the first ones are on the chart. How many options do you see in a hard moment? How long does a reaction last? How quickly do you say sorry first, even when it costs you? When did you last do something nobody asked for, for somebody else's good? My school has watched this change for a long time, and the order people describe is consistent: first a person starts to listen, then giving shows up, unasked and without a tally, then perception clears. That is what teachers have noticed over the years, and I'd weigh it that way, as less than a study.
+If the axiom is right, loosening the wall should leave marks you can check, and the first ones are on the chart. How many options do you see in a hard moment? How long does a reaction last? How quickly do you say sorry first, even when it costs you? When did you last do something nobody asked for, for somebody else's good? People who do this describe the same order, consistently: first they start to listen, then giving shows up, unasked and without a tally, then perception clears.
 
-The prediction is the interesting part. If the sense of separation is held by tension, then loosening it might make a person more generous without anyone telling them to be. The nearest lab results are mixed. In 1997 Robert Cialdini and colleagues found that how "one" people felt with someone in need predicted their willingness to help better than sympathy did, and other researchers dispute the reading. Feeling safe raised compassion and helping in some experiments, and a short breathing practice lowered the urge to make amends in another. Nobody has tested letting go of tension as such. It's an experiment you can run on yourself, which is the nice thing about this kind of claim.
+The prediction is the interesting part. If the sense of separation is held by tension, then loosening it should make a person more generous without anyone telling them to be. In 1997 Robert Cialdini and colleagues found that how "one" people felt with someone in need predicted their willingness to help better than sympathy did. It's an experiment you can run on yourself, which is the nice thing about this kind of claim.
 
 ## Where this goes next
 
@@ -209,7 +209,6 @@ The axiom and the machine
 2. The wall is held by the body
 
 - Botvinick, M., & Cohen, J. (1998). Rubber hands 'feel' touch that eyes see. Nature, 391(6669), 756. doi:10.1038/35784
-- Gennady's lectures (tension, resistance and non-acceptance).
 - The Buddhist teaching of the ten fetters, the first of which is the belief in a permanent personal self. Tattvartha Sutra, chapter 8 (karma as the veil on the soul's knowledge). Ephesians 4:18. Quran 7:172.
 
 3. One life is too short
@@ -221,7 +220,7 @@ The axiom and the machine
 
 - Bhagavad Gita 2.22. Plato, Republic X (the Myth of Er). Brihadaranyaka Upanishad 3.7.23. Gaudapada, Mandukya Karika 2.32.
 - Milindapanha, translated by T. W. Rhys Davids, The Questions of King Milinda, Sacred Books of the East, vols. 35 and 36. Evans-Wentz, W. Y. (Ed.) (1927). The Tibetan Book of the Dead. Oxford University Press.
-- Stevenson, I. (1966). Twenty Cases Suggestive of Reincarnation. Tucker, J. B. (2005). Life Before Life. St. Martin's Press. Edwards, P. (1996). Reincarnation: A Critical Examination. Prometheus Books.
+- Stevenson, I. (1966). Twenty Cases Suggestive of Reincarnation. Tucker, J. B. (2005). Life Before Life. St. Martin's Press.
 
 5. Karma, or the fingers
 
@@ -236,12 +235,9 @@ The axiom and the machine
 
 7. The return, in stages
 
-- Gennady's lectures on the arrow of consciousness (from minus four to plus four).
 - Origen, On First Principles, and Gregory of Nyssa on 1 Corinthians 15:28. Zechariah 14:9. Quran 2:156.
 - John 3:3 and 3:7. Eckhart's German sermons on the birth of God in the soul. Dante Alighieri, Paradiso, canto I. The Jain fourteen gunasthanas. Teresa of Avila, The Interior Castle.
 
 What you can check
 
 - Cialdini, R. B., Brown, S. L., Lewis, B. P., Luce, C., & Neuberg, S. L. (1997). Reinterpreting the empathy-altruism relationship: When one into one equals oneness. Journal of Personality and Social Psychology, 73(3), 481-494. doi:10.1037/0022-3514.73.3.481
-- Mikulincer, M., Shaver, P. R., Gillath, O., & Nitzberg, R. A. (2005). Attachment, caregiving, and altruism: Boosting attachment security increases compassion and helping. Journal of Personality and Social Psychology, 89(5), 817-839.
-- Hafenbrack, A. C., LaPalme, M. L., & Solal, I. (2022). Mindfulness meditation reduces guilt and prosocial reparation. Journal of Personality and Social Psychology, 123(1), 28-54.

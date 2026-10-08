@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.2.0 (2026-10-08)
+
+- Part two: confident voice and no school. Removed the apologetic and defensive wording (only a theory, proves nothing, I can't prove, thought experiment, open question, stop short, I'd weigh it as less than a study, and similar); Buddhism and Jainism now say it in other words without announced limits; science sentence reduced to the best-known research. No mention of a school, of Gennady or of a co-teacher: the arrow is presented as a scale and birth as a stage the author calls birth.
+
+
 ## 3.1.0 (2026-10-08)
 
 - Part two: review fixes after three independent reviews of the restructure. A paragraph duplicated in step 3 removed; BE defined correctly; the opening claim about every religion made honest for Buddhism and Jainism and for the Western traditions' plain and mystical layers; step 2 said to be an observation; the gap in karma closed with the thread from step 4; repair rules added to step 6; Part one cross-references corrected (border, door, gate, Anna, shrinking swing); Gita 2.22 and the Myth of Er moved to step 4; chain figure tags corrected; sources matched to the text. Part one: the method is promised for later, not the next part.

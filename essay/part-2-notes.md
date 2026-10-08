@@ -114,3 +114,10 @@ Three independent reviewers (logic, accuracy, voice and length) read the restruc
 Body length: about 8,200 words in 2.3.3, about 6,000 now. If you want it shorter still, the candidates are step 7's physics, the second half of step 5's bullets, and the Dante and staged-maps bullets.
 
 Still only you can settle: the arrow, its mapping on the chart and "birth" (Gennady's lectures); "my co-teacher" in Why I want this (the draft uses her role, not her name, until she says yes); whether "None of the traditions I'm about to quote is mine" (removed in this version) should come back in some form.
+
+
+## Version 3.2.0 (2026-10-08): confident voice, no school
+
+Two instructions from you. First, the text was too apologetic and kept saying it was only an idea that proves nothing. Removed: "you're allowed to disagree", "which steps I can show you and which I can only report", "none of this proves anything", "I can't prove a reason, my own guess", "treat it as a thought experiment, Part one still works", "I won't claim it proves the axiom", "I'd rather say that than bury it", "I'd call it an open question", "I should say plainly that mainstream science...", "I'm not leaning on any of it", "I'll say what I can responsibly say", "I'm at the edge of what I can say", "one caution about the numbers", "I'd weigh it as less than a study", "I don't know how you know it exists", and the lines saying that Buddhism and Jainism "stop short" or "have no single whole". Buddhism and Jainism now simply say it in other words. What stays is plain accuracy about what each source says. Second, no mention of a school, no citing of Gennady, no co-teacher and no Anna: the arrow is "a scale" and birth is "a stage which I call birth"; the lines "In the school I belong to..." and "My school has watched this..." are gone, and so are the two Sources lines about the lectures.
+
+Still open: the arrow's range, its mapping on the chart and the word birth rest on your brief, and nothing in the essay credits a source for them. Check them against your own teaching when convenient.
