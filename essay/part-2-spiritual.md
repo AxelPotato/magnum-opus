@@ -159,7 +159,7 @@ Birth is a stage, so the arrow isn't the end of the story. Many traditions have 
 * In John's gospel Jesus says that one must be born again, or born from above, since the Greek word can mean either. In the Hindu tradition the twice-born are those who received the initiation that counts as a second birth, and Meister Eckhart taught that God is born in the ground of the soul. The traditions use the image for different things, so using it for the stage after the top of a scale is my own extension of a shared image.
 * Other traditions draw staged maps too, so a scale like this isn't new. Early Buddhism has four stages of awakening, the Jains have fourteen steps of spiritual growth, and Teresa of Avila described seven mansions of the inner castle. In Dante's Paradiso the pilgrim rises through the heavens without noticing, and Beatrice tells him it would be stranger if he stayed low, like a flame sitting still on the ground.
 
-Some physicists think our universe is one of many, and if so even plus four has something after it. In Kerbal Space Program, reaching orbit feels like winning, right up until you notice the Mun.
+Some physicists think our universe is one of many, and if so even plus four has something after it. In the spaceflight game Kerbal Space Program, reaching orbit feels like winning, right up until you look out of the window and see the moon (the game calls it the Mun) still sitting there, waiting for a visit.
 
 ## Why I want this
 

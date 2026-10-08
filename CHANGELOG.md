@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.2.5 (2026-10-08)
+
+- Part two: the Kerbal Space Program line now says what the Mun is (the game's moon)
+
+
 ## 3.2.4 (2026-10-08)
 
 - Part two: step 6 now says who empties himself in Philippians 2 (Jesus, in Paul's letter) and why it is a letting go; reading pack entry brought in step
