@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 2.3.3 (2026-10-08)
+
+- Part two: removed the paragraph about where the author stands relative to Theosophy, and the aside about Evans-Wentz's Theosophical background. The essay no longer mentions Theosophy or the perennial philosophy anywhere (Alex's instruction: not relevant to the essay).
+
+
 ## 2.3.2 (2026-10-08)
 
 - Part two: the two paragraphs on what 'illusion' means and on the computer as a picture rewritten more simply, using the two windows already introduced instead of a second desktop-folder example.
