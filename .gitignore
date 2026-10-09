@@ -8,3 +8,6 @@ node_modules/
 essay/_probe.html
 essay/*.fragment.html
 essay/img/_*.png
+
+# lecture extracts from the Giving School wiki: private, never commit
+essay/lectures-private/
