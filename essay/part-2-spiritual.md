@@ -149,7 +149,7 @@ At the low end, in Default, you can run, ride a bike and drive a car, and the gr
 
 The top right corner of the small square is escape velocity, about 11.2 kilometers per second from the surface. Notice how close it is to orbit: at any height, escape speed is only about 41 percent higher than orbital speed there, and the difference in outcome is total, since in the ideal case one speed circles forever and the other leaves. In Part one's math the corner is the maximum of BE times DO, 100 times 100. Don't quote me, but I like that the geometry of the small square and the physics of rockets agree on where the threshold is.
 
-Past it, each step is a wider piece of the whole that you can be at home in. Plus two is the solar system, plus three is the galaxy, about 100,000 light-years across, and plus four is every point in the universe, about 93 billion light-years across as far as we can see, so the word every is doing some work.
+Past the corner the picture keeps going, and each level is the speed that frees you from the next, bigger pull. Plus two leaves the Sun behind, which takes about 16.7 kilometers per second from the Earth's surface. Plus three leaves the galaxy, which takes about 550 kilometers per second at the Sun's distance from its center. Plus four has no pull left to leave, and every point in the universe, about 93 billion light-years across as far as we can see, is a place you can be at home, so the word every is doing some work.
 
 Birth is a stage, so the arrow isn't the end of the story. Many traditions have an image of a second birth for a decisive change in a person, and the old maps were scale maps as well.
 

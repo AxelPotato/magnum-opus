@@ -247,7 +247,9 @@ def fig_arrow():
     for x, sx in cap:
         b.append(T(x, ay + 62, sx, 'small b', 'middle'))
     notes = [(pos[-3], ('the ground', 'decides where', 'you go')), (pos[-1] - 6, ('the air:', 'any point', 'on the globe')),
-             (pos[0] + 28, ('in space,', 'still under', "Earth's gravity")), (pos[1] + 54, ('gravity', 'left behind'))]
+             (pos[0] + 28, ('in space,', 'still under', "Earth's gravity")),
+             (pos[1] + 22, ('11.2 km/s', 'leaves', 'the Earth')), (pos[2] + 14, ('16.7 km/s', 'leaves', 'the Sun')),
+             (pos[3] + 12, ('550 km/s', 'leaves', 'the galaxy')), (pos[4] + 6, ('no pull', 'left to', 'leave'))]
     for x, lines in notes:
         for k, ln in enumerate(lines):
             b.append(T(x, ay + 90 + k * 16, ln, 'small', 'middle'))

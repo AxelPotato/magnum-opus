@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.2.9 (2026-10-09)
+
+- Part two: the space levels now read as speeds (leave the Earth, the Sun, the galaxy, no pull left) instead of sizes in space; arrow figure labelled with the speeds
+
+
 ## 3.2.8 (2026-10-09)
 
 - Part two: dropped the disclaimer on the birth image; notes record the lecture check and its open decisions

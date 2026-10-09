@@ -327,7 +327,7 @@ def rules2():
         'And if the run continues': dict(after=figure(F4.fig_lives(), 'If the process is a return, and most people do not finish it in one life, it has to run longer than one life.')),
         'If we are one, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
         'Every room on the chart is a separate program': dict(after=figure(F3.fig_rooms(), 'Four rooms, one assumption underneath.')),
-        "I've found one picture that carries the whole scale": dict(after=figure(F4.fig_arrow(), 'The arrow of consciousness as speed and freedom of movement. Gravity is the pull of the position you started from.')),
+        "I've found one picture that carries the whole scale": dict(after=figure(F4.fig_arrow(), 'The arrow of consciousness as speed and freedom of movement. Gravity is the pull of the position you started from, and each level above the corner is the speed that leaves the next, bigger pull behind.')),
         'The top right corner of the small square is escape velocity': dict(after=figure(F4.fig_escape(), 'From orbit to escape is a small change in speed and a total change in outcome.')),
     }
 
