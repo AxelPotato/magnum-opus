@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.2.8 (2026-10-09)
+
+- Part two: dropped the disclaimer on the birth image; notes record the lecture check and its open decisions
+
+
 ## 3.2.7 (2026-10-08)
 
 - Part two: translation check. teshuvah, kenosis, Chandogya, maya, Milindapanha, Acharanga, nirvana and others corrected; plain glosses added for the terms a general reader would not know; reading pack and research folder updated
