@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.3.8 (2026-10-10)
+
+- Second citation check: languishing credited to Keyes and popularised by Adam Grant; Phelps's own word is swimmer; Eckhart's gelazenheit no longer equated with Paul's kenosis; unverified year dropped from an Anokhin source
+
+
 ## 3.3.7 (2026-10-10)
 
 - Languishing line: "You're ok" becomes "You're meh"
