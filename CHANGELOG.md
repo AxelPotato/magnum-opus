@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.3.1 (2026-10-10)
+
+- Part two: dropped the tension, resistance and non-acceptance triad (text and figure), as Alex asked
+
+
 ## 3.3.0 (2026-10-10)
 
 - Part two: lecture check decisions. The speed picture is named as an image (after Jonathan Livingston Seagull) and speed means how much of the whole you take in; Default sits between minus three and minus one; the mind builds the wall and the body holds it; step 7 says higher steps show more to fix and the whole returns knowing more
