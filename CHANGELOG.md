@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.3.2 (2026-10-10)
+
+- Part two step 2: the mind builds the wall and the body shows it (the body is where it can be felt and loosened), not what holds it
+
+
 ## 3.3.1 (2026-10-10)
 
 - Part two: dropped the tension, resistance and non-acceptance triad (text and figure), as Alex asked

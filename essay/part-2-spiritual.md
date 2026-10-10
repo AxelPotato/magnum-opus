@@ -62,11 +62,11 @@ Why would a whole do this at all? The traditions give answers, and they rhyme. A
 
 Different words, one move: the many is real as an experience and misleading as the last word.
 
-## 2. The wall is held by the body
+## 2. The wall shows in the body
 
 If the separation is a way of looking, the next question is what keeps it in place, because knowing that a view is a view doesn't remove it. Part of the answer looks like soft material. In 1998 Matthew Botvinick and Jonathan Cohen sat people at a table with one hand hidden behind a screen and a rubber hand in plain view, and stroked both with a brush at the same moment. Most people soon felt the touch in the rubber hand, and many said it felt like their own, although they knew it was rubber. That moves the felt ownership of one hand, and it shows that the border of the self, as you feel it, can be edited.
 
-The mind builds the wall and the body holds it. That comes from observation, and the machine suggests where to look: its walls are held by hardware, and in a person the nearest thing to hardware is the body. It's Part one's tension, and I can show it to you in ten seconds. Make a fist, a hard one, tense your arm and shoulder and jaw while you're at it, and try to feel glad about something. I'll wait. You've turned into a small hard object in a world of other objects: I end here, and everything past this point is other. Let go of the fist and the sentence it was saying goes soft. That's BE in the language of this part: the less wall you hold up, the higher you sit.
+The mind builds the wall and the body shows it. That comes from observation, and the machine suggests where to look: its walls are enforced by hardware, and in a person the nearest thing to hardware is the body. It's Part one's tension, and I can show it to you in ten seconds. Make a fist, a hard one, tense your arm and shoulder and jaw while you're at it, and try to feel glad about something. I'll wait. You've turned into a small hard object in a world of other objects: I end here, and everything past this point is other. Let go of the fist and the sentence it was saying goes soft. That's BE in the language of this part: the less wall you hold up, the higher you sit.
 
 #### What the traditions say
 
@@ -122,7 +122,7 @@ One warning. The cheap version of karma is blame: she had it coming, he reaped w
 
 ## 6. Letting go, and repair
 
-So what undoes the wall, and the harm that went with it? Punishment would only be one more finger hitting another. What works is repair, and letting go. The fingers stop fighting, which in Part one's terms is inner agency: the sorry, the first step in a conflict, the hard conversation. And the wall from step two comes down the way it is held, through the body: you loosen what is held. That's also why you can't argue a person out of the feeling of separation. A body that holds a belief as tension needs evidence, and the evidence is the experience of letting go.
+So what undoes the wall, and the harm that went with it? Punishment would only be one more finger hitting another. What works is repair, and letting go. The fingers stop fighting, which in Part one's terms is inner agency: the sorry, the first step in a conflict, the hard conversation. And the wall from step two comes down through the body, where it shows: you loosen what you find held. That's also why you can't argue a person out of the feeling of separation. A body that holds a belief as tension needs evidence, and the evidence is the experience of letting go.
 
 #### What the traditions say
 
@@ -204,7 +204,7 @@ The axiom and the machine
 - Chittick, W. C. (1998). The Self-Disclosure of God. SUNY Press (on the hidden treasure saying).
 - Emerson, R. W. (1841). The Over-Soul, in Essays: First Series.
 
-2. The wall is held by the body
+2. The wall shows in the body
 
 - Botvinick, M., & Cohen, J. (1998). Rubber hands 'feel' touch that eyes see. Nature, 391(6669), 756. doi:10.1038/35784
 - The Buddhist teaching of the ten fetters, the first of which is the belief in a permanent personal self. Tattvartha Sutra, chapter 8 (karma as the veil on the soul's knowledge). Ephesians 4:18. Quran 7:172.

@@ -319,7 +319,7 @@ def fig_chain():
     b.append(T(40, 74, 'clause 3: the separation ends', 'small'))
     steps = [
         ('Separation is a way of looking', 'the whole looks at itself from positions', ['from clauses 1 and 2']),
-        ('The wall is held by the body', 'what keeps a way of looking in place', ['from step 1,', 'plus an observation']),
+        ('The wall shows in the body', 'what keeps a way of looking in place', ['from step 1,', 'plus an observation']),
         ('One life is too short', 'most do not finish, so the return takes longer', ['from clause 3,', 'and step 2']),
         ('Something carries over', 'a run that long needs a thread: the soul', ['from step 3']),
         ('Karma, or the fingers', 'nobody else to harm; the thread meets what it did', ['from clause 1,', 'carried by step 4']),
@@ -338,7 +338,7 @@ def fig_chain():
         for k, tg in enumerate(tags):
             b.append(T(490, y + 28 + k * 17, tg, 'small b'))
         prev_bottom = y + h
-    return svg('0 0 680 %d' % (prev_bottom + 14), 'A chain of seven steps, each following from the one before and from a clause of the axiom: separation is a way of looking, the wall is held by the body, one life is too short, something carries over, karma, letting go and repair, and the return in stages', ''.join(b), u)
+    return svg('0 0 680 %d' % (prev_bottom + 14), 'A chain of seven steps, each following from the one before and from a clause of the axiom: separation is a way of looking, the wall shows in the body, one life is too short, something carries over, karma, letting go and repair, and the return in stages', ''.join(b), u)
 
 
 # ------------------------------------------------------------------ the table: same structure, different words
