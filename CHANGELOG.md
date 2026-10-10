@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.3.4 (2026-10-10)
+
+- Citation check fixes: Mack's jail-cell test no longer credited to Bezos; Carrey, Phelps, Biles, Welwood wording tightened to what sources support; Anokhin lines without a source removed; Part two: Stevenson case count, Quran translation named, Shantideva verse number dropped, Seagull line attributed to the elder gull
+
+
 ## 3.3.3 (2026-10-10)
 
 - Part two: Why I want this rewritten in Alex's own words (his questions, losing walls, the wish to help others and make them happy) and the point of support named in step 7

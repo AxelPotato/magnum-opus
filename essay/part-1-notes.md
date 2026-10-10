@@ -18,7 +18,7 @@ Draft 1, 2026-10-06. File: `part-1-rational.md`, about 8,700 words. Humanizer pa
 - The friend story is unnamed, and it no longer says Israeli or that you lived with him (your calls, 2026-10-06). The joints and the Minsk trip are still there. Get his yes before sharing if he could be recognised.
 - The casting note ("every face was a man") was removed at your request.
 - Biles: I wrote only what she has said herself. I did not say which room she is in now.
-- Jonny Miller and George Mack are each credited once. The jail-cell test is Mack's version of a Jeff Bezos test; the essay says so.
+- Jonny Miller and George Mack are each credited once. The jail-cell test is Mack's own ("3rd world jail cell"); the essay no longer credits it to Bezos.
 - Essay title is open. "Two legs" is a candidate. The three part names stay as you gave them.
 
 ## Spiritual content added to Part one at your request
