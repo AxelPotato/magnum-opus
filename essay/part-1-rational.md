@@ -246,7 +246,7 @@ This larger scope is what the next part covers.
 
 The reason bigger than you
 
-- Anokhin, P. K. Принципиальные вопросы общей теории функциональных систем. In: Принципы системной организации функций. Moscow: Nauka, 1973, pp. 5-61. Also "Опережающее отражение действительности" (Вопросы философии, 1962, no. 7), "Рефлекс цели" and "Эмоции" (Большая медицинская энциклопедия, vol. 35, 1964), reprinted in Философские аспекты теории функциональной системы, Moscow, 1978.
+- Anokhin, P. K. Принципиальные вопросы общей теории функциональных систем. In: Принципы системной организации функций. Moscow: Nauka, 1973, pp. 5-61. Also "Опережающее отражение действительности" (Вопросы философии, 1962, no. 7), "Рефлекс цели как объект физиологического анализа" and "Эмоции" (Большая медицинская энциклопедия, vol. 35, 1964), reprinted in Философские аспекты теории функциональной системы, Moscow, 1978.
 - Frankl, V. E. Man's Search for Meaning. Boston: Beacon Press, 2006 edition, Parts One and Two.
 - Crocker, J., Canevello, A., Breines, J. G., & Flynn, H. (2010). Interpersonal goals and change in anxiety and dysphoria in first-semester college students. Journal of Personality and Social Psychology, 98(6), 1009-1024. doi:10.1037/a0019400
 - Yeager, D. S., et al. (2014). Boring but important: A self-transcendent purpose for learning fosters academic self-regulation. Journal of Personality and Social Psychology, 107(4), 559-580. doi:10.1037/a0037637

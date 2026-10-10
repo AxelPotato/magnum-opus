@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.3.9 (2026-10-11)
+
+- Third citation check: Anokhin source corrected to the full title of his goal-reflex essay ('Рефлекс цели как объект физиологического анализа', in Философские аспекты теории функциональной системы, 1978, p. 292)
+
+
 ## 3.3.8 (2026-10-10)
 
 - Second citation check: languishing credited to Keyes and popularised by Adam Grant; Phelps's own word is swimmer; Eckhart's gelazenheit no longer equated with Paul's kenosis; unverified year dropped from an Anokhin source
