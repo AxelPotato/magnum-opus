@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.3.7 (2026-10-10)
+
+- Languishing line: "You're ok" becomes "You're meh"
+
+
 ## 3.3.6 (2026-10-10)
 
 - Remove the Sinatra/Scooby-Doo passage from the opening
