@@ -255,9 +255,6 @@ def figure(inner, caption, cls=''):
 # paragraph-start text -> (before_html_fn or None, after_html_fn or None)
 def rules1():
     return {
-        'If DO and BE sound like a Sinatra': dict(after=figure(
-            f'<img class="scooby" src="{uri("scooby")}" alt="Scooby-Doo" width="800" height="450" loading="lazy">',
-            'BE: where are you? DO: there is a man in a mask.', 'photo')),
         'Draw them as a cross.': dict(after=figure(svg_cross(), 'The cross. DO runs left to right, BE runs bottom to top. Each room with the people who will show up in it.')),
         'Squidward is the most extreme': dict(who=[('squidward', 'Squidward', 'default')]),
         'George Costanza is the exit story': dict(who=[('costanza', 'George Costanza', 'default')]),

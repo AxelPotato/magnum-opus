@@ -10,8 +10,6 @@ And how often are you the first one to make a move in a conflict? The first "oka
 
 Hold on to your two answers. They measure two different things, almost nobody works on both, and the few who do end up living a different kind of life. That's the whole idea, so you can disagree with it early. A person grows in two directions. I call them DO and BE. DO is how much you make things happen. BE is how much you let go of whatever holds you back from the inside, which turns out to be how much you can be here, aware of what is actually happening right now. I call the place where both are high high agency, and the rest of this essay is about what it is, why it's hard to get to, and why it's worth the trouble.
 
-If DO and BE sound like a Sinatra song, you're in good company. The old joke goes: to be is to do, says Socrates; to do is to be, says Sartre; do be do be do, says Sinatra. I'd like to add a fourth school of thought, which is Scooby-Doo. The original series is called Scooby-Doo, Where Are You!, which is a BE question, asked of a dog who is hiding. Every episode then hands the gang a DO problem: a mystery, a van and a man in a mask. Between the two of them you get one fully functioning human.
-
 The whole thing is one big graph that I'll draw slowly. Congratulations.
 
 ## DO: making things happen

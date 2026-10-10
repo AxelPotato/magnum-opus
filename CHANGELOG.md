@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.3.6 (2026-10-10)
+
+- Remove the Sinatra/Scooby-Doo passage from the opening
+
+
 ## 3.3.5 (2026-10-10)
 
 - Citation check: Quran 7:172 named as Arberry's translation; Shantideva verse 8.91 restored and sourced to the Padmakara translation (checked on the Tsadra text)
