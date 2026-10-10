@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.3.0 (2026-10-10)
+
+- Part two: lecture check decisions. The speed picture is named as an image (after Jonathan Livingston Seagull) and speed means how much of the whole you take in; Default sits between minus three and minus one; the mind builds the wall and the body holds it; step 7 says higher steps show more to fix and the whole returns knowing more
+
+
 ## 3.2.9 (2026-10-09)
 
 - Part two: the space levels now read as speeds (leave the Earth, the Sun, the galaxy, no pull left) instead of sizes in space; arrow figure labelled with the speeds
