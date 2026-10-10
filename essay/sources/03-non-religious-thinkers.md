@@ -339,3 +339,20 @@ Background: Zigong was one of the best-known disciples, a merchant and diplomat.
 If someone pushes back:
 - It is just the golden rule, which every culture has. What does it prove about oneness? Answer: nothing, and the essay says so. It calls the golden rule the same logic read forwards and says most versions rest on reciprocity, with only a few going further.
 - Confucius's version is negative. Answer: yes. Hillel's is negative too, and Jesus's is positive. The essay does not claim they are identical, only that they are close.
+
+## Richard Bach, Jonathan Livingston Seagull (1970) (Bach born 1936; the novella was published by Macmillan in 1970)
+
+Kind: text. Status: unchecked (added 2026-10-10 at Alex's request).
+
+Who: American writer and former US Air Force pilot. Jonathan Livingston Seagull is a short fable about a gull who cares more about flying than about food, is cast out of his flock for it, and learns from older gulls that the limits he flies against are in his thinking.
+
+In the essay: In step 7, 'The return, in stages', where the arrow of consciousness is drawn as speed. Alex's point (2026-10-10): the speed picture is an image that shows the difference between the steps and their scale, and it is not a realistic depiction of anything, the same way Bach used speed in the book.
+
+The passage: the elder gull Chiang tells Jonathan that "perfect speed, my son, is being there." Quoted from memory; check the wording against a printed copy before relying on it.
+
+Read it in a book: the Scribner paperback, or the 2014 complete edition, which adds a fourth part Bach held back in 1970. Editions are from memory; check a catalogue.
+
+Background: the book was a slow starter and then a very large bestseller in the early 1970s, and a film followed in 1973. Readers have taken it as a story about self-improvement, as a spiritual parable, or as both.
+
+If someone pushes back:
+- It's a children's book about a bird. Answer: it is used only for the way it handles speed, as a picture of inner freedom, which is exactly how the essay uses the space picture.

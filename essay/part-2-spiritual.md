@@ -66,7 +66,7 @@ Different words, one move: the many is real as an experience and misleading as t
 
 If the separation is a way of looking, the next question is what keeps it in place, because knowing that a view is a view doesn't remove it. Part of the answer looks like soft material. In 1998 Matthew Botvinick and Jonathan Cohen sat people at a table with one hand hidden behind a screen and a rubber hand in plain view, and stroked both with a brush at the same moment. Most people soon felt the touch in the rubber hand, and many said it felt like their own, although they knew it was rubber. That moves the felt ownership of one hand, and it shows that the border of the self, as you feel it, can be edited.
 
-The body keeps it in place. That comes from observation, and the machine suggests where to look: its walls are held by hardware, and in a person the nearest thing to hardware is the body. It's Part one's tension, and I can show it to you in ten seconds. Make a fist, a hard one, tense your arm and shoulder and jaw while you're at it, and try to feel glad about something. I'll wait. You've turned into a small hard object in a world of other objects: I end here, and everything past this point is other. Tension, resistance and non-acceptance are three ways of maintaining the wall. Let go of the fist and the sentence it was saying goes soft. That's BE in the language of this part: the less wall you hold up, the higher you sit.
+The mind builds the wall and the body holds it. That comes from observation, and the machine suggests where to look: its walls are held by hardware, and in a person the nearest thing to hardware is the body. It's Part one's tension, and I can show it to you in ten seconds. Make a fist, a hard one, tense your arm and shoulder and jaw while you're at it, and try to feel glad about something. I'll wait. You've turned into a small hard object in a world of other objects: I end here, and everything past this point is other. Tension, resistance and non-acceptance are three names for the same grip, the one that keeps the wall up. Let go of the fist and the sentence it was saying goes soft. That's BE in the language of this part: the less wall you hold up, the higher you sit.
 
 #### What the traditions say
 
@@ -143,13 +143,15 @@ The big square, the zoomed-out map from the end of Part one, is something else. 
 
 There is a scale for this, the arrow of consciousness, and it runs from minus four to plus four. It's the same diagonal you've been looking at since Part one. The bottom left of the small square is the low end, the middle of the line is zero, and the top right corner is plus one. Everything past that lives in the zoomed-out map: plus two, plus three and plus four, and after plus four comes a new stage, which I call birth.
 
-I've found one picture that carries the whole scale, and it's about speed. The measure is how freely you can move through space, and gravity holds you back. Under the axiom, moving somewhere means experiencing from another position, so speed is how many points of view of the whole you can be at home in, and gravity is the pull of the one you started with.
+I've found one picture that carries the whole scale, and it's about speed. It's an image, the way Richard Bach used speed in Jonathan Livingston Seagull, where a gull who only wants to fly faster is told in the end that "perfect speed, my son, is being there." Nobody on this scale is literally going anywhere. The picture is there to show how each step differs from the one before it, and how big the jumps get. The measure is how freely you can move, and gravity holds you back. Under the axiom, speed is how much of the whole you can take in at once, and gravity is the pull of the one point of view you started with.
 
-At the low end, in Default, you can run, ride a bike and drive a car, and the ground decides where you go. Up to zero, people learn to fly, and roads stop mattering. After zero, in the high agency half, you can orbit the Earth. At the height of the International Space Station, gravity is still about 88 percent of what it is on the ground, and the astronauts float because they are falling around the planet and missing it. They are free of the ground, and the Earth still has them.
+At the low end, in Default, you can run, ride a bike and drive a car, and the ground decides where you go. Most of us live somewhere between minus three and minus one. Minus four is the far corner of the chart, and nobody stays there for long. Up to zero, people learn to fly, and roads stop mattering. After zero, in the high agency half, you can orbit the Earth. At the height of the International Space Station, gravity is still about 88 percent of what it is on the ground, and the astronauts float because they are falling around the planet and missing it. They are free of the ground, and the Earth still has them.
 
 The top right corner of the small square is escape velocity, about 11.2 kilometers per second from the surface. Notice how close it is to orbit: at any height, escape speed is only about 41 percent higher than orbital speed there, and the difference in outcome is total, since in the ideal case one speed circles forever and the other leaves. In Part one's math the corner is the maximum of BE times DO, 100 times 100. Don't quote me, but I like that the geometry of the small square and the physics of rockets agree on where the threshold is.
 
 Past the corner the picture keeps going, and each level is the speed that frees you from the next, bigger pull. Plus two leaves the Sun behind, which takes about 16.7 kilometers per second from the Earth's surface. Plus three leaves the galaxy, which takes about 550 kilometers per second at the Sun's distance from its center. Plus four has no pull left to leave, and every point in the universe, about 93 billion light-years across as far as we can see, is a place you can be at home, so the word every is doing some work.
+
+Every step up shows you more of the whole, and that includes more of what still needs fixing, so the higher you go, the more there is to do. And the whole that comes back at the end knows more than the whole that set out, because in between it has been each one of us.
 
 Birth is a stage, so the arrow isn't the end of the story. Many traditions have an image of a second birth for a decisive change in a person, and the old maps were scale maps as well.
 
@@ -233,6 +235,7 @@ The axiom and the machine
 
 - Origen, On First Principles, and Gregory of Nyssa on 1 Corinthians 15:28. Zechariah 14:9. Quran 2:156.
 - John 3:3 and 3:7. Eckhart's German sermons on the birth of God in the soul. Dante Alighieri, Paradiso, canto I. The Jain fourteen gunasthanas. Teresa of Avila, The Interior Castle.
+- Bach, R. (1970). Jonathan Livingston Seagull. Macmillan.
 
 What you can check
 
