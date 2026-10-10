@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.3.5 (2026-10-10)
+
+- Citation check: Quran 7:172 named as Arberry's translation; Shantideva verse 8.91 restored and sourced to the Padmakara translation (checked on the Tsadra text)
+
+
 ## 3.3.4 (2026-10-10)
 
 - Citation check fixes: Mack's jail-cell test no longer credited to Bezos; Carrey, Phelps, Biles, Welwood wording tightened to what sources support; Anokhin lines without a source removed; Part two: Stevenson case count, Quran translation named, Shantideva verse number dropped, Seagull line attributed to the elder gull

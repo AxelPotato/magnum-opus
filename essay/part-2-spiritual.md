@@ -74,7 +74,7 @@ The traditions name what holds the wall in their own terms: the self is built, v
 
 * Buddhism says the self is built. What feels like one solid "me" is described as a bundle of parts: body, feelings, perceptions, intentions and habits, and awareness, working together, and the first thing the path asks you to drop is the belief that there is a solid, permanent "me" behind them. That is why it can be let go of.
 * Jain teaching describes karma as fine matter that veils the soul's own natural knowledge, as clouds veil the sun, so the perfection was there all along.
-* The letter to the Ephesians says that the non-Jewish world its readers left behind is alienated from the life of God because of the ignorance that is in them (4:18, ESV). In the Quran (7:172) God asks the descendants of Adam, "Am I not your Lord?", and Sufis read that moment as the origin the soul has forgotten and longs to return to.
+* The letter to the Ephesians says that the non-Jewish world its readers left behind is alienated from the life of God because of the ignorance that is in them (4:18, ESV). In the Quran (7:172) God asks the descendants of Adam, "Am I not your Lord?" (in Arberry's translation), and Sufis read that moment as the origin the soul has forgotten and longs to return to.
 
 ## 3. One life is too short
 
@@ -114,7 +114,7 @@ Two ideas are packed into this step: deeds come back to the doer, and the other 
 
 * The traditions differ on who administers karma. In the Buddhist account nobody does: the Buddha said it is intention he calls karma (Anguttara Nikaya 6.63). In Advaita, karma belongs to the world of apparent individuals.
 * The shape turns up elsewhere without any rebirth. Paul writes that whatever one sows, that will he also reap (Galatians 6:7, ESV), and the Quran says that if you do good, you do good for yourselves, and if you do evil, you do it to yourselves (17:7, in the Sahih International rendering).
-* The image of the fingers is old too. Paul says the church is a body with many members, and that if one member suffers, all suffer together (1 Corinthians 12:26). Shantideva, the Indian Buddhist, wrote in his Guide to the Bodhisattva's Way of Life that the hand and the other limbs are many and distinct, yet all are one, and that beings are in the same way all one in wanting happiness (Bodhicaryavatara, chapter 8).
+* The image of the fingers is old too. Paul says the church is a body with many members, and that if one member suffers, all suffer together (1 Corinthians 12:26). Shantideva, the Indian Buddhist, wrote in his Guide to the Bodhisattva's Way of Life that the hand and the other limbs are many and distinct, yet all are one, and that beings are in the same way all one in wanting happiness (Bodhicaryavatara 8.91, in Padmakara's translation).
 * The golden rule is the same logic read forwards: if the other is me, treating them as I want to be treated stops being a nicety and becomes consistency. Hillel, asked to teach the whole Torah while standing on one foot, is reported to have said: what is hateful to you, do not do to your fellow. That is the whole Torah, and the rest is commentary (Shabbat 31a, in the Talmud). Most versions rest on reciprocity or empathy, but the Isha Upanishad goes further: the one who sees all beings in the Self, and the Self in all beings, recoils from nothing.
 * People with no creed get there too. Marcus Aurelius, who is in Part one as well, tells himself that difficult people are his kin, since we are made for cooperation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. Schopenhauer built his ethics on compassion, the recognition in another person of the same being you are, and put it in the Sanskrit formula tat tvam asi, that art thou. And Wang Yangming, the Chinese philosopher, wrote in 1527 that the great person forms one body with heaven, earth and all things. His example was ordinary: you see a small child about to fall into a well, and you feel a jolt of alarm and compassion before you have thought anything. For him that jolt is what feeling one body with the child is like from the inside.
 
@@ -222,7 +222,7 @@ The axiom and the machine
 
 5. Karma, or the fingers
 
-- Anguttara Nikaya 6.63. Galatians 6:7. Quran 17:7. 1 Corinthians 12:26. Shantideva, Bodhicaryavatara chapter 8 (verse numbering varies by translation, and the wording here is a paraphrase).
+- Anguttara Nikaya 6.63. Galatians 6:7. Quran 17:7. 1 Corinthians 12:26. Shantideva, Bodhicaryavatara 8.91 (Padmakara Translation Group, The Way of the Bodhisattva, 2006; the wording here is a close paraphrase, and verse numbering varies a little by translation).
 - Babylonian Talmud, Shabbat 31a (Hillel). Isha Upanishad 6 and 7.
 - Marcus Aurelius, Meditations 2.1 (George Long's translation is in the public domain). Schopenhauer, A. (1840). On the Basis of Morality. Wang Yangming (1527). Inquiry on the Great Learning.
 
