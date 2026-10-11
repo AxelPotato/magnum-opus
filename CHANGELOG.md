@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.4.2 (2026-10-11)
+
+- String theory line: 'nobody has tested it yet' becomes 'no experiment has confirmed it yet', which is what the sources support
+
+
 ## 3.4.1 (2026-10-11)
 
 - Alex's hand edit: Welwood paragraph ends at 'do any of it' (prescription sentence removed)
