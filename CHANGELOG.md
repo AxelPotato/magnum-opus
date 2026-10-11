@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.4.0 (2026-10-11)
+
+- Part two step 1: a physics passage on quantum fields, entanglement and string theory, framed as fitting the axiom and not proving it
+
+
 ## 3.3.9 (2026-10-11)
 
 - Third citation check: Anokhin source corrected to the full title of his goal-reflex essay ('Рефлекс цели как объект физиологического анализа', in Философские аспекты теории функциональной системы, 1978, p. 292)

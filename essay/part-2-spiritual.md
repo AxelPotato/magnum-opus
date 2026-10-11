@@ -54,6 +54,16 @@ If everything is one, and the whole experiences separation, then being separate 
 
 Why would a whole do this at all? The traditions give answers, and they rhyme. A whole that looks at itself needs positions to look from, and a position is a separation. Knowing needs a gap.
 
+Physics is a fun place to look here, though it comes with a warning label. For a few centuries the picture was easy. The world is made of tiny separate balls, atoms and electrons and so on, each one a little thing with its own properties, and everything else is those balls in different arrangements. Quantum field theory, the framework behind the Standard Model of particle physics, says something different. In it there are no tiny balls to begin with. There are fields, which you can think of as something that fills all of space, a bit like the ocean fills a bay. What we call an electron is a ripple in the electron field, and a photon is a ripple in the electromagnetic field. The ripple has a place and some energy, and we count it as a particle, the same way you might count waves. But a wave is not a thing separate from the water. It is the water doing something.
+
+This also explains something odd. Every electron in the universe is exactly the same as every other electron, with no differences to find. A factory can't make two things this identical. If every electron is a ripple in the same field, they match for the same reason two waves in the same bay are made of the same water.
+
+Fields are not the only strange thing. Take two particles prepared together and send them far apart. Measure them, and the results match up more strongly than any pair of private, pre-set answers could allow. John Bell showed in 1964 how to test that, the loopholes were closed by 2015, and the 2022 Nobel Prize went to the people who ran the tests. The pair behaves as one thing with a joint state, even when the two ends are far apart. It carries no message, so please don't use it to explain your cousin's premonition.
+
+The Standard Model has a separate field for each kind of particle, and physicists have long wanted to go one step further. String theory is the best known attempt. It says every particle is a different way that one kind of tiny string can vibrate, like different notes from a single guitar string. Nobody has tested it yet, so I take it as a hint of where the road might lead.
+
+So I'm not claiming this proves that we are one. What I take from it is this. For centuries the picture was lots of separate things. The best physics we have now says that picture is wrong at the bottom. The many things turn out to be one world doing something in different places, and the most ambitious theories hope it comes down to a single kind of thing. That is the shape of the axiom, and I find it a good sign that it turned up in physics without anyone asking it to.
+
 #### What the traditions say
 
 * Hinduism calls the appearance maya, and teachers of Advaita, the non-dual school of Hindu philosophy, warn that "illusion" translates the word badly: the world depends on something deeper for its being, so it is neither fully real nor simply unreal. Plato's prisoners in the cave take shadows for the world, and in the Heart Sutra, a short Buddhist text, form is emptiness and emptiness is form, which Buddhists read as saying that things have no fixed independent nature of their own.
@@ -200,6 +210,7 @@ The axiom and the machine
 
 1. Separation is a way of looking
 
+- Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. Physics, 1(3), 195-200. Hensen, B., et al. (2015). Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres. Nature, 526, 682-686. The Nobel Prize in Physics 2022, press release (Aspect, Clauser, Zeilinger). Stanford Encyclopedia of Philosophy, Quantum Field Theory.
 - Plato, Republic VII (the cave). The Heart Sutra (Conze's translation, in Buddhist Wisdom Books, 1958, is the usual one). Brahma Sutra 2.1.33.
 - Chittick, W. C. (1998). The Self-Disclosure of God. SUNY Press (on the hidden treasure saying).
 - Emerson, R. W. (1841). The Over-Soul, in Essays: First Series.
