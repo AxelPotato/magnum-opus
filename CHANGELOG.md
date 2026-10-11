@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.4.1 (2026-10-11)
+
+- Alex's hand edit: Welwood paragraph ends at 'do any of it' (prescription sentence removed)
+
+
 ## 3.4.0 (2026-10-11)
 
 - Part two step 1: a physics passage on quantum fields, entanglement and string theory, framed as fitting the axiom and not proving it
