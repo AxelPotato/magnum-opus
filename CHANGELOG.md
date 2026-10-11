@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.8.1 (2026-10-11)
+
+- Part two step 2: the rubber hand and the fist are two paragraphs again, each with its figure
+
+
 ## 3.8.0 (2026-10-11)
 
 - Part two: the old step 3 'The wall shows in the body' is merged into step 2 'Why we forget' (rubber hand, the fist and BE become the body half of the inertia loop; the self built, veiled or forgotten joins its traditions); the chain is seven steps again
