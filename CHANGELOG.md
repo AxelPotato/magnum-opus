@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.7.1 (2026-10-11)
+
+- Part two step 7: each of the three moves is now derived from the axiom (repair undoes treating a part of the whole as other, asking undoes the drift of attention to forms and uses the uncut connection, shared service is the whole acting as one body), and letting go is explained as the body losing its reason for tension
+
+
 ## 3.7.0 (2026-10-11)
 
 - Part two: new step 2 'Why we forget' (inertia is built into existence on purpose so the separation lasts; darkness is contagious; attention drifts to the world of forms; the decision is remade in every situation); steps renumbered to eight; step 7 rewritten as 'Coming home, and repair' close to the lectures (mend the cause in you, turn to the source and ask, serve something bigger, letting go as the doorway); step 6 now says the mirror shows what separation costs; chain figure updated
