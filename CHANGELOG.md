@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.6.0 (2026-10-11)
+
+- Part two step 5: karma rephrased close to the lectures as a mirror (what you think and feel returns right away, work on the cause in you, the world teaches and doesn't punish), with a nod that this is the real meaning of what people call karma; the across-lives reading is kept but flagged as the author's own
+
+
 ## 3.5.0 (2026-10-11)
 
 - Part two step 4: what carries over between lifetimes is the quintessence of the experience, accumulated until the soul is ready for the next step, not the whole run
