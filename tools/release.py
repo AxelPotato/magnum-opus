@@ -23,6 +23,27 @@ def run(*args, **kw):
     return subprocess.run(args, cwd=ROOT, check=True, **kw)
 
 
+def sync_desk(version):
+    """Copy the essay text to the project's shared folder so the Essay Desk can refresh from it.
+
+    Best effort: only runs where /mnt/project-files exists, and never replaces a newer version.
+    """
+    dest = '/mnt/project-files/essay-latest'
+    if not os.path.isdir('/mnt/project-files'):
+        return
+    try:
+        os.makedirs(dest, exist_ok=True)
+        vpath = os.path.join(dest, 'VERSION')
+        key = lambda v: tuple(int(x) for x in v.split('.'))
+        if os.path.exists(vpath) and key(open(vpath).read().strip()) > key(version):
+            return
+        for name in ('part-1-rational.md', 'part-2-spiritual.md'):
+            shutil.copyfile(os.path.join(ROOT, 'essay', name), os.path.join(dest, name))
+        open(vpath, 'w', newline='\n').write(version + '\n')
+    except Exception as e:
+        print(f'Desk sync skipped: {e}')
+
+
 def main():
     argv = [a for a in sys.argv[1:]]
     push = '--push' in argv
@@ -68,6 +89,7 @@ def main():
     run('git', 'commit', '-m', message)
     run('git', 'tag', '-a', f'v{new}', '-m', f'v{new}: {msg}')
     print(f'Released v{new}')
+    sync_desk(new)
 
     if push:
         run('git', 'push', 'origin', 'HEAD', '--follow-tags')
