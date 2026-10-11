@@ -78,9 +78,7 @@ Step 1 leaves a question hanging. If everything is one, why would the whole ever
 
 Start with inertia. A moving object keeps moving until something pushes it, and a resting one stays put. Life in separation behaves the same way. A being who makes no effort toward unity keeps experiencing disunity, and the experience feeds itself. Every day brings more evidence for the view that I'm separate: a body that ends at the skin, a mind nobody else can read, a world full of things apart from each other. Each piece of evidence makes the next one easier to believe, and the wall grows thicker.
 
-The wall is softer than it looks, and it runs through the body. In 1998 Matthew Botvinick and Jonathan Cohen sat people at a table with one hand hidden behind a screen and a rubber hand in plain view, and stroked both with a brush at the same moment. Most people soon felt the touch in the rubber hand, and many said it felt like their own, although they knew it was rubber. The border of the self, as you feel it, can be edited.
-
-It also lives in the body, and I can show you where in ten seconds. Make a fist, a hard one, tense your arm and shoulder and jaw while you're at it, and try to feel glad about something. I'll wait. You've turned into a small hard object in a world of other objects: I end here, and everything past this point is other. Let go of the fist and the sentence it was saying goes soft. The machine suggests where to look, since its walls are enforced by hardware, and in a person the nearest thing to hardware is the body. So the belief that I'm separate is held as tension, and the tension keeps confirming the belief. That's Part one's BE in the language of this part: the less wall you hold up, the higher you sit.
+The body keeps the loop running. Clench a fist and you feel like a small hard object in a world of other objects, and when you let go that feeling softens. The belief that I'm separate is held as tension, and the tension keeps confirming the belief.
 
 Attention works the same way. Left alone, it goes to whatever is in front of you, and what is in front of you is the world of forms. So without taking control of it, you drift further into that world, immersed, and you fall asleep to the rest. There is a saying that light is attractive but darkness is contagious. Attraction means you have to make an effort to move toward something. Contagion means you catch it by standing still.
 
@@ -242,7 +240,6 @@ The axiom and the machine
 2. Why we forget
 
 - Bhagavad Gita 14.8. Ephesians 4:18 and 5:14. Quran 7:172.
-- Botvinick, M., & Cohen, J. (1998). Rubber hands 'feel' touch that eyes see. Nature, 391(6669), 756. doi:10.1038/35784
 - The Buddhist teaching of the ten fetters, the first of which is the belief in a permanent personal self. Tattvartha Sutra, chapter 8 (karma as the veil on the soul's knowledge).
 
 3. One life is too short

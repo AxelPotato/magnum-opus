@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.8.2 (2026-10-11)
+
+- Part two step 2: the rubber hand paragraph is cut (Alex's edit) and the fist paragraph shortened to the one idea that belongs in the macro part
+
+
 ## 3.8.1 (2026-10-11)
 
 - Part two step 2: the rubber hand and the fist are two paragraphs again, each with its figure
