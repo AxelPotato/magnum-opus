@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.7.3 (2026-10-11)
+
+- Part two step 7: the third move now follows from the second (the same giving, carried from attention into action)
+
+
 ## 3.7.2 (2026-10-11)
 
 - Part two step 7: 'giving instead of taking' replaces 'grabbing'
