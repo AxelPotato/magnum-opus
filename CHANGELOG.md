@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.5.0 (2026-10-11)
+
+- Part two step 4: what carries over between lifetimes is the quintessence of the experience, accumulated until the soul is ready for the next step, not the whole run
+
+
 ## 3.4.2 (2026-10-11)
 
 - String theory line: 'nobody has tested it yet' becomes 'no experiment has confirmed it yet', which is what the sources support
