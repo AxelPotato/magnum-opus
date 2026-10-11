@@ -9,14 +9,15 @@ Your brief of 2026-10-08: less text; the logical step by step build first; examp
 1. Where we part ways. The two views (observation and materialism, or "we are all one"), both as assumptions; "I'm not religious" and that many traditions will be quoted as witnesses.
 2. Why this idea is worth a closer look. The base of the idea in each tradition's own words, one line each: Hinduism (Chandogya 6.8.7), Buddhism (no single whole; the Huayan net), Jainism (many souls, alike; the ethic of non-harm), Judaism (the Shema; Chabad), Christianity (John 17:21; 1 Corinthians 15:28), Islam (Quran 2:115; Ibn Arabi), Daoism (Daodejing 42); then Spinoza, Einstein, Schrödinger, Sagan; the plan: take it as an axiom and see what follows. Buddhism and Jainism are stated honestly as coming at it from the side.
 3. The axiom (three clauses) and the machine (programs, private memory, walls, one processor, two windows).
-4. The chain, as a figure and seven steps. Each step: the logic, then "What the traditions say".
-   1. Separation is a way of looking (illusion, why the whole would do it).
-   2. The wall is held by the body (rubber hand; the fist; Gennady's three words; BE). An observation, said to be one.
-   3. One life is too short (clause 3 plus most do not finish; Lessing; the traditions on lives and on growth after death).
-   4. Something carries over (the soul as the saved state; who carries over; Advaita; Buddhism; the science caveat).
-   5. Karma, or the fingers (one whole, nobody else to harm; the thread meets what it did; the golden rule; non-religious witnesses).
-   6. Letting go, and repair (the way back; bittul, fana, kenosis, relinquishment; the rules of repair).
-   7. The return, in stages (small and big square; the arrow; the speed picture; birth; other staged maps).
+4. The chain, as a figure and eight steps. Each step: the logic, then "What the traditions say".
+   1. Separation is a way of looking (illusion, why the whole would do it; physics as a hint).
+   2. Why we forget (inertia built into existence on purpose, so the separation lasts; darkness is contagious; attention drifts to the world of forms; the decision is made again in every situation; Gita 14.8, Ephesians 5:14). Added 2026-10-11 at Alex's request.
+   3. The wall is held by the body (rubber hand; the fist; Gennady's three words; BE). An observation, said to be one.
+   4. One life is too short (clause 3 plus most do not finish; Lessing; the traditions on lives and on growth after death).
+   5. Something carries over (the quintessence of experience, accumulated; who carries over; Advaita; Buddhism; the science caveat).
+   6. Karma, or the fingers (rewritten close to the lectures as a mirror, with a nod that this is what karma really means; the across-lives reading flagged as the author's own; the golden rule; non-religious witnesses).
+   7. Coming home, and repair (the way back: mend the cause in you, turn to the source and ask, serve something bigger; letting go as the doorway; bittul, fana, kenosis, relinquishment; the rules of repair).
+   8. The return, in stages (small and big square; the arrow; the speed picture; birth; other staged maps).
 5. Why I want this, What you can check, Where this goes next (short).
 
 Figure `fig_chain` (figs4.py) shows the chain with the premises each step uses. The cross-tradition table was removed from the page in 3.0.0 because the steps now carry the examples; the code is still in figs4.py (`rosetta_html`) and can come back as a recap.

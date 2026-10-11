@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.7.0 (2026-10-11)
+
+- Part two: new step 2 'Why we forget' (inertia is built into existence on purpose so the separation lasts; darkness is contagious; attention drifts to the world of forms; the decision is remade in every situation); steps renumbered to eight; step 7 rewritten as 'Coming home, and repair' close to the lectures (mend the cause in you, turn to the source and ask, serve something bigger, letting go as the doorway); step 6 now says the mirror shows what separation costs; chain figure updated
+
+
 ## 3.6.0 (2026-10-11)
 
 - Part two step 5: karma rephrased close to the lectures as a mirror (what you think and feel returns right away, work on the cause in you, the world teaches and doesn't punish), with a nod that this is the real meaning of what people call karma; the across-lives reading is kept but flagged as the author's own

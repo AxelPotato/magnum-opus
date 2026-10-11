@@ -72,7 +72,26 @@ So I'm not claiming this proves that we are one. What I take from it is this. Fo
 
 Different words, one move: the many is real as an experience and misleading as the last word.
 
-## 2. The wall shows in the body
+## 2. Why we forget
+
+Step 1 leaves a question hanging. If everything is one, why would the whole ever lose track of that? My answer is that the forgetting is no accident and no flaw. It is built into existence itself, on purpose.
+
+Start with inertia. A moving object keeps moving until something pushes it, and a resting one stays put. Life in separation behaves the same way. A being who makes no effort toward unity keeps experiencing disunity, and the experience feeds itself. Every day brings more evidence for the view that I'm separate: a body that ends at the skin, a mind nobody else can read, a world full of things apart from each other. Each piece of evidence makes the next one easier to believe, and the wall from step 3 grows thicker.
+
+Attention works the same way. Left alone, it goes to whatever is in front of you, and what is in front of you is the world of forms. So without taking control of it, you drift further into that world, immersed, and you fall asleep to the rest. There is a saying that light is attractive but darkness is contagious. Attraction means you have to make an effort to move toward something. Contagion means you catch it by standing still.
+
+Why would a whole build this in? Because a forgetting that lasted an afternoon wouldn't be worth anything. Step 1 said that knowing needs a gap. The gap also has to stay open long enough for a life to be lived, for something to be learned, and for it to be brought back. This is the lila of step 1 taken seriously: a game with real stakes can't be one you can quit by accident.
+
+That has a consequence for everything that follows. Nothing returns by itself. Unity won't arrive as the default, because the default is the pull toward separation. Getting out takes a decision, and not just once: the same decision, made again in every situation that comes. The steps that follow describe that process. Step 6 shows how a single life learns what separation costs, and step 7 shows how the push against the inertia begins.
+
+#### What the traditions say
+
+* The Sanskrit word for this heaviness is tamas, the quality of inertia. The Bhagavad Gita (14.8) says it is born of ignorance, deludes all embodied beings, and binds them through heedlessness, laziness and sleep.
+* The language of sleep is everywhere. Buddha means the awakened one. The letter to the Ephesians quotes what looks like an early hymn: "Awake, O sleeper, and arise from the dead" (5:14, ESV).
+
+They name the pull in different words, and they agree that it's a default, and that waking takes an act.
+
+## 3. The wall shows in the body
 
 If the separation is a way of looking, the next question is what keeps it in place, because knowing that a view is a view doesn't remove it. Part of the answer looks like soft material. In 1998 Matthew Botvinick and Jonathan Cohen sat people at a table with one hand hidden behind a screen and a rubber hand in plain view, and stroked both with a brush at the same moment. Most people soon felt the touch in the rubber hand, and many said it felt like their own, although they knew it was rubber. That moves the felt ownership of one hand, and it shows that the border of the self, as you feel it, can be edited.
 
@@ -86,7 +105,7 @@ The traditions name what holds the wall in their own terms: the self is built, v
 * Jain teaching describes karma as fine matter that veils the soul's own natural knowledge, as clouds veil the sun, so the perfection was there all along.
 * The letter to the Ephesians says that the non-Jewish world its readers left behind is alienated from the life of God because of the ignorance that is in them (4:18, ESV). In the Quran (7:172) God asks the descendants of Adam, "Am I not your Lord?" (in Arberry's translation), and Sufis read that moment as the origin the soul has forgotten and longs to return to.
 
-## 3. One life is too short
+## 4. One life is too short
 
 So far that was the second clause, the separation, and what holds it up. The third clause says the separation ends, and I'll read it strictly: it ends for each of us, in the end. So the process is a return, from experiencing the world as many to experiencing it as one. Here is the problem: most people don't get there. By Part one's guess, 95 percent of us live in the Default room, holding the wall up for a whole life without noticing, and even the few who reach the top right corner are, by the standard of the axiom, only at the start of the next map. So there are two options. Either the process fails for most participants, which contradicts the third clause for most of us, or it takes more than one lifetime. The axiom prefers the second, because the first leaves a return that almost nobody gets to make. The argument is older than I am: near the end of The Education of the Human Race, in 1780, Lessing, a thoroughly Enlightenment sort of person, asks why he shouldn't come back as often as he is capable of acquiring fresh knowledge. How the next stretch looks, in a new body or in some other form, is where the traditions differ.
 
@@ -98,7 +117,7 @@ So far that was the second clause, the separation, and what holds it up. The thi
 
 The traditions differ on the form, and the axiom needs only that development continues. Some follow it into further lives, and some keep the growth and drop the return.
 
-## 4. Something carries over
+## 5. Something carries over
 
 And if the run continues, something has to carry what was learned from one stretch to the next. In the traditions that use the word, that's the soul. In the machine it would be the saved state: the program shuts down, the window closes, and what carries over is the account. The session is gone, and so is most of the detail. What gets saved is the quintessence of the experience, the part that was worth keeping, and it accumulates from one life to the next until the soul, or whatever you prefer to call it, is ready for the next step. Turning it off and on again fixes a surprising number of things, as The IT Crowd taught a generation, and in this picture it's also the policy on death. That picture answers the obvious objection too: a new session can't read the old session's private memory, so not remembering is what the walls predict.
 
@@ -112,17 +131,17 @@ There's a fair question here: if there is only one mind, who carries over? The A
 
 Inside the axiom this follows, with one added assumption: that what continues is a thread of this particular run, which gathers the essence of each life as it goes, and the whole's general record is only part of it. The best-known research on it is Ian Stevenson's at the University of Virginia, continued by Jim Tucker: over 2,500 cases of children who said they remembered earlier lives. Most people who hold this view hold it on the strength of experience, and an essay can't hand you the experience.
 
-## 5. Karma, or the fingers
+## 6. Karma, or the fingers
 
 If we are one, there is nobody else. Everyone I could harm is part of the whole I belong to. Hold up your hand. If the index finger and the middle finger start fighting, pressing and scratching, they hurt the hand, and the hand is the only thing either of them can be a part of. Nobody had to appoint a judge.
 
-This is, I think, the real meaning of what people call karma. The word is Sanskrit for action, and in everyday use it has turned into a ledger kept somewhere, with a judge and a sentence. The version I was taught has no judge. What happens to you works like a mirror. How you think and what you feel come back to you, and they come back right away, in the same life. Someone irritates you, something hurts, and that shows you a place in yourself that hasn't been mended yet. The mirror only shows, and it does nothing else. The machine has a picture for it too: a program that corrupts shared memory reads the corrupted data back and has nobody to blame, because it was the same memory all along.
+This is, I think, the real meaning of what people call karma. The word is Sanskrit for action, and in everyday use it has turned into a ledger kept somewhere, with a judge and a sentence. The version I was taught has no judge. What happens to you works like a mirror. How you think and what you feel come back to you, and they come back right away, in the same life. Someone irritates you, something hurts, and that shows you a place in yourself that hasn't been mended yet. The mirror only shows, and it does nothing else. The machine has a picture for it too: a program that corrupts shared memory reads the corrupted data back and has nobody to blame, because it was the same memory all along. Over a life, this is how the mirror teaches the thing that matters most here: living in separation costs something, and sooner or later that makes a person want out.
 
 The mirror also picks its material on purpose. The sharpest lessons tend to come from the people closest to you, family, children, parents, because that is where it hurts most. So the move is to work on the cause and leave the symptom alone. When I mend what is off in me, the situation usually follows, because the person across from me is part of the same whole and starts acting differently. Old and heavy things take time, and I may have to come back to them more than once. And this is no reason to wait. If someone close to me is sick or in trouble and I say it's their karma, I've stopped helping, and the word for that is indifference. The better reaction is to make what is happening better, because something in me is part of it too.
 
 None of this is punishment. A system built to teach doesn't punish anyone, and it doesn't close a lesson before the lesson is learned. The people who teach it this way add that, seen from far enough up, there is no karma at all, only the work in front of you. Until you get there, it is a useful name for the pull of what you haven't mended. Living consciously and working on something bigger than yourself, especially together with others, evens it out quickly.
 
-Many traditions stretch the mirror across lifetimes. In the machine picture, the thread that carries over from step four keeps meeting what it left unmended, and by the time it sees the whole it has stood in the place of everyone it once called other. That is my reading of the axiom, and it goes beyond what I was taught. If you take it up, take it as a reason to be kind, and never as an explanation for why someone else is in pain.
+Many traditions stretch the mirror across lifetimes. In the machine picture, the thread that carries over from step five keeps meeting what it left unmended, and by the time it sees the whole it has stood in the place of everyone it once called other. That is my reading of the axiom, and it goes beyond what I was taught. If you take it up, take it as a reason to be kind, and never as an explanation for why someone else is in pain.
 
 #### What the traditions say
 
@@ -136,9 +155,15 @@ Two ideas are packed into this step: deeds come back to the doer, and the other 
 
 One warning. The cheap version of karma is blame: she had it coming, he reaped what he sowed. That's spiritual bypassing with a calculator. The other cheap version is the shrug, it's their karma so I needn't help. The axiom supports neither, because the person you're blaming or ignoring is as much a part of the whole as you are. The version that follows is responsibility: what in me is this showing, and what's my next move toward the part of myself I've been fighting?
 
-## 6. Letting go, and repair
+## 7. Coming home, and repair
 
-So what undoes the wall, and the harm that went with it? Punishment would only be one more finger hitting another. What works is repair, and letting go. The fingers stop fighting, which in Part one's terms is inner agency: the sorry, the first step in a conflict, the hard conversation. And the wall from step two comes down through the body, where it shows: you loosen what you find held. That's also why you can't argue a person out of the feeling of separation. A body that holds a belief as tension needs evidence, and the evidence is the experience of letting go.
+So what takes the wall down, and mends the harm that went with it? Step 2 says nothing returns by itself, so the answer has to be an act. Punishment can't be it, because that would only be one more finger hitting another. What works is turning back toward what you were cut off from, which many traditions call home.
+
+The wall is built over a lifetime, out of our ideas about ourselves and others, and pushing hard at it makes it stronger. You can make it thinner, though, until life can answer you. The push has three parts, and because of the inertia in step 2, the decision behind them gets made again in each situation.
+
+The first is to mend the cause on your own side. The fingers stop fighting, which in Part one's terms is inner agency: the sorry, the first step in a conflict, the hard conversation. The second is to turn toward the source and ask. You say what you want, you say thanks, you open your heart, and you give your attention as a gift and don't grab with it. People who do this sincerely describe an answer, often a warm one, and some compare it to how things felt in childhood. The third is to take on something bigger than yourself together with other people, because a shared task is the fastest way to stop running as a separate program. That is Part one's reason bigger than yourself, back as the way home.
+
+Letting go happens along the way, and it matters. When you stop controlling, the present moment gets deeper and home feels closer, and the wall from step 3 loosens where it shows in the body. It is the doorway, though, and the house is the connection you keep returning to. That's also why you can't argue a person out of the feeling of separation. A body that holds a belief as tension needs evidence, and the evidence is the experience of turning back. Part three is about doing that day by day.
 
 #### What the traditions say
 
@@ -147,11 +172,11 @@ So what undoes the wall, and the harm that went with it? Punishment would only b
 * In the Buddha's instructions on breathing, one step is to breathe in and out contemplating relinquishment (Majjhima Nikaya 118). In the Sallatha Sutta he says that an untrained person feels two pains, the physical one and the mental one added on top, while a trained disciple feels only the first.
 * Repair has its own rules. The Mishnah, an early Jewish law code, says that Yom Kippur, the Day of Atonement, atones for sins between a person and God, but for sins against another person only once that person has been appeased (Yoma 8:9). In the Sermon on the Mount, Jesus says that if you remember at the altar that your brother has something against you, you should leave your gift there and first go and be reconciled (Matthew 5:23-24). The words for repentance point the same way: the Hebrew teshuvah comes from the verb shuv, to return (it is also the everyday word for an answer), the Arabic tawba comes from a root for turning back, and the Greek metanoia means a change of mind.
 
-They differ about who or what you let go into, and they give the same instruction: stop holding.
+They differ about who or what you turn toward, and they give the same instruction: stop holding, and turn back.
 
-## 7. The return, in stages
+## 8. The return, in stages
 
-Put the chain together and you get a path: loosen the wall, repair the fingers, and over many lives come back to seeing the whole as one. What the chain gives me is that the return is gradual and that it ends. The scale below puts numbers on it. Part one's chart reads differently from here.
+Put the chain together and you get a path: turn back toward home, repair the fingers, and over many lives come back to seeing the whole as one. What the chain gives me is that the return is gradual and that it ends. The scale below puts numbers on it. Part one's chart reads differently from here.
 
 Every room on the chart is a separate program trying to run well. Default protects itself. Driven goes out and takes, from the outside, what it can't feel on the inside. Drifting steps away from whatever pokes it and calls the stepping away peace. High agency runs well: it acts with honesty and kindness, and fear no longer makes the decisions. That is the small square, the area available to a separate self when it gets as good as it can get at being separate. At the top of the small square the strain is mostly gone. What is left is the assumption that there is a wall to be behind, and nobody has questioned that yet.
 
@@ -221,34 +246,38 @@ The axiom and the machine
 - Chittick, W. C. (1998). The Self-Disclosure of God. SUNY Press (on the hidden treasure saying).
 - Emerson, R. W. (1841). The Over-Soul, in Essays: First Series.
 
-2. The wall shows in the body
+2. Why we forget
+
+- Bhagavad Gita 14.8. Ephesians 5:14.
+
+3. The wall shows in the body
 
 - Botvinick, M., & Cohen, J. (1998). Rubber hands 'feel' touch that eyes see. Nature, 391(6669), 756. doi:10.1038/35784
 - The Buddhist teaching of the ten fetters, the first of which is the belief in a permanent personal self. Tattvartha Sutra, chapter 8 (karma as the veil on the soul's knowledge). Ephesians 4:18. Quran 7:172.
 
-3. One life is too short
+4. One life is too short
 
 - Lessing, G. E. (1780). The Education of the Human Race, section 98 in the usual numbering.
 - Bhagavad Gita 6.45. Samyutta Nikaya 15. Guru Granth Sahib, the Japji (rebirth and grace). Catechism of the Catholic Church, 1030-1031. Gregory of Nyssa, The Life of Moses.
 
-4. Something carries over
+5. Something carries over
 
 - Bhagavad Gita 2.22. Plato, Republic X (the Myth of Er). Brihadaranyaka Upanishad 3.7.23. Gaudapada, Mandukya Karika 2.32.
 - Milindapanha, translated by T. W. Rhys Davids, The Questions of King Milinda, Sacred Books of the East, vols. 35 and 36. Evans-Wentz, W. Y. (Ed.) (1927). The Tibetan Book of the Dead. Oxford University Press.
 - Stevenson, I. (1966). Twenty Cases Suggestive of Reincarnation. Tucker, J. B. (2005). Life Before Life. St. Martin's Press.
 
-5. Karma, or the fingers
+6. Karma, or the fingers
 
 - Anguttara Nikaya 6.63. Galatians 6:7. Quran 17:7. 1 Corinthians 12:26. Shantideva, Bodhicaryavatara 8.91 (Padmakara Translation Group, The Way of the Bodhisattva, 2006; the wording here is a close paraphrase, and verse numbering varies a little by translation).
 - Babylonian Talmud, Shabbat 31a (Hillel). Isha Upanishad 6 and 7.
 - Marcus Aurelius, Meditations 2.1 (George Long's translation is in the public domain). Schopenhauer, A. (1840). On the Basis of Morality. Wang Yangming (1527). Inquiry on the Great Learning.
 
-6. Letting go, and repair
+7. Coming home, and repair
 
 - The Baal Shem Tov on Psalm 16, and bittul, in the Hasidic tradition. Philippians 2:5-8. Eckhart, German sermons (Walshe's translation, revised by McGinn). Majjhima Nikaya 118. Samyutta Nikaya 36.6 (the Sallatha Sutta).
 - Mishnah, Yoma 8:9. Matthew 5:23-24.
 
-7. The return, in stages
+8. The return, in stages
 
 - Origen, On First Principles, and Gregory of Nyssa on 1 Corinthians 15:28. Zechariah 14:9. Quran 2:156.
 - John 3:3 and 3:7. Eckhart's German sermons on the birth of God in the soul. Dante Alighieri, Paradiso, canto I. The Jain fourteen gunasthanas. Teresa of Avila, The Interior Castle.
