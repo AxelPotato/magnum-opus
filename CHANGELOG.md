@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.3 (2026-10-13)
+
+- Part three: removed the last money words (the money is fine, willing to pay, your accountant, where the real money is)
+
+
 ## 4.1.2 (2026-10-13)
 
 - Part three section 9: cut the 'shown gradually' sentences; the path now starts at 'It starts small'
