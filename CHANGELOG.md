@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.17 (2026-10-13)
+
+- Part three, section 6: feedback reaches the teacher; he gives inputs and suggestions, the method is how and why, the what is ours to find
+
+
 ## 4.2.16 (2026-10-13)
 
 - Part three, service: what wears away is the defending part; the core of our individuality stays and is what we bring into the world
