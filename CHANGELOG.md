@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.0.3 (2026-10-13)
+
+- Part zero: Part one paragraph now tells seasoned practitioners why to read it (the DO and BE words, and a way to explain their practice to people who have never meditated)
+
+
 ## 4.0.2 (2026-10-13)
 
 - Part zero: replaced the closing trust question with whether the people close to them find them easier to live with
