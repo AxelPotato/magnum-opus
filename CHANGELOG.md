@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.15 (2026-10-13)
+
+- Part one, Drifting: the warm-climate aside is now a joke about Alex's own drifting years
+
+
 ## 4.1.14 (2026-10-13)
 
 - Part one, the founder in Minsk: no medical claims (joints, doctors, healing) and no implied cause; Part three's echo updated
