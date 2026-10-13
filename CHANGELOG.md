@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.21 (2026-10-13)
+
+- Part zero: closing paragraph is now Alex's personal note about the teacher and the changes seen in students
+
+
 ## 4.2.20 (2026-10-13)
 
 - Part zero: dropped the proof framing before the trust questions; the paragraph now just gives the reader what to look at
