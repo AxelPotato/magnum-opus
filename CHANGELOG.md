@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.12 (2026-10-13)
+
+- Part two, step 3: 'The axiom settles it' now reads as a conditional on accepting the axiom
+
+
 ## 4.1.11 (2026-10-13)
 
 - Part three section 10: cut the line about leaving the space port with a crew
