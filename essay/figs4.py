@@ -22,7 +22,6 @@ CSS_EXTRA = r"""
 .chart .braceln{fill:none;stroke:var(--muted);stroke-width:1.6;stroke-linecap:round}
 .chart .zoneb{fill:var(--high);fill-opacity:.1}
 .chart .zones{fill:var(--drifting);fill-opacity:.1}
-.chart .num{font-family:var(--display);font-weight:800;font-size:19px;fill:var(--ink)}
 .chart .cell{fill:var(--card);stroke:var(--ink);stroke-width:1.8}
 .chart .wallh{fill:none;stroke:var(--ink);stroke-width:9;stroke-linejoin:round}
 .chart .wallt{fill:none;stroke:var(--high);stroke-width:2.2;stroke-dasharray:3 6;stroke-linecap:round}
@@ -231,8 +230,6 @@ def fig_arrow():
     for n in range(-4, 5):
         x = pos[n]
         b.append(f'<path class="tick" d="M{x} {ay - 8} V{ay + 8}"/>')
-        label = ('+' + str(n)) if n > 0 else (MINUS + str(-n) if n < 0 else '0')
-        b.append(f'<text class="num" x="{x}" y="{ay + 34}" text-anchor="middle">{label}</text>')
     b.append(_runner(pos[-4] + 4, 150))
     b.append(_bike(pos[-3] + 2, 160))
     b.append(_car(pos[-2], 158))
@@ -248,8 +245,8 @@ def fig_arrow():
         b.append(T(x, ay + 62, sx, 'small b', 'middle'))
     notes = [(pos[-3], ('the ground', 'decides where', 'you go')), (pos[-1] - 6, ('the air:', 'any point', 'on the globe')),
              (pos[0] + 28, ('in space,', 'still under', "Earth's gravity")),
-             (pos[1] + 22, ('11.2 km/s', 'leaves', 'the Earth')), (pos[2] + 14, ('16.7 km/s', 'leaves', 'the Sun')),
-             (pos[3] + 12, ('550 km/s', 'leaves', 'the galaxy')), (pos[4] + 6, ('no pull', 'left to', 'leave'))]
+             (pos[1] + 22, ('leaves', 'the Earth')), (pos[2] + 14, ('leaves', 'the Sun')),
+             (pos[3] + 12, ('leaves', 'the galaxy')), (pos[4] + 6, ('no pull', 'left to', 'leave'))]
     for x, lines in notes:
         for k, ln in enumerate(lines):
             b.append(T(x, ay + 90 + k * 16, ln, 'small', 'middle'))
@@ -259,27 +256,7 @@ def fig_arrow():
     b.append(T(pos[1] + 6, 92, 'top right corner', 'small b', 'start'))
     b.append(T(pos[4] + 66, ay - 4, 'birth', 't', 'start'))
     b.append(T(pos[4] + 66, ay + 14, 'and then?', 'small', 'start'))
-    return svg('0 0 940 412', 'The arrow of consciousness from minus four to plus four, drawn as speed and freedom of movement: run, ride, drive, fly, orbit, escape, solar system, galaxy, universe', ''.join(b), u)
-
-
-# ------------------------------------------------------------------ orbit versus escape
-def fig_escape():
-    u = 'es'
-    k = 36
-    x0 = 130
-    b = []
-    b.append(T(x0 - 14, 66, 'orbit', 't', 'end'))
-    b.append(f'<rect class="fillrect drifting solid" x="{x0}" y="42" width="{7.7 * k:.0f}" height="34" rx="4"/>')
-    b.append(T(x0 + 7.7 * k + 10, 64, '7.7 km/s', 'small b'))
-    b.append(T(x0 + 7.7 * k + 10, 82, 'falls around the Earth, for ever', 'small'))
-    b.append(f'<path class="braceln" d="M{x0 + 7.7 * k:.0f} 98 V104 H{x0 + 10.8 * k:.0f} V98"/>')
-    b.append(T(x0 + (7.7 + 10.8) * k / 2, 124, 'about 40 percent more speed', 'small b', 'middle'))
-    b.append(T(x0 - 14, 178, 'escape', 't', 'end'))
-    b.append(f'<rect class="fillrect high solid" x="{x0}" y="154" width="{10.8 * k:.0f}" height="34" rx="4"/>')
-    b.append(T(x0 + 10.8 * k + 10, 176, '10.8 km/s', 'small b'))
-    b.append(T(x0 + 10.8 * k + 10, 194, 'never comes back', 'small'))
-    b.append(T(350, 228, 'at the height of the International Space Station', 'small', 'middle'))
-    return svg('0 0 700 244', 'At the height of the space station, orbital speed is about 7.7 kilometers per second and escape speed about 10.8, roughly 40 percent more', ''.join(b), u)
+    return svg('0 0 940 412', 'The arrow of consciousness, drawn as speed and freedom of movement: run, ride, drive, fly, orbit, escape, solar system, galaxy, universe', ''.join(b), u)
 
 
 # ------------------------------------------------------------------ the wall, held and let go
