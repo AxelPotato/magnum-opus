@@ -70,7 +70,7 @@ The second thing is the one everybody expects: a team gets more done than the sa
 
 It comes with conditions. The people have to be aimed at something, because a group of people who simply like each other can have a lovely time and still go nowhere. The group also has to keep its conflicts short. A quarrel reverses the effect: the same closeness that lifts a team weighs it down when there is a wall between two of its members.
 
-The people also have to want it, and this is where the team meets the wish from section 1. A team multiplies whatever is put into it, and anything times nothing is still nothing, a fact your math teacher and your guru would both confirm. A good team that doesn't want to play is a good roster with a bad season. A group of people who each really want to move gives everyone in it a good deal more than any of them could find alone, like a cable made of many strands.
+The people also have to want it, and this is where the team meets the wish from section 1. A team multiplies whatever is put into it, and anything times nothing is still nothing, a fact your math teacher and your guru would both confirm. A good team that doesn't want to play is a good roster with a bad season. A group of people who each really want to move gives everyone in it much more than any of them could find alone, like a cable made of many strands.
 
 The team does something for the wish itself, too. On your own it dies down faster, and far from the people who share it, it's harder to keep. So people meet to infect each other with it and to remind each other, and when your own spark drops, lighting up a partner gets some of it back. The company of people who want the same thing is one of the best things to feed it.
 

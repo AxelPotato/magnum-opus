@@ -12,7 +12,7 @@ You can stop after any part, and each one makes the next easier to judge.
 
 ## Who is talking, and who taught me
 
-I'm Alex. In my teens I had a lot of questions: why things are the way they are, and why I am the way I am. Over time those questions led to a spiritual search. I have worked with computers for about ten years, eight of them in cyber security, which I still do. My spiritual journey is a good deal longer, more than fourteen years.
+I'm Alex. In my teens I had a lot of questions: why things are the way they are, and why I am the way I am. Over time those questions led to a spiritual search. I have worked with computers for about ten years, eight of them in cyber security, which I still do. My spiritual journey is much longer, more than fourteen years.
 
 Everything in this essay that goes beyond what you can check in your own life comes from one teacher, Genadiy Givin, and the method in Part three is the one he teaches.
 

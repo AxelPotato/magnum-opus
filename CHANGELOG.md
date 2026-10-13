@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.8 (2026-10-13)
+
+- Money idioms removed across Parts zero to three (best deal, free sample, buy, the bill, pays, cheap, bounty, a good deal)
+
+
 ## 4.1.7 (2026-10-13)
 
 - Part three: cut lines that talked down to sitting practice (sections 2, 4 and 7); the example goal is now a family trip
