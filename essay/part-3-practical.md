@@ -154,6 +154,8 @@ What I picture is fairly simple. A group of people who want to give their best t
 
 The reason I want a place goes back to Part two. The environment decides what is easy, and in an ordinary town the easy thing is to forget. Somewhere the whole day points the same way, working on yourself stops being an extra on top of a full life.
 
+The people I picture there are people who have remembered who they really are, the thing Part two says we forget, and who want to give that back to the world while they keep growing. The people who built the first launch pads had never been to space either. So the first space port will be built by whoever wants it, and the very act of building it is what wakes us up enough to live there.
+
 It doesn't exist yet. What exists today is smaller: we, the students of Genadiy, have gathered in two centers, with over 120 people between them, and we would like there to be more of them in different places around the world. The space port is the next step I hope we get to take, and I'd love to help build it. What it ends up looking like, I honestly can't tell you yet.
 
 [ALEX: if you want it here, add how a reader could take part or follow along. I left out places, dates and joining details.]

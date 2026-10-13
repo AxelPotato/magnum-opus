@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.18 (2026-10-13)
+
+- Part three, section 10: who the space port is for, and building it as the way to become ready for it
+
+
 ## 4.2.17 (2026-10-13)
 
 - Part three, section 6: feedback reaches the teacher; he gives inputs and suggestions, the method is how and why, the what is ours to find
