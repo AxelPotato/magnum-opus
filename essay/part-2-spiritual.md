@@ -11,7 +11,7 @@ One more thing, about how I'll argue. A world, real or invented, has to be coher
 #### Two film worlds, one that keeps its rules and one that bends them
 
 * Groundhog Day keeps its rules. One day repeats, and Phil Connors is the only person who remembers it. Everything else follows. People reset every morning, so he can learn their secrets, try anything, and rehearse an evening until it goes perfectly, and none of it costs him anything with them. Even his attempts to save a dying man fail on every loop, so the world has limits he has to accept. The one thing that doesn't reset is what he carries inside, so the only real progress available to him is in himself. A man who becomes better by living one day many times sounds like a stretch, and it works because it is a consequence of the rule.
-* Superman (1978) is a film people love, and the ending of it is still argued about. Lois Lane dies when the earthquake buries her car, and Superman flies around the Earth until time runs backward and she is alive again. The scene is thrilling, and it works only if the rules are bent after the fact. If time can be reversed whenever things go badly, the earlier danger was never final, and the stakes of the film go with it.
+* Superman (1978) bends them. An aftershock traps Lois Lane in her car, and she dies. Superman then flies around the Earth until time runs backward and she is alive again. The scene is thrilling, and it works only if the rules are bent after the fact. If time can be reversed whenever things go badly, the earlier danger was never final, and the stakes of the film go with it.
 
 Two ways of reading a life sit at opposite ends. Most people stand somewhere in between without noticing.
 

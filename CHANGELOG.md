@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.11.1 (2026-10-13)
+
+- Part two: the Superman example now says an aftershock traps Lois in her car, and drops an unsourced remark about the ending
+
+
 ## 3.11.0 (2026-10-13)
 
 - Part two opens with the idea that a world must be coherent within its own rules, with two film examples (Groundhog Day, Superman) in a fold
