@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.23 (2026-10-13)
+
+- Part zero: removed 'and from my own experience of him that is enough'
+
+
 ## 4.2.22 (2026-10-13)
 
 - Part zero: removed the closing sentence 'For this part, that is enough.'
