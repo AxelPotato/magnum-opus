@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.5 (2026-10-13)
+
+- Part three section 10: 'the previous eight parts' is now 'sections one to eight', matching the ten numbered sections
+
+
 ## 4.1.4 (2026-10-13)
 
 - Part zero: Part three is described as the practical side of the method, with no space port mention
