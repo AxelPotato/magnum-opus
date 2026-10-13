@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.1 (2026-10-13)
+
+- Part three section 5: removed the 'unite around the direction' sentence; the steadiness image is now a mountain guide, not a child
+
+
 ## 4.1.0 (2026-10-13)
 
 - Reader-one fixes: Parts one and two no longer point ahead to the method and the space port; Part one names the empty weekends that stopped the author in the Driven years and folds the lab studies on the page; Part two drops 'the door' and brings the child at the well into step 5; Part zero's teacher introduction is shorter; Part three's Guidance presents feedback as a way to see your own limits and says why the author trusts the teacher
