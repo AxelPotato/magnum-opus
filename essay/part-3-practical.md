@@ -134,7 +134,7 @@ I went to find the team member to apologize. Calming down quickly after a fight 
 
 That is also what repair looks like: quick and light. A person who has hurt someone and leaves it for a week has added a clamp. A person who says "I'm sorry, that was me" the same afternoon, without an essay, has removed one. The usual suspects behind the hook are pride, offense and the habit of judging, and the work on them has a name, ego work, which is a grand title for noticing them every time they show up.
 
-Nobody can do this well alone, which is why it comes late in the list: you can't see which hooks you have until someone else leans on them.
+It's much harder alone, which is why it comes late in the list: you can't see which hooks you have until someone else leans on them.
 
 ## 9. How people come to it
 

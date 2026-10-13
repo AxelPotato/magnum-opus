@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.15 (2026-10-13)
+
+- Part three, mirror section: 'Nobody can do this well alone' becomes 'It's much harder alone'
+
+
 ## 4.2.14 (2026-10-13)
 
 - Part two, step 4: Stevenson criticism matched to the source (families in contact before the statements were recorded)
