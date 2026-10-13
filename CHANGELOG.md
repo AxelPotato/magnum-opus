@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.0.2 (2026-10-13)
+
+- Part zero: replaced the closing trust question with whether the people close to them find them easier to live with
+
+
 ## 4.0.1 (2026-10-13)
 
 - Part zero: Part three described by the reality of the 21st century instead of jobs, families and spare time
