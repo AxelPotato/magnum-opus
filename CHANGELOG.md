@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.7 (2026-10-13)
+
+- Part one: 'on the line' in the Default room's nice corner no longer comes before the line is drawn
+
+
 ## 4.2.6 (2026-10-13)
 
 - Part one: the 'not drinking water at odd times' example becomes 'not touching the phone for a few hours'
