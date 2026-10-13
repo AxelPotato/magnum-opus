@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.10 (2026-10-13)
+
+- Part two, step 4: Stevenson's cases now name the main criticisms in place of 'large and careful'; reading pack locator updated
+
+
 ## 4.2.9 (2026-10-13)
 
 - Part two, step 2: 'evidence' becomes 'experience that seems to confirm', plus a pointer to What you can check
