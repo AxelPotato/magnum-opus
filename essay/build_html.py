@@ -512,7 +512,7 @@ def convert(md, R):
             continue
         if b.startswith('#### '):
             t = b[5:].strip()
-            if t == 'What the traditions say':
+            if t.startswith('What the traditions say') or t.startswith('Two film worlds'):
                 fold_title = t
             else:
                 out.append(f'<h4>{smart(t)}</h4>')
@@ -521,7 +521,7 @@ def convert(md, R):
             n = sum(1 for l in b.split('\n') if l.startswith('* '))
             lis = ''.join(f'<li>{smart(l[2:])}</li>' for l in b.split('\n') if l.startswith('* '))
             if fold_title:
-                label = f'{fold_title} ({n} {"example" if n == 1 else "examples"})'
+                label = f'{fold_title} ({n} {"example" if n == 1 else "examples"})' if fold_title.startswith('What the') else fold_title
                 out.append(f'<details class="say-fold"><summary>{smart(label)}</summary><ul class="say">{lis}</ul></details>')
                 fold_title = None
             else:

@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.11.0 (2026-10-13)
+
+- Part two opens with the idea that a world must be coherent within its own rules, with two film examples (Groundhog Day, Superman) in a fold
+
+
 ## 3.10.2 (2026-10-13)
 
 - Part two: the gate line now says Part one's gate is the same gate on one road; Part one: gray, American spelling
