@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.12.2 (2026-10-13)
+
+- Part two: the example of a world that bends its rules is now Game of Thrones, season 8, in place of Star Wars
+
+
 ## 3.12.1 (2026-10-13)
 
 - Part two: the Dune example mentions both the 1965 novel and the films
