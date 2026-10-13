@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.4 (2026-10-13)
+
+- Part zero: Part three is described as the practical side of the method, with no space port mention
+
+
 ## 4.1.3 (2026-10-13)
 
 - Part three: removed the last money words (the money is fine, willing to pay, your accountant, where the real money is)
