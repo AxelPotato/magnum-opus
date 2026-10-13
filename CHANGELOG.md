@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.9 (2026-10-13)
+
+- Part three: section 10 rewritten as Alex's dream, playful and plain; section 6 puts the outside checks next to the trust and points to the closing questions instead of the chart
+
+
 ## 4.1.8 (2026-10-13)
 
 - Money idioms removed across Parts zero to three (best deal, free sample, buy, the bill, pays, cheap, bounty, a good deal)
