@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.13 (2026-10-13)
+
+- Part two, 'Why the paths differ': Part three is now the form Alex chose, one answer among many
+
+
 ## 4.1.12 (2026-10-13)
 
 - Part two, step 3: 'The axiom settles it' now reads as a conditional on accepting the axiom
