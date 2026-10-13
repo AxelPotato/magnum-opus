@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.5 (2026-10-13)
+
+- Part one: 'apparently true' becomes 'in my experience it's true'
+
+
 ## 4.2.4 (2026-10-13)
 
 - Part one: the 100-point split is now marked as a snapshot of one moment, joined to the two legs feeding each other over time
