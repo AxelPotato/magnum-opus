@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.14 (2026-10-13)
+
+- Part one, the founder in Minsk: no medical claims (joints, doctors, healing) and no implied cause; Part three's echo updated
+
+
 ## 4.1.13 (2026-10-13)
 
 - Part two, 'Why the paths differ': Part three is now the form Alex chose, one answer among many
