@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.10.1 (2026-10-13)
+
+- Part two: reincarnation cases are marked as debated, the 'turn it off and on again' joke is cut, and the one-lifetime step now follows from the third clause
+
+
 ## 3.10.0 (2026-10-13)
 
 - Part two: each 'What the traditions say' block is now a foldable section on the web page, closed by default
