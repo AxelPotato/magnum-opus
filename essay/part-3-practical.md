@@ -152,7 +152,7 @@ This last part is a dream of mine, so please read it as one. Part two used space
 
 What I picture is fairly simple. A group of people who want to give their best to the world and to find out how far they can really grow, living and working in the same place. Everything in sections one to eight would happen there every day as ordinary life, the goals, the service, the pair, the mentor, the attention and the mirror, with people who see you at breakfast and know exactly how your morning went. A retreat is a few days inside the top right room. A space port would be the same room with a kitchen, a job rota and the occasional argument about whose turn it is to do the dishes.
 
-The reason I want a place goes back to Part two. The environment decides what is easy, and in an ordinary town the easy thing is to forget. Somewhere the whole day points the same way, working on yourself stops being an extra on top of a full life. And nobody would go there to stay forever. The whole point of a space port is that you leave it, with a crew and a reason, and go back to be useful in the world you came from.
+The reason I want a place goes back to Part two. The environment decides what is easy, and in an ordinary town the easy thing is to forget. Somewhere the whole day points the same way, working on yourself stops being an extra on top of a full life.
 
 It doesn't exist yet. What exists today is smaller: we, the students of Genadiy, have gathered in two centers, with over 120 people between them, and we would like there to be more of them in different places around the world. The space port is the next step I hope we get to take, and I'd love to help build it. What it ends up looking like, I honestly can't tell you yet.
 

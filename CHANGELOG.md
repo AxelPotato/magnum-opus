@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.11 (2026-10-13)
+
+- Part three section 10: cut the line about leaving the space port with a crew
+
+
 ## 4.1.10 (2026-10-13)
 
 - Part two, step 3: no longer leans on Part one's 95 percent
