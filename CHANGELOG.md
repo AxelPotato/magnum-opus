@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.4 (2026-10-13)
+
+- Part one: the 100-point split is now marked as a snapshot of one moment, joined to the two legs feeding each other over time
+
+
 ## 4.2.3 (2026-10-13)
 
 - Part one: 'See: 95 times 2' now points back at the picture instead of answering the objection
