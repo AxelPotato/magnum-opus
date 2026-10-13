@@ -282,7 +282,7 @@ def rules1():
         'Say each line runs from 0 to 100.': dict(after=figure(F.fig_bars(), 'Effectiveness is roughly BE times DO. Do not quote me.')),
         'Start with the physiology.': dict(after=figure(F.fig_anokhin(), 'Anokhin\'s functional system, simplified: a goal is a model of the result, and the result is compared with it.')),
         'Viktor Frankl, a psychiatrist': dict(who=[('frankl', 'Viktor Frankl', 'neutral')]),
-        'A sense of purpose in general points the same way.': dict(after=figure(F.fig_studies(), 'Left: a randomized field experiment. Right: a review of ten long-term studies, which shows an association, not a cause. Read both as a direction.')),
+        'The lab has looked at this too': dict(after=figure(F.fig_studies(), 'Left: a randomized field experiment. Right: a review of ten long-term studies, which shows an association, not a cause. Read both as a direction.')),
         'Picture someone who freezes': dict(after=figure(F.fig_scales(), 'The fear is a vote. A bigger reason is a bigger vote.')),
         'A lot of the tension is also made of self-monitoring': dict(after=figure(F.fig_spot(), 'The spotlight effect: we overestimate how much others notice us.')),
         'Reasons also outlast goals.': dict(after=figure(F.fig_finish(), 'Goals about you end. Reasons about others keep going.')),
@@ -513,7 +513,7 @@ def convert(md, R):
             continue
         if b.startswith('#### '):
             t = b[5:].strip()
-            if t.startswith('What the traditions say') or t.startswith('Two invented worlds'):
+            if t.startswith('What the traditions say') or t.startswith('What the studies say') or t.startswith('Two invented worlds'):
                 fold_title = t
             else:
                 out.append(f'<h4>{smart(t)}</h4>')
@@ -522,7 +522,12 @@ def convert(md, R):
             n = sum(1 for l in b.split('\n') if l.startswith('* '))
             lis = ''.join(f'<li>{smart(l[2:])}</li>' for l in b.split('\n') if l.startswith('* '))
             if fold_title:
-                label = f'{fold_title} ({n} {"example" if n == 1 else "examples"})' if fold_title.startswith('What the') else fold_title
+                if fold_title.startswith('What the studies'):
+                    label = f'{fold_title} ({n} {"study" if n == 1 else "studies"})'
+                elif fold_title.startswith('What the'):
+                    label = f'{fold_title} ({n} {"example" if n == 1 else "examples"})'
+                else:
+                    label = fold_title
                 out.append(f'<details class="say-fold"><summary>{smart(label)}</summary><ul class="say">{lis}</ul></details>')
                 fold_title = None
             else:
