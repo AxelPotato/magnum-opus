@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.12.1 (2026-10-13)
+
+- Part two: the Dune example mentions both the 1965 novel and the films
+
+
 ## 3.12.0 (2026-10-13)
 
 - Part two: the opening examples are now Dune (a world that keeps its rules) and Star Wars: The Last Jedi (one that bends them), replacing the two films
