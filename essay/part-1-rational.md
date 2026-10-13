@@ -162,7 +162,7 @@ Somewhere around the middle, 50 and 50, you get 2,500, twenty-five times Default
 
 The numbers are made up, and I picked 100 because it's round. The shape is the part that seems right to me. Because the two multiply, neglecting either one costs you most of your potential.
 
-It's also why I don't accept the objection I'd expect from driven people, which is that if they let go of the tension they'll lose their edge. The drive and the tension are two different things that most people happen to have glued together. You keep the drive and drop the brace. See: 95 times 2.
+It's also why I don't accept the objection I'd expect from driven people, which is that if they let go of the tension they'll lose their edge. The drive and the tension are two different things that most people happen to have glued together. You keep the drive and drop the brace. That's what the 95 times 2 was trying to picture.
 
 ## The line
 

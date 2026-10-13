@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.3 (2026-10-13)
+
+- Part one: 'See: 95 times 2' now points back at the picture instead of answering the objection
+
+
 ## 4.2.2 (2026-10-13)
 
 - Part three, section 5: the 'swamp' and 'pleasant hangout' image replaced with what a teacher keeps a group doing
