@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.2 (2026-10-13)
+
+- Part three, section 5: the 'swamp' and 'pleasant hangout' image replaced with what a teacher keeps a group doing
+
+
 ## 4.2.1 (2026-10-13)
 
 - Part three, section 5: 'much further along the path', 'hard to see from inside', coach analogy removed (Dan's read, item 3)
