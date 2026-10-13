@@ -6,7 +6,7 @@ Part one is the rational part, and I've kept it deliberately earthly. It uses no
 
 Part two is the spiritual part, and it has its own role: it says where all of this comes from and where it leads. It starts from a view of reality that I call an assumption, it quotes many traditions as witnesses, and it says plainly where the reading is mine. You can disagree with it and still use the rest.
 
-Part three is the practical part: how this is done today by people with jobs, families and not much spare time. It starts with one thing you can try alone tonight, goes on to what needs other people, a team and a guide, and ends with the place where we live it at full strength, which I call a space port.
+Part three is the practical part: how this is done in the reality of the 21st century. It starts with one thing you can try alone tonight, goes on to what needs other people, a team and a guide, and ends with the place where we live it at full strength, which I call a space port.
 
 You can stop after any part, and each one makes the next easier to judge.
 

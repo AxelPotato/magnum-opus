@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.0.1 (2026-10-13)
+
+- Part zero: Part three described by the reality of the 21st century instead of jobs, families and spare time
+
+
 ## 4.0.0 (2026-10-13)
 
 - Parts zero and three join the essay: Part zero (introduction and preface about the author and the teacher) and Part three (practical), built as web pages like Parts one and two
