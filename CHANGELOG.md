@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.20 (2026-10-13)
+
+- Part zero: dropped the proof framing before the trust questions; the paragraph now just gives the reader what to look at
+
+
 ## 4.2.19 (2026-10-13)
 
 - Part three, section 10: how people come and go
