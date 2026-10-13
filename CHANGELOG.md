@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.0 (2026-10-13)
+
+- Part two, step 4: forgetting is now explained as what makes separation real (in place of 'not remembering is what the walls predict'), with a folded retelling of Alan Watts's 'The Dream of Life'; Watts added to the sources and the reading pack
+
+
 ## 4.1.15 (2026-10-13)
 
 - Part one, Drifting: the warm-climate aside is now a joke about Alex's own drifting years

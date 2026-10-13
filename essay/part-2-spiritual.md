@@ -117,7 +117,11 @@ The traditions differ on the form, and the axiom needs only that development con
 
 ## 4. Something carries over
 
-And if the run continues, something has to carry what was learned from one stretch to the next. In the traditions that use the word, that's the soul. In the machine it would be the saved state: the program shuts down, the window closes, and what carries over is the account. The session is gone, and so is most of the detail. What gets saved is the quintessence of the experience, the part that was worth keeping, and it accumulates from one life to the next until the soul, or whatever you prefer to call it, is ready for the next step. That picture answers the obvious objection too: a new session can't read the old session's private memory, so not remembering is what the walls predict.
+And if the run continues, something has to carry what was learned from one stretch to the next. In the traditions that use the word, that's the soul. In the machine it would be the saved state: the program shuts down, the window closes, and what carries over is the account. The session is gone, and so is most of the detail. What gets saved is the quintessence of the experience, the part that was worth keeping, and it accumulates from one life to the next until the soul, or whatever you prefer to call it, is ready for the next step. It also explains why nobody remembers. The point of the whole exercise is to experience separation for real, and to bring back something no other point of view could. A life that still remembered being one with everything, or remembered every life before it, would hardly be separate at all. It would be the whole wearing a costume and knowing it. So the forgetting belongs to the design, the same one step 2 described: without it there would be no separation to experience in the first place, and nothing new to bring home.
+
+#### A fun way to think about it: Alan Watts and the dream
+
+* Here is a story I like for this. Alan Watts, the British writer who spent his life explaining Eastern philosophy to Western audiences, told it in a talk usually called "The Dream of Life." Suppose that every night you could dream any dream you wanted, and pack seventy-five years of experience into a single night. The first nights you would have every pleasure you could think of. After enough of those you would get tired of always knowing how it goes, so one night you would dream something you don't control, where things happen to you that you didn't plan. Each night you would hide a little more from yourself and take a bigger gamble, because the not knowing is where the excitement is. Keep going, Watts says, and eventually you would dream the life you are living today. In the terms of this part, there is one dreamer under every dream, and the forgetting is what makes the dream worth having.
 
 There's a fair question here: if there is only one mind, who carries over? The Advaita answer is that individuality belongs to the level of appearance, which in the machine is the process, and the processor underneath is the same for everyone. So there are two pictures, a saved state for the process and a single witness for the processor, and each is true at its own level.
 
@@ -277,6 +281,7 @@ The axiom and the machine
 
 - Bhagavad Gita 2.22. Plato, Republic X (the Myth of Er). Brihadaranyaka Upanishad 3.7.23. Gaudapada, Mandukya Karika 2.32.
 - Milindapanha, translated by T. W. Rhys Davids, The Questions of King Milinda, Sacred Books of the East, vols. 35 and 36. Evans-Wentz, W. Y. (Ed.) (1927). The Tibetan Book of the Dead. Oxford University Press.
+- Watts, A. "The Dream of Life", a recorded talk; the audio circulates from the Alan Watts archive (alanwatts.org) and the collection Out of Your Mind (Sounds True). The retelling here is a paraphrase.
 - Stevenson, I. (1966). Twenty Cases Suggestive of Reincarnation. Tucker, J. B. (2005). Life Before Life. St. Martin's Press.
 
 5. Karma, or the fingers

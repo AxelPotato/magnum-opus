@@ -513,7 +513,7 @@ def convert(md, R):
             continue
         if b.startswith('#### '):
             t = b[5:].strip()
-            if t.startswith('What the traditions say') or t.startswith('What the studies say') or t.startswith('Two invented worlds'):
+            if t.startswith('What the traditions say') or t.startswith('What the studies say') or t.startswith('Two invented worlds') or t.startswith('A fun way'):
                 fold_title = t
             else:
                 out.append(f'<h4>{smart(t)}</h4>')

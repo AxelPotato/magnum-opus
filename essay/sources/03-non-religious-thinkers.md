@@ -356,3 +356,25 @@ Background: the book was a slow starter and then a very large bestseller in the 
 
 If someone pushes back:
 - It's a children's book about a bird. Answer: it is used only for the way it handles speed, as a picture of inner freedom, which is exactly how the essay uses the space picture.
+
+## Alan Watts, "The Dream of Life" (Watts 1915 to 1973; a recorded talk, date not confirmed)
+
+Kind: person. Status: partly checked (the outline of the passage was checked against reprints seen this session; the original recording and date were not).
+
+Who: British-born writer and speaker who moved to the United States in 1938 and spent his career explaining Zen, Daoism and Vedanta to Western audiences, in books such as The Way of Zen (1957) and The Book: On the Taboo Against Knowing Who You Are (1966), and in hundreds of recorded talks.
+
+In the essay: In Part two, step 4 ("Something carries over"), as a folded story under "A fun way to think about it". It follows the paragraph that says forgetting is needed for separation to be real. The essay retells the story in its own words and quotes nothing.
+
+The passage (paraphrase, not cleared for quoting): Suppose you could dream any dream you wanted every night, packing decades of experience into one night. First you would fulfill every wish. Then you would want surprises, and dream dreams you don't control, each time more of a gamble, until you dreamed the life you are living now. Watts ends by saying that the listener is, at bottom, the basic reality pretending not to be. The talk opens with the idea that opposites imply each other (self and other, life and death). The text circulates widely on quote sites; it is recorded speech and still in copyright, so keep to a paraphrase or one short line.
+
+Read it free:
+- A transcript and audio extract credited to "Out of Your Mind" by Alan Watts, courtesy of alanwatts.org: https://lovelifeliveyoga.com.au/yoga-inspiration/the-dream-of-life-alan-watts-speech/ (fetched this session)
+- The Alan Watts Organization, the family archive of his recordings: https://alanwatts.org (not opened this session)
+
+Read it in a book: the audio series Out of Your Mind: Essential Listening from the Alan Watts Audio Archives (Sounds True, 2004) is the usual home of the talk; the attribution comes from one credited web copy and from memory, so check the track list before citing it more precisely.
+
+Background: Watts used this thought experiment often, in several variants, to make the Vedanta idea of lila (the world as the play of one reality hiding from itself) feel ordinary. It fits the axiom's second clause, the whole experiencing separation, and step 2's point that the forgetting is built in on purpose.
+
+If someone pushes back:
+- Watts was a popularizer, not a scholar. Answer: agreed, and the essay uses him for a picture, as it uses the computer, and not as a witness for a tradition.
+- Isn't this solipsism? Answer: in the story there is one dreamer and many dreams, which is the axiom's "one whole, many points of view", and the essay does not say the other people in your life are your dream.

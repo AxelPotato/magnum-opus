@@ -75,6 +75,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Zhuangzi, chapter 2 (Qiwulun), the butterfly dream [text, partly checked]
 - Confucius, Analects 15.24 (reciprocity, shu) [person, checked]
 - Richard Bach, Jonathan Livingston Seagull (1970), speed as an image [text, unchecked]
+- Alan Watts, "The Dream of Life", the dreamer who hides the dream from himself [talk, partly checked]
 
 ### Hindu sources (`04-hindu.md`)
 
