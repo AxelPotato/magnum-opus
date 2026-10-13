@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.6 (2026-10-13)
+
+- Part three section 3: the 'channel for the source' line is grounded in Part two (the whole, the wall)
+
+
 ## 4.1.5 (2026-10-13)
 
 - Part three section 10: 'the previous eight parts' is now 'sections one to eight', matching the ten numbered sections
