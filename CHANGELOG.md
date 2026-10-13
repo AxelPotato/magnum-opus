@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.9.1 (2026-10-13)
+
+- Part two step 7: 'my old field' becomes 'my field, cyber security', since the author still works in it.
+
+
 ## 3.9.0 (2026-10-13)
 
 - Part two step 7: the arrow of consciousness loses its numbers. The scale (minus four to plus four), the escape-velocity and orbit figures and the escape figure are replaced by a plain space-travel picture of how large a change a person can make in one lifetime, with a pointer to Part three.
