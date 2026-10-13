@@ -87,7 +87,7 @@ Start with inertia. A moving object keeps moving until something pushes it, and 
 
 The body keeps the loop running. Clench a fist and you feel like a small hard object in a world of other objects, and when you let go that feeling softens. The belief that I'm separate is held as tension, and the tension keeps confirming the belief.
 
-Attention works the same way. Left alone, it goes to whatever is in front of you, and what is in front of you is the world of forms. So without taking control of it, you drift further into that world, immersed, and you fall asleep to the rest. There is a saying that light is attractive but darkness is contagious. Attraction means you have to make an effort to move toward something. Contagion means you catch it by standing still.
+Attention works the same way. Left alone, it goes to whatever is in front of you, and what is in front of you is the world of forms. So without taking control of it, you drift further into that world, immersed, and you fall asleep to the rest. There is a saying that light is attractive but darkness is contagious. Attraction means you have to make an effort to move toward something. Contagion means you catch it by standing still. The darkness here is the pull of habit and distraction, and it works on everyone, me included.
 
 Why would a whole build this in? Because a forgetting that lasted an afternoon wouldn't be worth anything. Step 1 said that knowing needs a gap. The gap also has to stay open long enough for a life to be lived, for something to be learned, and for it to be brought back. This is the lila of step 1 taken seriously: a game with real stakes can't be one you can quit by accident.
 

@@ -144,7 +144,7 @@ It starts small, with a talk or a workshop of a few hours, where a person can fi
 
 The method works wherever a person lives. Many people go back to their own city after this process. The pair forms where they live, with at least two friends in it, a team grows around it, and it is natural that people want to build a community like that in their own place too. That is where the method stops being an event and turns into a way of living. Others choose to spend more time in a center.
 
-The reason for starting small goes back to Part two: light is attractive and darkness is contagious. You can't pull anyone toward it. You can make it easier to approach, and then make sure the first steps can be taken by someone who has a job, a family and a normal amount of doubt. Nobody is asked to give those up. Ordinary life is the training ground, and the pair is what keeps you from sleeping through it.
+The reason for starting small goes back to Part two: light is attractive and darkness is contagious, and the darkness there is the pull of old habit in all of us. You can't pull anyone toward it. You can make it easier to approach, and then make sure the first steps can be taken by someone who has a job, a family and a normal amount of doubt. Nobody is asked to give those up. Ordinary life is the training ground, and the pair is what keeps you from sleeping through it.
 
 ## 10. The space port
 

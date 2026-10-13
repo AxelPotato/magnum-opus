@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.8 (2026-10-13)
+
+- Parts two and three: 'darkness is contagious' now says the darkness is the pull of habit in everyone, us included
+
+
 ## 4.2.7 (2026-10-13)
 
 - Part one: 'on the line' in the Default room's nice corner no longer comes before the line is drawn
