@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.16 (2026-10-13)
+
+- Part three, service: what wears away is the defending part; the core of our individuality stays and is what we bring into the world
+
+
 ## 4.2.15 (2026-10-13)
 
 - Part three, mirror section: 'Nobody can do this well alone' becomes 'It's much harder alone'
