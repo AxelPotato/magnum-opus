@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.0.0 (2026-10-13)
+
+- Parts zero and three join the essay: Part zero (introduction and preface about the author and the teacher) and Part three (practical), built as web pages like Parts one and two
+
+
 ## 3.13.1 (2026-10-13)
 
 - Part two, 'Why the paths differ': each witness now claims only what its verse supports, and the reading that is the author's is marked as such

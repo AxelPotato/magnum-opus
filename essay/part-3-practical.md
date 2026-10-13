@@ -1,7 +1,5 @@
 # Part three: Practical
 
-<!-- DRAFT D, working copy of the essay text for Part three. Not part of the essay build yet. Alex's notes and the lecture research are kept out of this public repo. -->
-
 ## Two things a life needs
 
 Anything that moves needs two things: energy and direction. A car with a full tank and no steering is a bomb with a radio. A car with a perfect map and an empty tank is a very well informed parked car.

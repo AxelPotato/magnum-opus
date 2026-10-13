@@ -468,6 +468,7 @@ figure{margin:0}
 .cast-cap{font-family:var(--mono);font-size:.74rem;color:var(--muted);text-align:center;margin:-1.6rem 0 2.2rem}
 .sources{font-size:.92rem;line-height:1.55;padding-left:1.1rem}
 .say{padding-left:1.15rem;margin:0 0 1.4rem}
+.slot{font-family:var(--mono);font-size:.82rem;line-height:1.5;color:var(--muted);border-left:3px solid var(--driven);padding:.5rem .8rem;margin:1.2rem 0;background:var(--card)}
 details.say-fold{margin:1.4rem 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:.15rem 0}
 details.say-fold summary{cursor:pointer;list-style:none;font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding:.7rem 0;display:flex;align-items:center;gap:.6rem}
 details.say-fold summary::-webkit-details-marker{display:none}
@@ -534,6 +535,9 @@ def convert(md, R):
         if in_sources and len(b) < 60:
             out.append(f'<h4>{smart(b)}</h4>')
             continue
+        if b.startswith('[ALEX'):
+            out.append(f'<p class="slot">{smart(b)}</p>')
+            continue
         para = f'<p>{smart(b)}</p>'
         rule = next((v for k, v in R.items() if b.startswith(k)), None)
         if rule:
@@ -560,18 +564,21 @@ def hero_html(part):
     backup = part == '2a'
     if backup:
         part = 2
-    names = ['Rational', 'Spiritual', 'Practical']
+    names = ['Intro', 'Rational', 'Spiritual', 'Practical']
+    heads = ['Before you start', 'Rational', 'Spiritual', 'Practical']
     nums = ['one', 'two', 'three']
     lede = {
+        0: 'What each part is for, who is talking, and who taught me.',
         1: 'Two directions, four rooms, and a map that turns out to be bigger than it looks.',
         2: 'Two ways of reading a life, one assumption that separates them, and what follows from it in the world\'s religions.',
+        3: 'How this is done today, by people with jobs, families and not much spare time.',
     }[part]
     if backup:
         lede = 'What the middle of the chart is, what lies past the edge of it, and why a rational person might want to find out.'
-    lis = ''.join(f'<li class="now">{n}</li>' if i == part - 1 else f'<li>{n}</li>' for i, n in enumerate(names))
+    lis = ''.join(f'<li class="now">{n}</li>' if i == part else f'<li>{n}</li>' for i, n in enumerate(names))
     return ('<header class="hero"><div class="hero-in">'
-            f'<p class="kicker">{"Backup: an earlier version of part two" if backup else "Part " + nums[part - 1] + " of three"}</p>'
-            f'<h1>{names[part - 1]}</h1>'
+            f'<p class="kicker">{"Backup: an earlier version of part two" if backup else ("Part zero" if part == 0 else "Part " + nums[part - 1] + " of three")}</p>'
+            f'<h1>{heads[part]}</h1>'
             f'<p class="lede">{lede}</p>'
             f'<ul class="parts">{lis}</ul>'
             '</div></header>')
@@ -591,9 +598,14 @@ PART1_FOOT = ('Character and portrait images are used as illustration in a perso
               'Tal Ben-Shahar (CC0), Jeff Bezos (public domain, US government photo), Rosa Parks (public domain).')
 PART2_FOOT = 'A draft. The pictures in this part are drawn for it.'
 
+PART0_FOOT = 'A draft.'
+PART3_FOOT = 'A draft. Open notes to the author are marked in the text.'
+
 PARTS = {
+    0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: {}, cast=False, css_extra='', foot=PART0_FOOT),
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=True, css_extra='', foot=PART1_FOOT),
     2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA, foot=PART2_FOOT),
+    3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=lambda: {}, cast=False, css_extra='', foot=PART3_FOOT),
     # kept for reference, not part of the default build: python build_html.py --part 2a
     '2a': dict(md='backup/part-2-variant-a-psychological.md', out='backup/part-2-variant-a-psychological.html', title='Part Two, backup: Spiritual', rules=lambda: rules2a(),
                cast=False, css_extra=F3.CSS_EXTRA, foot=PART2_FOOT + ' This is the first version of part two, kept as a backup.', fixed_ver='1.0.0', backup=True),

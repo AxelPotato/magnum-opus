@@ -37,7 +37,7 @@ def sync_desk(version):
         key = lambda v: tuple(int(x) for x in v.split('.'))
         if os.path.exists(vpath) and key(open(vpath).read().strip()) > key(version):
             return
-        for name in ('part-1-rational.md', 'part-2-spiritual.md'):
+        for name in ('part-0-intro.md', 'part-1-rational.md', 'part-2-spiritual.md', 'part-3-practical.md'):
             shutil.copyfile(os.path.join(ROOT, 'essay', name), os.path.join(dest, name))
         open(vpath, 'w', newline='\n').write(version + '\n')
     except Exception as e:
