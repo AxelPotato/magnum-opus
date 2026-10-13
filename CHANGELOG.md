@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.13 (2026-10-13)
+
+- Part three, section 10: 'people who see you at breakfast' removed
+
+
 ## 4.2.12 (2026-10-13)
 
 - Part two, step 4: Stevenson criticisms reworded to what the sources support ('many of the best-known cases', statements recorded after the families met)
