@@ -83,7 +83,7 @@ Different words, one move: the many is real as an experience and misleading as t
 
 Step 1 leaves a question hanging. If everything is one, why would the whole ever lose track of that? My answer is that the forgetting is no accident and no flaw. It is built into existence itself, on purpose.
 
-Start with inertia. A moving object keeps moving until something pushes it, and a resting one stays put. Life in separation behaves the same way. A being who makes no effort toward unity keeps experiencing disunity, and the experience feeds itself. Every day brings more evidence for the view that I'm separate: a body that ends at the skin, a mind nobody else can read, a world full of things apart from each other. Each piece of evidence makes the next one easier to believe, and the wall grows thicker.
+Start with inertia. A moving object keeps moving until something pushes it, and a resting one stays put. Life in separation behaves the same way. A being who makes no effort toward unity keeps experiencing disunity, and the experience feeds itself. Every day brings more experience that seems to confirm the view that I'm separate: a body that ends at the skin, a mind nobody else can read, a world full of things apart from each other. Each one makes the next easier to believe, and the wall grows thicker. It also means the question is hard to settle by thinking about it from inside the wall, which is why the checks near the end of this part are things you can try on yourself.
 
 The body keeps the loop running. Clench a fist and you feel like a small hard object in a world of other objects, and when you let go that feeling softens. The belief that I'm separate is held as tension, and the tension keeps confirming the belief.
 

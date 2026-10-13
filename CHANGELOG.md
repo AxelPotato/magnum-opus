@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.9 (2026-10-13)
+
+- Part two, step 2: 'evidence' becomes 'experience that seems to confirm', plus a pointer to What you can check
+
+
 ## 4.2.8 (2026-10-13)
 
 - Parts two and three: 'darkness is contagious' now says the darkness is the pull of habit in everyone, us included
