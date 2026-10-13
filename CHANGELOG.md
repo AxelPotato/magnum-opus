@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.2 (2026-10-13)
+
+- Part three section 9: cut the 'shown gradually' sentences; the path now starts at 'It starts small'
+
+
 ## 4.1.1 (2026-10-13)
 
 - Part three section 5: removed the 'unite around the direction' sentence; the steadiness image is now a mountain guide, not a child
