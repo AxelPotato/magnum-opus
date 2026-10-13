@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.13.0 (2026-10-13)
+
+- Part two: a new section, 'Why the paths differ', explains why the religions differ and keep changing while the core stays, and why the form changes again today (leading into Part three)
+
+
 ## 3.12.2 (2026-10-13)
 
 - Part two: the example of a world that bends its rules is now Game of Thrones, season 8, in place of Star Wars

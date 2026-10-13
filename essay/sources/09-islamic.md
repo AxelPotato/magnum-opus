@@ -613,3 +613,24 @@ Background: A quick sort helps in discussion. Common to Sunni and Shia Islam: th
 If someone pushes back:
 - Sufism isn't real Islam. Many Muslims across history have taken it as the inner dimension of Islam, and others reject parts of it; the essay uses it as a named layer and says so.
 - You are cherry-picking. The essay's brief is examples that fit, labelled by layer, with the traditions' own caveats stated where leaving them out would be false.
+
+## Quran 5:48 (to each a law and a way)
+
+Kind: text. Status: partly checked (the wording of the Clear Quran translation was read; Sahih International was not).
+
+Who: Verse 48 of Surat al-Ma'ida (the Table Spread), in the passage on the Torah, the Gospel and the Quran. It says God gave each community a code of law and a way of life, and had God willed He would have made them one community.
+
+In the essay: Part two, 'Why the paths differ': 'The Quran says that God gave each community its own law and way, and had God willed would have made them one community, and it tells them to race toward what is good (5:48).' Sources list: Quran 5:48. The essay paraphrases and does not quote.
+
+Where it sits: Quran 5:48.
+
+The passage (paraphrase, not cleared for quoting): to each of you We have ordained a law and a way; had God willed, He would have made you one community, but He tests you in what He has given you, so race one another to what is good. One translation read this session (Mustafa Khattab, The Clear Quran, on quran.com) says 'a code of law and a way of life' and 'one community'. Sahih International words it differently, so check the wording before quoting.
+
+Read it free: Quran 5:48 on quran.com with several translations: https://quran.com/5:48 (read this session, Clear Quran text).
+
+Read it in a book: Abdel Haleem (Oxford World's Classics, 2004); The Study Quran (HarperOne, 2015) for the classical readings.
+
+Background: Classical commentators read the verse as saying the earlier revelations had their own laws that the Quran now supersedes, while the test and the race to good are shared. The essay uses it for the narrower point that the verse itself gives variety of ways a place in God's design.
+
+If someone pushes back:
+- 'The verse says the Quran supersedes the earlier books.' The same passage says that, and many commentators stress it. The essay uses only the clause that each community has its own way.

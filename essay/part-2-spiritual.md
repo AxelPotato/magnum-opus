@@ -204,6 +204,21 @@ After the last of these comes a stage I call birth, so the picture isn't the end
 
 Some physicists think our universe is one of many, and if so even the farthest point of this picture has something after it. In the spaceflight game Kerbal Space Program, reaching orbit feels like winning, right up until you look out of the window and see the moon (the game calls it the Mun) still sitting there, waiting for a visit.
 
+## Why the paths differ
+
+If one structure sits behind all this, a fair question follows. Why do the religions look so different from one another, and why do they keep changing?
+
+The axiom answers both. The whole goes into separation through countless points of view, and the point of going is that each one comes back with something no other could have brought, which is where step 7 ended. No two points of view are alike, so no two people meet the wall in the same way. What holds it up, and what loosens it, depends on temperament, on culture, on the century, and on what the person has already learned. A path is a way back, drawn for particular people at a particular time. One drawn for herders crossing a desert will sound different from one drawn for monks on a mountain or merchants on a trade road, and it still describes the same thing: a whole that lost track of itself, and a way home. The core stays because it comes from the structure. The forms change because the people do.
+
+That holds for our own time too. A form made for a village that shared one story and one calendar fits poorly in a city of strangers, where the day is cut into pieces by a phone, a job and an inbox. People are more educated and more skeptical than they used to be, they have less spare time, and they are used to checking things for themselves. Every tradition has met a moment like this before, with its reformers, its new schools and its new translations, each asking how to say the same thing to people who no longer hear it. The modern world asks it once more, and Part three is what the answer looks like for people today.
+
+#### What the traditions say
+
+* A hymn of the Rigveda, among the oldest religious texts we have, says that to what is One, sages give many a title (1.164.46, in Griffith's translation).
+* In the Bhagavad Gita Krishna says that whenever dharma declines he takes birth again, age after age (4.7 to 8). The same teaching comes back in the form each age needs.
+* The Quran says that God gave each community its own law and way, and had God willed would have made them one community, and it tells them to race toward what is good (5:48).
+* In the Buddhist Udana (6.4), a king has men born blind each touch a different part of an elephant, and each describes a different animal. The Buddha tells the story about teachers who each hold one view and quarrel over it, as a warning against clinging to a single side.
+
 ## Why I want this
 
 Part one's zoom out ended on full human potential, and that's what I'm after for this lifetime: the whole map, including everything past the corner of the chart. I don't want to believe it's there. I want to see it for myself, the way you see that a room is lit once you look up.
@@ -278,6 +293,10 @@ The axiom and the machine
 - Origen, On First Principles, and Gregory of Nyssa on 1 Corinthians 15:28. Zechariah 14:9. Quran 2:156.
 - John 3:3 and 3:7. Eckhart's German sermons on the birth of God in the soul. Dante Alighieri, Paradiso, canto I. The Jain fourteen gunasthanas. Teresa of Avila, The Interior Castle.
 - Bach, R. (1970). Jonathan Livingston Seagull. Macmillan.
+
+Why the paths differ
+
+- Rigveda 1.164.46 (Griffith's translation, 1896). Bhagavad Gita 4.7 and 4.8. Quran 5:48. Udana 6.4, the Tittha Sutta.
 
 What you can check
 
