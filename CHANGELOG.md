@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.1 (2026-10-13)
+
+- Part three, section 5: 'much further along the path', 'hard to see from inside', coach analogy removed (Dan's read, item 3)
+
+
 ## 4.2.0 (2026-10-13)
 
 - Part two, step 4: forgetting is now explained as what makes separation real (in place of 'not remembering is what the walls predict'), with a folded retelling of Alan Watts's 'The Dream of Life'; Watts added to the sources and the reading pack
