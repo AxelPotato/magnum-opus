@@ -44,7 +44,7 @@ So ask yourself, quietly, how much you want this, and take the answer as informa
 
 Part one's chart said that inner growth and outer action are two axes and that you need both. This section makes that practical: you set goals, and you judge the inner growth by the outer ones.
 
-A goal in this method has three properties. It's short, meaning weeks or months. It's measurable, so at the end you can say yes or no. And it's tied to reality, so it lives in the world and not in your head. Run a retreat. Finish a draft of an essay. The outer result is the check on the inner work, because it's very easy to feel like you're growing when nothing around you has moved. A person who has been meditating for years and still has trouble getting a small group to a meeting on time has learned something about their meditation, and it's worth hearing.
+A goal in this method has three properties. It's short, meaning weeks or months. It's measurable, so at the end you can say yes or no. And it's tied to reality, so it lives in the world and not in your head. Plan the family trip for the summer. Finish a draft of an essay. The outer result is the check on the inner work, because it's very easy to feel like you're growing when nothing around you has moved.
 
 Inner work is real work, and from the inside it can be hard to tell whether it's working. A calm sit feels like progress whether or not anything has changed. A goal turns the calm into something that can be tested. It also gives you energy, which is its second job. A goal you care about pulls effort out of you that discipline never would.
 
@@ -64,7 +64,7 @@ Inner work done only for yourself can go in a circle. You improve your own state
 
 A team can be as small as two. It combines the other parts: you work on your attention, you meet your mirror, you pursue a goal and you give, all at once and with witnesses.
 
-The first thing a team does is hold you up in the hard moments. When your mood falls through the floor, the other person's mood hasn't, and the pair holds longer than either half. I tend to be the one who holds others, but I have my moments too. Most often it is when we have set goals and haven't reached them, or a deadline is close and the task looks unmanageable. I used to slide into despair then, and my close friends helped me come back to myself, calm down, let it go and return to a more adequate state. That alone is worth more than most techniques.
+The first thing a team does is hold you up in the hard moments. When your mood falls through the floor, the other person's mood hasn't, and the pair holds longer than either half. I tend to be the one who holds others, but I have my moments too. Most often it is when we have set goals and haven't reached them, or a deadline is close and the task looks unmanageable. I used to slide into despair then, and my close friends helped me come back to myself, calm down, let it go and return to a more adequate state.
 
 The second thing is the one everybody expects: a team gets more done than the same people working alone. The reasons are old and ordinary. People tend to keep a promise made to another person more reliably than one made to themselves. A task that looks unmanageable gets split among people who can each see a different part of it. Somebody else has often already solved the problem you are stuck on, and watching how they did it teaches faster than being told. And effort is contagious, so it is harder to coast next to someone who is really trying. Put together, the result is more than the people would add up to separately, which is probably the oldest claim anyone has made about teams.
 
@@ -112,11 +112,9 @@ The third job is not to accumulate new tension. This is the one people forget, a
 
 Underneath all three there's a plain skill: seeing your own mind at work. Most of what you do in a day gets triggered, with very little choosing involved. Someone says a thing, something fires, and you've answered before you've decided to. Mental tools for watching that happen, to see the program and not run it automatically, are what turn attention from a relaxation exercise into a way of steering.
 
-Then comes the rule that holds the rest together: regularity. How often you meet with others varies with where you live, and I won't pretend there's one correct timetable. What matters is that it happens, that you keep wanting to grow, and that you carry the method into the rest of your day, in the queue and in the argument, so that the daily sit is the smallest part of it. A person who sits for twenty minutes and then spends the other sixteen hours in the old reflexes has run a very small experiment.
+Then comes the rule that holds the rest together: regularity. How often you meet with others varies with where you live, and I won't pretend there's one correct timetable. What matters is that it happens, that you keep wanting to grow, and that you carry the method into the rest of your day, in the queue and in the argument, so that the daily sit is the smallest part of it.
 
 If you already sit, you know the sitting. What this adds is what surrounds it: a pair who notices when your attention has drifted, a mirror that shows you the hooks you can't feel on a cushion, and a mentor who can see what you can't. In my own case, feedback from outside showed me that my attention was drifting into thinking, in my practice and through the day, far more than I had realized.
-
-Part one's warning applies here. Practiced alone and with nothing else, this is exactly the Drifting room. The sitting can feel wonderful while the life underneath stays as it was. The inner practices need something to work on, and that is the first six parts.
 
 ## 8. Mirror work and ego work
 

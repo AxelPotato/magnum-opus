@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.1.7 (2026-10-13)
+
+- Part three: cut lines that talked down to sitting practice (sections 2, 4 and 7); the example goal is now a family trip
+
+
 ## 4.1.6 (2026-10-13)
 
 - Part three section 3: the 'channel for the source' line is grounded in Part two (the whole, the wall)
