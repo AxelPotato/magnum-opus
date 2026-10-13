@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.10.2 (2026-10-13)
+
+- Part two: the gate line now says Part one's gate is the same gate on one road; Part one: gray, American spelling
+
+
 ## 3.10.1 (2026-10-13)
 
 - Part two: reincarnation cases are marked as debated, the 'turn it off and on again' joke is cut, and the one-lifetime step now follows from the third clause
