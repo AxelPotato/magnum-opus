@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.6 (2026-10-13)
+
+- Part one: the 'not drinking water at odd times' example becomes 'not touching the phone for a few hours'
+
+
 ## 4.2.5 (2026-10-13)
 
 - Part one: 'apparently true' becomes 'in my experience it's true'

@@ -66,7 +66,7 @@ Default has a nice corner too, and I don't want to skip it. Up near the edge clo
 
 Hank Hill is that corner at its most lovable. He's responsible, kind and loyal, he has opinions about lawns that border on a belief system, and he can barely say "I love you" out loud. Jim Halpert is the relaxed version: kind, funny, good at his job, and for years he treats the job as temporary, something he's doing until something better turns up. Pam Beesly sits a few feet away, a receptionist who wants to be an artist and takes years to do anything about it.
 
-What makes this room sticky is that it feels like making your own decisions. When people start watching themselves closely, one of the first things they find out is how few of the day's decisions they actually made. I've seen people try to follow one small instruction for a few days, something like not drinking water at odd times, and catch themselves at the tap anyway, without having decided anything. Their mind decided, and they just did it. That's Default from the inside: not fully living, only a little bit, with attention mostly somewhere else while the body follows the autopilot.
+What makes this room sticky is that it feels like making your own decisions. When people start watching themselves closely, one of the first things they find out is how few of the day's decisions they actually made. I've seen people try to follow one small instruction for a few days, something like not touching the phone for a few hours, and catch themselves with it in their hand anyway, without having decided anything. Their mind decided, and they just did it. That's Default from the inside: not fully living, only a little bit, with attention mostly somewhere else while the body follows the autopilot.
 
 ### Driven
 
