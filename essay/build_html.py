@@ -468,6 +468,14 @@ figure{margin:0}
 .cast-cap{font-family:var(--mono);font-size:.74rem;color:var(--muted);text-align:center;margin:-1.6rem 0 2.2rem}
 .sources{font-size:.92rem;line-height:1.55;padding-left:1.1rem}
 .say{padding-left:1.15rem;margin:0 0 1.4rem}
+details.say-fold{margin:1.4rem 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:.15rem 0}
+details.say-fold summary{cursor:pointer;list-style:none;font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding:.7rem 0;display:flex;align-items:center;gap:.6rem}
+details.say-fold summary::-webkit-details-marker{display:none}
+details.say-fold summary::before{content:"+";display:inline-block;width:1rem;text-align:center;font-size:1rem;line-height:1}
+details.say-fold[open] summary::before{content:"\2212"}
+details.say-fold summary:hover{color:var(--ink)}
+details.say-fold .say{margin-top:.4rem}
+@media print{details.say-fold>*{display:block}}
 .say li{margin-bottom:.7rem;padding-left:.2rem}
 .say li::marker{color:var(--muted)}
 .sources li{margin-bottom:.7rem;overflow-wrap:anywhere}
@@ -486,6 +494,7 @@ def convert(md, R):
     out = []
     toc = []
     in_sources = False
+    fold_title = None
     for b in blocks:
         b = b.strip('\n')
         if b.startswith('# '):
@@ -502,11 +511,21 @@ def convert(md, R):
             out.append(f'<h3 class="room {room}"><span class="dot"></span>{smart(t)}</h3>')
             continue
         if b.startswith('#### '):
-            out.append(f'<h4>{smart(b[5:].strip())}</h4>')
+            t = b[5:].strip()
+            if t == 'What the traditions say':
+                fold_title = t
+            else:
+                out.append(f'<h4>{smart(t)}</h4>')
             continue
         if b.startswith('* '):
+            n = sum(1 for l in b.split('\n') if l.startswith('* '))
             lis = ''.join(f'<li>{smart(l[2:])}</li>' for l in b.split('\n') if l.startswith('* '))
-            out.append(f'<ul class="say">{lis}</ul>')
+            if fold_title:
+                label = f'{fold_title} ({n} {"example" if n == 1 else "examples"})'
+                out.append(f'<details class="say-fold"><summary>{smart(label)}</summary><ul class="say">{lis}</ul></details>')
+                fold_title = None
+            else:
+                out.append(f'<ul class="say">{lis}</ul>')
             continue
         if b.startswith('- '):
             lis = ''.join(f'<li>{smart(l[2:])}</li>' for l in b.split('\n') if l.startswith('- '))

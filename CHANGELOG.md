@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.10.0 (2026-10-13)
+
+- Part two: each 'What the traditions say' block is now a foldable section on the web page, closed by default
+
+
 ## 3.9.1 (2026-10-13)
 
 - Part two step 7: 'my old field' becomes 'my field, cyber security', since the author still works in it.
