@@ -620,7 +620,7 @@ Kind: text. Status: partly checked (the wording of the Clear Quran translation w
 
 Who: Verse 48 of Surat al-Ma'ida (the Table Spread), in the passage on the Torah, the Gospel and the Quran. It says God gave each community a code of law and a way of life, and had God willed He would have made them one community.
 
-In the essay: Part two, 'Why the paths differ': 'The Quran says that God gave each community its own law and way, and had God willed would have made them one community, and it tells them to race toward what is good (5:48).' Sources list: Quran 5:48. The essay paraphrases and does not quote.
+In the essay: Part two, 'Why the paths differ': 'The Quran says that God gave each community its own law and way, and had God willed would have made them one community, and it tells them to race toward what is good (5:48).' Sources list: Quran 5:48. The essay paraphrases and does not quote, and adds that the verse presents the Quran as the measure of the earlier books.
 
 Where it sits: Quran 5:48.
 

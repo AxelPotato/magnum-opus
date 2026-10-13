@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 3.13.1 (2026-10-13)
+
+- Part two, 'Why the paths differ': each witness now claims only what its verse supports, and the reading that is the author's is marked as such
+
+
 ## 3.13.0 (2026-10-13)
 
 - Part two: a new section, 'Why the paths differ', explains why the religions differ and keep changing while the core stays, and why the form changes again today (leading into Part three)

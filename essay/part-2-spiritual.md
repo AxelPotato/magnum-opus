@@ -215,9 +215,9 @@ That holds for our own time too. A form made for a village that shared one story
 #### What the traditions say
 
 * A hymn of the Rigveda, among the oldest religious texts we have, says that to what is One, sages give many a title (1.164.46, in Griffith's translation).
-* In the Bhagavad Gita Krishna says that whenever dharma declines he takes birth again, age after age (4.7 to 8). The same teaching comes back in the form each age needs.
-* The Quran says that God gave each community its own law and way, and had God willed would have made them one community, and it tells them to race toward what is good (5:48).
-* In the Buddhist Udana (6.4), a king has men born blind each touch a different part of an elephant, and each describes a different animal. The Buddha tells the story about teachers who each hold one view and quarrel over it, as a warning against clinging to a single side.
+* In the Bhagavad Gita Krishna says that whenever dharma declines he takes birth again, age after age (4.7 to 8). The Hindu tradition reads this as the divine returning to every age, and I take it as a teaching that returns for each one.
+* The Quran says that God gave each community its own law and way, and had God willed would have made them one community, and it tells them to race toward what is good (5:48). The verse also presents the Quran as the measure of the earlier books, so it speaks of many ways under one God without saying every way is equal.
+* In the Buddhist Udana (6.4), a king has men born blind each touch a different part of an elephant, and each describes a different animal. The Buddha aims the story at rival sects, as a warning against one-sided views, and I borrow the picture: each one holds a real part of something larger.
 
 ## Why I want this
 

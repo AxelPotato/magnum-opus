@@ -395,7 +395,7 @@ Kind: text. Status: unchecked beyond the standard verse numbers; from memory and
 
 Who: The Bhagavad Gita, as in the Gita 2.13 and 2.22 entry above. In chapter 4 Krishna tells Arjuna about the teaching he gave long ago and says why he comes again.
 
-In the essay: Part two, 'Why the paths differ': 'Krishna says that whenever dharma declines he takes birth again, age after age (4.7 to 8).' Sources list: Bhagavad Gita 4.7 and 4.8.
+In the essay: Part two, 'Why the paths differ': 'Krishna says that whenever dharma declines he takes birth again, age after age (4.7 to 8). The Hindu tradition reads this as the divine returning to every age, and I take it as a teaching that returns for each one.' Sources list: Bhagavad Gita 4.7 and 4.8.
 
 Where it sits: Gita 4.7 (whenever dharma declines and its opposite rises, I send myself forth) and 4.8 (to protect the good, destroy the wrongdoers and establish dharma, I come into being age after age, yuge yuge).
 
