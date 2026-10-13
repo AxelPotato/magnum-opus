@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.2.19 (2026-10-13)
+
+- Part three, section 10: how people come and go
+
+
 ## 4.2.18 (2026-10-13)
 
 - Part three, section 10: who the space port is for, and building it as the way to become ready for it
