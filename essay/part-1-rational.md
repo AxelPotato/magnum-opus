@@ -194,7 +194,7 @@ Learning to walk on two legs looks wonky for a reason. A toddler doesn't walk so
 
 Everything so far has been a push. The money runs out, the body stops cooperating, the plateau gets old, a relative ends up in the hospital. Life shoves you toward the middle, and for most people that's how they get there. Pushes work, but they have a flaw: they end. The money comes back, the body recovers, and the person drifts back to wherever they were comfortable.
 
-What gets someone across the middle on purpose is a pull. Plenty of people try to get there by being a bit less driven and a bit more relaxed, circling the edge of it for years. What carries a person across is a reason bigger than themselves. "I'll prove them wrong" turns into "I want to help people do something." Or "I have kids, and I want to be a better person for them." Anything that matters more to you than your own wants, needs and fears can do it.
+What gets someone across the middle on purpose is a pull. Plenty of people try to get there by being a bit less driven and a bit more relaxed, circling the edge of it for years. What carries a person across is a reason bigger than themselves. "I'll prove them wrong" turns into "I want to help people do something." Or "I have kids, and I want to be a better person for them." Anything that matters more to you than your own wants, needs and fears can do it, however small it looks from outside.
 
 I didn't invent this. People from very different fields, some of them decades apart, have landed in roughly the same place. Since this is one of the most important ideas in the essay, I'll show my work.
 

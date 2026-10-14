@@ -1,6 +1,6 @@
 # Part zero: Before you start
 
-This essay has three parts, and each one has a different job. Here is what to expect from them, so you can set your own pace. The aim of the whole essay is to convey ideas. It isn't a course, and it doesn't try to teach you a method from the page.
+After this short opening, the essay has three parts, and each one has a different job. Here is what to expect from them, so you can set your own pace. The aim of the whole essay is to convey ideas. It isn't a course, and it doesn't try to teach you a method from the page.
 
 Part one is the rational part, and I've kept it deliberately earthly. It uses no spiritual vocabulary and asks for no belief. It is about two things you can check in your own life, how much you make things happen and how much you let go of whatever holds you back, and why almost nobody works on both. If you have practiced for years, it may feel light, with sitcom characters and everyday chores in it. That is on purpose, and there are two reasons to read it anyway. DO and BE are the words Parts two and three use, so everything after rests on them. And it is the part you can hand to someone who has never meditated: a partner, a colleague, a friend who rolls their eyes at the word spiritual. It gives you a way to say what you do and why, with nothing they'd need to take on trust.
 

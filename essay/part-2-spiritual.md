@@ -6,7 +6,7 @@ Part one was the polite part. Everything in it holds up whichever way you think 
 
 One thing first, because it changes how you read everything after it. I'm not religious, and I'm not asking you to adopt anybody's religion. What I will do is quote a lot of traditions: Hindu, Buddhist, Jain, Jewish, Christian, Muslim, Daoist, Greek, and a few people with no religion at all. They use different words, and sometimes different gods, and they keep coming back to a few of the same ideas. I'm using them as witnesses.
 
-One more thing, about how I'll argue. A world, real or invented, has to be coherent within its own rules. The rules can be as odd as you like, and what makes the world believable is that everything that happens in it follows from them. This is the test I'll run on the picture of reality in this part. Take one assumption about how things are, and ask whether everything else follows from it without exceptions. You don't have to agree with the starting assumption for the test to work. Coherence is the first test, and your own life is the second, so the end of this part has a few checks you can run on yourself.
+One more thing, about how I'll argue. A world, real or invented, has to be coherent within its own rules. The rules can be as odd as you like, and what makes the world believable is that everything that happens in it follows from them. This is the test I'll run on the picture of reality in this part. Take one assumption about how things are, and ask whether everything else follows from it without exceptions. You don't have to agree with the starting assumption for the test to work. Coherence is the first test, and your own life is the second, so the end of this part has a check and a prediction you can test on yourself.
 
 Two ways of reading a life sit at opposite ends. Most people stand somewhere in between without noticing.
 
@@ -44,6 +44,8 @@ The whole experiences separation. It looks at itself through individual lives, e
 
 The separation ends. Being separate is a phase, and it returns to knowing itself as one.
 
+The first two clauses describe how things are. The third says where they go, and it is the one the rest of this part leans on most.
+
 I'll hold it with a computer, because Part one admitted that I spent years in cyber security, so I can't help it. Picture one machine running thousands of programs. Each program gets its own private memory and believes it has the whole thing to itself. The operating system maps all of it onto the same physical chips, and the hardware enforces the walls, which is what keeps a random app away from your password manager. The walls are real, though engineers built them, and in 2018 the Meltdown and Spectre flaws showed that information could leak across. Underneath, there is one machine.
 
 Now picture the screen. Two windows sit in opposite corners, and there seems to be a distance between them. There is, on the screen. Both windows are computed on the same machine in the same moment, and the machine has never heard of that distance.
@@ -56,7 +58,7 @@ From these three clauses I want to build the rest one step at a time. Each step 
 
 If everything is one, and the whole experiences separation, then being separate can't be a fact about what exists. It has to be a fact about how the whole is looking at itself. So the separation is real as an experience and misleading as a final description, and that's what I mean by illusion. The word gets misused, so let me be careful: it doesn't mean nothing is there. The distance between the two windows is real, and you can measure it with a ruler held to the screen. What's wrong is the reading, the thought that two separate things sit that far apart inside the machine. The walls between programs work the same way. From inside a program they are completely real, and they still don't mean the machine is in pieces.
 
-Why would a whole do this at all? The traditions give answers, and they rhyme. A whole that looks at itself needs positions to look from, and a position is a separation. Knowing needs a gap.
+Why would a whole do this at all? The traditions give answers, and they rhyme. Hindu texts call creation lila, play, an activity with no need behind it. A whole that looks at itself needs positions to look from, and a position is a separation. Knowing needs a gap.
 
 Physics is a fun place to look here, though it comes with a warning label. For a few centuries the picture was easy. The world is made of tiny separate balls, atoms and electrons and so on, each one a little thing with its own properties, and everything else is those balls in different arrangements. Quantum field theory, the framework behind the Standard Model of particle physics, says something different. In it there are no tiny balls to begin with. There are fields, which you can think of as something that fills all of space, a bit like the ocean fills a bay. What we call an electron is a ripple in the electron field, and a photon is a ripple in the electromagnetic field. The ripple has a place and some energy, and we count it as a particle, the same way you might count waves. But a wave is not a thing separate from the water. It is the water doing something.
 
@@ -71,12 +73,12 @@ So I'm not claiming this proves that we are one. What I take from it is this. Fo
 #### Real as an experience, misleading as the last word
 
 * Hinduism calls the appearance maya, and teachers of Advaita, the non-dual school of Hindu philosophy, warn that "illusion" translates the word badly: the world depends on something deeper for its being, so it is neither fully real nor simply unreal. Plato's prisoners in the cave take shadows for the world, and in the Heart Sutra, a short Buddhist text, form is emptiness and emptiness is form, which Buddhists read as saying that things have no fixed independent nature of their own.
-* As for why, the Brahma Sutra (2.1.33), a classic Hindu text on the Upanishads, calls creation play, lila, an activity with no need behind it. Sufis quote a saying, "I was a hidden treasure and I loved to be known," which scholars of hadith, the reported sayings of the Prophet Muhammad, do not accept as his. Its logic is the one I just gave: a whole that wants to know itself needs a point of view.
+* The Brahma Sutra (2.1.33), a classic Hindu text on the Upanishads, is where creation is called lila. Sufis quote a saying, "I was a hidden treasure and I loved to be known," which scholars of hadith, the reported sayings of the Prophet Muhammad, do not accept as his. Its logic is the one I just gave: a whole that wants to know itself needs a point of view.
 * Ralph Waldo Emerson, who had left the pulpit, wrote in The Over-Soul in 1841 that we live in succession, in division, in parts, in particles, and that meanwhile within man is the soul of the whole.
 
 ## 2. Why we forget
 
-Step 1 leaves a question hanging. If everything is one, why would the whole ever lose track of that? My answer is that the forgetting is no accident and no flaw. It is built into existence itself, on purpose.
+Step 1 leaves a question hanging. If everything is one, why would the whole ever lose track of that? My answer is that the forgetting is no accident and no flaw. It is built into existence itself, on purpose, as part of that play.
 
 Start with inertia. A moving object keeps moving until something pushes it, and a resting one stays put. Life in separation behaves the same way. A being who makes no effort toward unity keeps experiencing disunity, and the experience feeds itself. Every day brings more experience that seems to confirm the view that I'm separate: a body that ends at the skin, a mind nobody else can read, a world full of things apart from each other. Each one makes the next easier to believe, and the wall grows thicker.
 
@@ -98,7 +100,7 @@ That has a consequence for everything that follows. Nothing returns by itself. U
 
 ## 3. One life is too short
 
-So far that was the second clause, the separation, and what holds it up. The third clause says the separation ends, and I read it as a return that each of us completes, from experiencing the world as many to experiencing it as one. One life is plainly too short for that. Most of us hold the wall up for a whole life without noticing, and even the few who reach the top right corner are, by the standard of the axiom, standing at the door of the next map. So if the return is real for each of us, it takes more than one lifetime. The idea is older than I am: near the end of The Education of the Human Race, in 1780, Lessing, a thoroughly Enlightenment sort of person, asks why he shouldn't come back as often as he is capable of acquiring fresh knowledge. How the next stretch looks, in a new body or in some other form, is where the traditions differ.
+So far that was the second clause, the separation, and what holds it up. The third clause says the separation ends. It doesn't say how, and here I add one reading of my own: the return is something each of us completes, from experiencing the world as many to experiencing it as one. One life is plainly too short for that. Most of us hold the wall up for a whole life without noticing, and even the few who reach the top right corner are, by the standard of the axiom, standing at the door of the next map. So if the return is real for each of us, it takes more than one lifetime. The idea is older than I am: near the end of The Education of the Human Race, in 1780, Lessing, a thoroughly Enlightenment sort of person, asks why he shouldn't come back as often as he is capable of acquiring fresh knowledge. How the next stretch looks, in a new body or in some other form, is where the traditions differ.
 
 #### Further lives, or growth that continues
 
@@ -185,7 +187,7 @@ The top right corner of the small square is escape velocity, the speed at which 
 
 Past the corner the picture keeps going, and each level is the speed that frees you from the next, bigger pull. The first leaves the Earth. The next leaves the Sun behind, and the one after that leaves the galaxy. The last has no pull left to leave, and every point in the universe is a place you can be at home, so the word every is doing some work.
 
-That is the distance I want to convey. A life on the ground and a life among the stars are about as far apart as an ordinary human life and full human potential, and a person can cross much of that distance in one lifetime. It is hard to feel this from the ground, which is why I use the picture. Nobody gets from the ground to the stars by wishing, either.
+That is the distance I want to convey. A life on the ground and a life among the stars are about as far apart as an ordinary human life and full human potential, and I believe a person can cross much of that distance in one lifetime. It is hard to feel this from the ground, which is why I use the picture. Nobody gets from the ground to the stars by wishing, either.
 
 Every step up shows you more of the whole, and that includes more of what still needs fixing, so the higher you go, the more there is to do. And the whole that comes back at the end knows more than the whole that set out, because in between it has been each one of us.
 

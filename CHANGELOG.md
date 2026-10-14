@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.10.0 (2026-10-14)
+
+- Run-5 picks 1 to 13: Part three says reignite instead of infect and drops 'harder to keep', direction usually comes from someone further along, service starts with the closest people, the team's second thing keeps two reasons, the mirror's guardrail comes right after the working rule, and a center is described at first mention; Part two marks step 3's return as Alex's reading, says what the third clause does, gives lila in step 1's main text and ties 'on purpose' to it, promises a check and a prediction, and says 'I believe' at the space distance; Part one's bigger reason can be small; Part zero counts the opening
+
+
 ## 4.9.4 (2026-10-14)
 
 - Repeats, Alex's picks 16 to 33: Part three says the trust check, the attention story, the mirror example, the stillness instruction, 'someone further along', 'a team can be as small as two' and the list of elements once each (line 11 rewritten, the pair defined in section 4); Part two drops the karma shrug, the second 'made again', the second announcement of the traditions and step 6's restated point of support
