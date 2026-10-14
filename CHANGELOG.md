@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.9.3 (2026-10-14)
+
+- Repeats, Alex's picks 12 to 15: Part two's eight 'What the traditions say' folds are titled with their point and the four 'different words, same thing' lines after them are cut (every #### heading now folds); step 3's closing line and step 7's opener no longer repeat 'the traditions differ'; Part two's check leads with the Cialdini study, Part three's with what you produce; Part one drops Phelps's third appearance
+
+
 ## 4.9.2 (2026-10-14)
 
 - Repeats, Alex's picks 1 to 11: Part one varies three 'with a twist' jokes (Phelps counted in medals, the morning routine, pushing on a wall), Welwood introduced without 'there is a name', the spotlight effect moved to its figure caption, the second 'screw this' becomes a one-way ticket, fold announcements and the four deferrals cut; Part three's last question is 'one question for the road'

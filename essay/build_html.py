@@ -575,12 +575,11 @@ def convert(md, R):
             room = {'Default': 'default', 'Driven': 'driven', 'Drifting': 'drifting', 'High agency': 'high'}.get(t, 'default')
             out.append(f'<h3 class="room {room}"><span class="dot"></span>{smart(t)}</h3>')
             continue
+        if fold_title and not b.startswith('* '):  # a heading with no list under it stays a heading
+            out.append(f'<h4>{smart(fold_title)}</h4>')
+            fold_title = None
         if b.startswith('#### '):
-            t = b[5:].strip()
-            if t.startswith('What the traditions say') or t.startswith('What the studies say') or t.startswith('Two invented worlds') or t.startswith('A fun way'):
-                fold_title = t
-            else:
-                out.append(f'<h4>{smart(t)}</h4>')
+            fold_title = b[5:].strip()  # every #### heading folds the list under it
             continue
         if b.startswith('* '):
             n = sum(1 for l in b.split('\n') if l.startswith('* '))

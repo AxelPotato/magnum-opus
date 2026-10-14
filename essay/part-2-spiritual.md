@@ -20,7 +20,7 @@ Both of these are assumptions. Nobody has observed that matter is all there is, 
 
 Here's why I think the second view deserves the effort. People were saying it long before anyone had a long weekend in the mountains, and something close to it turns up in each of the big religions. Hindu texts say it outright. Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism come at it from another side.
 
-#### What the traditions say
+#### The base, tradition by tradition
 
 * Hinduism: in the Chandogya Upanishad, one of India's oldest philosophical texts, a father tells his son Svetaketu that the finest essence is the self of the whole world, and that he is that (6.8.7).
 * Buddhism comes at it from another side. The early discourses teach that none of the five parts that make up a person is my self, and later schools say that nothing exists on its own. The Huayan school of Chinese Buddhism pictured that as a net of jewels in which each jewel reflects all the others.
@@ -32,7 +32,7 @@ Here's why I think the second view deserves the effort. People were saying it lo
 
 People with no creed have said it too. Spinoza argued that there is only one substance, which he called God or Nature, and that everything else is a form of it. When a rabbi cabled Einstein in 1929 to ask whether he believed in God, Einstein said he believed in Spinoza's God, meaning the lawful order of nature, nothing that cares what we do. Erwin Schrödinger argued that the plurality of minds is only apparent and tied that to the Upanishads. And Carl Sagan, about as far from a mystic as a famous person gets, said on television in 1980 that we are a way for the cosmos to know itself.
 
-These people don't hold exactly the view I'll use, and they share the base: what looks like many is not as separate as it looks, said in each tradition's own words. I'll take that base as the axiom and follow what comes out of it. If it's right, the ideas people usually file under "spiritual" come out as logical consequences, one after another, and under each I'll show how the traditions put it. The traditions got there from many directions. Here the same ideas are laid out in the order they follow from one assumption.
+These people don't hold exactly the view I'll use, and they share the base: what looks like many is not as separate as it looks. I'll take that base as the axiom and follow what comes out of it. If it's right, the ideas people usually file under "spiritual" come out as logical consequences, one after another, and under each I'll show how the traditions put it. The traditions got there from many directions. Here the same ideas are laid out in the order they follow from one assumption.
 
 ## The axiom and the machine
 
@@ -68,13 +68,11 @@ The Standard Model has a separate field for each kind of particle, and physicist
 
 So I'm not claiming this proves that we are one. What I take from it is this. For centuries the picture was lots of separate things. The best physics we have now says that picture is wrong at the bottom. The many things turn out to be one world doing something in different places, and the most ambitious theories hope it comes down to a single kind of thing. That is the shape of the axiom, and I find it a good sign that it turned up in physics without anyone asking it to.
 
-#### What the traditions say
+#### Real as an experience, misleading as the last word
 
 * Hinduism calls the appearance maya, and teachers of Advaita, the non-dual school of Hindu philosophy, warn that "illusion" translates the word badly: the world depends on something deeper for its being, so it is neither fully real nor simply unreal. Plato's prisoners in the cave take shadows for the world, and in the Heart Sutra, a short Buddhist text, form is emptiness and emptiness is form, which Buddhists read as saying that things have no fixed independent nature of their own.
 * As for why, the Brahma Sutra (2.1.33), a classic Hindu text on the Upanishads, calls creation play, lila, an activity with no need behind it. Sufis quote a saying, "I was a hidden treasure and I loved to be known," which scholars of hadith, the reported sayings of the Prophet Muhammad, do not accept as his. Its logic is the one I just gave: a whole that wants to know itself needs a point of view.
 * Ralph Waldo Emerson, who had left the pulpit, wrote in The Over-Soul in 1841 that we live in succession, in division, in parts, in particles, and that meanwhile within man is the soul of the whole.
-
-Different words, one move: the many is real as an experience and misleading as the last word.
 
 ## 2. Why we forget
 
@@ -90,27 +88,25 @@ Why would a whole build this in? Because a forgetting that lasted an afternoon w
 
 That has a consequence for everything that follows. Nothing returns by itself. Unity won't arrive as the default, because the default is the pull toward separation. Getting out takes a decision, and not just once: the same decision, made again in every situation that comes. The steps that follow describe that process. Step 5 shows how a single life learns what separation costs, and step 6 shows how the push against the inertia begins.
 
-#### What the traditions say
+#### A default that can be undone
 
-* The traditions name what holds the wall in their own terms: the self is built, veiled or forgotten, which is what makes it something that can be undone. Buddhism says the self is built. What feels like one solid "me" is described as a bundle of parts: body, feelings, perceptions, intentions and habits, and awareness, working together, and the first thing the path asks you to drop is the belief that there is a solid, permanent "me" behind them.
+* The traditions describe the wall as built, veiled or forgotten. Buddhism says the self is built. What feels like one solid "me" is described as a bundle of parts: body, feelings, perceptions, intentions and habits, and awareness, working together, and the first thing the path asks you to drop is the belief that there is a solid, permanent "me" behind them.
 * Jain teaching describes karma as fine matter that veils the soul's own natural knowledge, as clouds veil the sun, so the perfection was there all along.
 * The letter to the Ephesians says that the non-Jewish world its readers left behind is alienated from the life of God because of the ignorance that is in them (4:18). In the Quran (7:172) God asks the descendants of Adam, "Am I not your Lord?", and Sufis read that moment as the origin the soul has forgotten and longs to return to.
 * The Sanskrit word for this heaviness is tamas, the quality of inertia. The Bhagavad Gita (14.8) says it is born of ignorance, deludes all embodied beings, and binds them through heedlessness, laziness and sleep.
 * The language of sleep is everywhere. Buddha means the awakened one. The letter to the Ephesians quotes what looks like an early hymn: "Awake, O sleeper, and arise from the dead" (5:14).
 
-They name the pull in different words, and they agree that it's a default, that it can be undone, and that waking takes an act.
-
 ## 3. One life is too short
 
 So far that was the second clause, the separation, and what holds it up. The third clause says the separation ends, and I read it as a return that each of us completes, from experiencing the world as many to experiencing it as one. One life is plainly too short for that. Most of us hold the wall up for a whole life without noticing, and even the few who reach the top right corner are, by the standard of the axiom, standing at the door of the next map. So if the return is real for each of us, it takes more than one lifetime. The idea is older than I am: near the end of The Education of the Human Race, in 1780, Lessing, a thoroughly Enlightenment sort of person, asks why he shouldn't come back as often as he is capable of acquiring fresh knowledge. How the next stretch looks, in a new body or in some other form, is where the traditions differ.
 
-#### What the traditions say
+#### Further lives, or growth that continues
 
 * In the Bhagavad Gita, the Hindu scripture in which the god Krishna advises the warrior Arjuna, he says that the yogi who keeps striving is perfected through many births and then reaches the highest goal (6.45). The Buddha says that samsara, the cycle of birth, death and rebirth, has no discoverable beginning and that it is not easy to find a being who has not at some time been your mother (Samyutta Nikaya 15, in one of the oldest collections of his talks).
 * Jain teaching has each soul reborn until it is freed, Sikh scripture teaches rebirth with liberation by grace, and the Kabbalists, the Jewish mystics, taught gilgul, the cycling of the soul through new bodies.
 * The three big Western religions mostly settled on one life, then resurrection and judgment. Even so, the story doesn't stop at death for them: the Catholic Church teaches purgatory, a purification after death, and Gregory of Nyssa, a fourth-century Church Father, taught that the soul's progress toward God never ends, because God is infinite.
 
-The traditions differ on the form, and the axiom needs only that development continues. Some follow it into further lives, and some keep the growth and drop the return.
+Either way, development continues, which is all the axiom needs.
 
 ## 4. Something carries over
 
@@ -122,7 +118,7 @@ That's the second clause of the axiom told as a story. There is one dreamer unde
 
 There's a fair question here: if there is only one mind, who carries over? The Advaita answer is that individuality belongs to the level of appearance, which in the machine is the process, and the processor underneath is the same for everyone. So there are two pictures, a saved state for the process and a single witness for the processor, and each is true at its own level.
 
-#### What the traditions say
+#### What carries over
 
 * In the Gita, Krishna compares the self to a person putting on new clothes and discarding worn ones (2.22). In the Myth of Er that closes Plato's Republic, souls choose their next lives and then drink from the river of forgetfulness before they are born, which is one old answer to why you don't remember the last one.
 * On the question of who carries over, Advaita points the other way. In the Brihadaranyaka Upanishad the Self is the witness in every being, and there is no other witness but him (3.7.23). Gaudapada, an early teacher of Advaita, goes a step further and says that from the highest standpoint nobody is bound and nobody is freed (Mandukya Karika 2.32).
@@ -144,9 +140,7 @@ None of this is punishment. A system built to teach doesn't punish anyone, and i
 
 Many traditions stretch the mirror across lifetimes. In the machine picture, the thread that carries over from step four keeps meeting what it left unmended, and by the time it sees the whole it has stood in the place of everyone it once called other. That is my reading of the axiom, and it goes beyond what I was taught. If you take it up, take it as a reason to be kind, and never as an explanation for why someone else is in pain.
 
-#### What the traditions say
-
-Two ideas are packed into this step: deeds come back to the doer, and the other is me. The first two bullets are about the first, and the rest are about the second.
+#### Deeds come back, and the other is me
 
 * The traditions differ on who administers karma. In the Buddhist account nobody does: the Buddha said it is intention he calls karma (Anguttara Nikaya 6.63). In Advaita, karma belongs to the world of apparent individuals.
 * The shape turns up elsewhere without any rebirth. Paul writes that whatever one sows, that will he also reap (Galatians 6:7), and the Quran says that if you do good, you do good for yourselves, and if you do evil, you do it to yourselves (17:7).
@@ -166,14 +160,12 @@ The first is to mend the cause on your own side. Treating a part of the whole as
 
 Letting go falls out of all three. The wall is held in the body as tension (step 2), and each move gives the body evidence that it isn't needed, so it loosens. When you stop controlling, the present moment gets deeper and home feels closer. Still, letting go is the doorway, and the house is the connection you keep returning to. That's also why you can't argue a person out of the feeling of separation. A body that holds a belief as tension needs evidence, and the evidence is the experience of turning back. Part three is about doing that day by day.
 
-#### What the traditions say
+#### Stop holding, and turn back
 
 * Hasidism calls it bittul, the nullification of the self, and the Baal Shem Tov, the founder of Hasidism, read a verse in Psalm 16 as teaching equanimity, so that praise and insult feel the same. The Sufis speak of fana, the passing away of the self in God, followed by baqa, living on in God.
 * Christians have kenosis, Greek for emptying, their name for the emptying Paul writes about in his letter to the Philippians (2:5-8). There he says that Jesus, though he was in the form of God, did not treat equality with God as something to hold on to, and emptied himself, taking the form of a servant. Paul offers this as the attitude his readers should share. The medieval German preacher Meister Eckhart's word for letting go was gelazenheit.
 * In the Buddha's instructions on breathing, one step is to breathe in and out contemplating relinquishment (Majjhima Nikaya 118). In the Sallatha Sutta he says that an untrained person feels two pains, the physical one and the mental one added on top, while a trained disciple feels only the first.
 * Repair has its own rules. The Mishnah, an early Jewish law code, says that Yom Kippur, the Day of Atonement, atones for sins between a person and God, but for sins against another person only once that person has been appeased (Yoma 8:9). In the Sermon on the Mount, Jesus says that if you remember at the altar that your brother has something against you, you should leave your gift there and first go and be reconciled (Matthew 5:23-24). The words for repentance point the same way: the Hebrew teshuvah comes from the verb shuv, to return (it is also the everyday word for an answer), the Arabic tawba comes from a root for turning back, and the Greek metanoia means a change of mind.
-
-They differ about who or what you turn toward, and they give the same instruction: stop holding, and turn back.
 
 ## 7. The return, in stages
 
@@ -199,9 +191,9 @@ Every step up shows you more of the whole, and that includes more of what still 
 
 After the last of these comes a stage I call birth. The whole universe on this scale is still the inside of something, like a womb or an egg. To whatever grows inside, that is the whole world until the moment it is born, and what comes after can't be drawn from in here. Many traditions have an image of a second birth for a decisive change in a person, and the old maps were scale maps as well.
 
-#### What the traditions say
+#### Second births and staged maps
 
-* The end of the story is told in each tradition's own way. Origen, a third-century theologian, and Gregory of Nyssa read Paul's line that God may be all in all (1 Corinthians 15:28) as the restoration of all things. Zechariah has it that on that day the LORD will be one and his name one (14:9). The Quran has "indeed to Him we will return" (2:156). Buddhism calls the ending of greed, hatred and delusion nirvana, a word that means a flame going out.
+* Several traditions tell the end of the story. Origen, a third-century theologian, and Gregory of Nyssa read Paul's line that God may be all in all (1 Corinthians 15:28) as the restoration of all things. Zechariah has it that on that day the LORD will be one and his name one (14:9). The Quran has "indeed to Him we will return" (2:156). Buddhism calls the ending of greed, hatred and delusion nirvana, a word that means a flame going out.
 * In John's gospel Jesus says that one must be born again, or born from above, since the Greek word can mean either. In the Hindu tradition the twice-born are those who received the initiation that counts as a second birth, and Meister Eckhart taught that God is born in the ground of the soul. The traditions use the image for different things, and I use it for the stage after the top of the scale.
 * Other traditions draw staged maps too, so a scale like this isn't new. Early Buddhism has four stages of awakening, the Jains have fourteen steps of spiritual growth, and Teresa of Avila, the sixteenth-century Spanish mystic, described seven mansions of the inner castle. In Dante's Paradiso the pilgrim rises through the heavens without noticing, and Beatrice tells him it would be stranger if, freed of what held him back, he stayed below, like a flame sitting still on the ground.
 
@@ -215,7 +207,7 @@ The axiom answers both. The whole goes into separation through countless points 
 
 That holds for our own time too. A form made for a village that shared one story and one calendar fits poorly in a city of strangers, where the day is cut into pieces by a phone, a job and an inbox. People are more educated and more skeptical than they used to be, they have less spare time, and they are used to checking things for themselves. Every tradition has met a moment like this before, with its reformers, its new schools and its new translations, each asking how to say the same thing to people who no longer hear it. The modern world asks it once more, and there are many answers to it. Part three describes the one I chose.
 
-#### What the traditions say
+#### Many names for one thing
 
 * A hymn of the Rigveda, among the oldest religious texts we have, says that to what is One, sages give many a title (1.164.46).
 * In the Bhagavad Gita Krishna says that whenever dharma declines he takes birth again, age after age (4.7 to 8). The Hindu tradition reads this as the divine returning to every age, and I take it as a teaching that returns for each one.
@@ -230,9 +222,9 @@ It started with questions. Why am I alive? What is happening here? How do the un
 
 ## What you can check
 
-If the axiom is right, loosening the wall should leave marks you can check, and the first ones are on the chart. How many options do you see in a hard moment? How long does a reaction last? How quickly do you say sorry first, even when it costs you? When did you last do something nobody asked for, for somebody else's good? People who do this describe the same order, consistently: first they start to listen, then giving shows up, unasked and without a tally, then perception clears.
+If the axiom is right, loosening the wall should leave marks you can check. In 1997 Robert Cialdini and colleagues found that how "one" people felt with someone in need predicted their willingness to help better than sympathy did. So the check for this part is the one in that study: how often do you feel at one with the person in front of you, and what do you do next when you do? In my experience, and in what people around me describe, the order is the same: first you start to listen, then giving shows up, unasked and without a tally, then perception clears.
 
-The prediction is the interesting part. If the sense of separation is held by tension, then loosening it should make a person more generous without anyone telling them to be. In 1997 Robert Cialdini and colleagues found that how "one" people felt with someone in need predicted their willingness to help better than sympathy did. It's an experiment you can run on yourself, which is the nice thing about this kind of claim.
+The prediction is the interesting part. If the sense of separation is held by tension, then loosening it should make a person more generous without anyone telling them to be. It's an experiment you can run on yourself, which is the nice thing about this kind of claim.
 
 ## Where this goes next
 

@@ -164,7 +164,7 @@ It doesn't exist yet. What exists today is smaller: we, the students of Genadiy,
 
 ## What you can check
 
-After a few months of working in a pair or a team, ask: how many options do you see in a hard moment, and how long does a reaction last? How fast do you say sorry first? Does the pair produce the thing it said it would? Does anything outside you change, and if it doesn't, why not? Put the answers on the chart from Part one, and ask again a month later.
+After a few months of practice, alone, in a pair or in a team, ask: do you produce the thing you said you would? Does anything outside you change, and if it doesn't, why not? How fast do you say sorry first now? Put the answers on the chart from Part one, and ask again a month later.
 
 And one question for the road: if you had the energy of a whole team and no direction, what would you do with it? Then ask who in your life could tell you.
 
