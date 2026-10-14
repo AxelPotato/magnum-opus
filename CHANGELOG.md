@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.5.0 (2026-10-14)
+
+- Part three: a contact form at the very end sends a reader's name, phone or email (any one is enough) to the essay-lead webhook; every part keeps the UTM values a reader arrives with so the form can pass them on
+
+
 ## 4.4.1 (2026-10-14)
 
 - Part three: the open note at the end of section 10 is removed; a contact form is prepared for the end of Part three and stays off the page until its address is set

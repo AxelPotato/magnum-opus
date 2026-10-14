@@ -166,4 +166,4 @@ After a few months of working in a pair or a team, ask: how many options do you 
 
 And one question that needs no equipment, to take with you: if you had the energy of a whole team and no direction, what would you do with it? Then ask who in your life could tell you.
 
-[CONTACT: If you'd like to talk about any of this, I'd be glad to hear from you.]
+[CONTACT: If you'd like to talk about any of this, leave your name and a phone number or email, and I'll get in touch.]

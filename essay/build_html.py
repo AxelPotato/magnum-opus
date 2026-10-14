@@ -486,8 +486,7 @@ a{color:var(--high)}
 .contact{margin:3rem 0 1rem;padding-top:1.6rem;border-top:1px solid var(--rule)}
 .contact-form{display:grid;gap:1rem;margin-top:1rem}
 .contact-form label{display:grid;gap:.35rem;font-family:var(--mono);font-size:.78rem;color:var(--muted)}
-.contact-form input,.contact-form textarea{font:inherit;font-family:var(--body,inherit);font-size:1rem;color:var(--ink);background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:.6rem .7rem;width:100%;box-sizing:border-box}
-.contact-form textarea{resize:vertical;min-height:7rem}
+.contact-form input{font:inherit;font-family:var(--body,inherit);font-size:1rem;color:var(--ink);background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:.6rem .7rem;width:100%;box-sizing:border-box}
 .contact-form button{justify-self:start;font-family:var(--mono);font-size:.85rem;color:var(--paper);background:var(--ink);border:0;border-radius:8px;padding:.65rem 1.3rem;cursor:pointer}
 .contact-form button:disabled{opacity:.55;cursor:default}
 .contact-form .trap{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
@@ -499,8 +498,20 @@ FONTS = ('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght
          '&family=IBM+Plex+Mono:wght@400;500&family=Literata:opsz,wght@7..72,400..700&family=Comic+Neue:wght@700&display=swap')
 
 
-# Where the contact form at the end of Part three sends its messages: the Production URL of the n8n webhook.
-CONTACT_ENDPOINT = ''
+# Where the contact form at the end of Part three sends its leads: the n8n essay-lead webhook.
+# It takes name, phone and email (at least one), the UTM fields and page_url, as urlencoded POST.
+CONTACT_ENDPOINT = 'https://n8n.giving-school.eu/webhook/essay-lead'
+
+# Runs on every part, so UTM values from the page a reader lands on still reach the form in Part three.
+UTM_JS = """
+(function () {
+  try {
+    var q = new URLSearchParams(location.search), s = {};
+    ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'].forEach(function (k) { if (q.get(k)) s[k] = q.get(k); });
+    if (Object.keys(s).length) sessionStorage.setItem('essay_utm', JSON.stringify(s));
+  } catch (e) {}
+})();
+"""
 
 CONTACT_JS = """
 document.querySelectorAll('.contact-form').forEach(function (f) {
@@ -509,14 +520,20 @@ document.querySelectorAll('.contact-form').forEach(function (f) {
     e.preventDefault();
     var s = f.querySelector('.contact-status'), btn = f.querySelector('button');
     if (el('website').value) { s.textContent = 'Thank you.'; return; }
-    var data = new URLSearchParams({
-      name: el('name').value.trim(), email: el('email').value.trim(), message: el('message').value.trim(),
-      page: document.title, version: (document.querySelector('meta[name=version]') || {}).content || ''
+    var d = new URLSearchParams(), any = false;
+    ['name', 'phone', 'email'].forEach(function (k) {
+      var v = el(k).value.trim();
+      if (v) { d.set(k, v); any = true; }
     });
+    if (!any) { s.textContent = 'Add your name, phone or email, then send.'; return; }
+    var utm = {};
+    try { utm = JSON.parse(sessionStorage.getItem('essay_utm') || '{}'); } catch (x) {}
+    Object.keys(utm).forEach(function (k) { if (/^utm_/.test(k) && utm[k]) d.set(k, utm[k]); });
+    d.set('page_url', location.href);
     btn.disabled = true; s.textContent = 'Sending\u2026';
-    fetch(f.dataset.endpoint, { method: 'POST', body: data })
-      .then(function (r) { if (!r.ok) throw new Error(r.status); f.reset(); s.textContent = 'Thank you. Your message reached me, and I\u2019ll write back.'; })
-      .catch(function () { s.textContent = 'That didn\u2019t go through. Please try again in a moment.'; })
+    fetch(f.dataset.endpoint, { method: 'POST', body: d })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); f.reset(); s.textContent = 'Thank you. I got it, and I\u2019ll be in touch.'; })
+      .catch(function () { s.textContent = 'That didn\u2019t go through. Please try again in a minute.'; })
       .finally(function () { btn.disabled = false; });
   });
 });
@@ -524,12 +541,12 @@ document.querySelectorAll('.contact-form').forEach(function (f) {
 
 
 def contact_html(intro):
-    return ('<section class="contact" aria-label="Write to me">'
+    return ('<section class="contact" aria-label="Get in touch">'
             f'<p>{smart(intro)}</p>'
             f'<form class="contact-form" data-endpoint="{html.escape(CONTACT_ENDPOINT)}">'
             '<label>Your name<input name="name" autocomplete="name"></label>'
-            '<label>Your email<input name="email" type="email" autocomplete="email" required></label>'
-            '<label>Your message<textarea name="message" rows="5" required></textarea></label>'
+            '<label>Phone, with country code<input name="phone" type="tel" autocomplete="tel"></label>'
+            '<label>Email<input name="email" type="email" autocomplete="email"></label>'
             '<label class="trap" aria-hidden="true">Leave this empty<input name="website" tabindex="-1" autocomplete="off"></label>'
             '<button type="submit">Send</button>'
             '<p class="contact-status" role="status" aria-live="polite"></p>'
@@ -681,7 +698,8 @@ def page(part, fragment=False):
             f'<meta name="viewport" content="width=device-width,initial-scale=1">'
             f'<meta name="version" content="{ver}">'
             f'<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
-            f'<link rel="stylesheet" href="{FONTS}"><style>{CSS}{cfg["css_extra"]}</style>')
+            f'<link rel="stylesheet" href="{FONTS}"><style>{CSS}{cfg["css_extra"]}</style>'
+            f'<script>{UTM_JS}</script>')
     if fragment:
         return head + hero_html(part) + main
     return ('<!doctype html><html lang="en"><head><meta charset="utf-8">' + head + '</head><body>' + hero_html(part) + main + '</body></html>')
