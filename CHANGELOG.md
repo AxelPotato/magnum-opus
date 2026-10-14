@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.12.0 (2026-10-14)
+
+- Run-5 pick 19: Part one's top right room gains an ordinary resident, Sean Maguire from Good Will Hunting, and the person you thought of in the jail cell; 'So first, real people'
+
+
 ## 4.11.0 (2026-10-14)
 
 - Run-5 picks 14 to 18: Part two says the check and the prediction don't prove the axiom, drops 'sincerely' and widens the third move to the people around you, cuts the pointer at the end of step 6 and promises 'a lot more everyday life', cuts the string theory paragraph and 'a good sign', and says the arrow ranks nobody

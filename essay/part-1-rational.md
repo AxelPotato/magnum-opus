@@ -126,13 +126,15 @@ Here is why the turbulence is worth it: the two legs feed each other. BE widens 
 
 High agency doesn't mean control over everything. Part of it is knowing which things are up to you, which is the useful half of the Stoic idea from the last room. The weather, other people's opinions, the economy and the past are facts to work with. Pushing on a wall for a year is Driven, whatever you call it.
 
-Sitcom characters are hard to find for this room, which tells you something about how rare it is, or how hard it is to write jokes about it. So these are real people.
+Sitcom characters are hard to find for this room, which tells you something about how rare it is, or how hard it is to write jokes about it. So first, real people.
 
 Malala Yousafzai kept going to school under the Taliban, wrote an anonymous blog for the BBC and spoke out on national television, all at eleven. At fifteen she was shot in the head on her school bus. She survived, built a global movement for girls' education, won the Nobel Peace Prize at seventeen, and then got an Oxford degree, which after that list sounds almost modest. In her speech at the UN she said she doesn't even hate the man who shot her. That's both legs in one person: willing to disagree with the status quo, and free of the hatred that would have been the easiest fuel.
 
 Marcus Aurelius ran the Roman Empire for nineteen years with a plague in it, a long war on the frontier, and a general who declared himself emperor behind his back. On campaign he wrote notes to himself in Greek, almost certainly never meant for publication, which we now call the Meditations. It reads like a man with the largest to-do list on earth reminding himself to do the task in front of him and to stop being run by other people's opinions. When the usurper was killed, the ancient sources say, Marcus didn't celebrate. He was upset he'd lost the chance to pardon him. Outer agency at the top of the world, with the inner kind to match. We also have a pretty cool statue of him.
 
 Rosa Parks is a good one for anyone who thinks this room needs a loud personality. She was soft-spoken, a seamstress, and she had been working with the local NAACP chapter for years before the day in 1955 when she refused to give up her bus seat in Montgomery. She said later that she wasn't physically tired, and that the only tired she was, was tired of giving in. Then came decades of steady, unglamorous work.
+
+Fiction has one too: Sean Maguire in Good Will Hunting, a community college teacher with a quiet life and his own grief, who at the moment it matters finds the one sentence that gets through: "It's not your fault." The person you thought of in the jail cell lives here too, most likely with no statue and no prize.
 
 ## What the top right gives you
 
