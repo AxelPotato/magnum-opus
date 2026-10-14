@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.16.4 (2026-10-14)
+
+- Run-5 pick 54.2: Part three's feedback story gains the other direction: ideas Alex kept pushing for, like one consistent set of names for the retreats and online courses on the website
+
+
 ## 4.16.3 (2026-10-14)
 
 - Run-5 pick 54.1: friend A's story in Part one gains the after: patience with the kids and calm, caring heart to heart conversations
