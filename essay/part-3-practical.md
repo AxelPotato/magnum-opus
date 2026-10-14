@@ -166,6 +166,6 @@ It doesn't exist yet. What exists today is smaller: we, the students of Genadiy,
 
 After a few months of working in a pair or a team, ask: how many options do you see in a hard moment, and how long does a reaction last? How fast do you say sorry first? Does the pair produce the thing it said it would? Does anything outside you change, and if it doesn't, why not? Put the answers on the chart from Part one, and ask again a month later.
 
-And one question that needs no equipment, to take with you: if you had the energy of a whole team and no direction, what would you do with it? Then ask who in your life could tell you.
+And one question for the road: if you had the energy of a whole team and no direction, what would you do with it? Then ask who in your life could tell you.
 
 [CONTACT: If you'd like to talk about any of this, leave your name and a phone number or email, and I'll get in touch.]

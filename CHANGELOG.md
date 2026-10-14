@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.9.2 (2026-10-14)
+
+- Repeats, Alex's picks 1 to 11: Part one varies three 'with a twist' jokes (Phelps counted in medals, the morning routine, pushing on a wall), Welwood introduced without 'there is a name', the spotlight effect moved to its figure caption, the second 'screw this' becomes a one-way ticket, fold announcements and the four deferrals cut; Part three's last question is 'one question for the road'
+
+
 ## 4.9.1 (2026-10-14)
 
 - Part two: the stillness-and-work paragraph at the end of 'Where this goes next' is cut (Alex's call)
