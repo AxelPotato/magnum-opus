@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.7.1 (2026-10-14)
+
+- Part three: the opening drops the lineage (section 5 tells it) and the list of sections, including "the place where it can be lived in full"
+
+
 ## 4.7.0 (2026-10-14)
 
 - Part one: friend A's story is shorter and ends on the chart; it no longer names the retreat's city, gives friend A no pronouns, and drops the closing report; Part three's opening refers back to it without a pronoun
