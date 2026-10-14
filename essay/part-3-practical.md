@@ -8,7 +8,7 @@ Most of us know both failures from the inside. Energy without direction is the f
 
 You can start tonight, alone. Close your eyes and give your attention to the sensations in your body. If thoughts come, don't push them away, come back to the sensations, and learn to enjoy it. That's stillness, and section 7 says more about it. Tomorrow, add three small choices: go first instead of waiting for the other person, say the sentence now instead of carrying it, and don't rehearse the argument in the shower. Each of them keeps a little new tension from building up. The rest of this part is about what keeps it going.
 
-Part two gave a reason why a life needs both. The wall that holds us apart is held in the body as tension, and tension is a tax on energy, so the first source of energy is letting go. That isn't enough, and the second source comes from outside you: a reason bigger than you, and other people who share it. Direction has its own problem. You can't see your own blind spots, which is the whole meaning of the phrase, so direction has to come from someone much further along, who can see you from the outside. So a life has two supplies to keep stocked. Direction comes from someone further along, and energy comes from a higher goal and the people who share it, and a team can be as small as two friends. Everything else is the daily work those two make possible.
+Part two gave a reason why a life needs both. The wall that holds us apart is held in the body as tension, and holding tension takes energy, so the first source of energy is letting go. That isn't enough, and the second source comes from outside you: a reason bigger than you, and other people who share it. Direction has its own problem. You can't see your own blind spots, which is the whole meaning of the phrase, so direction has to come from someone much further along, who can see you from the outside. So a life has two supplies to keep stocked. Direction comes from someone further along, and energy comes from a higher goal and the people who share it, and a team can be as small as two friends. Everything else is the daily work those two make possible.
 
 If you accept what Part two said, a life is one lesson in a much longer course, and the highest thing you can aim at is to graduate from it. How long the course is I can't tell you. What I can say is how the course nudges a person who hasn't learned the lesson. It does it in two ways. One is outside: the same failure turns up in a new costume, the same kind of boss, the same kind of breakup. The other is inside: everything works, the job is fine, the people are fine, and you are dissatisfied anyway. If neither happens, and your life is going well and feels well, you have no need of a method. A method is a way to do on purpose, and faster, what those nudges do slowly.
 
@@ -36,7 +36,7 @@ It also fades. Nearly everyone has days with a lift and days with a slump, and t
 
 The wish can be grown. It isn't equally strong in everyone from birth, and it gets brought up, partly by the people around you helping each other. A goal you love, sitting in the background of everything even when you never mention it, feeds it. So does real work for other people, done with your hands. Underneath those sits a decision, made on purpose and made again when it slips. A bigger wish also crowds out smaller ones, so you don't have to fight the small ones one at a time.
 
-Two things quietly drain it. One is feeling sorry for yourself, which everyone does and which takes more from the wish than almost anything else. The other is a half-wish that bargains every Tuesday about how much it's willing to give.
+Two things quietly drain it. One is feeling sorry for yourself, which everyone does and which takes more from the wish than almost anything else. The other is a half-wish that changes its mind every Tuesday about how much it's willing to give.
 
 So ask yourself, quietly, how much you want this, and take the answer as information. If the answer is low, nothing is wrong with you. Do something concrete, and decide again.
 
@@ -74,7 +74,7 @@ The people also have to want it, and this is where the team meets the wish from 
 
 The team does something for the wish itself, too. On your own it dies down faster, and far from the people who share it, it's harder to keep. So people meet to infect each other with it and to remind each other, and when your own spark drops, lighting up a partner gets some of it back. The company of people who want the same thing is one of the best things to feed it.
 
-The modern world makes this harder. In an earlier age a village gave you the other people for free. Now you can order food, learn skills and find company from a phone without anyone seeing you need anything. That is convenient, and it also removes the one thing that did the work. You have to build the village on purpose.
+The modern world makes this harder. In an earlier age the other people came with the village. Now you can order food, learn skills and find company from a phone without anyone seeing you need anything. That is convenient, and it also removes the one thing that did the work. You have to build the village on purpose.
 
 ## 5. The teacher and the method
 

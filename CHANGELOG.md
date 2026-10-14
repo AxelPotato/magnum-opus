@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.8.2 (2026-10-14)
+
+- Part three: the last three money idioms are gone ("a tax on energy", "bargains", "for free")
+
+
 ## 4.8.1 (2026-10-14)
 
 - Part one, zoom out: the bigger map is stated as my belief, and the closing line now says it gets mystical fast and leaves it there, in place of pointing to the next part
