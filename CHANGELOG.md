@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.3.0 (2026-10-14)
+
+- Teacher details moved from Part zero to Part three: Part zero now names Genadiy in one sentence; the short bio opens section 5; the personal note joins the trust paragraph in section 6; the student counts are dropped from the note
+
+
 ## 4.2.23 (2026-10-13)
 
 - Part zero: removed 'and from my own experience of him that is enough'

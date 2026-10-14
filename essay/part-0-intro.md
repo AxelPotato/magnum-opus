@@ -14,8 +14,4 @@ You can stop after any part, and each one makes the next easier to judge.
 
 I'm Alex. In my teens I had a lot of questions: why things are the way they are, and why I am the way I am. Over time those questions led to a spiritual search. I have worked with computers for about ten years, eight of them in cyber security, which I still do. My spiritual journey is much longer, more than fourteen years.
 
-Everything in this essay that goes beyond what you can check in your own life comes from one teacher, Genadiy Givin, and the method in Part three is the one he teaches.
-
-Genadiy was born in Riga. As a young man he became a master of sport in martial arts while he studied at Riga Technical University. In his teens he met people who had woken up, in the sense Part two describes, and what he saw in them gave him a huge wish to know what they knew. That led him to the man who became his teacher. The knowledge comes to him through a long line of teachers and students, and he describes everyone in it as ordinary people without titles, himself included. He says that on his own he isn't worth much, and that the knowledge he passes on is what matters.
-
-On a personal note, he is the wisest and most compassionate person I have ever met. I can't prove to you that he is right. I feel it. I see the changes in me, and I see them in the hundreds of students who studied personally with him and in the tens of thousands who study with his students, following his method.
+Everything in this essay that goes beyond what you can check in your own life comes from one teacher, Genadiy Givin, and the method in Part three is the one he teaches. Part three says more about him, and about why I trust him.
