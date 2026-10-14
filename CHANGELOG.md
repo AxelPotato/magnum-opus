@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.8.1 (2026-10-14)
+
+- Part one, zoom out: the bigger map is stated as my belief, and the closing line now says it gets mystical fast and leaves it there, in place of pointing to the next part
+
+
 ## 4.8.0 (2026-10-14)
 
 - Part two, step 7: birth is now described: the whole universe on the scale is still the inside of something, like a womb or an egg, and what comes after can't be drawn from inside
