@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.16.0 (2026-10-14)
+
+- Run-5 picks 47 to 52: Part three: the guidance paragraph keeps the facts and the check and drops the praise and 'I can't prove', the contact line mentions the nearest talk or workshop, the space port reason is 'a place built around working on yourself would make that easier and more pleasant', and stillness starts with five minutes; Part zero: 'Part three is the practical side: what the method looks like'; Part two: the scale is no longer named the arrow of consciousness, in the text or the figure caption
+
+
 ## 4.15.0 (2026-10-14)
 
 - Run-5 picks 34 to 46: Part one: the Dude is the best-known example, the island line reworded, Carrey 'would know', no 'Statistically', 'often hidden', 'spiritual' without quotes, Default's nice corner is 'balanced', the peak recap drops 'nothing feels impossible', the health claim is gone; Part two: 'A being that doesn't turn toward unity', the small square is 'a full life by any human measure'; Part three: the space port's people 'want to remember who they really are', and nobody there would become material for the building

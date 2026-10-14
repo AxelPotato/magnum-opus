@@ -256,7 +256,7 @@ def fig_arrow():
     b.append(T(pos[1] + 6, 92, 'top right corner', 'small b', 'start'))
     b.append(T(pos[4] + 66, ay - 4, 'birth', 't', 'start'))
     b.append(T(pos[4] + 66, ay + 14, 'and then?', 'small', 'start'))
-    return svg('0 0 940 412', 'The arrow of consciousness, drawn as speed and freedom of movement: run, ride, drive, fly, orbit, escape, solar system, galaxy, universe', ''.join(b), u)
+    return svg('0 0 940 412', 'The same diagonal, drawn as speed and freedom of movement: run, ride, drive, fly, orbit, escape, solar system, galaxy, universe', ''.join(b), u)
 
 
 # ------------------------------------------------------------------ the wall, held and let go
