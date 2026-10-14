@@ -6,7 +6,7 @@ Part one is the rational part, and I've kept it deliberately earthly. It uses no
 
 Part two is the spiritual part, and it has its own role: it says where all of this comes from and where it leads. It starts from a view of reality that I call an assumption, it quotes many traditions as witnesses, and it says plainly where the reading is mine. You can disagree with it and still use the rest.
 
-Part three is the practical side of the method: how it is done in the reality of the 21st century. It starts with one thing you can try alone tonight and goes on to what needs other people, a team and a guide.
+Part three is the practical side of the method: how it is done in the reality of the 21st century. It includes one thing you can try alone tonight, and how the people around you can help it along, a team and a guide.
 
 You can stop after any part, and each one makes the next easier to judge.
 

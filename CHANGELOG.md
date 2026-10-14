@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.6.0 (2026-10-14)
+
+- Part three: stillness and three small choices now come first, right after the two supplies, and section 7 points back to them; the teacher paragraph in section 5 says he speaks to the whole team and almost never names who was right, and the earlier mention of the same point is cut; Part zero and the opening say a team can be people around you
+
+
 ## 4.5.0 (2026-10-14)
 
 - Part three: a contact form at the very end sends a reader's name, phone or email (any one is enough) to the essay-lead webhook; every part keeps the UTM values a reader arrives with so the form can pass them on
