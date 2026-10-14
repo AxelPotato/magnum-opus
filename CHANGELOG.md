@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.6.1 (2026-10-14)
+
+- Part two, step 5: "evens it out quickly, especially together with others" becomes "evens it out over time"
+
+
 ## 4.6.0 (2026-10-14)
 
 - Part three: stillness and three small choices now come first, right after the two supplies, and section 7 points back to them; the teacher paragraph in section 5 says he speaks to the whole team and almost never names who was right, and the earlier mention of the same point is cut; Part zero and the opening say a team can be people around you
