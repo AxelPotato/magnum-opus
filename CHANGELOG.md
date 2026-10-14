@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.15.0 (2026-10-14)
+
+- Run-5 picks 34 to 46: Part one: the Dude is the best-known example, the island line reworded, Carrey 'would know', no 'Statistically', 'often hidden', 'spiritual' without quotes, Default's nice corner is 'balanced', the peak recap drops 'nothing feels impossible', the health claim is gone; Part two: 'A being that doesn't turn toward unity', the small square is 'a full life by any human measure'; Part three: the space port's people 'want to remember who they really are', and nobody there would become material for the building
+
+
 ## 4.14.1 (2026-10-14)
 
 - Run-5 pick 33: Part three's teacher section says the people he met in his teens had woken up 'as he tells it'

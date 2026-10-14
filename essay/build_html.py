@@ -262,7 +262,7 @@ def rules1():
         'Jim Carrey is one answer': dict(who=[('carrey', 'Jim Carrey', 'driven')]),
         'Michael Phelps is the same story': dict(who=[('phelps', 'Michael Phelps', 'driven')]),
         'Simone Biles is the most decorated': dict(who=[('biles', 'Simone Biles', 'driven')]),
-        'The only popular example I could find': dict(who=[('dude', 'The Dude', 'drifting')]),
+        'The best-known example is the Dude': dict(who=[('dude', 'The Dude', 'drifting')]),
         'Phoebe from Friends': dict(who=[('phoebe', 'Phoebe Buffay', 'drifting')]),
         'John Welwood, an American psychologist': dict(who=[('welwood', 'John Welwood', 'neutral')]),
         'Malala Yousafzai kept going': dict(who=[('malala', 'Malala Yousafzai', 'high')]),
