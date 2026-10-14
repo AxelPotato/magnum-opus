@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.4.0 (2026-10-14)
+
+- Part two, step 4: the lamp and the Alan Watts dream now carry the step in the main text; the forgetting is framed as the picture's own logic, and the text says memory can't settle the question either way
+
+
 ## 4.3.0 (2026-10-14)
 
 - Teacher details moved from Part zero to Part three: Part zero now names Genadiy in one sentence; the short bio opens section 5; the personal note joins the trust paragraph in section 6; the student counts are dropped from the note
