@@ -160,10 +160,10 @@ The people I picture there are people who have remembered who they really are, t
 
 It doesn't exist yet. What exists today is smaller: we, the students of Genadiy, have gathered in two centers, with over 120 people between them, and we would like there to be more of them in different places around the world. The space port is the next step I hope we get to take, and I'd love to help build it. What it ends up looking like, I honestly can't tell you yet.
 
-[ALEX: if you want it here, add how a reader could take part or follow along. I left out places, dates and joining details.]
-
 ## What you can check
 
 After a few months of working in a pair or a team, ask: how many options do you see in a hard moment, and how long does a reaction last? How fast do you say sorry first? Does the pair produce the thing it said it would? Does anything outside you change, and if it doesn't, why not? Put the answers on the chart from Part one, and ask again a month later.
 
 And one question that needs no equipment, to take with you: if you had the energy of a whole team and no direction, what would you do with it? Then ask who in your life could tell you.
+
+[CONTACT: If you'd like to talk about any of this, I'd be glad to hear from you.]

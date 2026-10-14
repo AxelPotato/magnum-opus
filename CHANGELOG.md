@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.4.1 (2026-10-14)
+
+- Part three: the open note at the end of section 10 is removed; a contact form is prepared for the end of Part three and stays off the page until its address is set
+
+
 ## 4.4.0 (2026-10-14)
 
 - Part two, step 4: the lamp and the Alan Watts dream now carry the step in the main text; the forgetting is framed as the picture's own logic, and the text says memory can't settle the question either way

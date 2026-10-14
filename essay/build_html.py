@@ -483,11 +483,58 @@ details.say-fold .say{margin-top:.4rem}
 h4{font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:1.6rem 0 .8rem;font-weight:500}
 footer{max-width:40rem;margin:0 auto;padding:1.5rem 0 0;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.74rem;line-height:1.6;color:var(--muted)}
 a{color:var(--high)}
+.contact{margin:3rem 0 1rem;padding-top:1.6rem;border-top:1px solid var(--rule)}
+.contact-form{display:grid;gap:1rem;margin-top:1rem}
+.contact-form label{display:grid;gap:.35rem;font-family:var(--mono);font-size:.78rem;color:var(--muted)}
+.contact-form input,.contact-form textarea{font:inherit;font-family:var(--body,inherit);font-size:1rem;color:var(--ink);background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:.6rem .7rem;width:100%;box-sizing:border-box}
+.contact-form textarea{resize:vertical;min-height:7rem}
+.contact-form button{justify-self:start;font-family:var(--mono);font-size:.85rem;color:var(--paper);background:var(--ink);border:0;border-radius:8px;padding:.65rem 1.3rem;cursor:pointer}
+.contact-form button:disabled{opacity:.55;cursor:default}
+.contact-form .trap{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.contact-status{font-family:var(--mono);font-size:.8rem;color:var(--muted);margin:0;min-height:1.2em}
 :focus-visible{outline:2px solid var(--drifting);outline-offset:2px}
 """
 
 FONTS = ('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800'
          '&family=IBM+Plex+Mono:wght@400;500&family=Literata:opsz,wght@7..72,400..700&family=Comic+Neue:wght@700&display=swap')
+
+
+# Where the contact form at the end of Part three sends its messages: the Production URL of the n8n webhook.
+CONTACT_ENDPOINT = ''
+
+CONTACT_JS = """
+document.querySelectorAll('.contact-form').forEach(function (f) {
+  var el = function (n) { return f.elements.namedItem(n); };
+  f.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var s = f.querySelector('.contact-status'), btn = f.querySelector('button');
+    if (el('website').value) { s.textContent = 'Thank you.'; return; }
+    var data = new URLSearchParams({
+      name: el('name').value.trim(), email: el('email').value.trim(), message: el('message').value.trim(),
+      page: document.title, version: (document.querySelector('meta[name=version]') || {}).content || ''
+    });
+    btn.disabled = true; s.textContent = 'Sending\u2026';
+    fetch(f.dataset.endpoint, { method: 'POST', body: data })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); f.reset(); s.textContent = 'Thank you. Your message reached me, and I\u2019ll write back.'; })
+      .catch(function () { s.textContent = 'That didn\u2019t go through. Please try again in a moment.'; })
+      .finally(function () { btn.disabled = false; });
+  });
+});
+"""
+
+
+def contact_html(intro):
+    return ('<section class="contact" aria-label="Write to me">'
+            f'<p>{smart(intro)}</p>'
+            f'<form class="contact-form" data-endpoint="{html.escape(CONTACT_ENDPOINT)}">'
+            '<label>Your name<input name="name" autocomplete="name"></label>'
+            '<label>Your email<input name="email" type="email" autocomplete="email" required></label>'
+            '<label>Your message<textarea name="message" rows="5" required></textarea></label>'
+            '<label class="trap" aria-hidden="true">Leave this empty<input name="website" tabindex="-1" autocomplete="off"></label>'
+            '<button type="submit">Send</button>'
+            '<p class="contact-status" role="status" aria-live="polite"></p>'
+            '</form></section>'
+            f'<script>{CONTACT_JS}</script>')
 
 
 def convert(md, R):
@@ -542,6 +589,10 @@ def convert(md, R):
             continue
         if b.startswith('[ALEX'):
             out.append(f'<p class="slot">{smart(b)}</p>')
+            continue
+        if b.startswith('[CONTACT:'):
+            if CONTACT_ENDPOINT:  # no endpoint yet: leave the form off the page
+                out.append(contact_html(b[len('[CONTACT:'):].rstrip(']').strip()))
             continue
         para = f'<p>{smart(b)}</p>'
         rule = next((v for k, v in R.items() if b.startswith(k)), None)
@@ -604,7 +655,7 @@ PART1_FOOT = ('Character and portrait images are used as illustration in a perso
 PART2_FOOT = 'A draft. The pictures in this part are drawn for it.'
 
 PART0_FOOT = 'A draft.'
-PART3_FOOT = 'A draft. Open notes to the author are marked in the text.'
+PART3_FOOT = 'A draft.'
 
 PARTS = {
     0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: {}, cast=False, css_extra='', foot=PART0_FOOT),
