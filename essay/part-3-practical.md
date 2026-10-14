@@ -80,7 +80,7 @@ The modern world makes this harder. In an earlier age the other people came with
 
 A team has energy, and a team can still be going in a circle. Someone who is much further along the path can see where the team is growing and where it is stuck, which is hard to see from inside.
 
-My teacher is Genadiy Givin, whom Part zero named. He was born in Riga and studied at Riga Technical University. In his teens he met people who had woken up, in the sense Part two describes, and what he saw in them gave him a huge wish to know what they knew. That wish led him to the man who became his teacher. He describes the people who handed this on to him, himself included, as ordinary people without titles. For him the knowledge is what matters.
+My teacher is Genadiy Givin, whom Part zero named. He was born in Riga and studied at Riga Technical University. In his teens he met people who, as he tells it, had woken up, in the sense Part two describes, and what he saw in them gave him a huge wish to know what they knew. That wish led him to the man who became his teacher. He describes the people who handed this on to him, himself included, as ordinary people without titles. For him the knowledge is what matters.
 
 What he does is easy to describe. He doesn't walk the path for you, and he can't create your wish to walk it, which stays yours. What he can do is point out where you have drifted, and give you something to try on Monday. He also has a steadiness that spreads, the way a calm, experienced guide on a mountain path steadies everyone walking behind.
 

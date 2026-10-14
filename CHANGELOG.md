@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.14.1 (2026-10-14)
+
+- Run-5 pick 33: Part three's teacher section says the people he met in his teens had woken up 'as he tells it'
+
+
 ## 4.14.0 (2026-10-14)
 
 - Run-5 pick 32: Part one's DO section is one paragraph shorter; the big examples and the raised-ceiling sentence are cut and the quieter examples open with learning something new
