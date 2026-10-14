@@ -20,9 +20,7 @@ Picture the steering wheel of your life. Either you're holding it or you're in t
 
 My favorite test for this is a boring one: how well do I follow up on my words? That's most of it. It doesn't need a loud personality, and a very quiet person can be extremely actionable and do things that would be hard for the loud ones. It doesn't need a world-changing project either. Making a plan for the day and then following it counts, and I'd say it counts for more than most world-changing projects, which tend to live in the notes app.
 
-The examples people think of first are the big ones: a company, a move to another country, a marathon. The ones I find more telling are quieter, and a few of them don't look like action at all.
-
-Learning something new is the best of those. Nothing visible happens on the day you sign up for the course or pick up the guitar, and for weeks you're bad at it in private. But you've decided that in a year you'll be able to do something you can't do today, and you've actually started, which is a rarer combination than it sounds. It also raises the ceiling on everything else, because what you're able to do is the material that action works with.
+The quieter examples tell me more than the big ones, and the best of them is learning something new. Nothing visible happens on the day you sign up for the course or pick up the guitar, and for weeks you're bad at it in private. But you've decided that in a year you'll be able to do something you can't do today, and you've actually started, which is a rarer combination than it sounds.
 
 Organizing is another. Somebody has to send the message that turns "we should catch up sometime" into Thursday at seven, and in most friend groups it's the same person every time. Picking the restaurant belongs here too, and I consider it the hardest outer-agency test most groups ever face.
 

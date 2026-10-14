@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.14.0 (2026-10-14)
+
+- Run-5 pick 32: Part one's DO section is one paragraph shorter; the big examples and the raised-ceiling sentence are cut and the quieter examples open with learning something new
+
+
 ## 4.13.0 (2026-10-14)
 
 - Run-5 picks 20 to 31: Part three names the point of support as the thing I live for that is bigger than me; Part one: Advaita's traditional route without the teacher tail, Phelps's London and Rio in order, 'before my Driven years', Biles ends at 'That's her business', 'Anything else, like a stress-management tool', the one percent dropped; Part two: the Seagull clause and the Bach source cut, 'something like a birth'; Part zero: a line for the reader who was handed it
