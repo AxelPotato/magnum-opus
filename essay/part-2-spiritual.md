@@ -236,7 +236,7 @@ The prediction is the interesting part. If the sense of separation is held by te
 
 ## Where this goes next
 
-That's the map as far as I can draw it honestly. What I haven't told you is how to walk it, and that is the next part, which has a lot less philosophy in it and a lot more schedule. The short version is stillness and work together, every day: the work shows you where you're still braced, the stillness lets it go, and the energy that comes back goes into the work. That alternation is Part one's narrowing zigzag, put on a timetable.
+That's the map as far as I can draw it honestly. What I haven't told you is how to walk it, and that is the next part, which has a lot less philosophy in it and a lot more schedule.
 
 Until then, one question that needs no equipment. Where, right now, does the border of you sit? Don't quote me, but I'd bet it isn't where you think.
 
