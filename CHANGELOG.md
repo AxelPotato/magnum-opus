@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.7.0 (2026-10-14)
+
+- Part one: friend A's story is shorter and ends on the chart; it no longer names the retreat's city, gives friend A no pronouns, and drops the closing report; Part three's opening refers back to it without a pronoun
+
+
 ## 4.6.2 (2026-10-14)
 
 - Part three, section 10: the space port no longer sets itself against "the word settlement" or "an ordinary town"; the reason for a place now says what it would make easy

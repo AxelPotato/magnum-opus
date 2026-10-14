@@ -4,7 +4,7 @@
 
 Anything that moves needs two things: energy and direction. A car with a full tank and no steering is a bomb with a radio. A car with a perfect map and an empty tank is a very well informed parked car.
 
-Most of us know both failures from the inside. Energy without direction is the founder from Part one, in the swing: plenty of drive, pointed at whatever was loudest, until he couldn't keep going. Direction without energy is the person who knows perfectly well they shouldn't shout at their kids. They've read the book. They can explain why it's a bad idea. And then they shout, because knowing what to do and being able to do it turn out to be two separate supplies.
+Most of us know both failures from the inside. Energy without direction is the founder from Part one, in the swing: plenty of drive, pointed at whatever was loudest, until the old way stopped working. Direction without energy is the person who knows perfectly well they shouldn't shout at their kids. They've read the book. They can explain why it's a bad idea. And then they shout, because knowing what to do and being able to do it turn out to be two separate supplies.
 
 You can start tonight, alone. Close your eyes and give your attention to the sensations in your body. If thoughts come, don't push them away, come back to the sensations, and learn to enjoy it. That's stillness, and section 7 says more about it. Tomorrow, add three small choices: go first instead of waiting for the other person, say the sentence now instead of carrying it, and don't rehearse the argument in the shower. Each of them keeps a little new tension from building up. The rest of this part is about what keeps it going.
 

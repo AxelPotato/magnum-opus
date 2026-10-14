@@ -186,11 +186,7 @@ For a drifter I've noticed three things. The first is that the money runs out. I
 
 That's why people swing. Driven people swing hard into Drifting: burnout, then "screw this," then a tropical island. Drifting people swing hard back: I'm going full business, I'm never doing any of that again. I know people from both directions.
 
-One friend of mine is the cleanest example I have. He built his own company, and by most measures did very well. He was also, by his own account, one of the most tense people you could meet. He told me more than once that he'd go on trips to beautiful places with his family and hate every second of it, because he couldn't enjoy any of it. Nothing got released, so it built up, until he couldn't keep going the way he had been.
-
-Out of options, he did something very unlike the person he'd been. He went to Minsk, in Belarus, for a retreat, and for a while he stopped being as active as he used to be. He more or less had to. He drifted back from the wall toward the middle and started working on himself. He's still a very active person, still very high agency, and now he knows how to resolve conflicts very effectively and be a supportive person to the people around him.
-
-On the chart, he came off the wall, back toward the middle, and then started climbing, and he kept the action while he did.
+One friend of mine is the cleanest example I have: a founder who built a company and by most measures did very well, and who was also, in my friend's own words, one of the most tense people you could meet. More than once I heard about family trips to beautiful places where every second was miserable, because there was no way to enjoy any of it. Nothing got released, so it built up, until the old way stopped working. Out of options, my friend went on a retreat and, for a while, stopped. On the chart, that's coming off the wall and back toward the middle, and then climbing, with the action kept the whole way.
 
 Learning to walk on two legs looks wonky for a reason. A toddler doesn't walk so much as fall forward in a controlled way, and sometimes into the coffee table. Adults are the same. At the beginning we overshoot all the time, hard one way, hard the other, and that's fine, because that's how you learn it. If you traced a life on the chart you'd see a zigzag that narrows, and it keeps narrowing until you find the dot where life finally starts working.
 
