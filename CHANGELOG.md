@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.16.1 (2026-10-14)
+
+- Run-5 pick 53: Part one: being in love is 'a taste of the full version', and Part one ends 'What lies past the small square gets mystical fast'
+
+
 ## 4.16.0 (2026-10-14)
 
 - Run-5 picks 47 to 52: Part three: the guidance paragraph keeps the facts and the check and drops the praise and 'I can't prove', the contact line mentions the nearest talk or workshop, the space port reason is 'a place built around working on yourself would make that easier and more pleasant', and stillness starts with five minutes; Part zero: 'Part three is the practical side: what the method looks like'; Part two: the scale is no longer named the arrow of consciousness, in the text or the figure caption

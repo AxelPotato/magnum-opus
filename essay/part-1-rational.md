@@ -146,7 +146,7 @@ From the outside, people find you steady and warm. You say what you think, and y
 
 At the far corner of the chart is the peak: 100 on both lines, where nothing really feels impossible and very little in you doubts that you can reach what you actually want.
 
-Almost everybody has visited. Programmers call it flow, athletes call it the zone, musicians call it the muse, and the rest of us call it a good day. Being in love is the preview: for a few weeks everything is good and you feel like you can do things, and nothing outside you changed. It's temporary. I see it as life giving you a taste, with a quiet hint that the full version exists and you're welcome to go and find it. Athletes and musicians show the pattern most clearly. An athlete can live in the zone for ninety minutes and lose it in the parking lot. A musician on stage is living at 100%, and a lot of musicians have a hard time off stage. I suspect it's connected: they can't carry the skill off the stage. Everybody visits, and almost nobody lives there.
+Almost everybody has visited. Programmers call it flow, athletes call it the zone, musicians call it the muse, and the rest of us call it a good day. Being in love is the preview: for a few weeks everything is good and you feel like you can do things, and nothing outside you changed. It's temporary. I see it as a taste of the full version, and you're welcome to go and find it. Athletes and musicians show the pattern most clearly. An athlete can live in the zone for ninety minutes and lose it in the parking lot. A musician on stage is living at 100%, and a lot of musicians have a hard time off stage. I suspect it's connected: they can't carry the skill off the stage. Everybody visits, and almost nobody lives there.
 
 ## The math, with a warning
 
@@ -247,7 +247,7 @@ One correction before this part ends. I told you the top right corner is the pea
 
 Zoom out by ten, and the whole square we've been using shrinks to a small gray box in the bottom left of something a thousand by a thousand: a million, instead of ten thousand. A person can grow into all of that area. I like the plain term for it: full human potential.
 
-Until you've used up the small square it's hard to say much about what comes after, and it gets mystical fast, so I'll leave it there for this part.
+What lies past the small square gets mystical fast, so I'll leave it there for this part.
 
 ## Sources
 
