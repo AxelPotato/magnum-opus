@@ -177,7 +177,7 @@ The big square, the zoomed-out map from the end of Part one, is something else. 
 
 Part one's chart can make the top right corner look like the finish. There is a longer scale behind it, which I call the arrow of consciousness. It's the same diagonal you've been looking at since Part one: the bottom left of the small square is the low end, the middle of the chart sits halfway along it, and the top right corner is where the line leaves the small square. Everything past that corner lives in the zoomed-out map. It shows the direction of your own life, and it ranks nobody.
 
-The picture I use is space travel, and it's about speed, the way Richard Bach used speed in Jonathan Livingston Seagull, where an elder gull tells a gull who loves speed that "perfect speed, my son, is being there." Nobody here is literally going anywhere. The picture is there to show how different each step is from the one before it, and how big the jumps get. The measure is how freely you can move, and gravity holds you back. Under the axiom, speed is how much of the whole you can take in at once, and gravity is the pull of the one point of view you started with.
+The picture I use is space travel, and it's about speed. Nobody here is literally going anywhere. The picture is there to show how different each step is from the one before it, and how big the jumps get. The measure is how freely you can move, and gravity holds you back. Under the axiom, speed is how much of the whole you can take in at once, and gravity is the pull of the one point of view you started with.
 
 At the low end, in Default, you can run, ride a bike and drive a car, and the ground decides where you go. Most of us live there, on the ground or just above it. As you let go, people learn to fly, and roads stop mattering. Then comes orbit. Astronauts in orbit are free of the ground, and the Earth still has them: they float because they are falling around the planet and missing it. In Part one's terms, this is about the middle of the line.
 
@@ -189,7 +189,7 @@ That is the distance I want to convey. A life on the ground and a life among the
 
 Every step up shows you more of the whole, and that includes more of what still needs fixing, so the higher you go, the more there is to do. And the whole that comes back at the end knows more than the whole that set out, because in between it has been each one of us.
 
-After the last of these comes a stage I call birth. The whole universe on this scale is still the inside of something, like a womb or an egg. To whatever grows inside, that is the whole world until the moment it is born, and what comes after can't be drawn from in here. Many traditions have an image of a second birth for a decisive change in a person, and the old maps were scale maps as well.
+After the last of these comes something like a birth. The whole universe on this scale is still the inside of something, like a womb or an egg. To whatever grows inside, that is the whole world until the moment it is born, and what comes after can't be drawn from in here. Many traditions have an image of a second birth for a decisive change in a person, and the old maps were scale maps as well.
 
 #### Second births and staged maps
 
@@ -290,7 +290,6 @@ The axiom and the machine
 
 - Origen, On First Principles, and Gregory of Nyssa on 1 Corinthians 15:28. Zechariah 14:9. Quran 2:156.
 - John 3:3 and 3:7. Eckhart's German sermons on the birth of God in the soul. Dante Alighieri, Paradiso, canto I. The Jain fourteen gunasthanas. Teresa of Avila, The Interior Castle.
-- Bach, R. (1970). Jonathan Livingston Seagull. Macmillan.
 
 Why the paths differ
 

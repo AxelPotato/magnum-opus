@@ -48,7 +48,7 @@ A goal in this method has three properties. It's short, meaning weeks or months.
 
 Inner work is real work, and from the inside it can be hard to tell whether it's working. A calm sit feels like progress whether or not anything has changed. A goal turns the calm into something that can be tested. It also gives you energy, which is its second job. A goal you care about pulls effort out of you that discipline never would.
 
-Then there's the reason behind the goal. Part two called mine a point of support. The goal can be small as long as the reason is large. The reason keeps a person going after the first excitement has worn off.
+Then there's the reason behind the goal. Part two called mine a point of support, the thing I live for that is bigger than me. The goal can be small as long as the reason is large. The reason keeps a person going after the first excitement has worn off.
 
 One caution, since the outer goals can turn on you. Real results are among the wishes in section 1, and they are how you check the work. They are an indicator and never the aim. If you start chasing them for their own sake, you've rebuilt the Driven room with better vocabulary.
 
