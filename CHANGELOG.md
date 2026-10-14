@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.16.2 (2026-10-14)
+
+- Run-5 pick 54.4: Part one's Default room says the one small instruction is given on a retreat, and that Alex was one of the people who caught themselves on his first
+
+
 ## 4.16.1 (2026-10-14)
 
 - Run-5 pick 53: Part one: being in love is 'a taste of the full version', and Part one ends 'What lies past the small square gets mystical fast'
