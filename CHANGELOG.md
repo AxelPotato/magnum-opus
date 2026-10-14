@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.8.4 (2026-10-14)
+
+- Part three: "tension is a tax on energy" is back (Alex's call; the other two idiom changes stay)
+
+
 ## 4.8.3 (2026-10-14)
 
 - Part zero: Alex's hand edits from the Essay Desk (line 9 starts with one thing to try alone tonight and goes on to what needs other people; line 17 says my teacher)
