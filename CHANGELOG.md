@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.18.0 (2026-10-14)
+
+- Run-4 leftovers B1 to B14, Alex took every pick: Part one: the finish line said once, 'having fun' said once, the top right drops a third 'aware of what's actually happening', the zigzag 'keeps narrowing as you go'; Part three: conflicts settled quickly by talking them through, blind spots go for mentors too, regularity starts with the daily sit, 'one of the biggest keys to growing'
+
+
 ## 4.17.1 (2026-10-14)
 
 - Run-5 pick 54.7: Part three's mental tools get one example: notice where a reaction lands in the body, for example the jaw or the stomach, before you answer
