@@ -70,7 +70,7 @@ What makes this room sticky is that it feels like making your own decisions. Whe
 
 Bottom right: tense and active, low BE and high DO. Still tense, because nothing has been let go, but these people get things done. You know some. You may be one. I was.
 
-With my personality tendencies, it was a natural fit. For a few years I dedicated myself very deeply to a career in cyber security: working all week, studying on the weekends, with a constant background tension of not being good enough and not much time for something I didn't fully understand. I did become quite good at it. Luckily, something stopped me, and it came from the inside.
+With my personality tendencies, it was a natural fit. For a few years I dedicated myself very deeply to a career in cyber security: working all week, studying on the weekends, with a constant background tension of not being good enough and not much time for the questions I'd started with, or for my wish to help other people live happier lives. I did become quite good at it. Luckily, something stopped me, and it came from the inside.
 
 The motivation underneath is often hidden from the person who has it. Somewhere behind the scenes there's an "I'll prove them wrong," or an "I'll get it done and then people will like me." It's all about a lack they can't let go of, so they push harder in the one direction they know. Our culture pushes the same way. Pretty much every idea we have about success comes from people in this room, and we hardly have any examples from the top right.
 
@@ -162,7 +162,7 @@ Somewhere around the middle, 50 and 50, you get 2,500. At 80 and 80 it's 6,400. 
 
 The numbers are made up, and I picked 100 because it's round. The shape is the part that seems right to me. Because the two multiply, neglecting either one costs you most of your potential.
 
-It's also why I don't accept the objection I'd expect from driven people, which is that if they let go of the tension they'll lose their edge. The drive and the tension are two different things that most people happen to have glued together. You keep the drive and drop the brace. That's what the 95 times 2 was trying to picture.
+It's also why I don't accept the objection I'd expect from driven people, which is that if they let go of the tension they'll lose their edge. The drive and the tension are two different things that most people happen to have glued together. You keep the drive and drop the brace. That's what the 95 times 2 was trying to picture. Phelps in Rio is the closest real example I have among famous people, and I'm a smaller one: a lot of the tension from my Driven years is gone, and the drive stayed.
 
 ## The line
 

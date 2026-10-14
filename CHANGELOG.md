@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.17.0 (2026-10-14)
+
+- Run-5 picks 54.5, 54.6, 54.9 and 54.10: Part three: when one person is simply wrong, that gets said too; the adaptation period described (regular practice, the retreat guides, less of what soaks up attention); Part one: the something in the Driven years is the questions and the wish to help people live happier lives; Phelps in Rio and Alex himself as real examples of keeping the drive and dropping the brace
+
+
 ## 4.16.4 (2026-10-14)
 
 - Run-5 pick 54.2: Part three's feedback story gains the other direction: ideas Alex kept pushing for, like one consistent set of names for the retreats and online courses on the website
