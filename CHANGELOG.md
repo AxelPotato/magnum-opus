@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.9.4 (2026-10-14)
+
+- Repeats, Alex's picks 16 to 33: Part three says the trust check, the attention story, the mirror example, the stillness instruction, 'someone further along', 'a team can be as small as two' and the list of elements once each (line 11 rewritten, the pair defined in section 4); Part two drops the karma shrug, the second 'made again', the second announcement of the traditions and step 6's restated point of support
+
+
 ## 4.9.3 (2026-10-14)
 
 - Repeats, Alex's picks 12 to 15: Part two's eight 'What the traditions say' folds are titled with their point and the four 'different words, same thing' lines after them are cut (every #### heading now folds); step 3's closing line and step 7's opener no longer repeat 'the traditions differ'; Part two's check leads with the Cialdini study, Part three's with what you produce; Part one drops Phelps's third appearance
