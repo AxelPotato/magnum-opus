@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.6.2 (2026-10-14)
+
+- Part three, section 10: the space port no longer sets itself against "the word settlement" or "an ordinary town"; the reason for a place now says what it would make easy
+
+
 ## 4.6.1 (2026-10-14)
 
 - Part two, step 5: "evens it out quickly, especially together with others" becomes "evens it out over time"

@@ -150,11 +150,11 @@ The reason for starting small goes back to Part two: light is attractive and dar
 
 ## 10. The space port
 
-This last part is a dream of mine, so please read it as one. Part two used space travel to picture how far a person can go in one life, and since I'm a science nerd at heart, I took the picture one step further. Nothing gets from the ground to the stars without a place to launch from, so I call the place I dream about a space port. It's a fun way to think about it, and the nerd in me enjoys it a lot more than the word settlement.
+This last part is a dream of mine, so please read it as one. Part two used space travel to picture how far a person can go in one life, and since I'm a science nerd at heart, I took the picture one step further. Nothing gets from the ground to the stars without a place to launch from, so I call the place I dream about a space port. It's a fun way to think about it, and the nerd in me enjoys it a lot.
 
 What I picture is fairly simple. A group of people who want to give their best to the world and to find out how far they can really grow, living and working in the same place. Everything in sections one to eight would happen there every day as ordinary life, the goals, the service, the pair, the mentor, the attention and the mirror. A retreat is a few days inside the top right room. A space port would be the same room with a kitchen, a job rota and the occasional argument about whose turn it is to do the dishes.
 
-The reason I want a place goes back to Part two. The environment decides what is easy, and in an ordinary town the easy thing is to forget. Somewhere the whole day points the same way, working on yourself stops being an extra on top of a full life.
+The reason I want a place goes back to Part two: the environment decides what is easy. A town makes plenty of good things easy, and a place where the whole day points the same way would make this one easy too, so working on yourself stops being an extra on top of a full life.
 
 The people I picture there are people who have remembered who they really are, the thing Part two says we forget, and who want to give that back to the world while they keep growing. The people who built the first launch pads had never been to space either. So the first space port will be built by whoever wants it, and the very act of building it is what wakes us up enough to live there. People would come because this has become what they want to do with their life, and like any place people live, some would stay for years and some would move on when life took them elsewhere.
 
