@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.8.0 (2026-10-14)
+
+- Part two, step 7: birth is now described: the whole universe on the scale is still the inside of something, like a womb or an egg, and what comes after can't be drawn from inside
+
+
 ## 4.7.1 (2026-10-14)
 
 - Part three: the opening drops the lineage (section 5 tells it) and the list of sections, including "the place where it can be lived in full"

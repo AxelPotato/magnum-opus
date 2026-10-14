@@ -200,7 +200,7 @@ That is the distance I want to convey. A life on the ground and a life among the
 
 Every step up shows you more of the whole, and that includes more of what still needs fixing, so the higher you go, the more there is to do. And the whole that comes back at the end knows more than the whole that set out, because in between it has been each one of us.
 
-After the last of these comes a stage I call birth, so the picture isn't the end of the story. Many traditions have an image of a second birth for a decisive change in a person, and the old maps were scale maps as well.
+After the last of these comes a stage I call birth. The whole universe on this scale is still the inside of something, like a womb or an egg. To whatever grows inside, that is the whole world until the moment it is born, and what comes after can't be drawn from in here. Many traditions have an image of a second birth for a decisive change in a person, and the old maps were scale maps as well.
 
 #### What the traditions say
 
