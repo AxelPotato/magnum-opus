@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.11.0 (2026-10-14)
+
+- Run-5 picks 14 to 18: Part two says the check and the prediction don't prove the axiom, drops 'sincerely' and widens the third move to the people around you, cuts the pointer at the end of step 6 and promises 'a lot more everyday life', cuts the string theory paragraph and 'a good sign', and says the arrow ranks nobody
+
+
 ## 4.10.0 (2026-10-14)
 
 - Run-5 picks 1 to 13: Part three says reignite instead of infect and drops 'harder to keep', direction usually comes from someone further along, service starts with the closest people, the team's second thing keeps two reasons, the mirror's guardrail comes right after the working rule, and a center is described at first mention; Part two marks step 3's return as Alex's reading, says what the third clause does, gives lila in step 1's main text and ties 'on purpose' to it, promises a check and a prediction, and says 'I believe' at the space distance; Part one's bigger reason can be small; Part zero counts the opening
