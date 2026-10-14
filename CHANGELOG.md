@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.9.0 (2026-10-14)
+
+- Run-4 next ten, Alex's picks: Part two step 5 mirror rebuilt with the harm line; Part two opening: coherence as the first test, Dune fold cut, line 26 reworded, witness list folded, translator names moved to the Sources; step 3 stated directly; Part three: service in plain words, everyday examples in section 1, section 5 steadiness and meeting testimony, section 9 reordered with a stop line; Part one: top right promises softened, math gives its reason and drops the multipliers
+
+
 ## 4.8.4 (2026-10-14)
 
 - Part three: "tension is a tax on energy" is back (Alex's call; the other two idiom changes stay)
