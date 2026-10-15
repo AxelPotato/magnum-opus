@@ -185,7 +185,7 @@ The top right corner of the small square is escape velocity, the speed at which 
 
 Past the corner the picture keeps going, and each level is the speed that frees you from the next, bigger pull. The first leaves the Earth. The next leaves the Sun behind, and the one after that leaves the galaxy. The last has no pull left to leave, and every point in the universe is a place you can be at home, so the word every is doing some work.
 
-That is the distance I want to convey. A life on the ground and a life among the stars are about as far apart as an ordinary human life and full human potential, and I believe a person can cross much of that distance in one lifetime. It is hard to feel this from the ground, which is why I use the picture. Nobody gets from the ground to the stars by wishing, either.
+That is the distance I want to convey. A life on the ground and a life among the stars are about as far apart as an ordinary human life and the whole map, and I believe a person can cross much of that distance in one lifetime, even though the whole return from step 3 takes longer. It is hard to feel this from the ground, which is why I use the picture.
 
 Every step up shows you more of the whole, and that includes more of what still needs fixing, so the higher you go, the more there is to do. And the whole that comes back at the end knows more than the whole that set out, because in between it has been each one of us.
 
@@ -218,7 +218,7 @@ That holds for our own time too. A form made for a village that shared one story
 
 Part one's zoom out ended on full human potential, and that's what I'm after for this lifetime: the whole map, including everything past the corner of the chart. I don't want to believe it's there. I want to see it for myself, the way you see that a room is lit once you look up.
 
-It started with questions. Why am I alive? What is happening here? How do the universe and the world work? Why am I, me? As I took steps on that road, I started losing some of my walls, and I felt, and then realized, how connected we are. That changed the way I feel toward people and the world. It grew into a strong, sincere wish to help others see the world the way I do, or more correctly, without the limitations all of us carry, and to make them happy, because that is what makes me happy. That is my point of support, the thing I live for that is bigger than me.
+It started with questions. Why am I alive? What is happening here? How do the universe and the world work? Why am I, me? As I took steps on that road, I started losing some of my walls, and I felt, and then realized, how connected we are. That changed the way I feel toward people and the world. It grew into a strong, sincere wish to help others see the world without the limitations all of us carry, and to make them happy, because that is what makes me happy. That is my point of support, the thing I live for that is bigger than me.
 
 ## What you can check
 

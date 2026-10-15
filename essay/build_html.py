@@ -278,7 +278,7 @@ def rules1():
         'Here is the connection to being here.': dict(after=figure(F.fig_attention(), 'Where your attention is, as opposed to where your body is.')),
         'The turbulence comes from walking on two legs.': dict(after=figure(F.fig_legs(), 'Three ways to move. The DO leg is vermilion, the BE leg is blue.')),
         'Here is why the turbulence is worth it': dict(after=figure(F.fig_loop(), 'The two legs feed each other.')),
-        'A quick way to find your own examples': dict(who=[('bezos', 'Jeff Bezos', 'neutral')], after=figure(F.fig_jail(), 'The jail-cell test.')),
+        'A quick way to find your own examples': dict(after=figure(F.fig_jail(), 'The jail-cell test.')),
         'Say each line runs from 0 to 100.': dict(after=figure(F.fig_bars(), 'Effectiveness is roughly BE times DO. Do not quote me.')),
         'Start with the physiology.': dict(after=figure(F.fig_anokhin(), 'Anokhin\'s functional system, simplified: a goal is a model of the result, and the result is compared with it.')),
         'Viktor Frankl, a psychiatrist': dict(who=[('frankl', 'Viktor Frankl', 'neutral')]),
@@ -296,7 +296,7 @@ def rules1():
         'So what do you get for walking on both legs?': dict(after=figure(F.fig_inout(), 'The top right, from the inside and from the outside.')),
         'Take Stoicism, because the internet version is so popular.': dict(after=figure(F.fig_stoic(), 'Stoicism, misread and as practiced.')),
         "For a drifter I've noticed three things.": dict(after=figure(F.fig_stops(), 'What stops each room, and where it points: the middle.')),
-        'Almost everybody has visited.': dict(after=figure(F.icons_flow_html(), 'Different rooms, same visit.', 'plain')),
+        'At the far corner of the chart is the peak': dict(after=figure(F.icons_flow_html(), 'Different rooms, same visit.', 'plain')),
         'Put it together.': dict(after=figure(F.fig_footsteps(), 'Walking in step: the lazy leg catches up, again and again.')),
         'The reason is inertia.': dict(after=figure(F.fig_inertia(), 'Inertia.')),
         'There\'s a name for what Carrey and Phelps ran into': dict(who=[('benshahar', 'Tal Ben-Shahar', 'neutral')]),
@@ -667,7 +667,7 @@ def cast_html():
 
 PART1_FOOT = ('Character and portrait images are used as illustration in a personal draft. Check image rights before this goes public. '
               'Free-licensed portraits from Wikimedia Commons: Henry David Thoreau (public domain, Benjamin D. Maxham), Viktor Frankl (CC BY-SA 3.0 DE, Franz Vesely), '
-              'Tal Ben-Shahar (CC0), Jeff Bezos (public domain, US government photo), Rosa Parks (public domain).')
+              'Tal Ben-Shahar (CC0), Rosa Parks (public domain).')
 PART2_FOOT = 'A draft. The pictures in this part are drawn for it.'
 
 PART0_FOOT = 'A draft.'

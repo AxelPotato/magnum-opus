@@ -64,7 +64,7 @@ Inner work done only for yourself can go in a circle. You improve your own state
 
 A pair is two people doing this together, and a team grows from there. It combines the other parts: you work on your attention, you meet your mirror, you pursue a goal and you give, all at once and with other people around.
 
-The first thing a team does is hold you up in the hard moments. When your mood falls through the floor, the other person's mood hasn't, and the pair holds longer than either half. I tend to be the one who holds others, but I have my moments too. Most often it is when we have set goals and haven't reached them, or a deadline is close and the task looks unmanageable. I used to slide into despair then, and my close friends helped me come back to myself, calm down, let it go and return to a more adequate state.
+The first thing a team does is hold you up in the hard moments. When your mood falls through the floor, the other person's mood hasn't, and the pair holds longer than either half. I tend to be the one who holds others, but I have my moments too. Most often it is when we have set goals and haven't reached them, or a deadline is close and the task looks unmanageable. I used to slide into despair then, and my close friends helped me come back to myself, calm down and let it go.
 
 The second thing is the one everybody expects: a team gets more done than the same people working alone. People keep a promise made to another person more reliably than one made to themselves, and effort is contagious, so it is harder to coast next to someone who is really trying.
 
@@ -78,7 +78,7 @@ The modern world makes this harder. In an earlier age the other people came with
 
 ## 5. The teacher and the method
 
-A team has energy, and a team can still be going in a circle. Someone who is much further along the path can see where the team is growing and where it is stuck, which is hard to see from inside.
+A team has energy, and a team can still be going in a circle. Someone who is much further along can see where the team is growing and where it is stuck, which is hard to see from inside.
 
 My teacher is Genadiy Givin, whom Part zero named. He was born in Riga and studied at Riga Technical University. In his teens he met people who, as he tells it, had woken up, in the sense Part two describes, and what he saw in them gave him a huge wish to know what they knew. That wish led him to the man who became his teacher. He describes the people who handed this on to him, himself included, as ordinary people without titles. For him the knowledge is what matters.
 
@@ -86,7 +86,7 @@ What he does is easy to describe. He doesn't walk the path for you, and he can't
 
 A teacher does one more job. In any group, people carry private opinions of who is wrong, and two people who are each sure they are right often stay stuck while each holds on. The first sorry is how one of them steps out, and that is the inner agency from Part one. A teacher helps a whole group with it. Genadiy almost never tells two people which of them was right. He says what he sees to the whole team, and each person goes looking for their own part in it. When one person is simply wrong, that gets said too. I've watched this happen in team meetings: he speaks to the room, and afterwards everyone is busy with what it meant for them. Because his view belongs to none of us, a group of very different people can face the same way without anyone having to win. And with him in the middle, the group stays pointed at what everyone came for.
 
-The knowledge behind the method is older than he is. It came to him through a line of teachers, and what he did was adapt it to the realities of life in the 21st century. The way we have arranged ourselves around it is ours.
+The knowledge behind the method is older than he is. It came to him through a line of teachers, and what he did was adapt it to the realities of life in the 21st century. The way we have arranged ourselves around it is ours. Other teachers and methods help people too. This is the one I know from the inside.
 
 ## 6. Guidance
 
