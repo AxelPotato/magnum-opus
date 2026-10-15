@@ -55,6 +55,7 @@ python essay/build_html.py    # writes essay/part-1-rational.html and part-2-spi
 | path | what |
 |---|---|
 | `essay/` | the essay: text, page builder, charts (`figs2.py`, `figs3.py`, `figs4.py`), pictures, sources, notes; `essay/backup/` has an earlier version of part two |
+| `context/` | ideas kept as background for future work, not part of the essay (no version bump needed) |
 | `talk-2026-09-25/structure/` | the talk as given: structure, presenter notes, prep sheet, the life-goal notes |
 | `talk-2026-09-25/recording/` | transcript with timings (the audio itself is not in this repo) |
 | `talk-2026-09-25/deck/` | the 44-slide deck (PPTX, PDF, PNGs) and the scripts that build it |
