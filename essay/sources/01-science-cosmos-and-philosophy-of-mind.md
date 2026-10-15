@@ -557,3 +557,29 @@ Background: This is a rough travel fact and not a precise one. Long-haul jets cr
 If someone pushes back:
 - Some places take longer than a day. True, and the essay says 'nearly'.
 - Is it about speed or reach? Both. The essay's point is reach, how many places you can be at home in.
+
+## Cells switched off, not deleted: Gurdon's nuclear transfer, Yamanaka's reprogramming, and cancer cells that stop listening (Gurdon 1962 (Xenopus). Takahashi and Yamanaka 2006 (mouse), 2007 (human). Nobel Prize in Physiology or Medicine 2012, shared. Hanahan and Weinberg 2000.)
+
+Kind: study. Status: partly checked.
+
+Who: John Gurdon (1933 to 2025) was a British developmental biologist at Oxford and Cambridge. Shinya Yamanaka is a Japanese stem cell researcher at Kyoto University. They shared the 2012 Nobel Prize in Physiology or Medicine for showing that mature cells can be reprogrammed. Douglas Hanahan and Robert Weinberg wrote the standard review of what cancer cells have in common.
+
+In the essay: Part two, step 2, 'How a whole turns itself down'. 'Almost every cell in it carries the complete plan for you... nothing is deleted' is the textbook point that differentiated cells keep the genome and switch most of it off. Gurdon is the tadpole gut cell nucleus put into an emptied egg, which grew into a frog. Yamanaka is the 2006 mouse result and the 2007 human one. The sentence that a cancer cell 'stops listening and grows as if it were the only cell there is' summarizes the hallmarks of cancer: self-sufficiency in growth signals and insensitivity to signals that say stop.
+
+Where it sits: Gurdon, J. B. (1962), Journal of Embryology and Experimental Morphology 10, 622 to 640, 'The developmental capacity of nuclei taken from intestinal epithelium cells of feeding tadpoles'. Takahashi, K. and Yamanaka, S. (2006), Cell 126(4), 663 to 676, doi 10.1016/j.cell.2006.07.024. Takahashi, K. et al. (2007), Cell 131(5), 861 to 872. Hanahan, D. and Weinberg, R. A. (2000), Cell 100(1), 57 to 70 (page numbers from memory).
+
+The passage (paraphrase, not cleared for quoting): Paraphrase. Gurdon moved nuclei from gut cells of feeding tadpoles into frog eggs whose own nucleus had been destroyed, and some of these eggs developed into tadpoles and, in the later reports, into adult frogs, so the nucleus of a specialised cell still held everything needed to build a whole animal. Yamanaka's group showed that four factors (Oct3/4, Sox2, c-Myc and Klf4) turn mouse skin fibroblasts back into cells that behave like embryonic stem cells, and a year later did the same with human cells.
+
+Read it free:
+- Takahashi and Yamanaka 2006, abstract and full text via the Kyoto University repository: https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/159777 (seen in a search result)
+- Gurdon's work and the Nobel prize, an overview in PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC3625362 (seen in a search result)
+- The Nobel Prize in Physiology or Medicine 2012, press release: https://www.nobelprize.org/prizes/medicine/2012/press-release/ (not checked)
+
+Read it in a book: Gurdon's own account is in his Nobel lecture (2012). For a readable tour of cell identity and reprogramming, a good developmental biology textbook, for example Gilbert's Developmental Biology, has a chapter on nuclear equivalence (from memory).
+
+Background: The 1962 paper does not settle that the transplanted nuclei came from fully specialised cells; the search results say this was shown later, by 1975. Briggs and King had earlier suggested adult nuclei lose the ability, using a different frog species. Reprogramming is inefficient and reprogrammed cells can keep traces of where they came from, so 'switched back' is a simplification. A few cell types lose their nucleus (mature red blood cells), and immune cells rearrange part of their DNA, which is why the essay says 'almost every cell'. The cancer sentence is a plain summary of the hallmarks, and cancer has many causes, mostly damaged DNA. The essay uses it only as a picture of a part that stops responding to the whole.
+
+If someone pushes back:
+- Isn't that just an analogy? Yes. The essay says that it shows a pattern, a whole present in a part with most of it off, and nothing more.
+- Is it right to say a cancer cell 'forgets'? The essay does not say that. It says the cell stops listening to signals from its neighbors.
+- Is cancer a moral comparison? No. The essay applies it to no person, and says the scale is one the author is on too.

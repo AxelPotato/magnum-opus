@@ -35,7 +35,7 @@ Kind: text. Status: checked.
 
 Who: A major early Upanishad of the Samaveda, in eight chapters. Chapter 6 is one long lesson from the teacher Uddalaka Aruni to his son Shvetaketu. The sentence tat tvam asi is the best known of the four 'great sayings' (mahavakyas) of Vedanta.
 
-In the essay: Part two, 'The axiom and the machine': 'In the Chandogya, a father tells his son Svetaketu that the finest essence of which the whole world is made is the self, and that he is that.' It is offered as 'the oldest statement' of the axiom's first clause.
+In the essay: Part two, 'The axiom and the machine': 'In the Chandogya, a father tells his son Svetaketu that the finest essence of which the whole world is made is the self, and that he is that.' It is offered as 'the oldest statement' of the axiom's first clause. Also Part two, step 2, traditions block: the salt in water of Chandogya 6.13 (the salt cannot be seen and is in every sip), which ends with the same refrain as 6.8.7 (at 6.13.3).
 
 Where it sits: Chandogya Upanishad, chapter (prapathaka) 6, section (khanda) 8, verse 7. The same refrain closes the next sections too: 6.9.4, 6.10.3, 6.11.3, 6.12.3, 6.13.3, 6.14.3, 6.15.3 and 6.16.3, nine times in all.
 
@@ -409,3 +409,28 @@ Background: Traditionally this verse is the root of the idea of avatara, the des
 
 If someone pushes back:
 - 'That is about God descending, not about religions changing.' Yes. The essay uses it as the tradition's own view that the teaching comes back in a form that suits each age.
+
+## Kashmir Shaivism: the five cloaks (kancukas) and recognition (Pratyabhijna school, roughly the 9th to 11th centuries CE (broad range). Abhinavagupta around 1000 CE. Kshemaraja an 11th-century pupil of Abhinavagupta (sources differ; one gives the 10th century).)
+
+Kind: tradition. Status: partly checked.
+
+Who: Kashmir Shaivism is a Hindu school of non-dual philosophy that holds the One is Shiva, pure consciousness, free to appear as the world. The Pratyabhijna school ('recognition') teaches that liberation is recognizing what you already are. Kshemaraja wrote the Pratyabhijnahrdayam, 'the heart of recognition', a short text of twenty sutras with his own commentary.
+
+In the essay: Part two, step 2, 'How a whole turns itself down', in the traditions block: the One narrows itself into a person through five cloaks (limited power to act, limited knowledge, a sense of lack that makes us reach for things, time, and a fixed order of cause and place), and the school's name means recognition. It stands next to the essay's own four settings (what a point of view knows, what it can do, a clock, a need). The school's fifth cloak, necessity and a fixed order of cause, has no setting of its own in the essay.
+
+Where it sits: The cloaks (kancukas) are the five tattvas that follow maya in the school's list of 36: kala, vidya, raga, kala (time) and niyati. The standard locators are Abhinavagupta's Tantraloka and Kshemaraja's works; I have not seen a verse number and do not give one. Check before citing a locator.
+
+The passage (paraphrase, not cleared for quoting): Paraphrase. The all-doing Self becomes a little doer (kala), the all-knowing Self a little knower (vidya), fullness turns into attachment to things (raga), eternity into time (kala) and freedom into necessity and order (niyati).
+
+Read it free:
+- Wikipedia, Shuddhashuddha tattvas, which lists the five: https://en.wikipedia.org/wiki/Shuddhashuddha_tattvas (seen in a search result; I read it)
+- Wikipedia, Pratyabhijna: https://en.wikipedia.org/wiki/Pratyabhijna (seen in a search result)
+- The Pratyabhijnahrdayam in a free library copy: https://sourcelibrary.org/book/pratyabhij-hdayam (seen in a search result)
+
+Read it in a book: Jaideva Singh, Pratyabhijnahrdayam: The Secret of Self-Recognition (Motilal Banarsidass, 1963), with Sanskrit, translation and Kshemaraja's commentary (library record). For the whole school, Mark Dyczkowski, The Doctrine of Vibration (SUNY Press, 1987), from memory.
+
+Background: The list of 36 tattvas belongs to Shaiva tantra generally. What is distinctive in the Kashmir school is that the narrowing is Shiva's own free act (svatantrya), not a flaw, and that the way back is recognition, not escape. A source I saw spelled the fourth item as a duplicate of the first, which is the same Sanskrit word (kala) with a different meaning, 'limited agency' and 'time'. Scholars debate how literally the 36 should be read. Dates for Kshemaraja differ between sources.
+
+If someone pushes back:
+- Is this the same as the essay's four settings? It is a close old match, not an identical list. The essay's settings are four and the school's cloaks are five, and the essay names all five.
+- Is Kashmir Shaivism a mainstream Hindu view? It is one respected school among several. Advaita Vedanta is the better known non-dual school. The essay uses it as one witness and does not claim Hinduism as a whole teaches it.

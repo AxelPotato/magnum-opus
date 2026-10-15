@@ -138,7 +138,9 @@ Kind: tradition. Status: partly checked.
 
 Who: Isaac Luria, called the Ari, taught a circle of Kabbalists in Safed in the Galilee in the early 1570s. His student Hayyim Vital wrote down his system. Its three central symbols, in Scholem's phrase, are tzimtzum, the breaking of the vessels and tikkun.
 
-In the essay: In 'Why separation feels so real' the essay says the Kabbalists of sixteenth century Safed taught that the infinite contracted to make room for a world, that the vessels meant to hold its light shattered, and that gathering the pieces is humanity's work, 'a story of fragmentation and repair'. Also 'The same things in different words' ('the Lurianic Kabbalists with the shattered vessels and their repair') and the table (shattered vessels under 'The veil', tikkun under 'The return').
+In the essay (v4.22.0): Part two, step 2, traditions block, one sentence: tzimtzum, the Infinite withdraws into itself to leave a space in which a world can exist. The older use below has been dropped from the essay text.
+
+Older use: In 'Why separation feels so real' the essay said the Kabbalists of sixteenth century Safed taught that the infinite contracted to make room for a world, that the vessels meant to hold its light shattered, and that gathering the pieces is humanity's work, 'a story of fragmentation and repair'. Also 'The same things in different words' ('the Lurianic Kabbalists with the shattered vessels and their repair') and the table (shattered vessels under 'The veil', tikkun under 'The return').
 
 Where it sits: Essay: 'Why separation feels so real' (paragraph beginning 'Why would the whole do this at all?'). Sources: Hayyim Vital, Etz Chaim; Scholem, Major Trends in Jewish Mysticism, lecture 7, 'Isaac Luria and His School'.
 

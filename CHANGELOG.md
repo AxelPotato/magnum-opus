@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.22.0 (2026-10-15)
+
+- Part two step 2 rewritten around how a whole can forget it is whole: it lowers its own settings (know, do, last, need), the operating system picture, the cell with its genome switched off and the cell that stops listening, the fist kept; title now 'How a whole turns itself down'; old inertia, attention and 'darkness is contagious' text cut at Alex's pick; step 4 pointer fixed; chain figure and reading pack updated
+
+
 ## 4.21.1 (2026-10-15)
 
 - Alex's Essay Desk edits: Part zero line 9 (the method of conscious development), Part one lines 55, 125, 141, 147, 151, 163 (95% sentence trimmed, Squidward, last room to driven room, far corner, don't-quote-me line, drive increased)
