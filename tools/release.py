@@ -9,6 +9,7 @@ Versions follow Major.minor.fix:
     fix    typos, wording, corrected facts, layout and bug fixes
 """
 import datetime
+import glob
 import os
 import re
 import shutil
@@ -71,7 +72,8 @@ def main():
     if push:
         run('git', 'push', 'origin', 'HEAD', '--follow-tags')
         if shutil.which('gh'):
-            run('gh', 'release', 'create', f'v{new}', os.path.join('essay', 'part-1-rational.html'), '--title', f'v{new}', '--notes', msg)
+            pages = sorted(p for p in glob.glob(os.path.join(ROOT, 'essay', 'part-*-*.html')) if '.fragment.' not in p)
+            run('gh', 'release', 'create', f'v{new}', *pages, '--title', f'v{new}', '--notes', msg)
 
 
 if __name__ == '__main__':

@@ -2,7 +2,7 @@
 # Block a commit that changes the essay page or its sources without a version bump.
 # Enable once per clone:  git config core.hooksPath .githooks
 staged=$(git diff --cached --name-only)
-watch='^essay/(part-1-rational\.(md|html)|build_html\.py|figs2\.py|img/)'
+watch='^essay/(part-[0-9]-(rational|spiritual|practical)\.(md|html)|build_html\.py|figs[0-9]*\.py|img/)'
 if echo "$staged" | grep -Eq "$watch"; then
   if ! echo "$staged" | grep -qx 'VERSION'; then
     echo "The essay changed but VERSION did not."
@@ -10,9 +10,12 @@ if echo "$staged" | grep -Eq "$watch"; then
     exit 1
   fi
   v=$(tr -d '[:space:]' < VERSION)
-  if ! grep -q "name=\"version\" content=\"$v\"" essay/part-1-rational.html; then
-    echo "essay/part-1-rational.html is not built for VERSION $v. Run: python essay/build_html.py"
-    exit 1
-  fi
+  for page in essay/part-*-*.html; do
+    case "$page" in *.fragment.html) continue;; esac
+    if ! grep -q "name=\"version\" content=\"$v\"" "$page"; then
+      echo "$page is not built for VERSION $v. Run: python essay/build_html.py"
+      exit 1
+    fi
+  done
 fi
 exit 0
