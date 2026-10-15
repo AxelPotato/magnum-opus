@@ -4,9 +4,10 @@
 
 Run it on a checkout of main. It builds each part with essay/build_html.py (the same text,
 figures and styles as the essay pages), puts the four parts behind the essay's own part tabs,
-prefixes every id with its part so the parts can share one page, adds a "Comment on this part"
-button for readers who can comment, and turns the contact form into a note, because an
-Artifact cannot reach the form's webhook. It writes only OUT.html: not part of the release flow.
+and prefixes every id with its part so the parts can share one page. Readers who can comment
+get a "Comment on this part" button and can select any words or tap a paragraph, then press
+Comment. The contact form turns into a note, because an Artifact cannot reach its webhook.
+It writes only OUT.html: not part of the release flow.
 """
 import html
 import os
@@ -31,13 +32,19 @@ REVIEW_CSS = """
 .part-end a{background:var(--ink);color:var(--paper)}
 .part-end button{background:transparent;color:var(--ink)}
 .part-end .note{flex-basis:100%;margin:0;font-family:var(--mono);font-size:.78rem;color:var(--muted)}
+.part main .marked{background:color-mix(in srgb,var(--drifting) 16%,transparent);box-shadow:0 0 0 .35rem color-mix(in srgb,var(--drifting) 16%,transparent);border-radius:3px}
+@media (hover:hover){.marking .part main :is(p,li,figure,h2,h3,h4):not(.marked):hover{background:color-mix(in srgb,var(--drifting) 6%,transparent);box-shadow:0 0 0 .35rem color-mix(in srgb,var(--drifting) 6%,transparent);border-radius:3px}}
+#comment-pop{position:absolute;z-index:20;font-family:var(--mono);font-size:.82rem;padding:.45rem .95rem;border-radius:999px;border:0;background:var(--ink);color:var(--paper);cursor:pointer;box-shadow:0 2px 12px color-mix(in srgb,var(--ink) 25%,transparent)}
+#comment-pop:focus-visible{outline:2px solid var(--drifting);outline-offset:3px}
 """
 
 REVIEW_JS = """
 (function () {
   var parts = [].slice.call(document.querySelectorAll('.part'));
   var names = %s;
+  var clearMark = function () {};
   function show(i) {
+    clearMark();
     parts.forEach(function (p, k) { p.hidden = k !== i; });
     try { localStorage.setItem('essay_review_tab', String(i)); } catch (e) {}
   }
@@ -76,20 +83,104 @@ REVIEW_JS = """
     });
   });
 
+  // Commenting: select any words, or tap a paragraph, then press Comment. The shell's own
+  // composer opens on that spot. Shown only to readers this page can open a composer for.
   var buttons = [].slice.call(document.querySelectorAll('.comment-part'));
-  if (!window.claude || !window.claude.use) return;
-  window.claude.use('comments').then(function (c) {
-    if (!c) return;
+  function enableComments(c) {
+    var off = false;
+    var BLOCKS = 'p, li, figure, h2, h3, h4';
+    var pop = document.createElement('button');
+    pop.type = 'button';
+    pop.id = 'comment-pop';
+    pop.textContent = 'Comment';
+    pop.hidden = true;
+    pop.setAttribute('data-uncommentable', '');
+    document.body.appendChild(pop);
+    var target = null, marked = null, timer = null;
+    function clear() {
+      if (marked) marked.classList.remove('marked');
+      marked = null; target = null; pop.hidden = true;
+    }
+    clearMark = clear;
+    function disable() {
+      off = true; clear();
+      document.documentElement.classList.remove('marking');
+      buttons.forEach(function (x) { x.hidden = true; });
+      var how = document.querySelector('.review-bar .how');
+      if (how) how.textContent = how.dataset.plain;
+    }
+    function place(rect) {
+      pop.hidden = false;
+      var w = pop.offsetWidth, vw = document.documentElement.clientWidth;
+      var x = Math.min(Math.max(8, rect.right - w), vw - w - 8);
+      pop.style.left = (x + window.scrollX) + 'px';
+      var h = pop.offsetHeight;
+      var y = rect.bottom + 8 + h > window.innerHeight ? rect.top - h - 8 : rect.bottom + 8;
+      pop.style.top = (y + window.scrollY) + 'px';
+    }
+    function inEssay(node) {
+      var el = node && (node.nodeType === 1 ? node : node.parentElement);
+      return !!(el && el.closest('.part main') && !el.closest('[data-uncommentable], .contact, .toc'));
+    }
+    function fromSelection() {
+      if (off) return false;
+      var s = window.getSelection();
+      if (!s || s.isCollapsed || !s.rangeCount || !String(s).trim()) return false;
+      var r = s.getRangeAt(0);
+      if (!inEssay(r.commonAncestorContainer)) return false;
+      if (marked) marked.classList.remove('marked');
+      marked = null;
+      target = { range: r.cloneRange() };
+      var rects = r.getClientRects();
+      place(rects.length ? rects[rects.length - 1] : r.getBoundingClientRect());
+      return true;
+    }
+    document.addEventListener('selectionchange', function () {
+      clearTimeout(timer);
+      timer = setTimeout(fromSelection, 350);
+    });
+    document.addEventListener('click', function (e) {
+      if (off || e.target === pop) return;
+      var s = window.getSelection();
+      if (s && !s.isCollapsed && String(s).trim()) return;
+      var el = e.target.closest && e.target.closest(BLOCKS);
+      if (!el || !inEssay(el) || e.target.closest('a, button, input, textarea, select, summary, label')) { clear(); return; }
+      if (el === marked) { clear(); return; }
+      clear();
+      marked = el;
+      el.classList.add('marked');
+      target = { element: el };
+      // Next to the tap, so the button is on screen even for a long paragraph.
+      place({ right: e.clientX + 48, top: e.clientY - 16, bottom: e.clientY + 16 });
+    });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') clear(); });
+    window.addEventListener('resize', clear);
+    pop.addEventListener('mousedown', function (e) { e.preventDefault(); });
+    pop.addEventListener('click', function () {
+      var t = target;
+      if (!t) return;
+      c.openComposer(t).then(function () {
+        clear();
+        try { window.getSelection().removeAllRanges(); } catch (x) {}
+      }, function (err) {
+        if (err && err.code === 'unavailable') disable();
+      });
+    });
     buttons.forEach(function (b) {
       b.hidden = false;
       b.addEventListener('click', function () {
         var h1 = b.closest('.part').querySelector('h1');
         c.openComposer({ element: h1 }).catch(function (err) {
-          if (err && err.code === 'unavailable') buttons.forEach(function (x) { x.hidden = true; });
+          if (err && err.code === 'unavailable') disable();
         });
       });
     });
-  }, function () {});
+    document.documentElement.classList.add('marking');
+    var how = document.querySelector('.review-bar .how');
+    if (how) how.textContent = 'To comment, select any words or tap a paragraph, then press Comment.';
+  }
+  if (!window.claude || !window.claude.use) return;
+  window.claude.use('comments').then(function (c) { if (c) enableComments(c); }, function () {});
 })();
 """
 
@@ -127,8 +218,9 @@ def build():
             f'<link rel="stylesheet" href="{B.FONTS}">'
             f'<style>{B.CSS}{extras}{REVIEW_CSS}</style>'
             f'<script>{B.UTM_JS}</script>')
+    plain = 'Notes on any paragraph are welcome.'
     bar = (f'<div class="review-bar" data-uncommentable><p>A draft, shared for feedback. Version {ver}. '
-           'Notes on any paragraph are welcome.</p></div>')
+           f'<span class="how" data-plain="{plain}">{plain}</span></p></div>')
     parts = ''.join(part_body(n) for n in range(4))
     return head + bar + parts + '<script>' + (REVIEW_JS % repr(TABS)) + '</script>'
 
