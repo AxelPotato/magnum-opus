@@ -74,6 +74,8 @@ Every person, text or study the essay cites should have an entry here, and every
 - Plotinus, Enneads (procession and return) [person, partly checked]
 - Zhuangzi, chapter 2 (Qiwulun), the butterfly dream [text, partly checked]
 - Confucius, Analects 15.24 (reciprocity, shu) [person, checked]
+- Richard Bach, Jonathan Livingston Seagull (1970), speed as an image [text, unchecked]
+- Alan Watts, "The Dream of Life", the dreamer who hides the dream from himself [talk, partly checked]
 
 ### Hindu sources (`04-hindu.md`)
 
@@ -83,6 +85,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Brihadaranyaka Upanishad 3.7.23 (the inner controller) [text, partly checked]
 - Isha Upanishad 6 and 7 [text, checked]
 - Bhagavad Gita 2.13 and 2.22 (the embodied self and the worn clothes) [text, partly checked]
+- Bhagavad Gita 4.7 and 4.8 (age after age) [text, unchecked]
 - Brahma Sutra 2.1.33 (lila, creation as play) [text, checked]
 - Gaudapada, Mandukya Karika 2.32 [text, checked]
 - Advaita Vedanta: maya and avidya (Shankara) [concept, partly checked]
@@ -197,6 +200,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Quran 23:99-100 (the dying ask to be sent back) [text, checked]
 - Barzakh (the barrier, the in-between state) [concept, partly checked]
 - Hadith: none of you believes until he loves for his brother (Bukhari 13, Muslim 45) [text, checked]
+- Quran 5:48 (to each a law and a way) [text, partly checked]
 - Hadith: the believers are like one body (Bukhari 6011, Muslim 2586) [text, checked]
 - Hadith of voluntary devotion: 'I become his hearing' (Bukhari 6502) [text, checked]
 - The hidden treasure saying [text, partly checked]
@@ -235,7 +239,7 @@ Every person, text or study the essay cites should have an entry here, and every
 
 Raised by the agents while building the entries. Some are already fixed in 2.3.1; the rest are for Alex to decide.
 
-- (G1) The IT Crowd ('Have you tried turning it off and on again?'), in 'Not enough time in one life', the saved-state paragraph. A TV reference. The earlier fact-check says: Channel 4 sitcom created by Graham Linehan, premiered 3 February 2006, four series. I gave it no entry because it belongs to a popular-culture group, if there is one.
+- (G1, removed from the essay in 3.10.1) The IT Crowd ('Have you tried turning it off and on again?'), in 'Not enough time in one life', the saved-state paragraph. A TV reference. The earlier fact-check says: Channel 4 sitcom created by Graham Linehan, premiered 3 February 2006, four series. I gave it no entry because it belongs to a popular-culture group, if there is one.
 - (G1) Kerbal Space Program ('reaching orbit feels like winning, right up until you notice the Mun'), in 'The arrow'. A video game. The earlier fact-check says: made by Squad, first public version 24 June 2011, Take-Two bought it in 2017. No entry from me.
 - (G1) Sagan's The Demon-Haunted World (1995), in 'Not enough time in one life': he listed children's past-life reports among three claims in the paranormal field that deserve serious study, while doubting they would hold up. It belongs with the reincarnation group (Stevenson, Tucker, Edwards). I mention it inside the Sagan entry only. The chapter location is unconfirmed.
 - (G1) Gennady's lectures on the arrow of consciousness (minus four to plus four, and 'birth' after plus four) have no public source. Only Alex can supply this, as the checklist says.
@@ -243,7 +247,7 @@ Raised by the agents while building the entries. Some are already fixed in 2.3.1
 - (G1) Part one's cross-references from Part two (the 'border', the 'cold observer', Anna) are unresolved in the checklist and belong to no group of sources.
 - (G2) Chalmers (1995), the hard problem, and Hoffman, Singh and Prakash (2015), the interface theory of perception, plus Kastrup (2019): all in 'Where the room splits'. They are philosophy of mind and consciousness, and probably belong to another group. Nothing in them is a psychology or survival-research source, but they sit close to Metzinger and the rubber hand material.
 - (G2) The sentence 'Most neuroscientists work on the assumption that conscious experience depends on activity in the brain' has no named source. A general claim that Alex may be asked to back; the usual references would be a textbook such as Kandel's Principles of Neural Science or a review of the neural correlates of consciousness.
-- (G2) Gennady's lectures on tension, resistance and non-acceptance, and on the arrow of consciousness: no public source exists. The 'observation and not a study' paragraph in 'What you can check' (listening, then giving, then clearer perception) is Alex's school's observation. The CHECKLIST says the nearest research is Eisenberg's work on regulation, sympathy and helping (Eisenberg et al. 1994; Okun, Shepard and Eisenberg 2000), which is unchecked and not cited in the essay.
+- (G2) Gennady's lectures on tension, and on the arrow of consciousness: no public source exists. The 'observation and not a study' paragraph in 'What you can check' (listening, then giving, then clearer perception) is Alex's school's observation. The CHECKLIST says the nearest research is Eisenberg's work on regulation, sympathy and helping (Eisenberg et al. 1994; Okun, Shepard and Eisenberg 2000), which is unchecked and not cited in the essay.
 - (G2) Carl Sagan's Cosmos (1980) line about star-stuff and the cosmos knowing itself, in 'The axiom and the machine', belongs to the axiom group; only his Demon-Haunted World passage is in this group.
 - (G2) Computing and physics claims (process isolation, Meltdown and Spectre 2018, sandbox escape, ISS orbit, escape velocity, Voyager 1, the multiverse remark, Kerbal Space Program, The IT Crowd) are not in this group.
 - (G2) Studies in the research notes that are not in the essay but are the nearest neighbours of the cited ones: Aron, Aron and Smollan (1992) on the Inclusion of Other in the Self scale, which Cialdini's team used; Condon et al. (2013) on meditation and giving up a seat; Kreplin, Farias and Brazil (2018) on the limited prosocial effects of meditation; Poulin et al. (2021) on mindfulness and independent self-views; Darley and Batson (1973) on hurry and helping. Alex may be asked about them.
@@ -292,8 +296,9 @@ Raised by the agents while building the entries. Some are already fixed in 2.3.1
 - (G9) 'The great Sufi Ibn Arabi' is the followers' judgment of a contested figure. 'The influential Sufi' would be safer.
 - (G10) Computing claims (process isolation and virtual memory, Meltdown and Spectre in January 2018, sandbox escape and bounty): essay lines 41 to 49 and 121. I covered the analogy in a talking point, but the technical sources have no reading-pack group that I could see.
 - (G10) Physics and astronomy figures in 'The arrow' (ISS altitude and speed, escape velocities from Earth, Sun and Milky Way, Voyager 1 and the heliopause, size of the Milky Way, 93 billion light-years, the multiverse remark). I linked NASA and Britannica pages in the arrow talking point; Gaia-based escape speeds and the Feeney et al. bubble-collision search are in the CHECKLIST (C6-16, C6-30).
-- (G10) Pop culture references: The IT Crowd ('turn it off and on again') and Kerbal Space Program with the Mun (essay lines 83 and 139). Probably need no reading entry, but they are claims the CHECKLIST lists (C4-02, C6-31).
-- (G10) Gennady's lectures on the arrow of consciousness, and tension, resistance and non-acceptance: essay lines 71, 127 and the Sources list. Not public; only Alex can supply a lecture date and title (CHECKLIST C9-68, C3-27).
+- (G11, added in 3.11.0) Two invented worlds in the opening of Part two, Dune (Frank Herbert, 1965, and the recent films) and Game of Thrones (HBO, season 8, 2019), used as examples of a world that keeps its rules and one that bends them. No reading entry; plot details only.
+- (G10) Pop culture references: The IT Crowd ('turn it off and on again', removed in 3.10.1) and Kerbal Space Program with the Mun (essay lines 83 and 139). Probably need no reading entry, but they are claims the CHECKLIST lists (C4-02, C6-31).
+- (G10) Gennady's lectures on the arrow of consciousness, and tension: essay lines 71, 127 and the Sources list. Not public; only Alex can supply a lecture date and title (CHECKLIST C9-68, C3-27).
 - (G10) Part one cross-references inside Part two: the chart, the 10,000 square and the corner, the gate (a reason bigger than yourself), the two reason-test questions, the 95 percent guess, 'cold observer' wording, and Anna's name (CHECKLIST 'Only Alex can settle these').
 - (G10) Lessing's The Education of the Human Race (1780), Gaudapada's Mandukya Karika 2.32 and Brihadaranyaka 3.7.23, Mulla Sadra, and the Cialdini, Mikulincer and Hafenbrack studies: probably assigned to other groups, but the talking points above link to some of their pages.
 - (G10) A terminology trap in the essay's own Sources list: Elior's book title uses 'Kabbalistic Theosophy of Habad', where Theosophy has an older Jewish and Christian meaning unrelated to Blavatsky. I noted this in the Chabad talking point.

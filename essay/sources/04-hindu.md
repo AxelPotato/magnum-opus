@@ -388,3 +388,24 @@ Background: The doctrine of karma and rebirth is not in the oldest Vedic hymns. 
 If someone pushes back:
 - 'Hindu schools do not agree on karma.' True, and the essay says the traditions differ on who administers it. The axiom needs only that consequence comes back to the one who acts.
 - 'Advaita says the atman does not move.' Right. What moves is the jiva with its subtle body, so the essay's sentence is popular speech. The essay already says the Advaita answer is at the level of appearance.
+
+## Bhagavad Gita 4.7 and 4.8 (age after age)
+
+Kind: text. Status: unchecked beyond the standard verse numbers; from memory and the Gita entries above.
+
+Who: The Bhagavad Gita, as in the Gita 2.13 and 2.22 entry above. In chapter 4 Krishna tells Arjuna about the teaching he gave long ago and says why he comes again.
+
+In the essay: Part two, 'Why the paths differ': 'Krishna says that whenever dharma declines he takes birth again, age after age (4.7 to 8). The Hindu tradition reads this as the divine returning to every age, and I take it as a teaching that returns for each one.' Sources list: Bhagavad Gita 4.7 and 4.8.
+
+Where it sits: Gita 4.7 (whenever dharma declines and its opposite rises, I send myself forth) and 4.8 (to protect the good, destroy the wrongdoers and establish dharma, I come into being age after age, yuge yuge).
+
+The passage (paraphrase, not cleared for quoting): as above. The phrase 'yuge yuge' is the 'age after age' of the essay.
+
+Read it free: the same sources as the Gita 2.22 entry; for verse 4.8 try vedabase.com/en/bg/4/8 and shlokam.org (not checked; vedabase returned an error for the automated check, so open it in a browser).
+
+Read it in a book: Barbara Stoler Miller (Bantam, 1986), Laurie Patton (Penguin Classics, 2008), Gavin Flood and Charles Martin (Norton, 2012).
+
+Background: Traditionally this verse is the root of the idea of avatara, the descent of God into the world when it is needed. The essay uses only its shape: the teaching returns in each age. Vaishnava readers take it as Vishnu's descents, and an Advaita reader would take the same line at the level of appearance.
+
+If someone pushes back:
+- 'That is about God descending, not about religions changing.' Yes. The essay uses it as the tradition's own view that the teaching comes back in a form that suits each age.

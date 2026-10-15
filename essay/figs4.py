@@ -22,7 +22,6 @@ CSS_EXTRA = r"""
 .chart .braceln{fill:none;stroke:var(--muted);stroke-width:1.6;stroke-linecap:round}
 .chart .zoneb{fill:var(--high);fill-opacity:.1}
 .chart .zones{fill:var(--drifting);fill-opacity:.1}
-.chart .num{font-family:var(--display);font-weight:800;font-size:19px;fill:var(--ink)}
 .chart .cell{fill:var(--card);stroke:var(--ink);stroke-width:1.8}
 .chart .wallh{fill:none;stroke:var(--ink);stroke-width:9;stroke-linejoin:round}
 .chart .wallt{fill:none;stroke:var(--high);stroke-width:2.2;stroke-dasharray:3 6;stroke-linecap:round}
@@ -231,8 +230,6 @@ def fig_arrow():
     for n in range(-4, 5):
         x = pos[n]
         b.append(f'<path class="tick" d="M{x} {ay - 8} V{ay + 8}"/>')
-        label = ('+' + str(n)) if n > 0 else (MINUS + str(-n) if n < 0 else '0')
-        b.append(f'<text class="num" x="{x}" y="{ay + 34}" text-anchor="middle">{label}</text>')
     b.append(_runner(pos[-4] + 4, 150))
     b.append(_bike(pos[-3] + 2, 160))
     b.append(_car(pos[-2], 158))
@@ -248,8 +245,8 @@ def fig_arrow():
         b.append(T(x, ay + 62, sx, 'small b', 'middle'))
     notes = [(pos[-3], ('the ground', 'decides where', 'you go')), (pos[-1] - 6, ('the air:', 'any point', 'on the globe')),
              (pos[0] + 28, ('in space,', 'still under', "Earth's gravity")),
-             (pos[1] + 22, ('11.2 km/s', 'leaves', 'the Earth')), (pos[2] + 14, ('16.7 km/s', 'leaves', 'the Sun')),
-             (pos[3] + 12, ('550 km/s', 'leaves', 'the galaxy')), (pos[4] + 6, ('no pull', 'left to', 'leave'))]
+             (pos[1] + 22, ('leaves', 'the Earth')), (pos[2] + 14, ('leaves', 'the Sun')),
+             (pos[3] + 12, ('leaves', 'the galaxy')), (pos[4] + 6, ('no pull', 'left to', 'leave'))]
     for x, lines in notes:
         for k, ln in enumerate(lines):
             b.append(T(x, ay + 90 + k * 16, ln, 'small', 'middle'))
@@ -259,27 +256,7 @@ def fig_arrow():
     b.append(T(pos[1] + 6, 92, 'top right corner', 'small b', 'start'))
     b.append(T(pos[4] + 66, ay - 4, 'birth', 't', 'start'))
     b.append(T(pos[4] + 66, ay + 14, 'and then?', 'small', 'start'))
-    return svg('0 0 940 412', 'The arrow of consciousness from minus four to plus four, drawn as speed and freedom of movement: run, ride, drive, fly, orbit, escape, solar system, galaxy, universe', ''.join(b), u)
-
-
-# ------------------------------------------------------------------ orbit versus escape
-def fig_escape():
-    u = 'es'
-    k = 36
-    x0 = 130
-    b = []
-    b.append(T(x0 - 14, 66, 'orbit', 't', 'end'))
-    b.append(f'<rect class="fillrect drifting solid" x="{x0}" y="42" width="{7.7 * k:.0f}" height="34" rx="4"/>')
-    b.append(T(x0 + 7.7 * k + 10, 64, '7.7 km/s', 'small b'))
-    b.append(T(x0 + 7.7 * k + 10, 82, 'falls around the Earth, for ever', 'small'))
-    b.append(f'<path class="braceln" d="M{x0 + 7.7 * k:.0f} 98 V104 H{x0 + 10.8 * k:.0f} V98"/>')
-    b.append(T(x0 + (7.7 + 10.8) * k / 2, 124, 'about 40 percent more speed', 'small b', 'middle'))
-    b.append(T(x0 - 14, 178, 'escape', 't', 'end'))
-    b.append(f'<rect class="fillrect high solid" x="{x0}" y="154" width="{10.8 * k:.0f}" height="34" rx="4"/>')
-    b.append(T(x0 + 10.8 * k + 10, 176, '10.8 km/s', 'small b'))
-    b.append(T(x0 + 10.8 * k + 10, 194, 'never comes back', 'small'))
-    b.append(T(350, 228, 'at the height of the International Space Station', 'small', 'middle'))
-    return svg('0 0 700 244', 'At the height of the space station, orbital speed is about 7.7 kilometers per second and escape speed about 10.8, roughly 40 percent more', ''.join(b), u)
+    return svg('0 0 940 412', 'The arrow of consciousness, drawn as speed and freedom of movement: run, ride, drive, fly, orbit, escape, solar system, galaxy, universe', ''.join(b), u)
 
 
 # ------------------------------------------------------------------ the wall, held and let go
@@ -290,7 +267,7 @@ def fig_wall():
     b.append('<g transform="translate(40 0)">')
     b.append('<rect class="wallh" x="108" y="146" width="124" height="126" rx="20"/>')
     b.append(person(170, 172, 1.0, 'st', legs=True))
-    for y, lab in ((172, 'tension'), (204, 'resistance'), (236, 'non-acceptance')):
+    for y, lab in ((204, 'tension'),):
         b.append(f'<path class="leader" d="M90 {y} L108 {y}"/>')
         b.append(f'<circle class="dot ink" cx="108" cy="{y}" r="3.2"/>')
         b.append(T(84, y + 4, lab, 'small b', 'end'))
@@ -305,8 +282,8 @@ def fig_wall():
     b.append('<ellipse class="wallt" cx="505" cy="108" rx="66" ry="72"/>')
     b.append(person(505, 66, 1.0, 'st', legs=True))
     b.append(T(505, 204, 'The same person, less wall.', 't', 'middle'))
-    b.append(T(505, 224, 'Tension, resistance and non-acceptance let go.', 'small', 'middle'))
-    return svg('0 0 680 320', 'On the left a person inside a thick wall labelled tension, resistance and non-acceptance, low on the BE axis; on the right the same person with only a thin dotted wall, higher on the axis', ''.join(b), u)
+    b.append(T(505, 224, 'Tension let go.', 'small', 'middle'))
+    return svg('0 0 680 320', 'On the left a person inside a thick wall labelled tension, low on the BE axis; on the right the same person with only a thin dotted wall, higher on the axis', ''.join(b), u)
 
 
 # ------------------------------------------------------------------ the chain of steps
@@ -319,11 +296,11 @@ def fig_chain():
     b.append(T(40, 74, 'clause 3: the separation ends', 'small'))
     steps = [
         ('Separation is a way of looking', 'the whole looks at itself from positions', ['from clauses 1 and 2']),
-        ('The wall is held by the body', 'what keeps a way of looking in place', ['from step 1,', 'plus an observation']),
+        ('Why we forget', 'inertia is built in, and the body holds the wall', ['from clause 2,', 'step 1, plus an observation']),
         ('One life is too short', 'most do not finish, so the return takes longer', ['from clause 3,', 'and step 2']),
         ('Something carries over', 'a run that long needs a thread: the soul', ['from step 3']),
-        ('Karma, or the fingers', 'nobody else to harm; the thread meets what it did', ['from clause 1,', 'carried by step 4']),
-        ('Letting go, and repair', 'loosen the wall, mend the fingers', ['from steps 2 and 5']),
+        ('Karma, or the fingers', 'nobody else to harm; the mirror shows the cost', ['from clause 1,', 'carried by step 4']),
+        ('Coming home, and repair', 'mend the fingers, turn back toward the source', ['from steps 2 and 5']),
         ('The return, in stages', 'a gradual road with an end, in stages', ['from steps 3 and 6,', 'and clause 3']),
     ]
     y0, h, gap = 112, 62, 24
@@ -338,7 +315,7 @@ def fig_chain():
         for k, tg in enumerate(tags):
             b.append(T(490, y + 28 + k * 17, tg, 'small b'))
         prev_bottom = y + h
-    return svg('0 0 680 %d' % (prev_bottom + 14), 'A chain of seven steps, each following from the one before and from a clause of the axiom: separation is a way of looking, the wall is held by the body, one life is too short, something carries over, karma, letting go and repair, and the return in stages', ''.join(b), u)
+    return svg('0 0 680 %d' % (prev_bottom + 14), 'A chain of seven steps, each following from the one before and from a clause of the axiom: separation is a way of looking, why we forget, one life is too short, something carries over, karma, coming home and repair, and the return in stages', ''.join(b), u)
 
 
 # ------------------------------------------------------------------ the table: same structure, different words

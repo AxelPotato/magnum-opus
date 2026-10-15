@@ -8,7 +8,7 @@ Kind: text. Status: partly checked.
 
 Who: The Udana is a collection of short episodes in the Pali canon, each ending with a verse the Buddha speaks on the spot (udana means inspired utterance). Ud 6.4, the Tittha Sutta or Sectarians (1), carries one of the earliest known versions of the story of the blind men and the elephant.
 
-In the essay: Part two, 'The same things in different words': the Buddha tells of blind men who feel an elephant and quarrel, as an image of sectarians who each hold one side. The essay adds that Jain thinkers and Rumi reuse the story and that it was not told to say all religions are one. Sources list: Udana 6.4.
+In the essay: Part two, 'The same things in different words': the Buddha tells of blind men who feel an elephant and quarrel, as an image of sectarians who each hold one side. The essay adds that Jain thinkers and Rumi reuse the story and that it was not told to say all religions are one. Sources list: Udana 6.4. In 3.13.0 it is used again, in 'Why the paths differ', for the same story told as a warning against holding one view.
 
 Where it sits: Udana 6.4 (Tittha Sutta, 'Sectarians (1)'); chapter 6 of the Udana, which I recall is called the Jaccandha-vagga (those born blind). The parable and the closing verse come after the monks report the quarrel.
 

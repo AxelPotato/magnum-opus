@@ -2,7 +2,7 @@
 # Block a commit that changes the essay page or its sources without a version bump.
 # Enable once per clone:  git config core.hooksPath .githooks
 staged=$(git diff --cached --name-only)
-watch='^essay/(part-[0-9]-(rational|spiritual|practical)\.(md|html)|build_html\.py|figs[0-9]*\.py|img/)'
+watch='^essay/(part-[0-9]-(intro|rational|spiritual|practical)\.(md|html)|build_html\.py|figs[0-9]*\.py|img/)'
 if echo "$staged" | grep -Eq "$watch"; then
   if ! echo "$staged" | grep -qx 'VERSION'; then
     echo "The essay changed but VERSION did not."

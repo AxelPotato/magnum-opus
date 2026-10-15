@@ -10,12 +10,12 @@ Your brief of 2026-10-08: less text; the logical step by step build first; examp
 2. Why this idea is worth a closer look. The base of the idea in each tradition's own words, one line each: Hinduism (Chandogya 6.8.7), Buddhism (no single whole; the Huayan net), Jainism (many souls, alike; the ethic of non-harm), Judaism (the Shema; Chabad), Christianity (John 17:21; 1 Corinthians 15:28), Islam (Quran 2:115; Ibn Arabi), Daoism (Daodejing 42); then Spinoza, Einstein, Schrödinger, Sagan; the plan: take it as an axiom and see what follows. Buddhism and Jainism are stated honestly as coming at it from the side.
 3. The axiom (three clauses) and the machine (programs, private memory, walls, one processor, two windows).
 4. The chain, as a figure and seven steps. Each step: the logic, then "What the traditions say".
-   1. Separation is a way of looking (illusion, why the whole would do it).
-   2. The wall is held by the body (rubber hand; the fist; Gennady's three words; BE). An observation, said to be one.
+   1. Separation is a way of looking (illusion, why the whole would do it; physics as a hint).
+   2. Why we forget (inertia built into existence on purpose, so the separation lasts; darkness is contagious; attention drifts to the world of forms; the body holds the wall: rubber hand, the fist, BE; the self built, veiled or forgotten; the decision is remade in every situation). Merged with the old "wall shows in the body" on 2026-10-11 at Alex's request.
    3. One life is too short (clause 3 plus most do not finish; Lessing; the traditions on lives and on growth after death).
-   4. Something carries over (the soul as the saved state; who carries over; Advaita; Buddhism; the science caveat).
-   5. Karma, or the fingers (one whole, nobody else to harm; the thread meets what it did; the golden rule; non-religious witnesses).
-   6. Letting go, and repair (the way back; bittul, fana, kenosis, relinquishment; the rules of repair).
+   4. Something carries over (the quintessence of experience, accumulated; who carries over; Advaita; Buddhism; the science caveat).
+   5. Karma, or the fingers (rewritten close to the lectures as a mirror, with a nod that this is what karma really means; the across-lives reading flagged as the author's own; the golden rule; non-religious witnesses).
+   6. Coming home, and repair (the way back: mend the cause in you, turn to the source and give, serve something bigger; letting go as the doorway; bittul, fana, kenosis, relinquishment; the rules of repair).
    7. The return, in stages (small and big square; the arrow; the speed picture; birth; other staged maps).
 5. Why I want this, What you can check, Where this goes next (short).
 
@@ -131,3 +131,14 @@ The lectures repo (`GivingSchool/gennady-wiki`, private, 7,697 transcripts) was 
 - **Contradicted by the lectures (decisions for Alex):** (1) plus two, three, four as solar system, galaxy, universe read as spatial extent: he sizes the levels by how much of the whole you feel as yourself (cosmic about half, divine nearly all, united beyond words) and says the solar system is nothing and the layers run into depth. **Resolved 2026-10-09 (3.2.9):** Alex says the space example is meant to show the difference between the levels through speed and motion, not their size in space. The essay now reads each level above the corner as the speed that leaves the next, bigger pull: plus two leaves the Sun (about 16.7 km/s from the Earth's surface, the third cosmic speed), plus three leaves the galaxy (about 550 km/s at the Sun's distance from the centre), plus four has no pull left to leave; the arrow figure carries the speeds; (2) escape velocity at the top right corner: in his rocket picture the hardest thrust comes first, orbit-like weightlessness is the opening of perception after zero, and leaving the whole system is birth.
 - **Not his (the essay's own, fine to keep as yours):** the chart mapping (corner is plus one; his plus one is the clean level, a filter), the computer picture (his programs are mental routines that are "part of you, not you"), "knowing needs a gap", clause 3 as "knowing itself as one" (his end is the parts rejoining by choice and the whole ending richer than the start), the later-life-as-the-person-harmed form of karma (his is the review after death), "the body keeps it in place" (his: mind and ego hold it, body shows it), the tension triad as three things (his: one blockage under changing names).
 - **Different weight:** his main levers for the wall are service in a team and repair with the person, with body work smaller; he says higher levels show more pain along with more joy; his vocabulary and numbers moved over the years (plus one as clean level only from 2020; a fifth level left off the drawing; the matrix as plus and minus five).
+
+## Version 3.3.0 (2026-10-10): lecture check decisions
+
+Alex went through the open decisions from the lecture check (full list with evidence and dates: the project file `part-2/open-decisions.md`) and confirmed four changes:
+
+- The speed picture is an image. Step 7 now says so, with Richard Bach's Jonathan Livingston Seagull as the model ("perfect speed, my son, is being there", from memory, to check), and speed is glossed as how much of the whole you can take in at once (the lectures' "speed and strength of perception"). Reading pack entry added.
+- Default is no longer tied to minus four: most of us live between minus three and minus one, and minus four is the chart's far corner (the lectures call minus four nearly unbearable). The arrow figure still draws the runner at minus four as the ground-bound end.
+- Step 2: "The mind builds the wall and the body holds it" (the lectures: something hurts, everything goes tense, "I build a wall"), and tension, resistance and non-acceptance are three names for one grip.
+- Step 7: each step up shows more, including more of what needs fixing, and the whole comes back knowing more than when it set out.
+
+Kept as they were, as recommended: escape velocity at the corner, the corner as plus one, four levels (the lectures sometimes add a fifth), the computer picture (the lectures call the world a computer game you are meant to leave), karma coming back in a later life, service in a team left for Part three. Still open: Alex's last step, and whether to soften "None of the traditions I'm about to quote is mine".

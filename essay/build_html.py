@@ -255,9 +255,6 @@ def figure(inner, caption, cls=''):
 # paragraph-start text -> (before_html_fn or None, after_html_fn or None)
 def rules1():
     return {
-        'If DO and BE sound like a Sinatra': dict(after=figure(
-            f'<img class="scooby" src="{uri("scooby")}" alt="Scooby-Doo" width="800" height="450" loading="lazy">',
-            'BE: where are you? DO: there is a man in a mask.', 'photo')),
         'Draw them as a cross.': dict(after=figure(svg_cross(), 'The cross. DO runs left to right, BE runs bottom to top. Each room with the people who will show up in it.')),
         'Squidward is the most extreme': dict(who=[('squidward', 'Squidward', 'default')]),
         'George Costanza is the exit story': dict(who=[('costanza', 'George Costanza', 'default')]),
@@ -285,7 +282,7 @@ def rules1():
         'Say each line runs from 0 to 100.': dict(after=figure(F.fig_bars(), 'Effectiveness is roughly BE times DO. Do not quote me.')),
         'Start with the physiology.': dict(after=figure(F.fig_anokhin(), 'Anokhin\'s functional system, simplified: a goal is a model of the result, and the result is compared with it.')),
         'Viktor Frankl, a psychiatrist': dict(who=[('frankl', 'Viktor Frankl', 'neutral')]),
-        'A sense of purpose in general points the same way.': dict(after=figure(F.fig_studies(), 'Left: a randomized field experiment. Right: a review of ten long-term studies, which shows an association, not a cause. Read both as a direction.')),
+        'The lab has looked at this too': dict(after=figure(F.fig_studies(), 'Left: a randomized field experiment. Right: a review of ten long-term studies, which shows an association, not a cause. Read both as a direction.')),
         'Picture someone who freezes': dict(after=figure(F.fig_scales(), 'The fear is a vote. A bigger reason is a bigger vote.')),
         'A lot of the tension is also made of self-monitoring': dict(after=figure(F.fig_spot(), 'The spotlight effect: we overestimate how much others notice us.')),
         'Reasons also outlast goals.': dict(after=figure(F.fig_finish(), 'Goals about you end. Reasons about others keep going.')),
@@ -322,13 +319,11 @@ def rules2():
         'From these three clauses I want to build the rest': dict(after=figure(F4.fig_chain(), 'The chain. The arrows show the order. The tags on the right give the premises each step uses, which are not always the step above.')),
         'The second view sits at the other extreme': dict(after=figure(F4.fig_views(), 'Two assumptions at opposite ends. Neither can be observed from outside, since the observing is done by the same mind.')),
         'Under the axiom, you and I are programs.': dict(after=figure(F4.fig_cpu(), 'Far apart on the screen, side by side in the machine. The distance is a property of the drawing.')),
-        'If the separation is a way of looking': dict(after=figure(F3.fig_rubber(), 'The rubber hand illusion. The felt border of the body is something the brain works out, and it can be moved.')),
-        'The body keeps it in place.': dict(after=figure(F4.fig_wall(), 'The wall, as the body holds it up. Hold less of it and you sit higher on BE.')),
+        'The body keeps the loop running.': dict(after=figure(F4.fig_wall(), 'The wall, as it shows in the body. Hold less of it and you sit higher on BE.')),
         'And if the run continues': dict(after=figure(F4.fig_lives(), 'If the process is a return, and most people do not finish it in one life, it has to run longer than one life.')),
         'If we are one, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
         'Every room on the chart is a separate program': dict(after=figure(F3.fig_rooms(), 'Four rooms, one assumption underneath.')),
-        "I've found one picture that carries the whole scale": dict(after=figure(F4.fig_arrow(), 'The arrow of consciousness as speed and freedom of movement. Gravity is the pull of the position you started from, and each level above the corner is the speed that leaves the next, bigger pull behind.')),
-        'The top right corner of the small square is escape velocity': dict(after=figure(F4.fig_escape(), 'From orbit to escape is a small change in speed and a total change in outcome.')),
+        "The picture I use is space travel": dict(after=figure(F4.fig_arrow(), 'The arrow of consciousness as speed and freedom of movement. Gravity is the pull of the position you started from, and each level above the corner is the speed that leaves the next, bigger pull behind.')),
     }
 
 
@@ -473,6 +468,15 @@ figure{margin:0}
 .cast-cap{font-family:var(--mono);font-size:.74rem;color:var(--muted);text-align:center;margin:-1.6rem 0 2.2rem}
 .sources{font-size:.92rem;line-height:1.55;padding-left:1.1rem}
 .say{padding-left:1.15rem;margin:0 0 1.4rem}
+.slot{font-family:var(--mono);font-size:.82rem;line-height:1.5;color:var(--muted);border-left:3px solid var(--driven);padding:.5rem .8rem;margin:1.2rem 0;background:var(--card)}
+details.say-fold{margin:1.4rem 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:.15rem 0}
+details.say-fold summary{cursor:pointer;list-style:none;font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding:.7rem 0;display:flex;align-items:center;gap:.6rem}
+details.say-fold summary::-webkit-details-marker{display:none}
+details.say-fold summary::before{content:"+";display:inline-block;width:1rem;text-align:center;font-size:1rem;line-height:1}
+details.say-fold[open] summary::before{content:"\2212"}
+details.say-fold summary:hover{color:var(--ink)}
+details.say-fold .say{margin-top:.4rem}
+@media print{details.say-fold>*{display:block}}
 .say li{margin-bottom:.7rem;padding-left:.2rem}
 .say li::marker{color:var(--muted)}
 .sources li{margin-bottom:.7rem;overflow-wrap:anywhere}
@@ -491,6 +495,7 @@ def convert(md, R):
     out = []
     toc = []
     in_sources = False
+    fold_title = None
     for b in blocks:
         b = b.strip('\n')
         if b.startswith('# '):
@@ -507,11 +512,26 @@ def convert(md, R):
             out.append(f'<h3 class="room {room}"><span class="dot"></span>{smart(t)}</h3>')
             continue
         if b.startswith('#### '):
-            out.append(f'<h4>{smart(b[5:].strip())}</h4>')
+            t = b[5:].strip()
+            if t.startswith('What the traditions say') or t.startswith('What the studies say') or t.startswith('Two invented worlds') or t.startswith('A fun way'):
+                fold_title = t
+            else:
+                out.append(f'<h4>{smart(t)}</h4>')
             continue
         if b.startswith('* '):
+            n = sum(1 for l in b.split('\n') if l.startswith('* '))
             lis = ''.join(f'<li>{smart(l[2:])}</li>' for l in b.split('\n') if l.startswith('* '))
-            out.append(f'<ul class="say">{lis}</ul>')
+            if fold_title:
+                if fold_title.startswith('What the studies'):
+                    label = f'{fold_title} ({n} {"study" if n == 1 else "studies"})'
+                elif fold_title.startswith('What the'):
+                    label = f'{fold_title} ({n} {"example" if n == 1 else "examples"})'
+                else:
+                    label = fold_title
+                out.append(f'<details class="say-fold"><summary>{smart(label)}</summary><ul class="say">{lis}</ul></details>')
+                fold_title = None
+            else:
+                out.append(f'<ul class="say">{lis}</ul>')
             continue
         if b.startswith('- '):
             lis = ''.join(f'<li>{smart(l[2:])}</li>' for l in b.split('\n') if l.startswith('- '))
@@ -519,6 +539,9 @@ def convert(md, R):
             continue
         if in_sources and len(b) < 60:
             out.append(f'<h4>{smart(b)}</h4>')
+            continue
+        if b.startswith('[ALEX'):
+            out.append(f'<p class="slot">{smart(b)}</p>')
             continue
         para = f'<p>{smart(b)}</p>'
         rule = next((v for k, v in R.items() if b.startswith(k)), None)
@@ -546,18 +569,21 @@ def hero_html(part):
     backup = part == '2a'
     if backup:
         part = 2
-    names = ['Rational', 'Spiritual', 'Practical']
+    names = ['Intro', 'Rational', 'Spiritual', 'Practical']
+    heads = ['Before you start', 'Rational', 'Spiritual', 'Practical']
     nums = ['one', 'two', 'three']
     lede = {
+        0: 'What each part is for, who is talking, and who taught me.',
         1: 'Two directions, four rooms, and a map that turns out to be bigger than it looks.',
         2: 'Two ways of reading a life, one assumption that separates them, and what follows from it in the world\'s religions.',
+        3: 'How this is done today, by people with jobs, families and not much spare time.',
     }[part]
     if backup:
         lede = 'What the middle of the chart is, what lies past the edge of it, and why a rational person might want to find out.'
-    lis = ''.join(f'<li class="now">{n}</li>' if i == part - 1 else f'<li>{n}</li>' for i, n in enumerate(names))
+    lis = ''.join(f'<li class="now">{n}</li>' if i == part else f'<li>{n}</li>' for i, n in enumerate(names))
     return ('<header class="hero"><div class="hero-in">'
-            f'<p class="kicker">{"Backup: an earlier version of part two" if backup else "Part " + nums[part - 1] + " of three"}</p>'
-            f'<h1>{names[part - 1]}</h1>'
+            f'<p class="kicker">{"Backup: an earlier version of part two" if backup else ("Part zero" if part == 0 else "Part " + nums[part - 1] + " of three")}</p>'
+            f'<h1>{heads[part]}</h1>'
             f'<p class="lede">{lede}</p>'
             f'<ul class="parts">{lis}</ul>'
             '</div></header>')
@@ -577,9 +603,14 @@ PART1_FOOT = ('Character and portrait images are used as illustration in a perso
               'Tal Ben-Shahar (CC0), Jeff Bezos (public domain, US government photo), Rosa Parks (public domain).')
 PART2_FOOT = 'A draft. The pictures in this part are drawn for it.'
 
+PART0_FOOT = 'A draft.'
+PART3_FOOT = 'A draft. Open notes to the author are marked in the text.'
+
 PARTS = {
+    0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: {}, cast=False, css_extra='', foot=PART0_FOOT),
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=True, css_extra='', foot=PART1_FOOT),
     2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA, foot=PART2_FOOT),
+    3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=lambda: {}, cast=False, css_extra='', foot=PART3_FOOT),
     # kept for reference, not part of the default build: python build_html.py --part 2a
     '2a': dict(md='backup/part-2-variant-a-psychological.md', out='backup/part-2-variant-a-psychological.html', title='Part Two, backup: Spiritual', rules=lambda: rules2a(),
                cast=False, css_extra=F3.CSS_EXTRA, foot=PART2_FOOT + ' This is the first version of part two, kept as a backup.', fixed_ver='1.0.0', backup=True),
