@@ -15,7 +15,7 @@ Draft 1, 2026-10-06. File: `part-1-rational.md`, about 8,700 words. Humanizer pa
 - Your own story (cyber security years) is in the Driven room, in your words from 2026-10-06. One thing to confirm: "not much time for something I didn't fully understand" is left as you said it. Name the something if you want it clearer.
 - Drifting room says you were a "spiritual drifter" until about 24 (your words, 2026-10-06). This is the one place Part one says "spiritual"; soften it if you want the part fully clean. If the cyber security years came right after, one line can tie your two rooms into your own swing.
 - Phelps is in the Driven room with only his own words. His line "depression will always be part of me" is left out on purpose, because you called the "no cure" idea untrue.
-- The friend story is unnamed, and it no longer says Israeli or that you lived with him (your calls, 2026-10-06). The joints and the Minsk trip are still there. Get his yes before sharing if he could be recognised.
+- The friend story is unnamed, and it no longer says Israeli or that you lived with him (your calls, 2026-10-06). Since v4.7.0 the story is shorter, names no city for the retreat and uses no pronouns. Get his yes before sharing if he could be recognised.
 - The casting note ("every face was a man") was removed at your request.
 - Biles: I wrote only what she has said herself. I did not say which room she is in now.
 - Jonny Miller and George Mack are each credited once. The jail-cell test is Mack's own ("3rd world jail cell"); the essay no longer credits it to Bezos.

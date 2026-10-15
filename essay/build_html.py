@@ -264,7 +264,7 @@ def rules1():
         'Simone Biles is the most decorated': dict(who=[('biles', 'Simone Biles', 'driven')]),
         'The only popular example I could find': dict(who=[('dude', 'The Dude', 'drifting')]),
         'Phoebe from Friends': dict(who=[('phoebe', 'Phoebe Buffay', 'drifting')]),
-        'There is a name for those escape moves': dict(who=[('welwood', 'John Welwood', 'neutral')]),
+        'John Welwood, an American psychologist': dict(who=[('welwood', 'John Welwood', 'neutral')]),
         'Malala Yousafzai kept going': dict(who=[('malala', 'Malala Yousafzai', 'high')]),
         'Marcus Aurelius ran the Roman Empire': dict(who=[('aurelius', 'Marcus Aurelius', 'high')]),
         'Rosa Parks is a good one': dict(who=[('parks', 'Rosa Parks', 'high')]),
@@ -284,7 +284,7 @@ def rules1():
         'Viktor Frankl, a psychiatrist': dict(who=[('frankl', 'Viktor Frankl', 'neutral')]),
         'The lab has looked at this too': dict(after=figure(F.fig_studies(), 'Left: a randomized field experiment. Right: a review of ten long-term studies, which shows an association, not a cause. Read both as a direction.')),
         'Picture someone who freezes': dict(after=figure(F.fig_scales(), 'The fear is a vote. A bigger reason is a bigger vote.')),
-        'A lot of the tension is also made of self-monitoring': dict(after=figure(F.fig_spot(), 'The spotlight effect: we overestimate how much others notice us.')),
+        'A lot of the tension is also made of self-monitoring': dict(after=figure(F.fig_spot(), 'The spotlight effect (Gilovich and colleagues, 2000): we overestimate how much others notice us.')),
         'Reasons also outlast goals.': dict(after=figure(F.fig_finish(), 'Goals about you end. Reasons about others keep going.')),
         'What gets someone across the middle on purpose is a pull.': dict(after=figure(F.fig_pushpull(), 'Pushes and a pull.')),
         'The extreme version of this room': dict(after=figure(F.fig_tv(), 'Aware of everything, in none of it.')),
@@ -483,11 +483,75 @@ details.say-fold .say{margin-top:.4rem}
 h4{font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:1.6rem 0 .8rem;font-weight:500}
 footer{max-width:40rem;margin:0 auto;padding:1.5rem 0 0;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.74rem;line-height:1.6;color:var(--muted)}
 a{color:var(--high)}
+.contact{margin:3rem 0 1rem;padding-top:1.6rem;border-top:1px solid var(--rule)}
+.contact-form{display:grid;gap:1rem;margin-top:1rem}
+.contact-form label{display:grid;gap:.35rem;font-family:var(--mono);font-size:.78rem;color:var(--muted)}
+.contact-form input{font:inherit;font-family:var(--body,inherit);font-size:1rem;color:var(--ink);background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:.6rem .7rem;width:100%;box-sizing:border-box}
+.contact-form button{justify-self:start;font-family:var(--mono);font-size:.85rem;color:var(--paper);background:var(--ink);border:0;border-radius:8px;padding:.65rem 1.3rem;cursor:pointer}
+.contact-form button:disabled{opacity:.55;cursor:default}
+.contact-form .trap{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.contact-status{font-family:var(--mono);font-size:.8rem;color:var(--muted);margin:0;min-height:1.2em}
 :focus-visible{outline:2px solid var(--drifting);outline-offset:2px}
 """
 
 FONTS = ('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800'
          '&family=IBM+Plex+Mono:wght@400;500&family=Literata:opsz,wght@7..72,400..700&family=Comic+Neue:wght@700&display=swap')
+
+
+# Where the contact form at the end of Part three sends its leads: the n8n essay-lead webhook.
+# It takes name, phone and email (at least one), the UTM fields and page_url, as urlencoded POST.
+CONTACT_ENDPOINT = 'https://n8n.giving-school.eu/webhook/essay-lead'
+
+# Runs on every part, so UTM values from the page a reader lands on still reach the form in Part three.
+UTM_JS = """
+(function () {
+  try {
+    var q = new URLSearchParams(location.search), s = {};
+    ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'].forEach(function (k) { if (q.get(k)) s[k] = q.get(k); });
+    if (Object.keys(s).length) sessionStorage.setItem('essay_utm', JSON.stringify(s));
+  } catch (e) {}
+})();
+"""
+
+CONTACT_JS = """
+document.querySelectorAll('.contact-form').forEach(function (f) {
+  var el = function (n) { return f.elements.namedItem(n); };
+  f.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var s = f.querySelector('.contact-status'), btn = f.querySelector('button');
+    if (el('website').value) { s.textContent = 'Thank you.'; return; }
+    var d = new URLSearchParams(), any = false;
+    ['name', 'phone', 'email'].forEach(function (k) {
+      var v = el(k).value.trim();
+      if (v) { d.set(k, v); any = true; }
+    });
+    if (!any) { s.textContent = 'Add your name, phone or email, then send.'; return; }
+    var utm = {};
+    try { utm = JSON.parse(sessionStorage.getItem('essay_utm') || '{}'); } catch (x) {}
+    Object.keys(utm).forEach(function (k) { if (/^utm_/.test(k) && utm[k]) d.set(k, utm[k]); });
+    d.set('page_url', location.href);
+    btn.disabled = true; s.textContent = 'Sending\u2026';
+    fetch(f.dataset.endpoint, { method: 'POST', body: d })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); f.reset(); s.textContent = 'Thank you. I got it, and I\u2019ll be in touch.'; })
+      .catch(function () { s.textContent = 'That didn\u2019t go through. Please try again in a minute.'; })
+      .finally(function () { btn.disabled = false; });
+  });
+});
+"""
+
+
+def contact_html(intro):
+    return ('<section class="contact" aria-label="Get in touch">'
+            f'<p>{smart(intro)}</p>'
+            f'<form class="contact-form" data-endpoint="{html.escape(CONTACT_ENDPOINT)}">'
+            '<label>Your name<input name="name" autocomplete="name"></label>'
+            '<label>Phone, with country code<input name="phone" type="tel" autocomplete="tel"></label>'
+            '<label>Email<input name="email" type="email" autocomplete="email"></label>'
+            '<label class="trap" aria-hidden="true">Leave this empty<input name="website" tabindex="-1" autocomplete="off"></label>'
+            '<button type="submit">Send</button>'
+            '<p class="contact-status" role="status" aria-live="polite"></p>'
+            '</form></section>'
+            f'<script>{CONTACT_JS}</script>')
 
 
 def convert(md, R):
@@ -511,12 +575,11 @@ def convert(md, R):
             room = {'Default': 'default', 'Driven': 'driven', 'Drifting': 'drifting', 'High agency': 'high'}.get(t, 'default')
             out.append(f'<h3 class="room {room}"><span class="dot"></span>{smart(t)}</h3>')
             continue
+        if fold_title and not b.startswith('* '):  # a heading with no list under it stays a heading
+            out.append(f'<h4>{smart(fold_title)}</h4>')
+            fold_title = None
         if b.startswith('#### '):
-            t = b[5:].strip()
-            if t.startswith('What the traditions say') or t.startswith('What the studies say') or t.startswith('Two invented worlds') or t.startswith('A fun way'):
-                fold_title = t
-            else:
-                out.append(f'<h4>{smart(t)}</h4>')
+            fold_title = b[5:].strip()  # every #### heading folds the list under it
             continue
         if b.startswith('* '):
             n = sum(1 for l in b.split('\n') if l.startswith('* '))
@@ -542,6 +605,10 @@ def convert(md, R):
             continue
         if b.startswith('[ALEX'):
             out.append(f'<p class="slot">{smart(b)}</p>')
+            continue
+        if b.startswith('[CONTACT:'):
+            if CONTACT_ENDPOINT:  # no endpoint yet: leave the form off the page
+                out.append(contact_html(b[len('[CONTACT:'):].rstrip(']').strip()))
             continue
         para = f'<p>{smart(b)}</p>'
         rule = next((v for k, v in R.items() if b.startswith(k)), None)
@@ -604,7 +671,7 @@ PART1_FOOT = ('Character and portrait images are used as illustration in a perso
 PART2_FOOT = 'A draft. The pictures in this part are drawn for it.'
 
 PART0_FOOT = 'A draft.'
-PART3_FOOT = 'A draft. Open notes to the author are marked in the text.'
+PART3_FOOT = 'A draft.'
 
 PARTS = {
     0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: {}, cast=False, css_extra='', foot=PART0_FOOT),
@@ -630,7 +697,8 @@ def page(part, fragment=False):
             f'<meta name="viewport" content="width=device-width,initial-scale=1">'
             f'<meta name="version" content="{ver}">'
             f'<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
-            f'<link rel="stylesheet" href="{FONTS}"><style>{CSS}{cfg["css_extra"]}</style>')
+            f'<link rel="stylesheet" href="{FONTS}"><style>{CSS}{cfg["css_extra"]}</style>'
+            f'<script>{UTM_JS}</script>')
     if fragment:
         return head + hero_html(part) + main
     return ('<!doctype html><html lang="en"><head><meta charset="utf-8">' + head + '</head><body>' + hero_html(part) + main + '</body></html>')

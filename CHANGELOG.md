@@ -8,6 +8,96 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.9.4 (2026-10-14)
+
+- Repeats, Alex's picks 16 to 33: Part three says the trust check, the attention story, the mirror example, the stillness instruction, 'someone further along', 'a team can be as small as two' and the list of elements once each (line 11 rewritten, the pair defined in section 4); Part two drops the karma shrug, the second 'made again', the second announcement of the traditions and step 6's restated point of support
+
+
+## 4.9.3 (2026-10-14)
+
+- Repeats, Alex's picks 12 to 15: Part two's eight 'What the traditions say' folds are titled with their point and the four 'different words, same thing' lines after them are cut (every #### heading now folds); step 3's closing line and step 7's opener no longer repeat 'the traditions differ'; Part two's check leads with the Cialdini study, Part three's with what you produce; Part one drops Phelps's third appearance
+
+
+## 4.9.2 (2026-10-14)
+
+- Repeats, Alex's picks 1 to 11: Part one varies three 'with a twist' jokes (Phelps counted in medals, the morning routine, pushing on a wall), Welwood introduced without 'there is a name', the spotlight effect moved to its figure caption, the second 'screw this' becomes a one-way ticket, fold announcements and the four deferrals cut; Part three's last question is 'one question for the road'
+
+
+## 4.9.1 (2026-10-14)
+
+- Part two: the stillness-and-work paragraph at the end of 'Where this goes next' is cut (Alex's call)
+
+
+## 4.9.0 (2026-10-14)
+
+- Run-4 next ten, Alex's picks: Part two step 5 mirror rebuilt with the harm line; Part two opening: coherence as the first test, Dune fold cut, line 26 reworded, witness list folded, translator names moved to the Sources; step 3 stated directly; Part three: service in plain words, everyday examples in section 1, section 5 steadiness and meeting testimony, section 9 reordered with a stop line; Part one: top right promises softened, math gives its reason and drops the multipliers
+
+
+## 4.8.4 (2026-10-14)
+
+- Part three: "tension is a tax on energy" is back (Alex's call; the other two idiom changes stay)
+
+
+## 4.8.3 (2026-10-14)
+
+- Part zero: Alex's hand edits from the Essay Desk (line 9 starts with one thing to try alone tonight and goes on to what needs other people; line 17 says my teacher)
+
+
+## 4.8.2 (2026-10-14)
+
+- Part three: the last three money idioms are gone ("a tax on energy", "bargains", "for free")
+
+
+## 4.8.1 (2026-10-14)
+
+- Part one, zoom out: the bigger map is stated as my belief, and the closing line now says it gets mystical fast and leaves it there, in place of pointing to the next part
+
+
+## 4.8.0 (2026-10-14)
+
+- Part two, step 7: birth is now described: the whole universe on the scale is still the inside of something, like a womb or an egg, and what comes after can't be drawn from inside
+
+
+## 4.7.1 (2026-10-14)
+
+- Part three: the opening drops the lineage (section 5 tells it) and the list of sections, including "the place where it can be lived in full"
+
+
+## 4.7.0 (2026-10-14)
+
+- Part one: friend A's story is shorter and ends on the chart; it no longer names the retreat's city, gives friend A no pronouns, and drops the closing report; Part three's opening refers back to it without a pronoun
+
+
+## 4.6.2 (2026-10-14)
+
+- Part three, section 10: the space port no longer sets itself against "the word settlement" or "an ordinary town"; the reason for a place now says what it would make easy
+
+
+## 4.6.1 (2026-10-14)
+
+- Part two, step 5: "evens it out quickly, especially together with others" becomes "evens it out over time"
+
+
+## 4.6.0 (2026-10-14)
+
+- Part three: stillness and three small choices now come first, right after the two supplies, and section 7 points back to them; the teacher paragraph in section 5 says he speaks to the whole team and almost never names who was right, and the earlier mention of the same point is cut; Part zero and the opening say a team can be people around you
+
+
+## 4.5.0 (2026-10-14)
+
+- Part three: a contact form at the very end sends a reader's name, phone or email (any one is enough) to the essay-lead webhook; every part keeps the UTM values a reader arrives with so the form can pass them on
+
+
+## 4.4.1 (2026-10-14)
+
+- Part three: the open note at the end of section 10 is removed; a contact form is prepared for the end of Part three and stays off the page until its address is set
+
+
+## 4.4.0 (2026-10-14)
+
+- Part two, step 4: the lamp and the Alan Watts dream now carry the step in the main text; the forgetting is framed as the picture's own logic, and the text says memory can't settle the question either way
+
+
 ## 4.3.0 (2026-10-14)
 
 - Teacher details moved from Part zero to Part three: Part zero now names Genadiy in one sentence; the short bio opens section 5; the personal note joins the trust paragraph in section 6; the student counts are dropped from the note
