@@ -346,7 +346,7 @@ Kind: text. Status: unchecked (added 2026-10-10 at Alex's request).
 
 Who: American writer and former US Air Force pilot. Jonathan Livingston Seagull is a short fable about a gull who cares more about flying than about food, is cast out of his flock for it, and learns from older gulls that the limits he flies against are in his thinking.
 
-In the essay: In step 7, 'The return, in stages', where the arrow of consciousness is drawn as speed. Alex's point (2026-10-10): the speed picture is an image that shows the difference between the steps and their scale, and it is not a realistic depiction of anything, the same way Bach used speed in the book.
+In the essay: removed in 4.13.0 (the clause was cut from step 7 at Alex's pick; the entry stays as background). It was in step 7, 'The return, in stages', where the arrow of consciousness is drawn as speed. Alex's point (2026-10-10): the speed picture is an image that shows the difference between the steps and their scale, and it is not a realistic depiction of anything, the same way Bach used speed in the book.
 
 The passage: the elder gull Chiang tells Jonathan that "perfect speed, my son, is being there." Quoted from memory; check the wording against a printed copy before relying on it.
 

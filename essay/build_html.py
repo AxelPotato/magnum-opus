@@ -262,7 +262,7 @@ def rules1():
         'Jim Carrey is one answer': dict(who=[('carrey', 'Jim Carrey', 'driven')]),
         'Michael Phelps is the same story': dict(who=[('phelps', 'Michael Phelps', 'driven')]),
         'Simone Biles is the most decorated': dict(who=[('biles', 'Simone Biles', 'driven')]),
-        'The only popular example I could find': dict(who=[('dude', 'The Dude', 'drifting')]),
+        'The best-known example is the Dude': dict(who=[('dude', 'The Dude', 'drifting')]),
         'Phoebe from Friends': dict(who=[('phoebe', 'Phoebe Buffay', 'drifting')]),
         'John Welwood, an American psychologist': dict(who=[('welwood', 'John Welwood', 'neutral')]),
         'Malala Yousafzai kept going': dict(who=[('malala', 'Malala Yousafzai', 'high')]),
@@ -323,7 +323,7 @@ def rules2():
         'And if the run continues': dict(after=figure(F4.fig_lives(), 'If the process is a return, and most people do not finish it in one life, it has to run longer than one life.')),
         'If we are one, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
         'Every room on the chart is a separate program': dict(after=figure(F3.fig_rooms(), 'Four rooms, one assumption underneath.')),
-        "The picture I use is space travel": dict(after=figure(F4.fig_arrow(), 'The arrow of consciousness as speed and freedom of movement. Gravity is the pull of the position you started from, and each level above the corner is the speed that leaves the next, bigger pull behind.')),
+        "The picture I use is space travel": dict(after=figure(F4.fig_arrow(), 'The same diagonal as speed and freedom of movement. Gravity is the pull of the position you started from, and each level above the corner is the speed that leaves the next, bigger pull behind.')),
     }
 
 

@@ -136,7 +136,7 @@ The lectures repo (`GivingSchool/gennady-wiki`, private, 7,697 transcripts) was 
 
 Alex went through the open decisions from the lecture check (full list with evidence and dates: the project file `part-2/open-decisions.md`) and confirmed four changes:
 
-- The speed picture is an image. Step 7 now says so, with Richard Bach's Jonathan Livingston Seagull as the model ("perfect speed, my son, is being there", from memory, to check), and speed is glossed as how much of the whole you can take in at once (the lectures' "speed and strength of perception"). Reading pack entry added.
+- The speed picture is an image. Step 7 now says so, with Richard Bach's Jonathan Livingston Seagull as the model ("perfect speed, my son, is being there", from memory, to check), and speed is glossed as how much of the whole you can take in at once (the lectures' "speed and strength of perception"). Reading pack entry added. The Bach clause was cut in 4.13.0 (run-5 pick 29); step 7 now says only that the picture is about speed.
 - Default is no longer tied to minus four: most of us live between minus three and minus one, and minus four is the chart's far corner (the lectures call minus four nearly unbearable). The arrow figure still draws the runner at minus four as the ground-bound end.
 - Step 2: "The mind builds the wall and the body holds it" (the lectures: something hurts, everything goes tense, "I build a wall"), and tension, resistance and non-acceptance are three names for one grip.
 - Step 7: each step up shows more, including more of what needs fixing, and the whole comes back knowing more than when it set out.

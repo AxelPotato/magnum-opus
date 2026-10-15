@@ -8,6 +8,81 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.18.0 (2026-10-14)
+
+- Run-4 leftovers B1 to B14, Alex took every pick: Part one: the finish line said once, 'having fun' said once, the top right drops a third 'aware of what's actually happening', the zigzag 'keeps narrowing as you go'; Part three: conflicts settled quickly by talking them through, blind spots go for mentors too, regularity starts with the daily sit, 'one of the biggest keys to growing'
+
+
+## 4.17.1 (2026-10-14)
+
+- Run-5 pick 54.7: Part three's mental tools get one example: notice where a reaction lands in the body, for example the jaw or the stomach, before you answer
+
+
+## 4.17.0 (2026-10-14)
+
+- Run-5 picks 54.5, 54.6, 54.9 and 54.10: Part three: when one person is simply wrong, that gets said too; the adaptation period described (regular practice, the retreat guides, less of what soaks up attention); Part one: the something in the Driven years is the questions and the wish to help people live happier lives; Phelps in Rio and Alex himself as real examples of keeping the drive and dropping the brace
+
+
+## 4.16.4 (2026-10-14)
+
+- Run-5 pick 54.2: Part three's feedback story gains the other direction: ideas Alex kept pushing for, like one consistent set of names for the retreats and online courses on the website
+
+
+## 4.16.3 (2026-10-14)
+
+- Run-5 pick 54.1: friend A's story in Part one gains the after: patience with the kids and calm, caring heart to heart conversations
+
+
+## 4.16.2 (2026-10-14)
+
+- Run-5 pick 54.4: Part one's Default room says the one small instruction is given on a retreat, and that Alex was one of the people who caught themselves on his first
+
+
+## 4.16.1 (2026-10-14)
+
+- Run-5 pick 53: Part one: being in love is 'a taste of the full version', and Part one ends 'What lies past the small square gets mystical fast'
+
+
+## 4.16.0 (2026-10-14)
+
+- Run-5 picks 47 to 52: Part three: the guidance paragraph keeps the facts and the check and drops the praise and 'I can't prove', the contact line mentions the nearest talk or workshop, the space port reason is 'a place built around working on yourself would make that easier and more pleasant', and stillness starts with five minutes; Part zero: 'Part three is the practical side: what the method looks like'; Part two: the scale is no longer named the arrow of consciousness, in the text or the figure caption
+
+
+## 4.15.0 (2026-10-14)
+
+- Run-5 picks 34 to 46: Part one: the Dude is the best-known example, the island line reworded, Carrey 'would know', no 'Statistically', 'often hidden', 'spiritual' without quotes, Default's nice corner is 'balanced', the peak recap drops 'nothing feels impossible', the health claim is gone; Part two: 'A being that doesn't turn toward unity', the small square is 'a full life by any human measure'; Part three: the space port's people 'want to remember who they really are', and nobody there would become material for the building
+
+
+## 4.14.1 (2026-10-14)
+
+- Run-5 pick 33: Part three's teacher section says the people he met in his teens had woken up 'as he tells it'
+
+
+## 4.14.0 (2026-10-14)
+
+- Run-5 pick 32: Part one's DO section is one paragraph shorter; the big examples and the raised-ceiling sentence are cut and the quieter examples open with learning something new
+
+
+## 4.13.0 (2026-10-14)
+
+- Run-5 picks 20 to 31: Part three names the point of support as the thing I live for that is bigger than me; Part one: Advaita's traditional route without the teacher tail, Phelps's London and Rio in order, 'before my Driven years', Biles ends at 'That's her business', 'Anything else, like a stress-management tool', the one percent dropped; Part two: the Seagull clause and the Bach source cut, 'something like a birth'; Part zero: a line for the reader who was handed it
+
+
+## 4.12.0 (2026-10-14)
+
+- Run-5 pick 19: Part one's top right room gains an ordinary resident, Sean Maguire from Good Will Hunting, and the person you thought of in the jail cell; 'So first, real people'
+
+
+## 4.11.0 (2026-10-14)
+
+- Run-5 picks 14 to 18: Part two says the check and the prediction don't prove the axiom, drops 'sincerely' and widens the third move to the people around you, cuts the pointer at the end of step 6 and promises 'a lot more everyday life', cuts the string theory paragraph and 'a good sign', and says the arrow ranks nobody
+
+
+## 4.10.0 (2026-10-14)
+
+- Run-5 picks 1 to 13: Part three says reignite instead of infect and drops 'harder to keep', direction usually comes from someone further along, service starts with the closest people, the team's second thing keeps two reasons, the mirror's guardrail comes right after the working rule, and a center is described at first mention; Part two marks step 3's return as Alex's reading, says what the third clause does, gives lila in step 1's main text and ties 'on purpose' to it, promises a check and a prediction, and says 'I believe' at the space distance; Part one's bigger reason can be small; Part zero counts the opening
+
+
 ## 4.9.4 (2026-10-14)
 
 - Repeats, Alex's picks 16 to 33: Part three says the trust check, the attention story, the mirror example, the stillness instruction, 'someone further along', 'a team can be as small as two' and the list of elements once each (line 11 rewritten, the pair defined in section 4); Part two drops the karma shrug, the second 'made again', the second announcement of the traditions and step 6's restated point of support
