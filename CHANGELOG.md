@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.21.0 (2026-10-15)
+
+- Alex's facts and pick after the run-6 changes. Part three: the two centers are named, one in Riga, Latvia, and one in Sochi, Russia; the longer retreat is twelve days. Part two: the Kerbal Space Program joke at the end of the space levels is cut (Alex's pick)
+
+
 ## 4.20.0 (2026-10-15)
 
 - Josh's run-6 changes that don't cost Ruth. Part one: the peak and 'Almost everybody has visited' join into one paragraph; the Bezos portrait left over by the jail-cell test is gone; Sources credit Jonny Miller's How to Unclench and George Mack's High Agency in 30 Minutes. Part two: the space-travel distance says 'the whole map' and separates the one-lifetime claim from the whole return in step 3; the trailer about getting to the stars by wishing is cut; Alex's wish keeps only the corrected wording. Part three: other teachers and methods help people too; 'much further along' without 'the path'; the despair story ends on 'let it go'
