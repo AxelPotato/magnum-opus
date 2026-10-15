@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.21.1 (2026-10-15)
+
+- Alex's Essay Desk edits: Part zero line 9 (the method of conscious development), Part one lines 55, 125, 141, 147, 151, 163 (95% sentence trimmed, Squidward, last room to driven room, far corner, don't-quote-me line, drive increased)
+
+
 ## 4.21.0 (2026-10-15)
 
 - Alex's facts and pick after the run-6 changes. Part three: the two centers are named, one in Riga, Latvia, and one in Sochi, Russia; the longer retreat is twelve days. Part two: the Kerbal Space Program joke at the end of the space levels is cut (Alex's pick)
