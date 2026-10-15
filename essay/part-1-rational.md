@@ -144,9 +144,7 @@ You can also receive. Help, praise, a day off, things you didn't feel you deserv
 
 From the outside, people find you steady and warm. You say what you think, and you don't use it as a weapon. When somebody is having a hard moment you can help them through it, instead of climbing into the mess with them so that two people are drowning instead of one person coming back to themselves. And you become, mostly by accident, the person someone calls from the jail cell. Don't be surprised when the phone rings.
 
-At the far corner of the chart is the peak: 100 on both lines, where nothing really feels impossible and very little in you doubts that you can reach what you actually want.
-
-Almost everybody has visited. Programmers call it flow, athletes call it the zone, musicians call it the muse, and the rest of us call it a good day. Being in love is the preview: for a few weeks everything is good and you feel like you can do things, and nothing outside you changed. It's temporary. I see it as a taste of the full version, and you're welcome to go and find it. Athletes and musicians show the pattern most clearly. An athlete can live in the zone for ninety minutes and lose it in the parking lot. A musician on stage is living at 100%, and a lot of musicians have a hard time off stage. I suspect it's connected: they can't carry the skill off the stage. Everybody visits, and almost nobody lives there.
+At the far corner of the chart is the peak: 100 on both lines, where nothing really feels impossible and very little in you doubts that you can reach what you actually want. Almost everybody has visited. Programmers call it flow, athletes call it the zone, musicians call it the muse, and the rest of us call it a good day. Being in love is the preview: for a few weeks everything is good and you feel like you can do things, and nothing outside you changed. It's temporary. I see it as a taste of the full version, and you're welcome to go and find it. Athletes and musicians show the pattern most clearly. An athlete can live in the zone for ninety minutes and lose it in the parking lot. A musician on stage is living at 100%, and a lot of musicians have a hard time off stage. I suspect it's connected: they can't carry the skill off the stage. Everybody visits, and almost nobody lives there.
 
 ## The math, with a warning
 
@@ -250,6 +248,11 @@ Zoom out by ten, and the whole square we've been using shrinks to a small gray b
 What lies past the small square gets mystical fast, so I'll leave it there for this part.
 
 ## Sources
+
+Credited in the text
+
+- Miller, J. (2026, September 16). How to Unclench. The Inner Frontier. howtounclench.com
+- Mack, G. High Agency in 30 Minutes. highagency.com
 
 The reason bigger than you
 

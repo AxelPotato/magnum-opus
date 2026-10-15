@@ -64,7 +64,7 @@ Inner work done only for yourself can go in a circle. You improve your own state
 
 A pair is two people doing this together, and a team grows from there. It combines the other parts: you work on your attention, you meet your mirror, you pursue a goal and you give, all at once and with other people around.
 
-The first thing a team does is hold you up in the hard moments. When your mood falls through the floor, the other person's mood hasn't, and the pair holds longer than either half. I tend to be the one who holds others, but I have my moments too. Most often it is when we have set goals and haven't reached them, or a deadline is close and the task looks unmanageable. I used to slide into despair then, and my close friends helped me come back to myself, calm down, let it go and return to a more adequate state.
+The first thing a team does is hold you up in the hard moments. When your mood falls through the floor, the other person's mood hasn't, and the pair holds longer than either half. I tend to be the one who holds others, but I have my moments too. Most often it is when we have set goals and haven't reached them, or a deadline is close and the task looks unmanageable. I used to slide into despair then, and my close friends helped me come back to myself, calm down and let it go.
 
 The second thing is the one everybody expects: a team gets more done than the same people working alone. People keep a promise made to another person more reliably than one made to themselves, and effort is contagious, so it is harder to coast next to someone who is really trying.
 
@@ -78,7 +78,7 @@ The modern world makes this harder. In an earlier age the other people came with
 
 ## 5. The teacher and the method
 
-A team has energy, and a team can still be going in a circle. Someone who is much further along the path can see where the team is growing and where it is stuck, which is hard to see from inside.
+A team has energy, and a team can still be going in a circle. Someone who is much further along can see where the team is growing and where it is stuck, which is hard to see from inside.
 
 My teacher is Genadiy Givin, whom Part zero named. He was born in Riga and studied at Riga Technical University. In his teens he met people who, as he tells it, had woken up, in the sense Part two describes, and what he saw in them gave him a huge wish to know what they knew. That wish led him to the man who became his teacher. He describes the people who handed this on to him, himself included, as ordinary people without titles. For him the knowledge is what matters.
 
@@ -86,7 +86,7 @@ What he does is easy to describe. He doesn't walk the path for you, and he can't
 
 A teacher does one more job. In any group, people carry private opinions of who is wrong, and two people who are each sure they are right often stay stuck while each holds on. The first sorry is how one of them steps out, and that is the inner agency from Part one. A teacher helps a whole group with it. Genadiy almost never tells two people which of them was right. He says what he sees to the whole team, and each person goes looking for their own part in it. When one person is simply wrong, that gets said too. I've watched this happen in team meetings: he speaks to the room, and afterwards everyone is busy with what it meant for them. Because his view belongs to none of us, a group of very different people can face the same way without anyone having to win. And with him in the middle, the group stays pointed at what everyone came for.
 
-The knowledge behind the method is older than he is. It came to him through a line of teachers, and what he did was adapt it to the realities of life in the 21st century. The way we have arranged ourselves around it is ours.
+The knowledge behind the method is older than he is. It came to him through a line of teachers, and what he did was adapt it to the realities of life in the 21st century. The way we have arranged ourselves around it is ours. Other teachers and methods help people too. This is the one I know from the inside.
 
 ## 6. Guidance
 
@@ -142,13 +142,13 @@ It's much harder alone, which is why it comes late in the list: you can't see wh
 
 The method works wherever a person lives, and it is built so the first steps can be taken by someone who has a job, a family and a normal amount of doubt. Nobody is asked to give those up. Ordinary life is the training ground, and the pair is what keeps you from sleeping through it.
 
-The pair forms where people live, with at least two friends in it, a team grows around it, and some people want to build a community like that in their own place too. That is where the method stops being an event and turns into a way of living. A center is that kind of community: a group of people who meet regularly to practice together, work toward some common goals and, most of all, support each other on the way. Some who want an even deeper experience choose to live together, which makes the work more effective, and the form it takes is up to the people themselves.
+The pair forms where people live, with at least two friends in it, a team grows around it, and some people want to build a community like that in their own place too. That is where the method stops being an event and turns into a way of living. A center is that kind of community: a group of people who meet regularly to practice together, work toward some common goals and, most of all, support each other on the way. Some who want a deeper experience choose to live together, and the form it takes is up to the people themselves.
 
 Nobody planned any of this on paper. Students of the same teacher found that the method works better when it is practiced in a certain shape, and the shape is mostly practical: how a newcomer meets the method, who they do it with, and how it fits around the rest of a person's life. Think of it as a good training arrangement, like a gym with decent partners.
 
-It starts small, with a talk or a workshop of a few hours, where a person can find out whether any of this rings true. If it does, there is a short retreat of several days, and a longer one for those who want it. Then comes the step people underrate, a period of adaptation after the retreat, whose whole job is carrying the work home into your ordinary week. In practice it means regular practice and staying in touch with the people who guided the retreat, who help you unpack what happened there in your everyday life. It also means a little less of what soaks up attention, like video games and films, so there's more of it left to notice what is changing in you. You can stop after any of these steps and keep what you got from it.
+It starts small, with a talk or a workshop of a few hours, where a person can find out whether any of this rings true. If it does, there is a short retreat of several days, and a longer one of twelve days for those who want it. Then comes the step people underrate, a period of adaptation after the retreat, whose whole job is carrying the work home into your ordinary week. It involves regular practice, and the people who guided the retreat are there to help you unpack the retreat in your everyday life. It also helps to give a little less time to what soaks up attention, like video games and films, so there's more of it left to notice what is changing in you. You can stop after any of these steps and keep what you got from it.
 
-Starting small has its reason in Part two: light is attractive and darkness is contagious. You can't pull anyone toward this. You can make it easier to approach.
+There's a reason it starts small. You can't pull anyone toward this. You can make it easier to approach.
 
 ## 10. The space port
 
@@ -160,7 +160,7 @@ The reason I want a place is one Part two gave: the environment decides what is 
 
 The people I picture there are people who want to remember who they really are, the thing Part two says we forget, and to give that back to the world while they keep growing. The people who built the first launch pads had never been to space either. So the first space port will be built by whoever wants it, and the very act of building it is what wakes us up enough to live there. The people there would matter more than the building, and nobody would become material for it. People would come because this has become what they want to do with their life, and like any place people live, some would stay for years and some would move on when life took them elsewhere.
 
-It doesn't exist yet. What exists today is smaller: we, the students of Genadiy, have gathered in two centers, with over 120 people between them, and we would like there to be more of them in different places around the world. The space port is the next step I hope we get to take, and I'd love to help build it. What it ends up looking like, I honestly can't tell you yet.
+It doesn't exist yet. What exists today is smaller: we, the students of Genadiy, have gathered in two centers, one in Riga, Latvia, and one in Sochi, Russia, with over 120 people between them, and we would like there to be more of them in different places around the world. The space port is the next step I hope we get to take, and I'd love to help build it. What it ends up looking like, I honestly can't tell you yet.
 
 ## What you can check
 
@@ -168,4 +168,4 @@ After a few months of practice, alone, in a pair or in a team, ask: do you produ
 
 And one question for the road: if you had the energy of a whole team and no direction, what would you do with it? Then ask who in your life could tell you.
 
-[CONTACT: If you'd like to talk about any of this, or find out where the nearest talk or workshop is, leave your name and a phone number or email, and I'll get in touch.]
+[CONTACT: If you'd like to talk about any of this, or find out where the nearest talk or workshop is, leave your name and an email or a phone number, whichever you prefer. It comes straight to me, and I'll get in touch.]
