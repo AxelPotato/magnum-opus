@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.19.0 (2026-10-15)
+
+- Ruth's run-6 changes. Part three: living together stated plainly, without 'even' or 'which makes the work more effective'; the adaptation period described as help that is there for you; the light and darkness saying no longer repeated from Part two; the contact line asks for an email or a phone number, whichever you prefer, and says it comes straight to Alex. The form puts Email before the phone, labelled 'Or a phone number'. Part two: the third move ends on 'A shared task is where giving becomes visible'
+
+
 ## 4.18.0 (2026-10-14)
 
 - Run-4 leftovers B1 to B14, Alex took every pick: Part one: the finish line said once, 'having fun' said once, the top right drops a third 'aware of what's actually happening', the zigzag 'keeps narrowing as you go'; Part three: conflicts settled quickly by talking them through, blind spots go for mentors too, regularity starts with the daily sit, 'one of the biggest keys to growing'

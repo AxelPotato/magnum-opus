@@ -142,13 +142,13 @@ It's much harder alone, which is why it comes late in the list: you can't see wh
 
 The method works wherever a person lives, and it is built so the first steps can be taken by someone who has a job, a family and a normal amount of doubt. Nobody is asked to give those up. Ordinary life is the training ground, and the pair is what keeps you from sleeping through it.
 
-The pair forms where people live, with at least two friends in it, a team grows around it, and some people want to build a community like that in their own place too. That is where the method stops being an event and turns into a way of living. A center is that kind of community: a group of people who meet regularly to practice together, work toward some common goals and, most of all, support each other on the way. Some who want an even deeper experience choose to live together, which makes the work more effective, and the form it takes is up to the people themselves.
+The pair forms where people live, with at least two friends in it, a team grows around it, and some people want to build a community like that in their own place too. That is where the method stops being an event and turns into a way of living. A center is that kind of community: a group of people who meet regularly to practice together, work toward some common goals and, most of all, support each other on the way. Some who want a deeper experience choose to live together, and the form it takes is up to the people themselves.
 
 Nobody planned any of this on paper. Students of the same teacher found that the method works better when it is practiced in a certain shape, and the shape is mostly practical: how a newcomer meets the method, who they do it with, and how it fits around the rest of a person's life. Think of it as a good training arrangement, like a gym with decent partners.
 
-It starts small, with a talk or a workshop of a few hours, where a person can find out whether any of this rings true. If it does, there is a short retreat of several days, and a longer one for those who want it. Then comes the step people underrate, a period of adaptation after the retreat, whose whole job is carrying the work home into your ordinary week. In practice it means regular practice and staying in touch with the people who guided the retreat, who help you unpack what happened there in your everyday life. It also means a little less of what soaks up attention, like video games and films, so there's more of it left to notice what is changing in you. You can stop after any of these steps and keep what you got from it.
+It starts small, with a talk or a workshop of a few hours, where a person can find out whether any of this rings true. If it does, there is a short retreat of several days, and a longer one for those who want it. Then comes the step people underrate, a period of adaptation after the retreat, whose whole job is carrying the work home into your ordinary week. It involves regular practice, and the people who guided the retreat are there to help you unpack the retreat in your everyday life. It also helps to give a little less time to what soaks up attention, like video games and films, so there's more of it left to notice what is changing in you. You can stop after any of these steps and keep what you got from it.
 
-Starting small has its reason in Part two: light is attractive and darkness is contagious. You can't pull anyone toward this. You can make it easier to approach.
+There's a reason it starts small. You can't pull anyone toward this. You can make it easier to approach.
 
 ## 10. The space port
 
@@ -168,4 +168,4 @@ After a few months of practice, alone, in a pair or in a team, ask: do you produ
 
 And one question for the road: if you had the energy of a whole team and no direction, what would you do with it? Then ask who in your life could tell you.
 
-[CONTACT: If you'd like to talk about any of this, or find out where the nearest talk or workshop is, leave your name and a phone number or email, and I'll get in touch.]
+[CONTACT: If you'd like to talk about any of this, or find out where the nearest talk or workshop is, leave your name and an email or a phone number, whichever you prefer. It comes straight to me, and I'll get in touch.]

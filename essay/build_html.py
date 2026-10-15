@@ -525,7 +525,7 @@ document.querySelectorAll('.contact-form').forEach(function (f) {
       var v = el(k).value.trim();
       if (v) { d.set(k, v); any = true; }
     });
-    if (!any) { s.textContent = 'Add your name, phone or email, then send.'; return; }
+    if (!any) { s.textContent = 'Add an email or a phone number, then send.'; return; }
     var utm = {};
     try { utm = JSON.parse(sessionStorage.getItem('essay_utm') || '{}'); } catch (x) {}
     Object.keys(utm).forEach(function (k) { if (/^utm_/.test(k) && utm[k]) d.set(k, utm[k]); });
@@ -545,8 +545,8 @@ def contact_html(intro):
             f'<p>{smart(intro)}</p>'
             f'<form class="contact-form" data-endpoint="{html.escape(CONTACT_ENDPOINT)}">'
             '<label>Your name<input name="name" autocomplete="name"></label>'
-            '<label>Phone, with country code<input name="phone" type="tel" autocomplete="tel"></label>'
             '<label>Email<input name="email" type="email" autocomplete="email"></label>'
+            '<label>Or a phone number, with country code<input name="phone" type="tel" autocomplete="tel"></label>'
             '<label class="trap" aria-hidden="true">Leave this empty<input name="website" tabindex="-1" autocomplete="off"></label>'
             '<button type="submit">Send</button>'
             '<p class="contact-status" role="status" aria-live="polite"></p>'
