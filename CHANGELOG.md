@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.23.2 (2026-10-16)
+
+- Part two step 3: happiness and emptiness as the closest thing we have to a compass (Alex's request)
+
+
 ## 4.23.1 (2026-10-16)
 
 - Part two step 3: the Buddha's three houses for three seasons (AN 3.39), and Rumi's reed parted from the reed bed (Nicholson's wording)
