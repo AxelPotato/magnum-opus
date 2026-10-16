@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.28.1 (2026-10-16)
+
+- Part two step 6: Mencius speaks of his own qi, and conservation of energy qualified as everyday physics
+
+
 ## 4.28.0 (2026-10-16)
 
 - Part two: step 6 is now Energy (tank and river, admin rights, conservation of energy, Mencius on qi); the old step 6 removed, its repair rules moved to step 5; the stages become an unnumbered closing section, How far the road goes
