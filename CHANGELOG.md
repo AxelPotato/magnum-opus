@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.30.1 (2026-10-17)
+
+- Part two step 2: Avot numbering noted, and the reading of Akiva marked as the essay's own
+
+
 ## 4.30.0 (2026-10-17)
 
 - Part two: free will inside step 2, the steering handed over (NPC and player, free inside the rules, Spinoza as the one who disagrees; Akiva, the Gita, the Quran and Pico)

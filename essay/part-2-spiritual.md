@@ -113,7 +113,7 @@ That also explains a pull most of us know. A world built to help a whole forget 
 
 #### Foreseen, and still chosen
 
-* In the Mishnah, Rabbi Akiva says that everything is foreseen, and freedom of choice is given (Avot 3:15). That is this whole point in one line: the whole sees everything and still hands over the steering.
+* In the Mishnah, Rabbi Akiva says that everything is foreseen, and freedom of choice is given (Avot 3:15, numbered 3:16 in some editions). As I read it, that is this whole point in one line: the whole sees everything and still hands over the steering.
 * In the Bhagavad Gita, after teaching Arjuna everything, Krishna tells him to meditate on it and then act as he wishes (18:63).
 * The Quran tells the Prophet to say that the truth is from the Lord, so whoever wills, let him believe, and whoever wills, let him disbelieve (18:29).
 * Pico della Mirandola, the fifteenth-century Italian thinker, has God tell Adam in the Oration on the Dignity of Man that he was given no fixed seat, no face of his own and no special gift, so that he could have whatever seat, face and gifts he chose. Every other creature is bound by laws set for it, and Adam alone decides his own nature by his own free choice.
