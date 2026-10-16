@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.29.2 (2026-10-17)
+
+- Part two step 7: Patanjali's obstacles to samadhi, the sign of Jonah, Teresa named for levitation, and the Antarova source located
+
+
 ## 4.29.1 (2026-10-17)
 
 - Part two step 7: the Reiki story without dates or pronouns for the people in it

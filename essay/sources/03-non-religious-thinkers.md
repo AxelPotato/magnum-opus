@@ -414,7 +414,8 @@ In the essay: Part two, step 7: 'Konkordia Antarova's novel Two Lives, one of my
 Where it sits: Part I, the train journey, after the Florentine comforts the conductor: «Право же, на свете нет чудес. Все объясняется очень просто», and a few lines later «...нет чудес, а есть та или иная степень знания».
 
 Read it free:
-- The Russian text is widely available online; LiveLib lists the quote: https://www.livelib.ru/quote/532389-dve-zhizni-chast-i-k-e-antarova (read on 2026-10-16)
+- The Russian text, Part I, where both lines were found by searching the page: https://flibusta.su/book/621-dve-zhizni-chast-1/read/ (read on 2026-10-16). Some quotation sites give a variant, «Не бывает чудес, бывает ли та или иная ступень знания»; the text itself has «степень».
+- LiveLib lists the quote: https://www.livelib.ru/quote/532389-dve-zhizni-chast-i-k-e-antarova (read on 2026-10-16)
 
 Background: The book is popular in Russian-speaking spiritual circles; the essay cites only the line and the novel, as a favorite book of the author's.
 
