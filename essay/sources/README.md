@@ -2,7 +2,7 @@
 
 Not part of the essay. For every person, text, study and tradition that Part two cites (and a few it only implies), an entry that lets Alex read the source himself and talk about it: who they are, the exact place the essay leans on, a free place to read it where one exists, the best book edition, and background for discussion, including what scholars add and what to say if someone pushes back.
 
-Built on 2026-10-08 by ten agents from the final essay (v2.3.0), the claim check in `essay/research/CHECKLIST.md` and the research files. 185 entries, 720 links. Two entries were added for v4.22.0 (step 2 rewritten), with links from search results. Four were added for the new step 3, 'The turn' (AN 3.39, Ecclesiastes 2, Augustine's Confessions 1.1, Rumi's reed), each read on a primary text page on 2026-10-16. In v4.24.0 step 4 was rewritten around the soul: Eduyot 2:10 and Quran 23:100 are cited again, and Alan Watts moved to a fold under the axiom ("But why would it do that?", next to the Big Bang as the materialist edge of explanation), and the entries for Ian Stevenson and Jim Tucker, Gaudapada and the Tibetan Book of the Dead are no longer cited and stay as private context for discussion.
+Built on 2026-10-08 by ten agents from the final essay (v2.3.0), the claim check in `essay/research/CHECKLIST.md` and the research files. 185 entries, 720 links. Two entries were added for v4.22.0 (step 2 rewritten), with links from search results. Four were added for the new step 3, 'The turn' (AN 3.39, Ecclesiastes 2, Augustine's Confessions 1.1, Rumi's reed), each read on a primary text page on 2026-10-16. In v4.24.0 step 4 was rewritten around the soul: Eduyot 2:10 and Quran 23:100 are cited again, and Alan Watts moved to a fold under the axiom ("But why would it do that?", next to the Big Bang as the materialist edge of explanation), and the entries for Ian Stevenson and Jim Tucker, Gaudapada and the Tibetan Book of the Dead are no longer cited and stay as private context for discussion. In v4.28.0 step 6 became 'Energy' (Einstein 1905 and Mencius 2A:2 added; bittul, fana, kenosis, Eckhart, MN 118 and the Sallatha Sutta stay cited there), the repair rules (Mishnah Yoma 8:9, Matthew 5:23-24, teshuvah, tawba, metanoia) moved to step 5, and the old step 7 became the unnumbered section 'One more idea: how far the road goes'. Free will was added to step 2 (Avot 3:15, Gita 18:63, Quran 18:29, Pico; Spinoza's Ethics II P35 scholium is now cited there too, as the one who disagrees).
 
 ## How reliable it is
 
@@ -42,6 +42,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Multiverse speculation [concept, partly checked]
 - Airliner reach: 'nearly any point on the globe within about a day' [concept, unchecked]
 - Cells switched off, not deleted: Gurdon, Yamanaka and the cancer cell that stops listening [study, partly checked]
+- Albert Einstein, 'Does the inertia of a body depend upon its energy content?' (1905): mass is a form of energy [text, partly checked]
 
 ### Psychology, neuroscience and the research on survival (`02-psychology-neuroscience-and-survival-research.md`)
 
@@ -77,6 +78,10 @@ Every person, text or study the essay cites should have an entry here, and every
 - Confucius, Analects 15.24 (reciprocity, shu) [person, checked]
 - Richard Bach, Jonathan Livingston Seagull (1970), speed as an image [text, unchecked; removed from the essay in 4.13.0]
 - Alan Watts, "The Dream of Life", the dreamer who hides the dream from himself [talk, partly checked]
+- Mencius (Mengzi) 2A:2, the vast, flowing qi [text, checked]
+- Konkordia Antarova, Two Lives: no miracles, only levels of knowledge [text, checked]
+- Friedrich Nietzsche, the Übermensch [concept, unchecked]
+- Pico della Mirandola, Oration on the Dignity of Man: no fixed seat [text, checked]
 
 ### Hindu sources (`04-hindu.md`)
 
@@ -96,6 +101,8 @@ Every person, text or study the essay cites should have an entry here, and every
 - Dvija, the twice-born (Hindu second birth) [concept, checked]
 - Karma, rebirth and the atman in Hindu teaching (theistic schools and Advaita) [concept, partly checked]
 - Kashmir Shaivism: the five cloaks (kancukas) and recognition [tradition, partly checked]
+- Patanjali, Yoga Sutras 3.19, 3.37 and 3.39: the powers [text, checked]
+- Bhagavad Gita 18:63: 'then do as you wish' [text, checked]
 
 ### Buddhist sources (`05-buddhist.md`)
 
@@ -117,6 +124,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Dogen (1200 to 1253) and 'dropping off body and mind' [person, partly checked]
 - Nirvana, and the bodhisattva who returns to the marketplace (Ten Ox-Herding Pictures) [concept, partly checked]
 - Anguttara Nikaya 3.39, the Sukhumala Sutta (a delicate lifestyle) and the four sights [text, checked]
+- Digha Nikaya 2 and 11: the psychic powers and the Buddha's view of them [text, checked]
 
 ### Jain, Sikh, Druze and Daoist sources (`06-jain-sikh-druze-daoist.md`)
 
@@ -161,6 +169,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Teshuvah (return, repentance) [concept, unchecked]
 - Devekut (cleaving to God) [concept, unchecked]
 - Ecclesiastes 2:4-11 (all was vanity and a striving after wind) [text, checked]
+- Mishnah Avot 3:15: everything is foreseen, and freedom of choice is given [text, checked]
 
 ### Christian sources (`08-christian.md`)
 
@@ -191,6 +200,8 @@ Every person, text or study the essay cites should have an entry here, and every
 - The Christian mystics and union with God (McGinn and the specialist objections) [tradition, partly checked]
 - One life, resurrection and judgment (Hebrews 9:27; Catechism 1013) [concept, unchecked]
 - Augustine, Confessions 1.1 ('our heart is restless until it rests in you') [text, checked]
+- Matthew 14:25-29 and 12:38-39 [text, checked]
+- Teresa of Avila, The Life, chapter 20 [text, checked]
 
 ### Islamic sources (`09-islamic.md`)
 
@@ -220,6 +231,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Tawba (turning back, repentance) [concept, partly checked]
 - Sufism and mainstream Islam: what to attribute to whom [tradition, partly checked]
 - Rumi, the Masnavi, Book I, lines 1 to 4 (the song of the reed) [text, checked]
+- Quran 18:29: 'whoever wills, let him believe' [text, checked]
 
 ### Context (Theosophy, the perennial philosophy) and talking points (`10-context-and-talking-points.md`)
 

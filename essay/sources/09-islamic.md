@@ -658,3 +658,16 @@ Background: In Sufi reading the reed is the human soul, or the perfected teacher
 If someone pushes back:
 - 'Rumi is talking about love of God, not about a whole experiencing separation.' In Sufi terms the soul's separation from its origin and its return is the story, and the essay cites the reed only for the longing to return.
 - 'Popular Rumi quotes are often fake.' True. This one is the opening of the Masnavi in Nicholson's scholarly translation.
+
+## Quran 18:29 ('whoever wills, let him believe')
+
+Kind: text. Status: checked (Sahih International read on 2026-10-16).
+
+In the essay: Part two, step 2, fold 'Foreseen, and still chosen': the truth is from the Lord, so whoever wills, let him believe, and whoever wills, let him disbelieve.
+
+The passage (Sahih International): 'And say, "The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve."' The verse goes on to warn of the fire prepared for wrongdoers.
+
+Read it free:
+- Quran.com, 18:29: https://quran.com/18/29 (not checked; the text was read through the alquran.cloud API)
+
+Background: Islamic theology argued at length about free will and divine decree (qadar). This verse is one of the standard texts for human choice, and other verses (for example 76:30, 'you do not will except that Allah wills') are read against it. The essay quotes only the clause about choice, and does not claim the tradition settled the question.

@@ -378,3 +378,67 @@ Background: Watts used this thought experiment often, in several variants, to ma
 If someone pushes back:
 - Watts was a popularizer, not a scholar. Answer: agreed, and the essay uses him for a picture, as it uses the computer, and not as a witness for a tradition.
 - Isn't this solipsism? Answer: in the story there is one dreamer and many dreams, which is the axiom's "one whole, many points of view", and the essay does not say the other people in your life are your dream.
+
+## Mencius (Mengzi) 2A:2, the vast, flowing qi (haoran zhi qi) (Mencius, traditional dates c. 372 to 289 BCE)
+
+Kind: text. Status: checked (Legge's translation read in the archive.org scan of The Four Books, 2026-10-16).
+
+Who: Mencius, the most important Confucian thinker after Confucius. The same book holds the child at the well (2A:6), which Wang Yangming took up and which the essay uses in step 5.
+
+In the essay: Part two, step 6, 'Energy', fourth item of 'Empty, and let it through': he was good at nourishing his vast, flowing qi; it is exceedingly great and strong; nourished by rightness and left unharmed, it fills everything between heaven and earth; it grows out of a long run of right deeds, and when the heart is not at ease with what you do, it starves.
+
+Where it sits: Mencius, Book II, Part A (Gongsun Chou I), chapter 2, the conversation with Gongsun Chou about the unmoved heart. Legge numbers the lines 11 to 15.
+
+The passage: Legge renders qi as 'the passion nature': 'I am skilful in nourishing my vast, flowing passion nature.' 'It is exceedingly great, and exceedingly strong. Being nourished by rectitude, and sustaining no injury, it fills up all between heaven and earth.' 'It is produced by the accumulation of righteous deeds; it is not to be obtained by incidental acts of righteousness. If the mind does not feel complacency in the conduct, the nature becomes starved.'
+
+Read it free:
+- archive.org, Legge, The Four Books (includes The Works of Mencius): https://archive.org/details/fourbooksgreatle00confuoft (read on 2026-10-16)
+- Chinese Text Project, Mengzi, Gong Sun Chou I, with Legge's translation: https://ctext.org/mengzi/gong-sun-chou-i (not checked)
+
+Read it in a book: D. C. Lau, Mencius (Penguin Classics, 1970; revised 2003). Bryan Van Norden, Mengzi: With Selections from Traditional Commentaries (Hackett, 2008).
+
+Background: Qi is the Chinese word for breath, vapour and the vital energy that fills the body and the world. In 2A:2 Mencius ties it to ethics: it grows when what you do agrees with what is right, and it shrinks when you act against your own heart. Modern translators render haoran zhi qi as 'flood-like qi' (Lau) or 'floodlike qi' (Van Norden). The passage is the classic Chinese statement that a person's energy depends on how they live, which is why the essay uses it next to the traditions of emptying.
+
+If someone pushes back:
+- 'Mencius means moral courage, not a cosmic energy.' Both readings are old. He speaks of qi that fills everything between heaven and earth, and he ties it to conduct. The essay quotes what he says and leaves the reading open.
+- 'Legge says passion nature, not qi.' That is Legge's 1890s choice for qi; modern translators keep the word qi or say vital energy.
+
+## Konkordia Antarova, Two Lives (Две жизни): 'there are no miracles, only different levels of knowledge' (Antarova 1886-1959, opera singer at the Bolshoi; the novel was written in the 1920s to 1950s and first published in the 1990s)
+
+Kind: text. Status: checked (the line located in an online copy of Part I, 2026-10-16; the printed edition was not opened).
+
+Who: A Russian singer and writer. Two Lives is a long mystical novel about a young man, Levushka, and the teachers he travels with.
+
+In the essay: Part two, step 7: 'Konkordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge.' The English is Alex's own.
+
+Where it sits: Part I, the train journey, after the Florentine comforts the conductor: «Право же, на свете нет чудес. Все объясняется очень просто», and a few lines later «...нет чудес, а есть та или иная степень знания».
+
+Read it free:
+- The Russian text, Part I, where both lines were found by searching the page: https://flibusta.su/book/621-dve-zhizni-chast-1/read/ (read on 2026-10-16). Some quotation sites give a variant, «Не бывает чудес, бывает ли та или иная ступень знания»; the text itself has «степень».
+- LiveLib lists the quote: https://www.livelib.ru/quote/532389-dve-zhizni-chast-i-k-e-antarova (read on 2026-10-16)
+
+Background: The book is popular in Russian-speaking spiritual circles; the essay cites only the line and the novel, as a favorite book of the author's.
+
+## Friedrich Nietzsche, the Übermensch (Thus Spoke Zarathustra, 1883-1885)
+
+Kind: concept. Status: unchecked (biographical mention only).
+
+In the essay: Part two, step 7: in 2012 the author's 'philosophy of choice was Nietzsche's idea of the Übermensch, the closest thing I had found to an answer to the question of why bother living.' It describes the author, not an argument.
+
+Read it in a book: Nietzsche, Thus Spoke Zarathustra, translated by Graham Parkes (Oxford World's Classics, 2005).
+
+## Giovanni Pico della Mirandola, Oration on the Dignity of Man (1486): no fixed seat (Pico 1463-1494)
+
+Kind: text. Status: checked (the Latin read on Latin Wikisource, 2026-10-16).
+
+In the essay: Part two, step 2, fold 'Foreseen, and still chosen': God tells Adam he was given no fixed seat, no face of his own and no special gift, so that he could have whatever he chose; every other creature is bound by set laws, and Adam alone decides his own nature by his own free choice.
+
+The passage (Latin): «Nec certam sedem, nec propriam faciem, nec munus ullum peculiare tibi dedimus, o Adam, ut quam sedem, quam faciem, quae munera tute optaveris, ea, pro voto, pro tua sententia, habeas et possideas. Definita caeteris natura intra praescriptas a nobis leges cohercetur. Tu, nullis angustiis cohercitus, pro tuo arbitrio, in cuius manu te posui, tibi illam prefinies.»
+
+Read it free:
+- Latin Wikisource, Oratio de hominis dignitate: https://la.wikisource.org/wiki/Oratio_de_hominis_dignitate (read on 2026-10-16)
+- The Pico Project at Brown University has an English translation online (not checked).
+
+Read it in a book: Pico della Mirandola, Oration on the Dignity of Man: A New Translation and Commentary, edited by Borghesi, Papio and Riva (Cambridge University Press, 2012).
+
+Background: Pico wrote the speech to open a public debate in Rome on 900 theses, which the pope blocked. The passage is the most quoted Renaissance statement of human freedom. He was a Christian Platonist, so the freedom is given by God, which matches the essay's 'handed over' reading.
