@@ -117,10 +117,10 @@ None of this makes anybody better. Before the turn and after it are two parts of
 
 #### Restless until it rests
 
-* The Buddha tells his own version in the Anguttara Nikaya (3.39). He describes a delicate life in his father's house, with lotus ponds made just for him, a separate house for each season and musicians for the four months of the rains. Amid all of it he reflected that he too would grow old, get sick and die, and the vanity of youth, of health and of life fell away from him. Later biographies tell the same moment as the four sights: an old man, a sick man, a corpse and a wandering monk.
+* The Buddha tells his own version in the Anguttara Nikaya (3.39). He describes a delicate life in his father's house, with lotus ponds made just for him, a house for each of the three seasons and musicians for the four months of the rains. Amid all of it he reflected that he too would grow old, get sick and die, and the vanity of youth, of health and of life fell away from him. Later biographies tell the same moment as the four sights: an old man, a sick man, a corpse and a wandering monk.
 * The Teacher of Ecclesiastes made himself great works, built houses, planted vineyards, gathered silver and gold and kept nothing from his eyes that they wanted. Then he looked at everything his hands had done, and all was vanity and a striving after wind (2:4 to 11).
 * Augustine opens his Confessions by telling God that he made us for himself, and that our heart is restless until it rests in him (1.1).
-* Rumi opens his Masnavi with a reed flute that cries because it was cut from the reed bed, and says that everyone who is left far from their source wishes back the time when they were united with it (Book I, 1 to 4).
+* Rumi opens his Masnavi with a reed flute that cries because it was parted from the reed bed, and says that everyone who is left far from their source wishes back the time when they were united with it (Book I, 1 to 4).
 
 ## 4. One life is too short, and something carries over
 

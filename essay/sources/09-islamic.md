@@ -641,7 +641,7 @@ Kind: text. Status: checked (Nicholson's translation read in the archive.org sca
 
 Who: Rumi, the Persian poet and Sufi teacher of Konya, whose followers founded the Mevlevi order. The Masnavi is his long teaching poem in six books.
 
-In the essay: Part two, step 3, 'The turn', fourth item of 'Restless until it rests': Rumi opens his Masnavi with a reed flute that cries because it was cut from the reed bed, and says that everyone who is left far from their source wishes back the time when they were united with it (Book I, 1 to 4).
+In the essay: Part two, step 3, 'The turn', fourth item of 'Restless until it rests': Rumi opens his Masnavi with a reed flute that cries because it was parted from the reed bed, and says that everyone who is left far from their source wishes back the time when they were united with it (Book I, 1 to 4).
 
 Where it sits: Masnavi I.1-4, the opening lines, often printed as the first eighteen verses, the 'Song of the Reed'.
 

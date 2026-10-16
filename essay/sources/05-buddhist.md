@@ -469,7 +469,7 @@ Kind: text. Status: checked (the sutta read in Sujato's translation on SuttaCent
 
 Who: A short discourse in which the Buddha looks back on his life as a young man in his father's house.
 
-In the essay: Part two, step 3, 'The turn', first item of 'Restless until it rests': the delicate life (lotus ponds made just for him, a house for each season, musicians for the four months of the rains), the reflection that he too would grow old, get sick and die, and the vanity of youth, health and life falling away. The four sights are named as the later biographies' version of the same moment.
+In the essay: Part two, step 3, 'The turn', first item of 'Restless until it rests': the delicate life (lotus ponds made just for him, a house for each of the three seasons, musicians for the four months of the rains), the reflection that he too would grow old, get sick and die, and the vanity of youth, health and life falling away. The four sights are named as the later biographies' version of the same moment.
 
 Where it sits: AN 3.39 (in some numberings AN 3.38). The four sights as a story about Gotama come from the later biographies. In the canon the same pattern is told about an earlier Buddha, Vipassi, in the Mahapadana Sutta (DN 14).
 
