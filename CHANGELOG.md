@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.25.1 (2026-10-16)
+
+- Part two step 4: Akiva named for the twelve months, the jiva and the Atman told apart, and the many-lives scheme marked as Alex's reading
+
+
 ## 4.25.0 (2026-10-16)
 
 - Part two: Alan Watts's Dream of Life moved to a fold under the axiom, 'But why would it do that?', next to the Big Bang as the place where explaining runs out
