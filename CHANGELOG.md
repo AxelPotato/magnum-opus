@@ -8,6 +8,16 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.27.1 (2026-10-16)
+
+- Part one: 'One hose' moved to the end, after 'Harmony as the road' and before the zoom out, as a summary of the whole part
+
+
+## 4.27.0 (2026-10-16)
+
+- Part one: new section 'One hose', a garden hose as one picture of the four parts working together: plug the holes (BE), open the nozzle (DO), focus the spray (attention), pick something worth watering (a bigger reason), with a four-panel figure
+
+
 ## 4.26.0 (2026-10-16)
 
 - Part two step 5, karma, rewritten to follow steps 1 to 4: the mirror in both halves of the game, the compass and the mirror, unmended lessons in a new costume across lives, the patient tutor

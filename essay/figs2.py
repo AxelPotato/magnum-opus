@@ -611,3 +611,92 @@ def fig_stops():
     b.append('<circle class="ringm" cx="350" cy="300" r="26"/>')
     b.append(T(350, 350, 'the middle', 't', 'middle'))
     return svg('0 0 700 364', 'What stops a driven person: burnout, the goal reached and then empty, a body that stops cooperating, someone close being hurt. What stops a drifter: the money running out, something happening at home, the plateau. All of it points toward the middle', ''.join(b), u)
+
+
+# ------------------------------------------------------------------ the hose
+def _plant(x, y, h=26):
+    """A small plant; (x, y) is where the stem meets the ground."""
+    return (f'<path class="stg" d="M{x} {y} V{y - h}"/>'
+            f'<ellipse class="fhi ghost" cx="{x - 7}" cy="{y - h + 6}" rx="8" ry="4" transform="rotate(-30 {x - 7} {y - h + 6})"/>'
+            f'<ellipse class="fhi ghost" cx="{x + 7}" cy="{y - h + 2}" rx="8" ry="4" transform="rotate(30 {x + 7} {y - h + 2})"/>')
+
+
+def _drop(x, y, r=3.2):
+    return f'<circle class="fhi" cx="{x}" cy="{y}" r="{r}"/>'
+
+
+def fig_hose():
+    u = 'hs'
+    W, gap, top, H = 176, 12, 10, 246
+    b = []
+
+    def panel(i, title, tag):
+        px = 10 + i * (W + gap)
+        b.append(f'<rect class="room" x="{px}" y="{top}" width="{W}" height="{H}" rx="12"/>')
+        b.append(T(px + 14, top + 28, f'{i + 1}  {title}', 't'))
+        b.append(T(px + 14, top + 46, tag, 'small'))
+        return px
+
+    def tube(px, y, x_end=None, water=True):
+        x_end = x_end if x_end is not None else px + 122
+        o = [f'<rect class="card" x="{px + 14}" y="{y - 8}" width="{x_end - px - 14}" height="16" rx="8"/>']
+        if water:
+            o.append(f'<rect class="cone" x="{px + 18}" y="{y - 4}" width="{x_end - px - 24}" height="8" rx="4"/>')
+        o.append(f'<path class="st" d="M{x_end} {y - 8} L{x_end + 14} {y - 4} V{y + 4} L{x_end} {y + 8}"/>')
+        return ''.join(o)
+
+    # 1: the holes (BE)
+    px = panel(0, 'Plug the holes', 'BE, inner work')
+    y = top + 92
+    b.append(tube(px, y))
+    for hx, lab in ((px + 30, 'fear'), (px + 70, 'doubt'), (px + 110, 'worry')):
+        b.append(f'<circle class="fmu2" cx="{hx}" cy="{y + 8}" r="3.4"/>')
+        b.append(_drop(hx, y + 24) + _drop(hx - 1, y + 44, 2.6))
+        b.append(T(hx, y + 66, lab, 'small', 'middle'))
+    b.append(_drop(px + 150, y + 18, 2.6))
+    b.append(T(px + 14, y + 112, 'water leaks out,', 'small'))
+    b.append(T(px + 14, y + 128, 'dribble at the end', 'small'))
+
+    # 2: the nozzle (DO)
+    px = panel(1, 'Open the nozzle', 'DO, action')
+    y = top + 112
+    b.append(tube(px, y))
+    b.append(f'<path class="st" d="M{px + 120} {y - 8} L{px + 126} {y - 28} H{px + 146}"/>')
+    b.append(arrow(u, f'M{px + 140} {y - 48} V{y - 32}', 'do', 'st'))
+    b.append(T(px + 140, y - 54, 'squeeze', 'small', 'middle'))
+    b.append(f'<path class="stg" d="M{px + 136} {y} Q{px + 156} {y - 4} {px + 160} {y + 52}" style="stroke-width:3"/>')
+    b.append(_drop(px + 161, y + 64, 2.6))
+    b.append(T(px + 14, y + 100, 'pressure is there,', 'small'))
+    b.append(T(px + 14, y + 116, 'someone has to', 'small'))
+    b.append(T(px + 14, y + 132, 'open the nozzle', 'small'))
+
+    # 3: the spray (attention)
+    px = panel(2, 'Focus the spray', 'attention')
+    ny = top + 94
+    b.append(f'<rect class="card" x="{px + 14}" y="{ny - 6}" width="34" height="12" rx="6"/>')
+    for k, (dx, dy) in enumerate(((30, -26), (44, -10), (58, 6), (72, -30), (84, -4), (98, 14), (112, -22), (124, 2), (136, 24), (60, 24), (96, -40), (120, 34))):
+        b.append(f'<circle class="fhi ghost" cx="{px + 34 + dx}" cy="{ny + dy}" r="2.4"/>')
+    b.append(T(px + 156, ny - 50, 'mist', 'small', 'end'))
+    jy = top + 176
+    b.append(f'<rect class="card" x="{px + 14}" y="{jy - 6}" width="34" height="12" rx="6"/>')
+    b.append(f'<path class="stg" d="M{px + 48} {jy} H{px + 126}" style="stroke-width:3"/>')
+    b.append(f'<circle class="ringm" cx="{px + 140}" cy="{jy}" r="14"/><circle class="fhi" cx="{px + 140}" cy="{jy}" r="4"/>')
+    b.append(T(px + 156, jy + 36, 'a jet', 'small', 'end'))
+    b.append(T(px + 14, top + 224, 'where it points,', 'small'))
+    b.append(T(px + 14, top + 240, 'the water goes', 'small'))
+
+    # 4: a target (the reason)
+    px = panel(3, 'Pick a target', 'a bigger reason')
+    gy = top + 112
+    b.append(f'<path class="stm" d="M{px + 14} {gy} H{px + 100}"/>')
+    b.append(_plant(px + 54, gy))
+    b.append(f'<path class="st" d="M{px + 112} {gy - 28} L{px + 104} {gy - 4} H{px + 134} L{px + 130} {gy - 28} Z"/><path class="st" d="M{px + 130} {gy - 24} L{px + 142} {gy - 30}"/>')
+    b.append(T(px + 14, gy + 20, 'one plant: a pitcher', 'small'))
+    gy2 = top + 196
+    b.append(f'<path class="stm" d="M{px + 14} {gy2} H{px + 162}"/>')
+    for k in range(6):
+        b.append(_plant(px + 70 + k * 18, gy2, 20 + (k % 3) * 4))
+    b.append(f'<rect class="card" x="{px + 14}" y="{gy2 - 26}" width="34" height="12" rx="6"/>')
+    b.append(f'<path class="stg" d="M{px + 48} {gy2 - 20} Q{px + 56} {gy2 - 22} {px + 62} {gy2 - 30}" style="stroke-width:3"/>')
+    b.append(T(px + 14, gy2 + 20, 'a garden: a hose', 'small'))
+    return svg('0 0 760 266', 'A garden hose in four steps. One, plug the holes where fear, doubt and worry leak water out. Two, open the nozzle by squeezing it. Three, turn a mist into a focused jet. Four, pick a target: one plant needs a pitcher, a garden needs a hose', ''.join(b), u)
