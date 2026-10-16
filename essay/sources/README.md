@@ -2,7 +2,7 @@
 
 Not part of the essay. For every person, text, study and tradition that Part two cites (and a few it only implies), an entry that lets Alex read the source himself and talk about it: who they are, the exact place the essay leans on, a free place to read it where one exists, the best book edition, and background for discussion, including what scholars add and what to say if someone pushes back.
 
-Built on 2026-10-08 by ten agents from the final essay (v2.3.0), the claim check in `essay/research/CHECKLIST.md` and the research files. 185 entries, 720 links. Two entries were added for v4.22.0 (step 2 rewritten), with links from search results.
+Built on 2026-10-08 by ten agents from the final essay (v2.3.0), the claim check in `essay/research/CHECKLIST.md` and the research files. 185 entries, 720 links. Two entries were added for v4.22.0 (step 2 rewritten), with links from search results. Four were added for the new step 3, 'The turn' (AN 3.39, Ecclesiastes 2, Augustine's Confessions 1.1, Rumi's reed), each read on a primary text page on 2026-10-16.
 
 ## How reliable it is
 
@@ -116,6 +116,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Udanavarga 5.18 (the Buddhist golden-rule verse) [text, partly checked]
 - Dogen (1200 to 1253) and 'dropping off body and mind' [person, partly checked]
 - Nirvana, and the bodhisattva who returns to the marketplace (Ten Ox-Herding Pictures) [concept, partly checked]
+- Anguttara Nikaya 3.39, the Sukhumala Sutta (a delicate lifestyle) and the four sights [text, checked]
 
 ### Jain, Sikh, Druze and Daoist sources (`06-jain-sikh-druze-daoist.md`)
 
@@ -159,6 +160,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Gilgul in the Zohar and Luria (Kabbalistic reincarnation) [concept, partly checked]
 - Teshuvah (return, repentance) [concept, unchecked]
 - Devekut (cleaving to God) [concept, unchecked]
+- Ecclesiastes 2:4-11 (all was vanity and a striving after wind) [text, checked]
 
 ### Christian sources (`08-christian.md`)
 
@@ -188,6 +190,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Dante, Paradiso, canto I (Beatrice on the ascent) [text, partly checked]
 - The Christian mystics and union with God (McGinn and the specialist objections) [tradition, partly checked]
 - One life, resurrection and judgment (Hebrews 9:27; Catechism 1013) [concept, unchecked]
+- Augustine, Confessions 1.1 ('our heart is restless until it rests in you') [text, checked]
 
 ### Islamic sources (`09-islamic.md`)
 
@@ -216,6 +219,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Tanasukh (transmigration) in Islamic thought [concept, partly checked]
 - Tawba (turning back, repentance) [concept, partly checked]
 - Sufism and mainstream Islam: what to attribute to whom [tradition, partly checked]
+- Rumi, the Masnavi, Book I, lines 1 to 4 (the song of the reed) [text, checked]
 
 ### Context (Theosophy, the perennial philosophy) and talking points (`10-context-and-talking-points.md`)
 

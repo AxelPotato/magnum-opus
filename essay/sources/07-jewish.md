@@ -616,3 +616,27 @@ Background: The rule is a plain piece of moral engineering: a ritual can repair 
 If someone pushes back:
 - Isn't this just good manners? It is a rule with teeth: it says that no amount of ritual wipes out a wrong against a person until that person is appeased. That is the structure the step needs.
 - Does it show oneness? Not by itself. It shows that the traditions treat harm to another as something you answer for to the other, which fits the axiom.
+
+## Ecclesiastes 2:4-11 (all was vanity and a striving after wind) (Hebrew Bible, the Writings; the book is usually dated to the third century BCE; its speaker is Qohelet, 'the Teacher', who presents himself as a king in Jerusalem)
+
+Kind: text. Status: checked (2:4-11 read in the World English Bible; 2:11 read in the ESV on Bible Gateway, 2026-10-16).
+
+Who: Qohelet, the Teacher, the voice of Ecclesiastes. Tradition attached the book to Solomon. Most scholars date it much later and read the royal voice as a literary device.
+
+In the essay: Part two, step 3, 'The turn', second item of 'Restless until it rests': he made himself great works, built houses, planted vineyards, gathered silver and gold and kept nothing from his eyes that they wanted, then looked at everything his hands had done, and all was vanity and a striving after wind (2:4 to 11). The last phrase is ESV wording.
+
+Where it sits: Ecclesiastes 2:4-11. The refrain 'vanity and a striving after wind' also closes 1:14.
+
+The passage: Paraphrase of 2:4-10: he made great works, built houses, planted vineyards, gardens and parks, made pools, bought servants, gathered silver and gold and singers, became greater than all before him in Jerusalem, and did not withhold his heart from any joy. Then 2:11 (ESV): 'Then I considered all that my hands had done and the toil I had expended in doing it, and behold, all was vanity and a striving after wind, and there was nothing to be gained under the sun.'
+
+Read it free:
+- Bible Gateway, Ecclesiastes 2 (ESV and many other translations): https://www.biblegateway.com/passage/?search=Ecclesiastes+2&version=ESV (read on 2026-10-16)
+- Sefaria, Ecclesiastes 2 with Hebrew and commentaries: https://www.sefaria.org/Ecclesiastes.2 (not checked)
+
+Read it in a book: Robert Alter, The Wisdom Books (Norton, 2010), for a modern translation with notes. Michael V. Fox, A Time to Tear Down and a Time to Build Up (Eerdmans, 1999), for the standard scholarly reading.
+
+Background: The Hebrew word translated 'vanity' is hevel, literally a breath or vapour: something real but fleeting that you cannot hold. Fox reads it as 'absurd', others as 'transient' or 'futile'. The book does not end in despair. Its repeated advice is to eat, drink and find enjoyment in your work as a gift of God, and its last lines tell the reader to fear God. For the essay the passage is a close description of the turn in a driven life: everything gained, and the gaining stops meaning anything.
+
+If someone pushes back:
+- 'Ecclesiastes is about the limits of human wisdom, not about oneness.' Agreed. The essay uses it only for the emptiness at the height of success, which is what 2:4-11 describes.
+- 'It is pessimism.' The book holds its pessimism next to joy and next to God. The essay quotes the turn, and the book's own answer looks beyond what the hands can make.

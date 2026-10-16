@@ -462,3 +462,27 @@ If someone pushes back:
 - Is the marketplace image Buddhist in general? It is Chan and Zen. The essay says Mahayana, and 'Mahayana and Zen' would be more exact.
 
 Translation check (2026-10-08): nibbana/nirvana literally means 'blowing out' or 'quenching', the image of a flame going out (etymology is not settled). The Buddha's standard definition is the destruction of greed, hatred and delusion (SN 45.7, AN 3.55, SN 38.1). The essay now says 'the ending of greed, hatred and delusion nirvana, a word that means a flame going out'.
+
+## Anguttara Nikaya 3.39, the Sukhumala Sutta (a delicate lifestyle) and the four sights (Pali canon, Anguttara Nikaya (Numbered Discourses), the Book of the Threes; the four sights are told in later biographies such as Ashvaghosha's Buddhacarita (about the second century CE) and the Nidanakatha)
+
+Kind: text. Status: checked (the sutta read in Sujato's translation on SuttaCentral, 2026-10-16).
+
+Who: A short discourse in which the Buddha looks back on his life as a young man in his father's house.
+
+In the essay: Part two, step 3, 'The turn', first item of 'Restless until it rests': the delicate life (lotus ponds made just for him, a house for each season, musicians for the four months of the rains), the reflection that he too would grow old, get sick and die, and the vanity of youth, health and life falling away. The four sights are named as the later biographies' version of the same moment.
+
+Where it sits: AN 3.39 (in some numberings AN 3.38). The four sights as a story about Gotama come from the later biographies. In the canon the same pattern is told about an earlier Buddha, Vipassi, in the Mahapadana Sutta (DN 14).
+
+The passage (paraphrase; Sujato's translation is CC0 and can be quoted freely): 'My lifestyle was delicate, mendicants.' Lotus ponds were made for him in his father's home, his clothes came from Kasi, a white parasol was held over him, he had three houses for winter, summer and the rains, and for the four months of the rains he did not come downstairs and was entertained by musicians. Amid such prosperity he reflected that an ordinary person who is liable to grow old is disgusted by the old, overlooking that the same thing waits for them, and that this was not fitting for him. Reflecting like this, he gave up the vanity of youth, then of health (sickness), then of life (death).
+
+Read it free:
+- SuttaCentral, AN 3.39 in Sujato's translation: https://suttacentral.net/an3.39/en/sujato (read on 2026-10-16)
+- Access to Insight, Thanissaro's translation: https://www.accesstoinsight.org/tipitaka/an/an03/an03.039.than.html (not checked)
+
+Read it in a book: Bhikkhu Bodhi, The Numerical Discourses of the Buddha (Wisdom, 2012). For the biographies: Ashvaghosha, Life of the Buddha (Buddhacarita), translated by Patrick Olivelle (Clay Sanskrit Library, 2008).
+
+Background: The sutta is the Buddha's own account, with no chariot rides and no gods arranging the sights. The famous four sights (an old man, a sick man, a corpse, a wandering renunciant) are the later, dramatised version. Both carry the same core: a young man with everything, whose comfort suddenly stops answering the question of what life is for. The essay uses it as the oldest picture of the turn: success at its height, and then the old pleasures stop paying.
+
+If someone pushes back:
+- 'The four sights are legend.' Agreed, and the essay says the biographies tell them. The sutta is the canonical account, in the Buddha's own voice.
+- 'This is about death, not about separation.' The trigger is the fact of death, and what changes is the direction of a life, from private comfort toward the search. The essay uses it for that turn.

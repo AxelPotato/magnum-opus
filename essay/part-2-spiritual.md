@@ -84,9 +84,11 @@ Operating systems do this all day. A program is given its own private memory, a 
 
 Your own body does it too. Almost every cell in it carries the complete plan for you. A liver cell holds the instructions for an eye and for a nerve, and it uses a small fraction of them. Being a liver cell means having nearly everything switched off so the liver work can get done, and nothing is deleted. John Gurdon put the nucleus of a tadpole's gut cell into an egg that had been emptied of its own, and the egg grew into a frog. In 2006 Shinya Yamanaka showed in mouse skin cells, and a year later in human ones, that a handful of genes can switch a cell back into one that can become anything. They shared a Nobel Prize for it. A cell with every setting on would be no use to the body, so the lowered settings are what give the part its job. A cell also stays well only while it keeps listening. Cells in a body pick up signals from their neighbors that say when to divide and when to stop, and a cancer cell stops listening and grows as if it were the only cell there is. How much of the signal from the whole a person still picks up is a matter of degree, and I am somewhere on that scale myself.
 
+Turning the settings down is half of it. The other half is the world the point of view looks out at. A part with fewer settings could still suspect that it belongs to something bigger, unless everything it touches tells it otherwise. So the whole builds the experience of separation to be convincing. Every body hurts on its own, every object has an edge, every life has its own bills and its own birthday, and every time you check, all of it agrees that you are in here and the rest is out there. The traditions call this lila, the play from step 1, or maya, the appearance. It is made so well that the whole, looking through it, starts to believe it. Nothing in it is broken. We are still one, and we built a world that is very good at helping us forget it.
+
 The body holds the limits in place. The belief that I'm separate is held as tension, and the felt edge of me is the wall. Clench a fist and you feel like a small hard object among other objects, and when you loosen it the feeling softens.
 
-Settings that were lowered stay lowered until somebody raises them, and nothing in the program's own routine does that. Nothing returns by itself. Raising them takes a deliberate act, made from inside the limits, and made again.
+That also explains a pull most of us know. A world built to help a whole forget keeps doing its job, so the default direction is toward more separation. Do nothing in particular and you end up a little more separate every year, more guarded and more sure of where you end. Settings that were lowered stay lowered, and nothing in the program's own routine raises them. On its own the drift only goes one way, so something else has to start the return.
 
 #### Cloaks, contraction and things switched off
 
@@ -97,9 +99,32 @@ Settings that were lowered stay lowered until somebody raises them, and nothing 
 * Isaac Luria, the sixteenth-century Kabbalist of Safed, taught tzimtzum: the Infinite withdraws into itself to leave a space in which a world can exist.
 * In the Chandogya Upanishad (6.13) a father has his son put salt in water and come back the next morning. The salt can't be seen, and it is in every sip. Then comes the refrain from 6.8.7: that is the self, and you are that.
 
-## 3. One life is too short
+## 3. The turn
 
-So far that was the second clause, the separation, and what holds it up. The third clause says the separation ends. It doesn't say how, and here I add one reading of my own: the return is something each of us completes, from experiencing the world as many to experiencing it as one. One life is plainly too short for that. Most of us hold the wall up for a whole life without noticing, and even the few who reach the top right corner are, by the standard of the axiom, standing at the door of the next map. So if the return is real for each of us, it takes more than one lifetime. The idea is older than I am: near the end of The Education of the Human Race, in 1780, Lessing, a thoroughly Enlightenment sort of person, asks why he shouldn't come back as often as he is capable of acquiring fresh knowledge. How the next stretch looks, in a new body or in some other form, is where the traditions differ.
+So far that was the second clause, the separation, and what holds it up. The third clause says the separation ends, and step 2 says the drift only goes one way. So the whole needs something built in that turns a point of view around once it has gone far enough, and I think that is exactly what we find.
+
+Picture the run in two halves. In the first half separation is new, and it is the thing being learned. Getting more separate feels good here: my own room, my own money, my own name on the door, winning. Nobody is doing it wrong here. This is the half of the game you came for, and the happiness you get from it is real.
+
+Somewhere there is a bottom point, the most separate a point of view gets, and past it the signal flips. The same moves stop paying. A step toward unity starts to feel good in a way that lasts, and standing still, or taking more for yourself, starts to feel empty. Nobody announces it. It shows up as a flatness that no new result can touch, and a quiet question of whether this is all there is. I call it the turn, and it is the moment the third clause starts working on a particular person.
+
+The turn doesn't belong to one room of Part one's chart. Any room can hit that bottom point. In Driven it usually looks like the crash after reaching the goal. In Drifting it looks like the plateau, years of calm and then the sudden sense that the whole thing is a waste of time. In Default it can come with no drama at all, as an emptiness in a perfectly ordinary life. For me it was the weekends I mentioned in Part one, when every free hour felt empty and none of my results could reach it. Some people go through the turn after a successful run, in this life. Others seem to be born after it. They never quite fit a society that still runs on separation, and they start searching young, which from the outside can look a lot like being a difficult teenager.
+
+The switch is strange and hard, because everything in you was trained to move the other way. The old moves still look right, and they stop feeling right. That is why a driven person at this point often doubles down first, since more of the same is the only direction they know.
+
+I should say what I mean by happiness here, because it is easy to mishear. A moment of fun or pleasure comes and goes. The happiness I mean is the state you live in over months: fulfillment, steady good will toward people, wanting to get up in the morning. It can include a pleasure that lasts. The test is simple. Over the last year, have I become more fulfilled, or more bleak, with more negative thoughts and more emptiness? After the turn, that is how the direction gets reported.
+
+None of this makes anybody better. Before the turn and after it are two parts of the same game. Think of two players, one at level five and one at level forty. The one at forty has simply played longer. The one at five will get there too, in different circumstances, and will meet the same things on the way. Moving toward separation doesn't make someone bad, and moving toward unity doesn't make someone good. Each of us is playing the part of the lila we are in right now, and every part is needed, which is also why the paths look so different, as the section after step 7 explains.
+
+#### Restless until it rests
+
+* The Buddha tells his own version in the Anguttara Nikaya (3.39). He describes a delicate life in his father's house, with lotus ponds made just for him, a separate house for each season and musicians for the four months of the rains. Amid all of it he reflected that he too would grow old, get sick and die, and the vanity of youth, of health and of life fell away from him. Later biographies tell the same moment as the four sights: an old man, a sick man, a corpse and a wandering monk.
+* The Teacher of Ecclesiastes made himself great works, built houses, planted vineyards, gathered silver and gold and kept nothing from his eyes that they wanted. Then he looked at everything his hands had done, and all was vanity and a striving after wind (2:4 to 11).
+* Augustine opens his Confessions by telling God that he made us for himself, and that our heart is restless until it rests in him (1.1).
+* Rumi opens his Masnavi with a reed flute that cries because it was cut from the reed bed, and says that everyone who is left far from their source wishes back the time when they were united with it (Book I, 1 to 4).
+
+## 4. One life is too short, and something carries over
+
+The turn starts the return. Finishing it takes longer, and here I add one reading of my own: the return is something each of us completes, from experiencing the world as many to experiencing it as one. One life is plainly too short for that. Most of us hold the wall up for a whole life without noticing, and even the few who reach the top right corner are, by the standard of the axiom, standing at the door of the next map. So if the return is real for each of us, it takes more than one lifetime. The idea is older than I am: near the end of The Education of the Human Race, in 1780, Lessing, a thoroughly Enlightenment sort of person, asks why he shouldn't come back as often as he is capable of acquiring fresh knowledge. How the next stretch looks, in a new body or in some other form, is where the traditions differ.
 
 #### Further lives, or growth that continues
 
@@ -109,9 +134,7 @@ So far that was the second clause, the separation, and what holds it up. The thi
 
 Either way, development continues, which is all the axiom needs.
 
-## 4. Something carries over
-
-And if the run continues, something has to carry what was learned from one stretch to the next. In the traditions that use the word, that's the soul. Buddhism holds that there is no fixed soul and still says that something continues, and an old Buddhist dialogue has the image I like most for it: a lamp lit from another lamp, where nothing passes across and the second one still burns. In the machine it would be the saved state. The program shuts down, the window closes, and the session is gone with most of its detail. What carries over is the account, the part of the experience that was worth keeping. As I read the axiom, it builds up from one life to the next until the soul, or whatever you prefer to call it, is ready for the next step.
+And if the run continues, something has to carry what was learned from one stretch to the next. In the traditions that use the word, that's the soul. Buddhism holds that there is no fixed soul and still says that something continues, and an old Buddhist dialogue has the image I like most for it: a lamp lit from another lamp, where nothing passes across and the second one still burns. In the machine it would be the saved state. The program shuts down, the window closes, and the session is gone with most of its detail. What carries over is the account, the part of the experience that was worth keeping. In the game picture from step 3, it is the level you have reached, which is how two people can walk into the same kind of life at level five and at level forty. As I read the axiom, it builds up from one life to the next until the soul, or whatever you prefer to call it, is ready for the next step.
 
 That leaves the question of why nobody remembers, and the answer I keep coming back to is a story Alan Watts used to tell. Watts was the British writer who spent his life explaining Eastern philosophy to Western audiences, and the talk is usually called "The Dream of Life." Suppose that every night you could dream any dream you wanted, and pack seventy-five years of experience into a single night. The first nights you would have every pleasure you could think of. After enough of those you would get tired of always knowing how it goes, so one night you would dream something you don't control, where things happen to you that you didn't plan. Each night you would hide a little more from yourself and take a bigger gamble, because the not knowing is where the excitement is. Keep going, Watts says, and eventually you would dream the life you are living today.
 
@@ -133,7 +156,7 @@ If we are one, there is nobody else. Everyone I could harm is part of the whole 
 
 Most of us have felt this from the inside at least once. You see a small child about to fall into a well, and you feel a jolt of alarm before you have thought anything. Nobody decided to care about that child. Wang Yangming, the Chinese philosopher, used this very example in 1527, and for him the jolt is what forming one body with the child feels like from the inside. For a second the wall isn't there.
 
-This is, I think, the real meaning of what people call karma. The word is Sanskrit for action, and in everyday use it has turned into a ledger kept somewhere, with a judge and a sentence. The version I was taught has no judge. What happens to you works like a mirror. How you think and what you feel come back to you, and they come back right away, in the same life. Someone irritates you, something hurts, and that shows you a place in yourself that hasn't been mended yet. The mirror only shows, and it does nothing else. The machine has a picture for it too: a program that corrupts shared memory reads the corrupted data back and has nobody to blame, because it was the same memory all along. Over a life, this is how the mirror teaches the thing that matters most here: living in separation costs something, and sooner or later that makes a person want out.
+This is, I think, the real meaning of what people call karma. The word is Sanskrit for action, and in everyday use it has turned into a ledger kept somewhere, with a judge and a sentence. The version I was taught has no judge. What happens to you works like a mirror. How you think and what you feel come back to you, and they come back right away, in the same life. Someone irritates you, something hurts, and that shows you a place in yourself that hasn't been mended yet. The mirror only shows, and it does nothing else. The machine has a picture for it too: a program that corrupts shared memory reads the corrupted data back and has nobody to blame, because it was the same memory all along. Over a life, this is how the mirror teaches the thing that matters most here: living in separation costs something, and after the turn in step 3 that cost is what makes a person want out.
 
 The mirror also picks its material on purpose. The sharpest lessons tend to come from the people closest to you, family, children, parents, because that is where it hurts most. So the work starts on my own side. When I stop reacting the old way, the other person stops getting the old reaction, and very often the whole pattern between us shifts, which is what you'd expect if we are parts of one whole. That never means staying where someone keeps hurting me. Old and heavy things take time, and I may have to come back to them more than once. And this is no reason to wait. If someone close to me is sick or in trouble and I say it's their karma, I've stopped helping, and the word for that is indifference. The better reaction is to make what is happening better, because something in me is part of it too.
 
@@ -153,7 +176,7 @@ One warning. The easy version of karma is blame: she had it coming, he reaped wh
 
 ## 6. Coming home, and repair
 
-So what takes the wall down, and mends the harm that went with it? Step 2 says nothing returns by itself, so the answer has to be an act. Punishment can't be it, because that would only be one more finger hitting another. What works is turning back toward what you were cut off from, which many traditions call home.
+So what takes the wall down, and mends the harm that went with it? The turn in step 3 makes a person want to go home, and step 2 says the drift doesn't reverse on its own, so the going has to be an act. Punishment can't be it, because that would only be one more finger hitting another. What works is turning back toward what you were cut off from, which many traditions call home.
 
 The wall is built over a lifetime, out of our ideas about ourselves and others, and it is kept up every day by how a separate self behaves. It takes, it controls, it treats other people as other, and its attention drifts to the world of forms. Hitting the wall head on makes it stronger. What thins it is behaving the way the axiom says things are, against the default, until experience agrees. Each of the three moves undoes one way the wall is kept up.
 
@@ -186,7 +209,7 @@ The top right corner of the small square is escape velocity, the speed at which 
 
 Past the corner the picture keeps going, and each level is the speed that frees you from the next, bigger pull. The first leaves the Earth. The next leaves the Sun behind, and the one after that leaves the galaxy. The last has no pull left to leave, and every point in the universe is a place you can be at home, so the word every is doing some work.
 
-That is the distance I want to convey. A life on the ground and a life among the stars are about as far apart as an ordinary human life and the whole map, and I believe a person can cross much of that distance in one lifetime, even though the whole return from step 3 takes longer. It is hard to feel this from the ground, which is why I use the picture.
+That is the distance I want to convey. A life on the ground and a life among the stars are about as far apart as an ordinary human life and the whole map, and I believe a person can cross much of that distance in one lifetime, even though the whole return from step 4 takes longer. It is hard to feel this from the ground, which is why I use the picture.
 
 Every step up shows you more of the whole, and that includes more of what still needs fixing, so the higher you go, the more there is to do. And the whole that comes back at the end knows more than the whole that set out, because in between it has been each one of us.
 
@@ -266,13 +289,17 @@ The axiom and the machine
 - Ephesians 4:18. Quran 7:172. The Buddhist teaching of the ten fetters, the first of which is the belief in a permanent personal self. Tattvartha Sutra, chapter 8 (karma as the veil on the soul's knowledge).
 - Kshemaraja, Pratyabhijnahrdayam (Singh, J. (1963), Pratyabhijnahrdayam: The Secret of Self-Recognition, Motilal Banarsidass). Scholem, G. (1941). Major Trends in Jewish Mysticism, lecture 7, on Isaac Luria and tzimtzum. Chandogya Upanishad 6.13 and 6.8.7.
 
-3. One life is too short
+3. The turn
+
+- Anguttara Nikaya 3.39, the Sukhumala Sutta (Sujato's translation, SuttaCentral). The four sights are told in the later biographies, for example Ashvaghosha's Buddhacarita and the Nidanakatha.
+- Ecclesiastes 2:4-11 (2:11 quoted from the ESV).
+- Augustine, Confessions 1.1 (Pusey's translation of 1838 reads "our heart is restless, until it repose in Thee").
+- Rumi, Masnavi, Book I, 1-4, translated by Nicholson, R. A. (1926), The Mathnawi of Jalalu'ddin Rumi, vol. II (translation of Books I and II). Gibb Memorial Trust.
+
+4. One life is too short, and something carries over
 
 - Lessing, G. E. (1780). The Education of the Human Race, section 98 in the usual numbering.
 - Bhagavad Gita 6.45. Samyutta Nikaya 15. Guru Granth Sahib, the Japji (rebirth and grace). Catechism of the Catholic Church, 1030-1031. Gregory of Nyssa, The Life of Moses.
-
-4. Something carries over
-
 - Bhagavad Gita 2.22. Plato, Republic X (the Myth of Er). Brihadaranyaka Upanishad 3.7.23. Gaudapada, Mandukya Karika 2.32.
 - Milindapanha, translated by T. W. Rhys Davids, The Questions of King Milinda, Sacred Books of the East, vols. 35 and 36. Evans-Wentz, W. Y. (Ed.) (1927). The Tibetan Book of the Dead. Oxford University Press.
 - Watts, A. "The Dream of Life", a recorded talk; the audio circulates from the Alan Watts archive (alanwatts.org) and the collection Out of Your Mind (Sounds True). The retelling here is a paraphrase.

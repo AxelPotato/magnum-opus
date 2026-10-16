@@ -681,3 +681,27 @@ Background: The verse puts reconciliation ahead of worship, which echoes the rab
 
 If someone pushes back:
 - Isn't it about guilt? It is about order of operations: the relationship first, then the offering. The essay uses it for that.
+
+## Augustine, Confessions 1.1 ('our heart is restless until it rests in you') (Augustine of Hippo, 354 to 430; the Confessions were written about 397 to 400)
+
+Kind: text. Status: checked (Pusey's translation read in the Project Gutenberg text, 2026-10-16).
+
+Who: Augustine, bishop of Hippo in North Africa, the most influential Latin Church Father. The Confessions tell his life up to his conversion as one long prayer addressed to God.
+
+In the essay: Part two, step 3, 'The turn', third item of 'Restless until it rests': Augustine opens his Confessions by telling God that he made us for himself, and that our heart is restless until it rests in him (1.1). Paraphrase in modern wording, without quotation marks.
+
+Where it sits: Book I, chapter 1, the opening paragraph. Latin: fecisti nos ad te, et inquietum est cor nostrum donec requiescat in te.
+
+The passage: Pusey (1838, public domain): 'Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee.' Modern translations, such as Chadwick's (Oxford, 1991), render the end as 'restless until it rests in you' (wording from memory, not checked; Chadwick is in copyright).
+
+Read it free:
+- Project Gutenberg, The Confessions of Saint Augustine, Pusey's translation: https://www.gutenberg.org/ebooks/3296 (read on 2026-10-16)
+- New Advent, Confessions Book I (Pilkington's translation): https://www.newadvent.org/fathers/110101.htm (not checked)
+
+Read it in a book: Henry Chadwick, Saint Augustine: Confessions (Oxford World's Classics, 1991). Peter Brown, Augustine of Hippo: A Biography (University of California Press, 1967; new edition 2000).
+
+Background: The line is the thesis of the whole book. The books that follow tell how Augustine tried to fill that restlessness with a career as a rhetor, a long relationship, philosophy and the Manichees, and how none of it brought rest. His career was going very well when the restlessness peaked in the garden in Milan (Book VIII). Christians read 'rest' as rest in God, a person, and that is the sense here. The essay uses it as a classic statement of the pull that no success can satisfy.
+
+If someone pushes back:
+- 'Augustine means a personal God, not a whole.' Yes, and the essay does not say otherwise. It cites him for the shape of the experience: made for something, restless until you turn toward it.
+- 'Augustine also taught one life and original sin.' True, and the essay's lives step does not cite him.

@@ -634,3 +634,27 @@ Background: Classical commentators read the verse as saying the earlier revelati
 
 If someone pushes back:
 - 'The verse says the Quran supersedes the earlier books.' The same passage says that, and many commentators stress it. The essay uses only the clause that each community has its own way.
+
+## Rumi, the Masnavi, Book I, lines 1 to 4 (the song of the reed) (Jalal al-Din Rumi, 1207 to 1273; the Masnavi was composed from about 1258 until his death, in Persian)
+
+Kind: text. Status: checked (Nicholson's translation read in the archive.org scan of the translation of Books I and II, 2026-10-16).
+
+Who: Rumi, the Persian poet and Sufi teacher of Konya, whose followers founded the Mevlevi order. The Masnavi is his long teaching poem in six books.
+
+In the essay: Part two, step 3, 'The turn', fourth item of 'Restless until it rests': Rumi opens his Masnavi with a reed flute that cries because it was cut from the reed bed, and says that everyone who is left far from their source wishes back the time when they were united with it (Book I, 1 to 4).
+
+Where it sits: Masnavi I.1-4, the opening lines, often printed as the first eighteen verses, the 'Song of the Reed'.
+
+The passage: Nicholson (1926): '1. Listen to the reed how it tells a tale, complaining of separations, Saying, "Ever since I was parted from the reed-bed, my lament hath caused man and woman to moan. I want a bosom torn by severance, that I may unfold (to such a one) the pain of love-desire. Every one who is left far from his source wishes back the time when he was united with it."' The essay paraphrases line 4 closely.
+
+Read it free:
+- archive.org, Nicholson, The Mathnawi of Jalalu'ddin Rumi, translation of Books I and II (scan with OCR text): https://archive.org/details/RUMITheMathnawiVol1Vol2 (read on 2026-10-16)
+- archive.org, Whinfield's abridged translation, Masnavi i Ma'navi (1898): https://archive.org/details/cu31924026910251 (seen in a search result)
+
+Read it in a book: R. A. Nicholson, The Mathnawi of Jalalu'ddin Rumi (Gibb Memorial Trust, 8 vols, 1925 to 1940). Jawid Mojaddedi, Rumi: The Masnavi, Book One (Oxford World's Classics, 2004), a modern verse translation.
+
+Background: In Sufi reading the reed is the human soul, or the perfected teacher, cut from its origin in God, and its music is the longing to return. The reed bed is the source the soul came from, and the Day of Alast in Quran 7:172 (step 2) is often read alongside it. The lines open the whole Masnavi, so for Rumi's readers the entire work comments on separation and return. Popular English versions (Coleman Barks and others) are free renderings. Quote Nicholson, Whinfield or Mojaddedi and name the translator.
+
+If someone pushes back:
+- 'Rumi is talking about love of God, not about a whole experiencing separation.' In Sufi terms the soul's separation from its origin and its return is the story, and the essay cites the reed only for the longing to return.
+- 'Popular Rumi quotes are often fake.' True. This one is the opening of the Masnavi in Nicholson's scholarly translation.
