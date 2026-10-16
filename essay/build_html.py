@@ -320,7 +320,7 @@ def rules2():
         'The second view sits at the other extreme': dict(after=figure(F4.fig_views(), 'Two assumptions at opposite ends. Neither can be observed from outside, since the observing is done by the same mind.')),
         'Under the axiom, you and I are programs.': dict(after=figure(F4.fig_cpu(), 'Far apart on the screen, side by side in the machine. The distance is a property of the drawing.')),
         'The body holds the limits in place.': dict(after=figure(F4.fig_wall(), 'The wall, as it shows in the body. Hold less of it and you sit higher on BE.')),
-        'And if the run continues': dict(after=figure(F4.fig_lives(), 'If the process is a return, and most people do not finish it in one life, it has to run longer than one life.')),
+        'So the process has to go on past a single life': dict(after=figure(F4.fig_lives(), 'If the process is a return, and most people do not finish it in one life, it has to run longer than one life.')),
         'If we are one, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
         'Every room on the chart is a separate program': dict(after=figure(F3.fig_rooms(), 'Four rooms, one assumption underneath.')),
         "The picture I use is space travel": dict(after=figure(F4.fig_arrow(), 'The same diagonal as speed and freedom of movement. Gravity is the pull of the position you started from, and each level above the corner is the speed that leaves the next, bigger pull behind.')),

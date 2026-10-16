@@ -8,6 +8,21 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.25.1 (2026-10-16)
+
+- Part two step 4: Akiva named for the twelve months, the jiva and the Atman told apart, and the many-lives scheme marked as Alex's reading
+
+
+## 4.25.0 (2026-10-16)
+
+- Part two: Alan Watts's Dream of Life moved to a fold under the axiom, 'But why would it do that?', next to the Big Bang as the place where explaining runs out
+
+
+## 4.24.0 (2026-10-16)
+
+- Part two step 4 rewritten around the soul: one life is usually not enough, the process goes on after death or through rebirth, and either way the soul follows from the axioms; the Watts story and the reincarnation research dropped
+
+
 ## 4.23.2 (2026-10-16)
 
 - Part two step 3: happiness and emptiness as the closest thing we have to a compass (Alex's request)
