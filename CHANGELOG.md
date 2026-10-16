@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.25.3 (2026-10-16)
+
+- Part two: two jokes in step 1 (the warning label, the hobby project) and one in step 4 (what stays behind)
+
+
 ## 4.25.2 (2026-10-16)
 
 - Part two: humour in steps 2 to 4 and the Watts fold (Alex's picks), and the Big Bang line softened to where our equations stop
