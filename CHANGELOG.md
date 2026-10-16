@@ -8,6 +8,21 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.23.2 (2026-10-16)
+
+- Part two step 3: happiness and emptiness as the closest thing we have to a compass (Alex's request)
+
+
+## 4.23.1 (2026-10-16)
+
+- Part two step 3: the Buddha's three houses for three seasons (AN 3.39), and Rumi's reed parted from the reed bed (Nicholson's wording)
+
+
+## 4.23.0 (2026-10-16)
+
+- Part two: new step 3, The turn (the bottom point of separation, the signal that flips, fulfillment against emptiness, nobody is better), Step 2 gains the convincing world and the drift toward separation, old steps 3 and 4 joined as step 4, chain figure, cross-references and reading pack updated
+
+
 ## 4.22.0 (2026-10-15)
 
 - Part two step 2 rewritten around how a whole can forget it is whole: it lowers its own settings (know, do, last, need), the operating system picture, the cell with its genome switched off and the cell that stops listening, the fist kept; title now 'How a whole turns itself down'; old inertia, attention and 'darkness is contagious' text cut at Alex's pick; step 4 pointer fixed; chain figure and reading pack updated
