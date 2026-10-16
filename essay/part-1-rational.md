@@ -233,6 +233,20 @@ Bigger doesn't have to mean grand. It only has to be bigger than you: a kid, a t
 
 It does have to be real, though. In the volunteering study the motive mattered more than the act: same volunteering, different results, depending on whether it was for the other person or for the volunteer. There's a counterfeit version. "I want to help people" can be the driven person's new costume, the same engine with a halo. Two questions help tell them apart. Would you still do it if nobody ever found out? And does it make you gentler with the person in front of you, or does that person turn into material for the cause? If it's the second, it's the old engine. And bigger than you doesn't mean instead of you: people who focus on others to the exclusion of themselves report more distress (Fritz and Helgeson, 1998).
 
+## One hose
+
+The sections so far can read like a list, so here is one picture that puts the pieces in order. Imagine a person is a garden hose, and the water running through it is their energy: the drive, the attention, the amount of life you have available on a given day. A hose has four things to get right, and they come in a sequence.
+
+The first is the holes. Every fear, insecurity and doubt you carry is a small hole in the side of the hose, and water leaves through each of them all day. Rehearsing a conversation that will probably never happen is one. Checking how you came across is another, and so is the decision you have been avoiding since last spring. None of them looks like much alone, and together they are the tax from the BE section, collected in water instead of in solutions. You can open the tap all the way and still end up with a puddle at your feet and a dribble at the end. Plugging the holes is inner work, which is how you move up BE: the sorry, the hard conversation, the first step in a conflict. Every hole you plug sends more water down the line, which may be why letting go so often feels like getting energy back.
+
+The second is the nozzle. A hose with no holes and a closed nozzle is a well-sealed pipe full of pressure. Somebody has to open it, and that somebody is you, doing something. This is DO. You decide, you start, you follow up on your words, and the water finally goes somewhere. My own Driven years were closer to the opposite: nozzle jammed open, holes all along the hose, and a good share of the water landing on my shoes.
+
+The third is attention. With the holes plugged and the nozzle open you get a wide mist, plenty of water falling everywhere at once and not much getting watered. Attention is what turns the mist into a jet. It is the presence from the BE section, and in this picture its job is simple: wherever it points, the water goes. Attention that lives in the replay and the rehearsal sends the water to places with no plants in them. Attention that is here puts it on the person in front of you, or the task in your hands.
+
+The fourth is something worth watering. A jet needs a target, and the target decides how much hose you need. One plant on a windowsill is well served by a small pitcher, and there is no shame in a pitcher. A garden, a field, anything that needs a lot of water: that is the work a hose is for, and it also tells you where to point. This is the reason bigger than you from the last two sections, the thing big enough to need the hose.
+
+Taken in order, each one makes the next one work. Plugged holes give you water to open the nozzle on, an open nozzle gives your attention something to aim, a steady jet makes a target reachable, and a target worth the trouble is a good reason to go back and plug the next hole.
+
 ## Harmony as the road
 
 Put it together. The road to the top right corner is a road to harmony between what you want on the inside, what you can do on the outside, and what you currently have to work with. The way there is to keep catching up the lazy leg until the two walk in step. Pushing the strong one harder only gets you a faster hop.
