@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.26.0 (2026-10-16)
+
+- Part two step 5, karma, rewritten to follow steps 1 to 4: the mirror in both halves of the game, the compass and the mirror, unmended lessons in a new costume across lives, the patient tutor
+
+
 ## 4.25.3 (2026-10-16)
 
 - Part two: two jokes in step 1 (the warning label, the hobby project) and one in step 4 (what stays behind)
