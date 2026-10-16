@@ -46,6 +46,12 @@ The separation ends. Being separate is a phase, and it returns to knowing itself
 
 The first two clauses describe how things are. The third says where they go, and it is the one the rest of this part leans on most.
 
+#### But why would it do that?
+
+* Here explaining runs out, for me and for everybody else. The materialist picture has the same edge: in the standard account the Big Bang is where space and time begin, so asking what came before it, or why it happened at all, leaves the question nowhere to stand. The axiom has its own version of that edge. It says that the whole experiences separation, and it can't really say why a whole would want to.
+* What I do have is a story Alan Watts used to tell, and I enjoy thinking about it this way. Watts was the British writer who spent his life explaining Eastern philosophy to Western audiences, and the talk is usually called "The Dream of Life." Suppose that every night you could dream any dream you wanted, and pack seventy-five years of experience into a single night. The first nights you would have every pleasure you could think of. After enough of those you would get tired of always knowing how it goes, so one night you would dream something you don't control, where things happen to you that you didn't plan. Each night you would hide a little more from yourself and take a bigger gamble, because the not knowing is where the excitement is. Keep going, Watts says, and eventually you would dream the life you are living today.
+* That's the second clause told as a story, and it makes the forgetting part of the fun. A dream like that only works if the dreamer forgets, and a whole that still remembered being whole would be wearing a costume and knowing it. So if you ask me why the whole would bother, that is my favorite answer: it got bored of knowing how everything ends.
+
 I'll hold it with a computer, because Part one admitted that I spent years in cyber security, so I can't help it. Picture one machine running thousands of programs. Each program gets its own private memory and believes it has the whole thing to itself. The operating system maps all of it onto the same physical chips, and the hardware enforces the walls, which is what keeps a random app away from your password manager. The walls are real, though engineers built them, and in 2018 the Meltdown and Spectre flaws showed that information could leak across. Underneath, there is one machine.
 
 Now picture the screen. Two windows sit in opposite corners, and there seems to be a distance between them. There is, on the screen. Both windows are computed on the same machine in the same moment, and the machine has never heard of that distance.
@@ -264,6 +270,7 @@ Where we part ways, and why the idea is worth a look
 
 The axiom and the machine
 
+- Watts, A. "The Dream of Life", a recorded talk; the audio circulates from the Alan Watts archive (alanwatts.org) and the collection Out of Your Mind (Sounds True). The retelling here is a paraphrase.
 - Lipp, M., et al. (2018). Meltdown. Kocher, P., et al. (2019). Spectre attacks: Exploiting speculative execution. IEEE Symposium on Security and Privacy.
 
 1. Separation is a way of looking

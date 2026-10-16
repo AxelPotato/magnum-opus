@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.25.0 (2026-10-16)
+
+- Part two: Alan Watts's Dream of Life moved to a fold under the axiom, 'But why would it do that?', next to the Big Bang as the place where explaining runs out
+
+
 ## 4.24.0 (2026-10-16)
 
 - Part two step 4 rewritten around the soul: one life is usually not enough, the process goes on after death or through rebirth, and either way the soul follows from the axioms; the Watts story and the reincarnation research dropped
