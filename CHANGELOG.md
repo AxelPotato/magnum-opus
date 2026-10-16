@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.25.2 (2026-10-16)
+
+- Part two: humour in steps 2 to 4 and the Watts fold (Alex's picks), and the Big Bang line softened to where our equations stop
+
+
 ## 4.25.1 (2026-10-16)
 
 - Part two step 4: Akiva named for the twelve months, the jiva and the Atman told apart, and the many-lives scheme marked as Alex's reading
