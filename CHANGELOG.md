@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.30.2 (2026-10-16)
+
+- Part one, One hose: the target is the reason to fix the hose at all; with nothing worth watering there is no reason to plug, open or aim
+
+
 ## 4.30.1 (2026-10-17)
 
 - Part two step 2: Avot numbering noted, and the reading of Akiva marked as the essay's own
