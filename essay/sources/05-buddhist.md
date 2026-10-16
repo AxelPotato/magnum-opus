@@ -486,3 +486,26 @@ Background: The sutta is the Buddha's own account, with no chariot rides and no 
 If someone pushes back:
 - 'The four sights are legend.' Agreed, and the essay says the biographies tell them. The sutta is the canonical account, in the Buddha's own voice.
 - 'This is about death, not about separation.' The trigger is the fact of death, and what changes is the direction of a life, from private comfort toward the search. The essay uses it for that turn.
+
+## Digha Nikaya 2 (Samannaphala Sutta) and Digha Nikaya 11 (Kevaddha Sutta): the psychic powers and the Buddha's view of them (Pali canon, Digha Nikaya, Long Discourses)
+
+Kind: text. Status: checked (Sujato's translations read on SuttaCentral, 2026-10-16).
+
+Who: Two long discourses. In DN 2 the Buddha tells King Ajatasattu what a contemplative gains, step by step. In DN 11 a householder, Kevaddha, asks him to have a monk perform a miracle to win over the town.
+
+In the essay: Part two, step 7, 'Miracles, or levels of knowledge': the list of powers (walking on water as if it were earth, flying cross-legged through the sky) and the warning (the Buddha is horrified by displays of psychic power and of reading minds, and values instruction).
+
+Where it sits: DN 2, the section on psychic powers among the fruits of the contemplative life. DN 11, the three demonstrations (psychic power, revealing, instruction).
+
+The passage: Sujato (CC0, quotable): 'multiplying themselves and becoming one again; materializing and dematerializing; going unobstructed through a wall, a rampart, or a mountain as if through space; diving in and out of the earth as if it were water; walking on water as if it were earth; flying cross-legged through the sky like a bird' (DN 2). 'Seeing this drawback in psychic power, I'm horrified, repelled, and disgusted by demonstrations of psychic power' (DN 11), and the same for revealing; the demonstration he praises is instruction.
+
+Read it free:
+- SuttaCentral, DN 2: https://suttacentral.net/dn2/en/sujato (read on 2026-10-16)
+- SuttaCentral, DN 11: https://suttacentral.net/dn11/en/sujato (read on 2026-10-16)
+
+Read it in a book: Maurice Walshe, The Long Discourses of the Buddha (Wisdom, 1995).
+
+Background: The drawback the Buddha names in DN 11 is that a sceptic can say the monk used a charm, so a display proves nothing and draws attention to the wrong thing. The monastic code also forbids monks from showing powers to lay people (the story of Pindola and the sandalwood bowl, from memory, not checked). So the canon describes the powers as real fruits of practice and treats showing them as a mistake, which is the essay's point.
+
+If someone pushes back:
+- 'Buddhists treat these as metaphors.' Some modern readers do; the texts present them as abilities and the commentaries discuss them as such. The essay does not need to settle it.

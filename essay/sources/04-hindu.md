@@ -434,3 +434,25 @@ Background: The list of 36 tattvas belongs to Shaiva tantra generally. What is d
 If someone pushes back:
 - Is this the same as the essay's four settings? It is a close old match, not an identical list. The essay's settings are four and the school's cloaks are five, and the essay names all five.
 - Is Kashmir Shaivism a mainstream Hindu view? It is one respected school among several. Advaita Vedanta is the better known non-dual school. The essay uses it as one witness and does not claim Hinduism as a whole teaches it.
+
+## Patanjali, Yoga Sutras 3.19, 3.37 and 3.39: the powers (vibhuti) and their place (the Yoga Sutras are usually dated to the early centuries CE)
+
+Kind: text. Status: checked (Johnston's 1912 translation read on Project Gutenberg, 2026-10-16).
+
+Who: The classical text of the yoga school. Book III, the Vibhuti Pada, describes the powers that come from concentration.
+
+In the essay: Part two, step 7: reading the thoughts of others (3.19), rising above water, mire and thorns (3.39), and the warning that these powers stand against the highest spiritual vision (3.37).
+
+Where it sits: Johnston's numbering, which differs by one or two from some editions (in many editions the obstacles sutra is 3.38 and the upward-breath sutra 3.40).
+
+The passage: Johnston (public domain): '19. By perfectly concentrated Meditation on mind-images is gained the understanding of the thoughts of others.' '37. These powers stand in contradistinction to the highest spiritual vision. In manifestation they are called magical powers.' '39. Through mastery of the upward-life comes freedom from the dangers of water, morass, and thorny places, and the power of ascension is gained.'
+
+Read it free:
+- Project Gutenberg, The Yoga Sutras of Patanjali (Johnston): https://www.gutenberg.org/ebooks/2526 (read on 2026-10-16)
+
+Read it in a book: Edwin Bryant, The Yoga Sutras of Patanjali (North Point Press, 2009), with the classical commentaries.
+
+Background: The usual reading of the obstacles sutra is that the powers are perfections from the point of view of the outgoing mind and obstacles from the point of view of samadhi. Johnston is a Theosophically minded translator, so check his glosses against Bryant before quoting them; the sutra wording itself is the standard sense.
+
+If someone pushes back:
+- 'Patanjali promises powers.' He describes them and then says not to stop at them, which is what the essay says.

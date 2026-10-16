@@ -79,6 +79,8 @@ Every person, text or study the essay cites should have an entry here, and every
 - Richard Bach, Jonathan Livingston Seagull (1970), speed as an image [text, unchecked; removed from the essay in 4.13.0]
 - Alan Watts, "The Dream of Life", the dreamer who hides the dream from himself [talk, partly checked]
 - Mencius (Mengzi) 2A:2, the vast, flowing qi [text, checked]
+- Konkordia Antarova, Two Lives: no miracles, only levels of knowledge [text, checked]
+- Friedrich Nietzsche, the Übermensch [concept, unchecked]
 
 ### Hindu sources (`04-hindu.md`)
 
@@ -98,6 +100,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Dvija, the twice-born (Hindu second birth) [concept, checked]
 - Karma, rebirth and the atman in Hindu teaching (theistic schools and Advaita) [concept, partly checked]
 - Kashmir Shaivism: the five cloaks (kancukas) and recognition [tradition, partly checked]
+- Patanjali, Yoga Sutras 3.19, 3.37 and 3.39: the powers [text, checked]
 
 ### Buddhist sources (`05-buddhist.md`)
 
@@ -119,6 +122,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Dogen (1200 to 1253) and 'dropping off body and mind' [person, partly checked]
 - Nirvana, and the bodhisattva who returns to the marketplace (Ten Ox-Herding Pictures) [concept, partly checked]
 - Anguttara Nikaya 3.39, the Sukhumala Sutta (a delicate lifestyle) and the four sights [text, checked]
+- Digha Nikaya 2 and 11: the psychic powers and the Buddha's view of them [text, checked]
 
 ### Jain, Sikh, Druze and Daoist sources (`06-jain-sikh-druze-daoist.md`)
 
@@ -193,6 +197,8 @@ Every person, text or study the essay cites should have an entry here, and every
 - The Christian mystics and union with God (McGinn and the specialist objections) [tradition, partly checked]
 - One life, resurrection and judgment (Hebrews 9:27; Catechism 1013) [concept, unchecked]
 - Augustine, Confessions 1.1 ('our heart is restless until it rests in you') [text, checked]
+- Matthew 14:25-29 and 12:38-39 [text, checked]
+- Teresa of Avila, The Life, chapter 20 [text, checked]
 
 ### Islamic sources (`09-islamic.md`)
 

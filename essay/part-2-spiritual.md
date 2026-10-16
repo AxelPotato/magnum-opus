@@ -197,6 +197,31 @@ Letting go is how the wheel opens, which is why so many traditions describe the 
 * In the Buddha's instructions on breathing, one step is to breathe in and out contemplating relinquishment (Majjhima Nikaya 118). In the Sallatha Sutta he says that an untrained person feels two pains, the physical one and the mental one added on top, while a trained disciple feels only the first.
 * Mencius, the Chinese philosopher Wang Yangming took the child at the well from, told a student that he himself was good at nourishing his vast, flowing qi. It is exceedingly great and strong, he said, and when it is nourished by rightness and left unharmed, it fills everything between heaven and earth. It grows out of a long run of right deeds, and when the heart is not at ease with what you do, it starves (Mencius 2A:2).
 
+## 7. Miracles, or levels of knowledge
+
+My own road started with something I couldn't explain. It was May 2012, two months before my nineteenth birthday, and I was a convinced materialist. I read psychology and physics, I believed that the physical world was all there is, and my philosophy of choice was Nietzsche's idea of the Übermensch, the closest thing I had found to an answer to the question of why bother living. My mom had just received her second level of Reiki, the Japanese practice of healing by touch or at a distance, and she asked whether she could give me a session from a distance. I told her I didn't believe in any of it, which wasn't news to her, and said yes anyway, because I wanted to be a nice son who lets his mom practice. She was in the kitchen and I was in my room. While she worked, I started to feel things in my body that I had never felt before, a kind of squishing in my head and a heaviness in my chest. I didn't feel better afterwards, so I can't say it healed anything. I just had no way to explain it.
+
+That night I lay in bed and tried. Placebo was the obvious answer, and it didn't fit. Nobody had told me I would feel anything, I didn't believe in it, and the sensations were new to me, so there was nothing for my mind to copy. The longer I lay there, the clearer it got that my worldview wasn't missing a piece. Its basic assumptions said that this couldn't happen at all, and it had just happened. So the worldview had to be wrong. The next morning I told my mom to take me to the person who had taught her, because I had some questions. That was the beginning of my road.
+
+Every tradition keeps a list of things like that, and the lists are remarkably alike. Healing, by touch and at a distance. Reading minds. Seeing and hearing what is far away. Remembering past lives. Walking on water. Floating, or flying outright. Walking through walls. Being in two places at once. Feeding a crowd from a basket. Calming a storm. Going without food or sleep, and staying warm in freezing cold. The Buddhist discourses list walking on water as if it were earth and flying cross-legged through the sky, the Gospels have Jesus walking on the sea, Patanjali's Yoga Sutras have reading the thoughts of others and rising above water and mire, and Catholic records tell of saints who were seen to float.
+
+Let me be clear about what I'm doing here, because this is the most controversial step in the essay. I'm not trying to prove that any of these things happen, and I don't even have that goal. My claim is smaller and, I think, more interesting: the axiom leaves room for them, and the materialist view of separation leaves none. If the world is made of separate things and a mind is something a brain does, then knowing what is in another head without being told, or moving something without touching it, breaks the rules the view is built on. So every report has to be filed under something else before anybody looks at it: illness, lying, luck, a bad memory, Photoshop. A careful sceptic says something fairer, that they don't rule it out and just want evidence as strong as the claim. I agree with that sceptic. It is exactly where I was, lying in bed in 2012, and the honest conclusion I came to wasn't that Reiki is proven. It was that my assumptions were wrong.
+
+Under the axiom it looks different, and step 2 has already done most of the work. The whole turned down four settings for each point of view: what it can know, what it can do, its clock and its need. In this picture a miracle is one of those settings turned up a little. Reading minds and seeing at a distance are the knowing setting. Every mind runs on the same machine, and the axiom section already mentioned that information can leak across the walls between programs, so a thinner wall leaks more. Healing, walking on water and floating are the doing setting. The far is part of the same whole, and the admin rights from step 6 let a program write where it couldn't write before. Going without food or sleep, and staying warm in the cold, is the need setting turned down, since a part that feels less lack needs less from outside. Step 6 also says why any of it would happen: more of the whole flows through a part that holds less wall.
+
+Konkordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge. That is this whole step in one sentence.
+
+There is a catch, and the traditions agree about it more than about almost anything else. Nearly every one that describes these powers also warns against chasing them. Patanjali lists them and then says they stand in the way of the highest vision. The Buddha said that displays of psychic power horrified him, and that the miracle he valued was instruction. Jesus refused to give a sign to people who demanded one. Teresa of Avila, who was seen lifted off the ground, begged God to stop giving her favors that other people could see. My teacher says exactly the same: the powers are side effects of an inner state, and getting carried away by them ends badly. Chasing them is the separate self wanting more for itself, which is the tank from step 6 again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
+
+#### Powers on the way, and warnings about them
+
+* The Buddha's discourse on the fruits of the contemplative life lists the psychic powers of a trained monk: multiplying oneself and becoming one again, going through a wall as if through space, walking on water as if it were earth, and flying cross-legged through the sky like a bird (Digha Nikaya 2). In another discourse he names three kinds of demonstration, psychic power, reading minds and instruction, and says that he is horrified by displays of the first two and values the third (Digha Nikaya 11).
+* Patanjali's Yoga Sutras give a whole chapter to powers. Concentration on the images in the mind brings understanding of the thoughts of others (3.19), and mastery of the upward life brings freedom from water, mire and thorns, and rising up (3.39). In between he says that these powers stand against the highest spiritual vision (3.37). Numbering varies a little between translations.
+* In Matthew's gospel Jesus walks on the sea, and for a moment Peter walks on the water too (14:25-29). When the scribes and Pharisees ask him for a sign, he answers that an evil and adulterous generation seeks for a sign (12:38-39).
+* Teresa of Avila writes in her Life that her body was sometimes lifted up from the ground in rapture, that she ordered her nuns never to speak of it, and that she asked God to give her no more of the graces that could be seen from outside (chapter 20).
+
+One thing is missing from this list on purpose: seeing the future. It has its own explanation, and the short version is that there is no future to see, only now. That one I'd rather talk through with you in person.
+
 ## One more idea: how far the road goes
 
 That is the end of the chain. One more idea sits next to it, and it is a different kind of thing: a map of how far the road goes. It doesn't follow from the axiom the way the steps do. It comes from experience, mine and that of people further along, and from the staged maps the traditions drew long ago, a few of which are at the end of this section. Part one's chart reads differently from here.
@@ -322,6 +347,15 @@ The axiom and the machine
 - Einstein, A. (1905). Does the inertia of a body depend upon its energy content? Annalen der Physik, 18, 639-641.
 - Mencius 2A:2, translated by Legge, J., The Works of Mencius (The Chinese Classics, vol. II).
 - The Baal Shem Tov on Psalm 16, and bittul, in the Hasidic tradition. Philippians 2:5-8. Eckhart, German sermons (Walshe's translation, revised by McGinn). Majjhima Nikaya 118. Samyutta Nikaya 36.6 (the Sallatha Sutta).
+
+7. Miracles, or levels of knowledge
+
+- Antarova, K. E. Two Lives (Две жизни), Part I: «нет чудес, а есть та или иная степень знания». The English is the author's own translation.
+- Nietzsche, F. (1883-1885). Thus Spoke Zarathustra (the Übermensch).
+- Digha Nikaya 2 (the Samannaphala Sutta) and Digha Nikaya 11 (the Kevaddha Sutta), Sujato's translations (SuttaCentral).
+- Patanjali, Yoga Sutras 3.19, 3.37 and 3.39, numbered as in Johnston, C. (1912), The Yoga Sutras of Patanjali: The Book of the Spiritual Man.
+- Matthew 14:25-29 and 12:38-39.
+- Teresa of Avila, The Life of St. Teresa of Jesus, chapter 20 (Lewis, D., trans., 1904).
 
 One more idea: how far the road goes
 

@@ -402,3 +402,26 @@ Background: Qi is the Chinese word for breath, vapour and the vital energy that 
 If someone pushes back:
 - 'Mencius means moral courage, not a cosmic energy.' Both readings are old. He speaks of qi that fills everything between heaven and earth, and he ties it to conduct. The essay quotes what he says and leaves the reading open.
 - 'Legge says passion nature, not qi.' That is Legge's 1890s choice for qi; modern translators keep the word qi or say vital energy.
+
+## Konkordia Antarova, Two Lives (Две жизни): 'there are no miracles, only different levels of knowledge' (Antarova 1886-1959, opera singer at the Bolshoi; the novel was written in the 1920s to 1950s and first published in the 1990s)
+
+Kind: text. Status: checked (the line located in an online copy of Part I, 2026-10-16; the printed edition was not opened).
+
+Who: A Russian singer and writer. Two Lives is a long mystical novel about a young man, Levushka, and the teachers he travels with.
+
+In the essay: Part two, step 7: 'Konkordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge.' The English is Alex's own.
+
+Where it sits: Part I, the train journey, after the Florentine comforts the conductor: «Право же, на свете нет чудес. Все объясняется очень просто», and a few lines later «...нет чудес, а есть та или иная степень знания».
+
+Read it free:
+- The Russian text is widely available online; LiveLib lists the quote: https://www.livelib.ru/quote/532389-dve-zhizni-chast-i-k-e-antarova (read on 2026-10-16)
+
+Background: The book is popular in Russian-speaking spiritual circles; the essay cites only the line and the novel, as a favorite book of the author's.
+
+## Friedrich Nietzsche, the Übermensch (Thus Spoke Zarathustra, 1883-1885)
+
+Kind: concept. Status: unchecked (biographical mention only).
+
+In the essay: Part two, step 7: in 2012 the author's 'philosophy of choice was Nietzsche's idea of the Übermensch, the closest thing I had found to an answer to the question of why bother living.' It describes the author, not an argument.
+
+Read it in a book: Nietzsche, Thus Spoke Zarathustra, translated by Graham Parkes (Oxford World's Classics, 2005).

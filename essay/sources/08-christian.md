@@ -705,3 +705,29 @@ Background: The line is the thesis of the whole book. The books that follow tell
 If someone pushes back:
 - 'Augustine means a personal God, not a whole.' Yes, and the essay does not say otherwise. It cites him for the shape of the experience: made for something, restless until you turn toward it.
 - 'Augustine also taught one life and original sin.' True, and the essay's lives step does not cite him.
+
+## Matthew 14:25-29 (walking on the sea) and 12:38-39 (no sign on demand) (The Gospel of Matthew, about AD 80-90)
+
+Kind: text. Status: checked (ESV read on Bible Gateway, 2026-10-16).
+
+In the essay: Part two, step 7: Jesus walks on the sea and Peter walks on the water for a moment; when the scribes and Pharisees ask for a sign, he answers that an evil and adulterous generation seeks for a sign.
+
+The passage (ESV): 'And in the fourth watch of the night he came to them, walking on the sea.' ... 'So Peter got out of the boat and walked on the water and came to Jesus.' (14:25-29) 'An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah.' (12:39)
+
+Read it free:
+- Bible Gateway, Matthew 14 and 12 (ESV): https://www.biblegateway.com/passage/?search=Matthew+14&version=ESV (read on 2026-10-16)
+
+Background: The gospels tell of many signs and also show Jesus refusing to perform on demand, here and in the temptation in the wilderness (Matthew 4). The essay uses both sides: the powers are described, and the demand for them is refused.
+
+## Teresa of Avila, The Life, chapter 20 (raptures, levitation, and asking for no outward graces) (Teresa 1515-1582; the Life was finished about 1565)
+
+Kind: text. Status: checked (David Lewis's translation read on Project Gutenberg, 2026-10-16).
+
+In the essay: Part two, step 7: Teresa, who was seen lifted off the ground, begged God to stop giving her favors that other people could see; in the fold, that she ordered her nuns never to speak of it.
+
+The passage (Lewis, public domain): '...and now and then the whole body as well, so that it was lifted up from the ground.' 'I commanded the nuns ... never to speak of it.' 'I made many supplications to our Lord, that He would be pleased to give me no more of those graces which were outwardly visible.'
+
+Read it free:
+- Project Gutenberg, The Life of St. Teresa of Jesus (Lewis): https://www.gutenberg.org/ebooks/8120 (read on 2026-10-16)
+
+Background: Teresa distinguishes union from rapture in this chapter and treats the bodily effects as the least important part. Her embarrassment and her request are the clearest Christian statement of the essay's warning: the outward signs are side effects and a distraction.
