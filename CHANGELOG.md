@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.29.1 (2026-10-17)
+
+- Part two step 7: the Reiki story without dates or pronouns for the people in it
+
+
 ## 4.29.0 (2026-10-17)
 
 - Part two: step 7, Miracles, or levels of knowledge: Alex's 2012 Reiki story, the powers as step 2's lowered settings turned up, Antarova's line, the traditions' and his teacher's warning, and a teaser on seeing the future
