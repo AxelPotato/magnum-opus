@@ -300,8 +300,7 @@ def fig_chain():
         ('The turn', 'at the bottom point the signal flips toward home', ['from clause 3,', 'and step 2']),
         ('Something carries over', 'one life is not enough, so a soul must carry it', ['from clause 3,', 'and step 3']),
         ('Karma, or the fingers', 'nobody else to harm; the mirror shows the cost', ['from clause 1,', 'carried by step 4']),
-        ('Coming home, and repair', 'mend the fingers, turn back toward the source', ['from steps 3 and 5']),
-        ('The return, in stages', 'a gradual road with an end, in stages', ['from steps 4 and 6,', 'and clause 3']),
+        ('Energy', 'less wall to hold, and more of the whole flows through', ['from clause 1,', 'steps 2 and 3']),
     ]
     y0, h, gap = 112, 62, 24
     prev_bottom = 86
@@ -315,7 +314,7 @@ def fig_chain():
         for k, tg in enumerate(tags):
             b.append(T(490, y + 28 + k * 17, tg, 'small b'))
         prev_bottom = y + h
-    return svg('0 0 680 %d' % (prev_bottom + 14), 'A chain of seven steps, each following from the one before and from a clause of the axiom: separation is a way of looking, how a whole turns itself down, the turn, something carries over, karma, coming home and repair, and the return in stages', ''.join(b), u)
+    return svg('0 0 680 %d' % (prev_bottom + 14), 'A chain of six steps, each following from the one before and from a clause of the axiom: separation is a way of looking, how a whole turns itself down, the turn, something carries over, karma, and energy', ''.join(b), u)
 
 
 # ------------------------------------------------------------------ the table: same structure, different words
