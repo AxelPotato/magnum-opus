@@ -2,7 +2,7 @@
 
 Not part of the essay. For every person, text, study and tradition that Part two cites (and a few it only implies), an entry that lets Alex read the source himself and talk about it: who they are, the exact place the essay leans on, a free place to read it where one exists, the best book edition, and background for discussion, including what scholars add and what to say if someone pushes back.
 
-Built on 2026-10-08 by ten agents from the final essay (v2.3.0), the claim check in `essay/research/CHECKLIST.md` and the research files. 185 entries, 720 links. Two entries were added for v4.22.0 (step 2 rewritten), with links from search results. Four were added for the new step 3, 'The turn' (AN 3.39, Ecclesiastes 2, Augustine's Confessions 1.1, Rumi's reed), each read on a primary text page on 2026-10-16.
+Built on 2026-10-08 by ten agents from the final essay (v2.3.0), the claim check in `essay/research/CHECKLIST.md` and the research files. 185 entries, 720 links. Two entries were added for v4.22.0 (step 2 rewritten), with links from search results. Four were added for the new step 3, 'The turn' (AN 3.39, Ecclesiastes 2, Augustine's Confessions 1.1, Rumi's reed), each read on a primary text page on 2026-10-16. In v4.24.0 step 4 was rewritten around the soul: Eduyot 2:10 and Quran 23:100 are cited again, and the entries for Alan Watts, Ian Stevenson and Jim Tucker, Gaudapada and the Tibetan Book of the Dead are no longer cited and stay as private context for discussion.
 
 ## How reliable it is
 

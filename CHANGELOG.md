@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.24.0 (2026-10-16)
+
+- Part two step 4 rewritten around the soul: one life is usually not enough, the process goes on after death or through rebirth, and either way the soul follows from the axioms; the Watts story and the reincarnation research dropped
+
+
 ## 4.23.2 (2026-10-16)
 
 - Part two step 3: happiness and emptiness as the closest thing we have to a compass (Alex's request)
