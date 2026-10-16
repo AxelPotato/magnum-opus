@@ -426,3 +426,19 @@ Kind: concept. Status: unchecked (biographical mention only).
 In the essay: Part two, step 7: in 2012 the author's 'philosophy of choice was Nietzsche's idea of the Übermensch, the closest thing I had found to an answer to the question of why bother living.' It describes the author, not an argument.
 
 Read it in a book: Nietzsche, Thus Spoke Zarathustra, translated by Graham Parkes (Oxford World's Classics, 2005).
+
+## Giovanni Pico della Mirandola, Oration on the Dignity of Man (1486): no fixed seat (Pico 1463-1494)
+
+Kind: text. Status: checked (the Latin read on Latin Wikisource, 2026-10-16).
+
+In the essay: Part two, step 2, fold 'Foreseen, and still chosen': God tells Adam he was given no fixed seat, no face of his own and no special gift, so that he could have whatever he chose; every other creature is bound by set laws, and Adam alone decides his own nature by his own free choice.
+
+The passage (Latin): «Nec certam sedem, nec propriam faciem, nec munus ullum peculiare tibi dedimus, o Adam, ut quam sedem, quam faciem, quae munera tute optaveris, ea, pro voto, pro tua sententia, habeas et possideas. Definita caeteris natura intra praescriptas a nobis leges cohercetur. Tu, nullis angustiis cohercitus, pro tuo arbitrio, in cuius manu te posui, tibi illam prefinies.»
+
+Read it free:
+- Latin Wikisource, Oratio de hominis dignitate: https://la.wikisource.org/wiki/Oratio_de_hominis_dignitate (read on 2026-10-16)
+- The Pico Project at Brown University has an English translation online (not checked).
+
+Read it in a book: Pico della Mirandola, Oration on the Dignity of Man: A New Translation and Commentary, edited by Borghesi, Papio and Riva (Cambridge University Press, 2012).
+
+Background: Pico wrote the speech to open a public debate in Rome on 900 theses, which the pope blocked. The passage is the most quoted Renaissance statement of human freedom. He was a Christian Platonist, so the freedom is given by God, which matches the essay's 'handed over' reading.

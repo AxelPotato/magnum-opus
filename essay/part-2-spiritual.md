@@ -92,6 +92,12 @@ Your own body does it too. Almost every cell in it carries the complete plan for
 
 Turning the settings down is half of it. The other half is the world the point of view looks out at. A part with fewer settings could still suspect that it belongs to something bigger, unless everything it touches tells it otherwise. So the whole builds the experience of separation to be convincing. Every body hurts on its own, every object has an edge, every life has its own bills and its own birthday, and every time you check, all of it agrees that you are in here and the rest is out there. The traditions call this lila, the play from step 1, or maya, the appearance. It is made so well that the whole, looking through it, starts to believe it. Nothing in it is broken. We are still one, and we built a world that is very good at helping us forget it. Honestly, it is the best software ever shipped. Zero bug reports, mostly because nobody can find the support page.
 
+There is one more thing the whole has to do, and without it none of the rest would work. Picture a part with every setting turned down, inside the most convincing world you can imagine, and still running a script the whole wrote in advance. That part isn't separate at all. It is the whole reading a story to itself, a well-prepared plan that just executes. For the separation to be real, the whole has to hand over the steering, and that is free will, the biggest unknown it could give itself. Watts's dream, in the fold under the axiom, says the same thing: on the night you get tired of knowing how it goes, you dream something you don't control.
+
+A game makes the difference easy to see. Under the materialist view from the start of this part, a person is an NPC, a character the game moves by itself. Everything it says and does comes from the code and from what happened just before. It can feel like choosing, but nobody is holding the controller. Some thinkers keep the word free for the NPC by redefining it as not being forced from outside, and that is fair, though it isn't what anyone means when they feel themselves decide. Under the axiom you are a player's character. The game sets the rules, the board and what every move costs, and someone really is holding the controller: the whole, at your position, with the steering handed over on purpose. NPCs don't level up. Players do.
+
+Free inside the rules is still free. You don't choose the rules, the board or the price of a move, and you do choose the moves. The steps that follow put a lot of machinery around a person: a drift, a signal that flips, lessons that keep coming back. None of it forces anything. It makes one direction feel better and shows where the work is, and you can ignore it for a whole life, or for several. If the return were forced, the separation would never have been real in the first place. Spinoza, whom I quoted at the start as a witness for the one substance, disagrees here. He held that people think themselves free only because they know their own actions and not the causes behind them. On this point the axiom parts ways with him.
+
 The body holds the limits in place. The belief that I'm separate is held as tension, and the felt edge of me is the wall. Clench a fist and you feel like a small hard object among other objects, and when you loosen it the feeling softens.
 
 That also explains a pull most of us know. A world built to help a whole forget keeps doing its job, so the default direction is toward more separation. Do nothing in particular and you end up a little more separate every year, more guarded and more sure of where you end. Give it enough years and you become the guy who starts every sentence with "back in my day". I can feel it starting already. Settings that were lowered stay lowered, and nothing in the program's own routine raises them. On its own the drift only goes one way, so something else has to start the return.
@@ -104,6 +110,13 @@ That also explains a pull most of us know. A world built to help a whole forget 
 * Kashmir Shaivism, a school of Hindu philosophy whose name, Pratyabhijna, means recognition, teaches that the One narrows itself into a person through five cloaks: limited power to act, limited knowledge, a sense of lack that makes us reach for things, time, and a fixed order of cause and place. Its short text, the Pratyabhijnahrdayam, presents the path as recognizing what you are.
 * Isaac Luria, the sixteenth-century Kabbalist of Safed, taught tzimtzum: the Infinite withdraws into itself to leave a space in which a world can exist.
 * In the Chandogya Upanishad (6.13) a father has his son put salt in water and come back the next morning. The salt can't be seen, and it is in every sip. Then comes the refrain from 6.8.7: that is the self, and you are that.
+
+#### Foreseen, and still chosen
+
+* In the Mishnah, Rabbi Akiva says that everything is foreseen, and freedom of choice is given (Avot 3:15). That is this whole point in one line: the whole sees everything and still hands over the steering.
+* In the Bhagavad Gita, after teaching Arjuna everything, Krishna tells him to meditate on it and then act as he wishes (18:63).
+* The Quran tells the Prophet to say that the truth is from the Lord, so whoever wills, let him believe, and whoever wills, let him disbelieve (18:29).
+* Pico della Mirandola, the fifteenth-century Italian thinker, has God tell Adam in the Oration on the Dignity of Man that he was given no fixed seat, no face of his own and no special gift, so that he could have whatever seat, face and gifts he chose. Every other creature is bound by laws set for it, and Adam alone decides his own nature by his own free choice.
 
 ## 3. The turn
 
@@ -320,6 +333,8 @@ The axiom and the machine
 - Hanahan, D., & Weinberg, R. A. (2000). The hallmarks of cancer. Cell, 100(1), 57-70.
 - Ephesians 4:18. Quran 7:172. The Buddhist teaching of the ten fetters, the first of which is the belief in a permanent personal self. Tattvartha Sutra, chapter 8 (karma as the veil on the soul's knowledge).
 - Kshemaraja, Pratyabhijnahrdayam (Singh, J. (1963), Pratyabhijnahrdayam: The Secret of Self-Recognition, Motilal Banarsidass). Scholem, G. (1941). Major Trends in Jewish Mysticism, lecture 7, on Isaac Luria and tzimtzum. Chandogya Upanishad 6.13 and 6.8.7.
+- Spinoza, B. Ethics, Part II, proposition 35, scholium (Elwes's translation). Mishnah, Avot 3:15. Bhagavad Gita 18:63 (Arnold, E., The Song Celestial, 1885). Quran 18:29.
+- Pico della Mirandola, G. (1486). Oration on the Dignity of Man (Oratio de hominis dignitate), the Latin text on Latin Wikisource.
 
 3. The turn
 

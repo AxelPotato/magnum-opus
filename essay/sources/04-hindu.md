@@ -456,3 +456,16 @@ Background: The usual reading of the obstacles sutra is that the powers are perf
 
 If someone pushes back:
 - 'Patanjali promises powers.' He describes them and then says not to stop at them, which is what the essay says.
+
+## Bhagavad Gita 18:63 ('then do as you wish') (the Gita is usually dated to the last centuries BCE)
+
+Kind: text. Status: checked (Arnold's translation, The Song Celestial, read on Project Gutenberg, 2026-10-16).
+
+In the essay: Part two, step 2, fold 'Foreseen, and still chosen': after teaching Arjuna everything, Krishna tells him to meditate on it and then act as he wishes (18:63).
+
+The passage: Arnold (public domain): 'Thus hath been opened thee / This Truth of Truths, the Mystery more hid / Than any secret mystery. Meditate! / And--as thou wilt--then act!'
+
+Read it free:
+- Project Gutenberg, The Song Celestial (Arnold): https://www.gutenberg.org/ebooks/2388 (read on 2026-10-16)
+
+Background: The verse comes right at the end of the teaching. Commentators note that Krishna, having given his whole instruction, leaves the decision to Arjuna, and only after that gives his final, most personal counsel (18:64-66).

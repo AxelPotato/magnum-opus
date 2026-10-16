@@ -640,3 +640,18 @@ Background: The Hebrew word translated 'vanity' is hevel, literally a breath or 
 If someone pushes back:
 - 'Ecclesiastes is about the limits of human wisdom, not about oneness.' Agreed. The essay uses it only for the emptiness at the height of success, which is what 2:4-11 describes.
 - 'It is pessimism.' The book holds its pessimism next to joy and next to God. The essay quotes the turn, and the book's own answer looks beyond what the hands can make.
+
+## Mishnah Avot 3:15 (Rabbi Akiva: everything is foreseen, and freedom of choice is given) (Mishnah edited around 200 CE; Rabbi Akiva died about 135 CE)
+
+Kind: text. Status: checked (Sefaria's English read on 2026-10-16).
+
+In the essay: Part two, step 2, fold 'Foreseen, and still chosen': everything is foreseen, and freedom of choice is given; the whole sees everything and still hands over the steering.
+
+Where it sits: Pirkei Avot 3:15 (3:19 in some numberings).
+
+The passage: Sefaria: 'Everything is foreseen yet freedom of choice is granted, And the world is judged with goodness; And everything is in accordance with the preponderance of works.'
+
+Read it free:
+- Sefaria, Pirkei Avot 3:15: https://www.sefaria.org/Pirkei_Avot.3.15 (read on 2026-10-16)
+
+Background: The classic Jewish statement of the paradox of foreknowledge and free will. Maimonides discusses it in his laws of repentance (chapter 5), holding both sides and saying that God's knowledge is not like ours. The essay uses it as the shortest statement of the step's point.
