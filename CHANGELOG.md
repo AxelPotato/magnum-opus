@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.42.0 (2026-10-17)
+
+- Part two, step 7: the paragraph "The machine has its own version." is cut (your run-7 pick 9.4). It said a program that stops acting as a separate process gets wider permissions from the operating system, up to administrative rights, and called that an incident. The printer joke in step 8 stands on its own, and step 8 no longer points at this paragraph since the last release. The text without this release is 4.41.18. Notes for Alex updated
+
+
 ## 4.41.18 (2026-10-17)
 
 - Part two, step 8: three sentences are cut from the paragraph on what a miracle is under the axiom (your run-7 pick 9.3, option b): "Every mind runs on the same machine, and the axiom section already mentioned that information can leak across the walls between programs, so a thinner wall leaks more.", "The far is part of the same whole, and the admin rights from step 7 let a program write where it couldn't write before." and "Going without food or sleep, and staying warm in the cold, is the need setting turned down, since a part that feels less lack needs less from outside." The text without this release is 4.41.17. Notes for Alex updated
