@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.16 (2026-10-17)
+
+- Part two, step 8: the step from your Reiki night changes (your run-7 pick 9.1, option c). "So the worldview had to be wrong." becomes "That was enough to send me looking.", and the placebo sentences ("Placebo was the obvious answer, and it didn't fit. Nobody had told me I would feel anything, I didn't believe in it, and the sensations were new to me, so there was nothing for my mind to copy.") are cut. The story, and your conclusion next to the careful sceptic, stay. The text without this release is 4.41.15. Notes for Alex updated
+
+
 ## 4.41.15 (2026-10-17)
 
 - Part three, section 8: "...which is a large part of why section 7 exists" is cut, so the sentence ends "The others are learned with a person who can see what you're doing." (your run-7 pick 8.3). The text without this release is 4.41.14. Notes for Alex updated
