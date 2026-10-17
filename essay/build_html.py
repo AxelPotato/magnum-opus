@@ -477,6 +477,9 @@ details.say-fold summary::before{content:"+";display:inline-block;width:1rem;tex
 details.say-fold[open] summary::before{content:"\2212"}
 details.say-fold summary:hover{color:var(--ink)}
 details.say-fold .say{margin-top:.4rem}
+.say li.grp{list-style:none;margin:1.3rem 0 .6rem -1.15rem;padding-left:0;font-family:var(--mono);font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.say li.grp:first-child{margin-top:.3rem}
+details.say-fold .say-close{margin:1.2rem 0 .6rem}
 @media print{details.say-fold>*{display:block}}
 .say li{margin-bottom:.7rem;padding-left:.2rem}
 .say li::marker{color:var(--muted)}
@@ -572,6 +575,9 @@ def convert(md, R):
             room = {'Default': 'default', 'Driven': 'driven', 'Drifting': 'drifting', 'High agency': 'high'}.get(t, 'default')
             out.append(f'<h3 class="room {room}"><span class="dot"></span>{smart(t)}</h3>')
             continue
+        if b.startswith('  ') and out and out[-1].endswith('</ul></details>'):  # an indented paragraph closes the fold above it
+            out[-1] = out[-1][:-len('</details>')] + f'<p class="say-close">{smart(b.strip())}</p></details>'
+            continue
         if fold_title and not b.startswith('* '):  # a heading with no list under it stays a heading
             out.append(f'<h4>{smart(fold_title)}</h4>')
             fold_title = None
@@ -580,7 +586,8 @@ def convert(md, R):
             continue
         if b.startswith('* '):
             n = sum(1 for l in b.split('\n') if l.startswith('* '))
-            lis = ''.join(f'<li>{smart(l[2:])}</li>' for l in b.split('\n') if l.startswith('* '))
+            lis = ''.join(f'<li class="grp">{smart(l[2:])}</li>' if l.endswith(':') else f'<li>{smart(l[2:])}</li>'  # a bullet ending in a colon labels the ones after it
+                          for l in b.split('\n') if l.startswith('* '))
             if fold_title:
                 if fold_title.startswith('What the studies'):
                     label = f'{fold_title} ({n} {"study" if n == 1 else "studies"})'

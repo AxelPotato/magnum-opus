@@ -1,5 +1,24 @@
 # Part three: Practical
 
+Part three is for those who feel they have crossed the bottom point of most separation, which Part two called the turn, and who want to begin the journey back to unity.
+
+#### What if I'm not sure?
+
+* From the outside:
+* For driven people it is usually a crash: burnout, a body that stops cooperating, or a depression that lands right after the goal is reached.
+* Something happens to someone close, a relative in the hospital or a partner's betrayal. Values shift, and for some people that is where this begins.
+* Sometimes there is nothing left to try. The founder in Part one kept building up tension until the old way stopped working, and out of options went on a retreat.
+* Some meet someone who has what they want. My teacher did in his teens, and what he saw in those people gave him a huge wish to know what they knew.
+* For one friend of mine it was a single talk. After years of trying everything spiritual, my friend decided it was all nonsense and went into business, and within months felt empty. One talk by my teacher was enough to sense at once that the point was the middle of Part one's chart, letting go and action together.
+* From the inside:
+* Some start with questions, the kind that ask why things are the way they are and why we are the way we are. Mine began in my teens and turned into a search.
+* Some feel an emptiness that results can't reach. For me it showed up whenever I had time to myself, and it made the weekends the worst part of the week.
+* Others have nothing to complain about. Nothing crashed and everything works, and a quiet question shows up anyway: is this all there is?
+* Some reach a plateau, years of calm and comfort with nothing changing, until the calm itself starts to feel pointless.
+* And some only feel that something is off. They can't say what, and there is no event to point at.
+
+  It makes no difference whether a person comes through the outside or the inside. Some understand with the mind that this is what they need. Others don't understand it at first, but they feel it, or they feel that something is not right. Each of the eight billion people alive is unique, and so is the way each of them arrives. How someone comes to this has no effect on how ready they are for it. One of the students I take a lot of personal example from started because sleep would not come. That was the only reason meditation mattered to begin with, and the idea itself met years of resistance. Today I count that student among the most exemplary people I know.
+
 ## Two things a life needs
 
 Anything that moves needs two things: energy and direction. A car with plenty of fuel and no steering is a bomb with a radio. A car with a perfect map and no fuel is a very well informed parked car.

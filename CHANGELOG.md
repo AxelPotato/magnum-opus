@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.34.0 (2026-10-17)
+
+- Part three opens with who it is for and a fold, 'What if I'm not sure?' (7.2). The sentence: Part three is for those who feel they have crossed the bottom point of most separation, which Part two called the turn, and who want to begin the journey back to unity. The fold lists how people started, from the outside (a crash, something close to home, the old way running out, meeting someone who has what you want, one talk) and from the inside (questions, an emptiness results cannot reach, flatness in a good life, a plateau, a feeling that something is off). It closes with the point that the way a person comes has no effect on how ready they are, with the student who started because sleep would not come. Every example is already in the essay or in what Alex said. The page builder gets two small rules for it: a bullet ending in a colon is a label, and an indented paragraph closes the fold above it. The text without this release is 4.33.4. Notes for Alex updated
+
+
 ## 4.33.4 (2026-10-17)
 
 - Part two, 'Why I want this': Alex's goal in his own words (7.1). He wishes to obtain knowledge of who he is and what it means to exist, and to share it with other people in a way that is effective and understandable, so that it benefits their lives and makes them happier. The sentence ends as before, 'That is my point of support, the thing I live for that is bigger than me.' Part three echoes it: section 1 says 'happier lives' for 'fuller lives', and section 2 says what the point of support is. The text without this release is 4.33.3. Notes for Alex updated
