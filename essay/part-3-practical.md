@@ -103,7 +103,7 @@ Inner work done only for yourself can go in a circle. You improve your own state
 
 ## 5. The team
 
-A pair is two people doing this together, and a team grows from there. It combines the other parts of the method: you work on your attention, you meet your mirror, you pursue a goal and you give, all at once and with other people around.
+A pair is two people doing this together, and a team grows from there. It combines the other parts of the method: you work on your attention, you build discipline, you meet your mirror, you pursue a goal and you give, all at once and with other people around.
 
 The first thing a team does is hold you up in the hard moments. When your mood falls through the floor, the other person's mood hasn't, and the pair holds longer than either half. I tend to be the one who holds others, but I have my moments too. Most often it is when we have set goals and haven't reached them, or a deadline is close and the task looks unmanageable. I used to slide into despair then, and my close friends helped me come back to myself, calm down and let it go.
 

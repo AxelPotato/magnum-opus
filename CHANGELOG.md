@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.36.2 (2026-10-17)
+
+- Part three: discipline is named in the team's list (7.4.b). Section 5 says what a pair or a team combines, and the list now reads: you work on your attention, you build discipline, you meet your mirror, you pursue a goal and you give. The words sit after attention, in the order of the sections, and the section on discipline already says a pair and a team carry part of it. The text without this release is 4.36.1. Notes for Alex updated
+
+
 ## 4.36.1 (2026-10-17)
 
 - Part two and Part three: your wish to build systems and institutes joins the goal (7.1.a with your addition). Part two's 'Why I want this' gets one sentence before 'That is my point of support, the thing I live for that is bigger than me': 'I also wish to build systems and institutes that help others do the same in the best way possible.' Part three's section 3 (a goal and a reason) says the same thing is part of the point of support, in one sentence after the goal. The text without this release is 4.36.0. Notes for Alex updated
