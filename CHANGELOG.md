@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.38.0 (2026-10-17)
+
+- Section 11 of Part three, How people come to it, is removed whole (your 20:02 message). It was the ladder from a talk or workshop to a short retreat and the twelve day retreat, the period of adaptation after it, and what a center is. No other section, and none of Parts zero, one and two, pointed at it, so no pointer changed. The space port is now section 11. The text without this release is 4.37.0. Notes for Alex updated
+
+
 ## 4.37.0 (2026-10-17)
 
 - A new page, Next, and the contact form moves to it (your 18:55 message). Part three now ends with its Sources list, and the line that stood above the form is gone. Next is the fifth tab after Intro, Rational, Spiritual and Practical, built from essay/next.md to essay/next.html. It says: if you've read the full essay and feel like taking part in any workshop or online session, you're welcome to leave your details below, and I'll try to keep you updated. The form has a name, an email and an open field, 'How are you doing?', with 'Please share anything you feel.' under the question. Only the email is required. It posts name, email and a new field, message, to the same n8n webhook with the UTM fields and the page address, so the workflow has to pass message on. The page builder skips the table of contents and the lede on a page with no sections, the commit hook and the release script know the new page, the review copy gets Next as a fifth tab, and CLAUDE.md lists the page. The text without this release is 4.36.2. Notes for Alex updated

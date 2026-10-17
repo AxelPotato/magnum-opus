@@ -193,19 +193,7 @@ That is also what repair looks like: quick and light. A person who has hurt some
 
 It's much harder alone, which is why it comes late in the list: you can't see which hooks you have until someone else leans on them.
 
-## 11. How people come to it
-
-The method works wherever a person lives, and it is built so the first steps can be taken by someone who has a job, a family and a normal amount of doubt. Nobody is asked to give those up. Ordinary life is the training ground, and the pair is what keeps you from sleeping through it.
-
-The pair forms where people live, with at least two friends in it, a team grows around it, and some people want to build a community like that in their own place too. That is where the method stops being an event and turns into a way of living. A center is that kind of community: a group of people who meet regularly to practice together, work toward some common goals and, most of all, support each other on the way. Some who want a deeper experience choose to live together, and the form it takes is up to the people themselves.
-
-Nobody planned any of this on paper. Students of the same teacher found that the method works better when it is practiced in a certain shape, and the shape is mostly practical: how a newcomer meets the method, who they do it with, and how it fits around the rest of a person's life. Think of it as a good training arrangement, like a gym with decent partners.
-
-It starts small, with a talk or a workshop of a few hours, where a person can find out whether any of this rings true. If it does, there is a short retreat of several days, and a longer one of twelve days for those who want it. Then comes the step people underrate, a period of adaptation after the retreat, whose whole job is carrying the work home into your ordinary week. It involves regular practice, and the people who guided the retreat are there to help you unpack the retreat in your everyday life. It also helps to give a little less time to what soaks up attention, like video games and films, so there's more of it left to notice what is changing in you. You can stop after any of these steps and keep what you got from it.
-
-There's a reason it starts small. You can't pull anyone toward this. You can make it easier to approach.
-
-## 12. The space port
+## 11. The space port
 
 This section is a dream of mine, so please read it as one. Part two used space travel to picture how far a person can go in one life, and since I'm a science nerd at heart, I took the picture one step further. Nothing gets from the ground to the stars without a place to launch from, so I call the place I dream about a space port.
 

@@ -1,6 +1,6 @@
 # Part three · notes for Alex (not part of the essay)
 
-Version 4.37.0, 2026-10-17. File: `part-3-practical.md`, about 7,400 words with the folds and the Sources list (about 5,700 at 4.33.1), twelve numbered sections: the decision first, then the ten that were there in the same order, with discipline after attention. Part two changed a lot between 4.22.0 and 4.32.7 (how a whole turns itself down, with free will; the wall felt from inside, with pain, suffering, love and evil; the turn, with the fall; something carries over, with dying; karma as the mirror; energy as a mill on a river, with God, asking and grace), and Part three was last shaped on 13 to 15 October, so several of its pointers had gone stale. This pass makes every pointer true of the current Part two, ties the practice to the new subjects where that helps the reader, and trims what Part two now says for itself. It was first written against Part two 4.31.0 and rebased onto main when the Part two additions merged first. The text was the same then; every pointer was read again against Part two 4.32.7. Version 4.33.1 adds your answers to the options file, listed under "After your answers". Version 4.33.2 adds the Buddha sentence you approved (6.1.a), listed under "The Buddha sentence". Version 4.33.3 adds the paragraph on prayer you approved (6.2.a), listed under "The prayer paragraph". Version 4.33.4 puts your own goal into Part two and Part three in your words (7.1), listed under "Your goal, in your words". Version 4.34.0 opens Part three with who it is for and a fold, "What if I'm not sure?" (7.2), listed under "Who this part is for". Version 4.35.0 adds a new first section, "Making the decision" (7.3), listed under "Making the decision". Version 4.36.0 adds discipline to the method (7.4), listed under "Discipline". Version 4.36.1 adds your wish to build systems and institutes to the goal (7.1.a with your addition), listed under "Systems and institutes". Version 4.36.2 names discipline in the team's list (7.4.b), listed under "Discipline in the team list". Version 4.37.0 moves the contact form out of Part three onto a new page, Next, with the form you described, listed under "The Next page". Section numbers in these notes follow the page as it is now, so "section 2" means "Your own wish" even where an older release is described. The `humanizer` rules were applied by hand to every changed sentence (no dashes, no bold, no "not X but Y", no triads for effect), and the dash, bold and money checks come back clean.
+Version 4.38.0, 2026-10-17. File: `part-3-practical.md`, about 7,000 words with the folds and the Sources list (about 5,700 at 4.33.1), eleven numbered sections: the decision first, then nine of the ten that were there in the same order (the one on how people come to it is gone), with discipline after attention. Part two changed a lot between 4.22.0 and 4.32.7 (how a whole turns itself down, with free will; the wall felt from inside, with pain, suffering, love and evil; the turn, with the fall; something carries over, with dying; karma as the mirror; energy as a mill on a river, with God, asking and grace), and Part three was last shaped on 13 to 15 October, so several of its pointers had gone stale. This pass makes every pointer true of the current Part two, ties the practice to the new subjects where that helps the reader, and trims what Part two now says for itself. It was first written against Part two 4.31.0 and rebased onto main when the Part two additions merged first. The text was the same then; every pointer was read again against Part two 4.32.7. Version 4.33.1 adds your answers to the options file, listed under "After your answers". Version 4.33.2 adds the Buddha sentence you approved (6.1.a), listed under "The Buddha sentence". Version 4.33.3 adds the paragraph on prayer you approved (6.2.a), listed under "The prayer paragraph". Version 4.33.4 puts your own goal into Part two and Part three in your words (7.1), listed under "Your goal, in your words". Version 4.34.0 opens Part three with who it is for and a fold, "What if I'm not sure?" (7.2), listed under "Who this part is for". Version 4.35.0 adds a new first section, "Making the decision" (7.3), listed under "Making the decision". Version 4.36.0 adds discipline to the method (7.4), listed under "Discipline". Version 4.36.1 adds your wish to build systems and institutes to the goal (7.1.a with your addition), listed under "Systems and institutes". Version 4.36.2 names discipline in the team's list (7.4.b), listed under "Discipline in the team list". Version 4.37.0 moves the contact form out of Part three onto a new page, Next, with the form you described, listed under "The Next page". Version 4.38.0 removes the section on how people come to it (your 20:02 message), listed under "Section 11 removed". Section numbers in these notes follow the page as it is now, so "section 2" means "Your own wish" even where an older release is described. The `humanizer` rules were applied by hand to every changed sentence (no dashes, no bold, no "not X but Y", no triads for effect), and the dash, bold and money checks come back clean.
 
 ## How it was checked
 
@@ -30,7 +30,7 @@ Section 8. "This is the work you can start today" (it said "part"). "Be here" lo
 
 Section 10. The opening points at Part two's mirror and keeps your three examples. "Change my inner state, and the relationship changes" goes, because Part two says it. The "doesn't mean" sentences are reshaped: guilt as another clamp stays, and "handing it to someone else" becomes "holding it up to someone else", now that the line about telling others their problems are your mirror is gone. The anger story says "the internal click" where it said "the flip", since Part two's signal flips at the turn.
 
-Section 12. "Section" for "part". The sentence "It's a fun way to think about it, and the nerd in me enjoys it a lot" goes (the nerd is two sentences earlier, and Part two now has its own "fun way" aside). Chore chart for job rota. The reason for a place loses its pointer to Part two, which does not say it.
+Section 11. "Section" for "part". The sentence "It's a fun way to think about it, and the nerd in me enjoys it a lot" goes (the nerd is two sentences earlier, and Part two now has its own "fun way" aside). Chore chart for job rota. The reason for a place loses its pointer to Part two, which does not say it.
 
 Part one. Two typos from the 15 October edit: "does sounds" and "the peak: Where".
 
@@ -44,7 +44,7 @@ What went in, in page order:
 - Section 4 (3.6.a, 4.3.b). After the fingers: "And if love is what the wall dropping feels like, service is a way to practice it on purpose, and the circle widens from there, one step at a time, toward the people who are hard for you." The ego sentences now say "the slow change in the ego" and "what is left is what we bring into the world".
 - Section 7 (4.1.b). "Most of what he asks of us is about how and why we do the shared work, and what it means for each of our own lives is left to us to find." This says what the next sentence ("The method is about how and why, and the what is left for each of us to find.") used to say, so that sentence is gone.
 - Section 8 (3.7.a). After the clamps: "Part two said that suffering measures resistance, the pain plus the grip we hold around it, and the clamps are that grip."
-- Section 12 (4.5.b). "and we would like there to be more of them in different places around the world" is cut.
+- Section 11 (4.5.b). "and we would like there to be more of them in different places around the world" is cut.
 - What you can check (3.2.a). "Over the last year, are you more fulfilled, or more bleak?" follows the sorry question.
 - The contact form (4.6). It asks for an email only, and the line above it says "leave your email address". (It moved to the Next page in 4.37.0, with a name and an open field added.)
 
@@ -145,6 +145,14 @@ Other files the new page touches: the commit hook and the release script now kno
 
 To take it out, ask for "revert Next". That is a release that puts the form back at the end of Part three as it stood in 4.36.2 (email only, with the old line above it) and removes the page. The text as it was before this release is 4.36.2, commit 6beb12d.
 
+## Section 11 removed (4.38.0)
+
+What changed: the section "How people come to it" is out of Part three, whole, at your 20:02 message ("I would like to fully remove part 11 since its not really relevant at this point"). It was the ladder: a talk or workshop, a short retreat, the twelve day retreat, the period of adaptation after it, and what a center is. The space port takes its number, 11, until it moves too (see the next entry). Nothing else was edited. No other section, and none of Parts zero, one and two, pointed at the removed one, so no pointer needed fixing. The word "center" was explained there and is used once more, in the space port section, so that gets one clause of its own in the next release.
+
+The ladder item in the options file (6.3, shorter shapes for the section) is moot now, and so are the run 7 verdict items that were about this section.
+
+To take it out, ask for "revert 11". That is a release that puts the section back between the mirror and the space port, word for word as it stood in 4.37.0, and gives the space port its number 12 again. The text as it was before this release is 4.37.0, commit f3f55eb.
+
 ## Where Part three leans on Part two
 
 Each pointer is one clause, and none restates the step it points at. Names, not step numbers: Part two gained a step in 4.32.0 and its steps 3 to 7 became 4 to 8, which moved nothing here.
@@ -162,7 +170,7 @@ Each pointer is one clause, and none restates the step it points at. Names, not 
 | 6 The teacher and the method | the forgetting; "the one I chose" | How a whole turns itself down; Why the paths differ |
 | 8 Work with attention | the drift | How a whole turns itself down |
 | 10 Mirror work and ego work | the mirror | Karma, or the fingers |
-| 12 The space port | space travel | One more idea: how far the road goes |
+| 11 The space port | space travel | One more idea: how far the road goes |
 
 Words borrowed: the turn, the compass, the mirror, the fingers, the mill and the river, access, the controller, the drift, the forgetting. Each is used the way Part two uses it. Words kept away: "tank" (Part two's picture of the separate self), "the flip" in the anger story (Part two's signal flips at the turn), "program" for a habit, "drifted" for a wandering attention, step numbers, and as before "the lectures say" and "matrix".
 
@@ -186,7 +194,7 @@ Part two now has the wall felt from inside (pain as the body's report, suffering
 
 ## Still open
 
-In the project file `part-3/rewrite-2026-10-17/changes-and-options.md`: sections 11 and 12 (6.3 offers shorter shapes for the ladder in section 11, and the default is to leave it). The form (4.6) is settled for now: email only in 4.33.1, then name, email and an open message on the Next page in 4.37.0. Whether Part three should end with a pointer to the Next page is item 8.1 in that file, and the default is none.
+In the project file `part-3/rewrite-2026-10-17/changes-and-options.md`: nothing about the sections at the end of the page any more (6.3, the ladder, is moot since 4.38.0). The form (4.6) is settled for now: email only in 4.33.1, then name, email and an open message on the Next page in 4.37.0. Whether Part three should end with a pointer to the Next page is item 8.1 in that file, and the default is none.
 
 ## Build notes
 
