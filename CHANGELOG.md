@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.6 (2026-10-17)
+
+- Part three, section 1: "you stop having to argue it out every morning, and the energy the arguing would have used goes into the work" becomes "you no longer have to bargain with yourself every morning, and the energy that took goes into the work" (your run-7 pick 7.1, using the wording you liked). The text without this release is 4.41.5. Notes for Alex updated
+
+
 ## 4.41.5 (2026-10-17)
 
 - Part three, section 1: "A team can support what you have chosen, and a teacher can guide a person who is walking." is cut (your run-7 pick 6.2). The paragraph ends on "...until someone has decided." and section 2 says the rest. The text without this release is 4.41.4. Notes for Alex updated

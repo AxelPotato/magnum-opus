@@ -43,7 +43,7 @@ By the decision I mean something plain: to commit to the journey and to keep to 
 
 Teachings from very different places call this road hard, and they say the greatest victory on it is the one over yourself. They speak of a narrow gate and a razor's edge. The opponent in those pictures is the one you carry with you: the old habits that keep pulling toward the way things were. Several of these traditions give the title of hero, or of the truly strong, to the person who conquers themselves.
 
-That is why it matters to make this decision seriously. It can be quiet. What it needs is that you mean it, with your eyes open about how hard the way is. A decision like that gives you something the rest of this part depends on: you stop having to argue it out every morning, and the energy the arguing would have used goes into the work.
+That is why it matters to make this decision seriously. It can be quiet. What it needs is that you mean it, with your eyes open about how hard the way is. A decision like that gives you something the rest of this part depends on: you no longer have to bargain with yourself every morning, and the energy that took goes into the work.
 
 #### A narrow way, and the greatest victory
 
