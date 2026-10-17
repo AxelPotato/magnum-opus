@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.46.2 (2026-10-17)
+
+- Part one, "The reason bigger than you": the Anokhin entry in the fold "What the studies say" is reworded to sit in the fold like the entries after it (your 22:12 message). "...you search for another way." now ends "...you search for another way (Anokhin, 1973)." and the last three sentences, "Anokhin never asked whether the goal is about you or about somebody else. His theory is about what a goal does. The next ones ask which kind.", become one: "The theory is about what a goal does, and it doesn't ask whether the goal is about you or about somebody else." The first three sentences and the figure are as they were. The text without this release is 4.46.1. Notes for Alex updated
+
+
 ## 4.46.1 (2026-10-17)
 
 - Part three, section 7: the sentence "That is how the road began for Genadiy in section 6: what he saw in the people he met in his teens gave him a huge wish to know what they knew." is gone (your 22:07 message). The paragraph now ends on "...another to sit across from someone for whom it is ordinary." Nothing else in section 7 changed. The text without this release is 4.46.0. Notes for Alex updated
