@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.11 (2026-10-17)
+
+- Part three, section 9: "some mornings the ego complains, and you go anyway" becomes "some mornings you'd rather stay in bed, and you go anyway" (your run-7 pick 7.6). The text without this release is 4.41.10. Notes for Alex updated
+
+
 ## 4.41.10 (2026-10-17)
 
 - Part three, section 8: the last paragraph starts "Regularity starts with the daily sit, every day, even when it's a short one, because the drift from Part two takes no days off." instead of "Then comes the rule that holds the rest together: regularity. It starts with..." (your run-7 pick 7.5). The text without this release is 4.41.9. Notes for Alex updated
