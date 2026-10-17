@@ -122,7 +122,7 @@ The turbulence comes from walking on two legs. In Driven you hop on the DO leg. 
 
 Here is why the turbulence is worth it: the two legs feed each other. BE widens what you can see, so you notice more things worth doing. Doing them tests the fears that kept you from looking, and a lot of those fears turn out to be smaller than they looked. Each one that fails the test loosens the tension a little more, which widens what you can see. George Costanza ran this experiment for one episode. A person who keeps it up for years looks less like someone balancing two things and more like someone doing one thing, with a bit of a dance in it.
 
-High agency doesn't mean control over everything. Part of it is knowing which things are up to you, which is the useful half of the Stoic idea from the driven room. The weather, other people's opinions, the economy and the past are facts to work with. Pushing on a wall for a year is Driven, whatever you call it.
+High agency doesn't mean control over everything. Part of it is knowing which things are up to you, which is the useful half of the Stoic idea from the drifting room. The weather, other people's opinions, the economy and the past are facts to work with. Pushing on a wall for a year is Driven, whatever you call it.
 
 Sitcom characters are hard to find for this room, which tells you something about how rare it is, or how hard it is to write jokes about it. So first, real people.
 

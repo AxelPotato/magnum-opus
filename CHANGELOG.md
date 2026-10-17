@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.43.5 (2026-10-17)
+
+- Part one, the High agency room: "the Stoic idea from the driven room" becomes "the Stoic idea from the drifting room" (your run-7 pick 10.1). The Stoic idea is explained in the Drifting room. The text without this release is 4.43.4. Notes for Alex updated
+
+
 ## 4.43.4 (2026-10-17)
 
 - Part two, step 8: "That one I'd rather talk through with you in person." becomes "That one needs a longer conversation than this part has room for." (your run-7 pick 9.9, option b). The teaser stays, without "in person". The text without this release is 4.43.3. Notes for Alex updated
