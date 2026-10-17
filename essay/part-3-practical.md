@@ -93,13 +93,15 @@ Then there's the reason behind the goal. Part two called mine a point of support
 
 One caution, since the outer goals can turn on you. Doing more with your life is one of the wishes in section 2, and results are how you check the work. They are an indicator and never the aim. If you start chasing them for their own sake, you've rebuilt the Driven room with better vocabulary.
 
-## 4. Service
+## 4. Giving
 
-By service I mean putting effort into the good of other people, or of something bigger than you, without counting what comes back. It starts with the people closest to you. If you accept what Part two said about the fingers of one hand, then helping you is helping me, as a matter of plumbing, with niceness left out of it. And if love is what the wall dropping feels like, service is a way to practice it on purpose, and the circle widens from there, one step at a time, toward the people who are hard for you. Service is the method taking that seriously.
+Giving here means putting effort into the good of other people, or of something bigger than you, and not counting what comes back. An hour of real attention counts. So does using your skills on someone else's problem. This is where the reason bigger than you from the last section turns into something you do.
 
-It has two rules. Give without conditions: don't demand thanks, credit or a result in return, and don't hold the person hostage to the goal behind it, however big that goal is. The second rule is to give to something bigger than your own comfort, because that is where the second effect shows up. While you serve something larger than yourself, there is less of you to guard, and that speeds up the one thing almost nothing else touches, the slow change in the ego. It doesn't make you less yourself. What wears away is the part of us that keeps defending, and what is left is what we bring into the world.
+It starts with the people closest to you. If you accept what Part two said about the fingers of one hand, then helping you is helping me, as a matter of plumbing, with niceness left out of it. And if love is what the wall dropping feels like, giving is a way to practice it on purpose. The circle widens from there, one step at a time, toward the people who are hard for you.
 
-Inner work done only for yourself can go in a circle. You improve your own state, then you improve it more. That has real value, and it can turn into polishing the same stone. Service gives the energy somewhere to go, the way a mill lets the river through, and it is also where the work gets tested, because other people can tell you whether it helped.
+It has two rules. The first is to give without conditions: don't demand thanks, recognition or a result in return, and don't hold the person hostage to the goal behind it, however big that goal is. The second is to give to something bigger than your own comfort. While you're busy with something larger than yourself, there is less of you to guard, and that speeds up the one thing almost nothing else touches, the slow change in the ego. It doesn't make you less yourself. What wears away is the part of us that keeps defending, and what is left is what we bring into the world.
+
+Inner work done only for yourself can go in a circle. You improve your own state, then you improve it more. That has real value, and it can turn into polishing the same stone. Giving sends the energy somewhere, the way a mill lets the river through, and it is also where the work gets tested, because other people can tell you whether it helped.
 
 ## 5. The team
 
@@ -192,30 +194,6 @@ I went to find the team member to apologize. Calming down quickly after a fight 
 That is also what repair looks like: quick and light. A person who has hurt someone and leaves it for a week has added a clamp. A person who says "I'm sorry, that was me" the same afternoon, without an essay, has removed one. The usual suspects behind the hook are pride, offense and the habit of judging, and the work on them has a name, ego work, which is a grand title for noticing them every time they show up.
 
 It's much harder alone, which is why it comes late in the list: you can't see which hooks you have until someone else leans on them.
-
-## 11. How people come to it
-
-The method works wherever a person lives, and it is built so the first steps can be taken by someone who has a job, a family and a normal amount of doubt. Nobody is asked to give those up. Ordinary life is the training ground, and the pair is what keeps you from sleeping through it.
-
-The pair forms where people live, with at least two friends in it, a team grows around it, and some people want to build a community like that in their own place too. That is where the method stops being an event and turns into a way of living. A center is that kind of community: a group of people who meet regularly to practice together, work toward some common goals and, most of all, support each other on the way. Some who want a deeper experience choose to live together, and the form it takes is up to the people themselves.
-
-Nobody planned any of this on paper. Students of the same teacher found that the method works better when it is practiced in a certain shape, and the shape is mostly practical: how a newcomer meets the method, who they do it with, and how it fits around the rest of a person's life. Think of it as a good training arrangement, like a gym with decent partners.
-
-It starts small, with a talk or a workshop of a few hours, where a person can find out whether any of this rings true. If it does, there is a short retreat of several days, and a longer one of twelve days for those who want it. Then comes the step people underrate, a period of adaptation after the retreat, whose whole job is carrying the work home into your ordinary week. It involves regular practice, and the people who guided the retreat are there to help you unpack the retreat in your everyday life. It also helps to give a little less time to what soaks up attention, like video games and films, so there's more of it left to notice what is changing in you. You can stop after any of these steps and keep what you got from it.
-
-There's a reason it starts small. You can't pull anyone toward this. You can make it easier to approach.
-
-## 12. The space port
-
-This section is a dream of mine, so please read it as one. Part two used space travel to picture how far a person can go in one life, and since I'm a science nerd at heart, I took the picture one step further. Nothing gets from the ground to the stars without a place to launch from, so I call the place I dream about a space port.
-
-What I picture is fairly simple. A group of people who want to give their best to the world and to find out how far they can really grow, living and working in the same place. Everything in sections one to ten would happen there every day as ordinary life. A retreat is a few days inside the top right room. A space port would be the same room with a kitchen, a chore chart and the occasional argument about whose turn it is to do the dishes.
-
-The reason I want a place is that the environment decides what is easy. A town makes plenty of good things easy, and a place built around working on yourself would make that easier and more pleasant too, so it stops being an extra on top of a full life.
-
-The people I picture there are people who want to remember who they really are, the thing Part two says we forget, and to give that back to the world while they keep growing. The people who built the first launch pads had never been to space either. So the first space port will be built by whoever wants it, and the very act of building it is what wakes us up enough to live there. The people there would matter more than the building, and nobody would become material for it. People would come because this has become what they want to do with their life, and like any place people live, some would stay for years and some would move on when life took them elsewhere.
-
-It doesn't exist yet. What exists today is smaller: we, the students of Genadiy, have gathered in two centers, one in Riga, Latvia, and one in Sochi, Russia, with over 120 people between them. The space port is the next step I hope we get to take, and I'd love to help build it. What it ends up looking like, I honestly can't tell you yet.
 
 ## What you can check
 

@@ -8,6 +8,31 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.40.2 (2026-10-17)
+
+- The Next page says the place is built around the people (your 20:33 message). The sentence "The people would matter more than the building, and nobody would become material for it." is replaced by "The place would be built around the people who live there." The sentence after it, that they come because it is what they want to do with their life, stays as it was. The text without this release is 4.40.1. Notes for Alex updated
+
+
+## 4.40.1 (2026-10-17)
+
+- The Next page says what the people would make together (your 20:33 message). The second paragraph has one more sentence, right after the one about giving back to the world: "A big part of the dream is working together to create new technologies, culture and projects, and new ways to make our world a better place." The list is yours, in your order. Nothing else changed. The text without this release is 4.40.0. Notes for Alex updated
+
+
+## 4.40.0 (2026-10-17)
+
+- Section 4 of Part three is renamed from Service to Giving and explained in plainer words (your 20:04 message). It opens with what giving means here and two small examples, and says this is where the reason bigger than you turns into something you do. The fingers and love as the wall dropping have a paragraph of their own, the two rules are the first and the second, the pointer to a second effect that was never named is cut, and credit is recognition. The words service and serve are gone from the page. The text without this release is 4.39.0. Notes for Alex updated
+
+
+## 4.39.0 (2026-10-17)
+
+- The space port leaves Part three and becomes a short piece at the top of the Next page (your 20:02 message). It is about half as long and opens with what you are working toward now: the dream and its name, who the people would be, that they matter more than the building and come because they want to, what exists today (two centers, over 120 people) and the hope to help build it. The reason for a place, the kitchen and chore chart line, the launch pad line and the very act of building it are not on the page. Part three now ends with What you can check and its Sources list. CLAUDE.md describes both pages. The text without this release is 4.38.0. Notes for Alex updated
+
+
+## 4.38.0 (2026-10-17)
+
+- Section 11 of Part three, How people come to it, is removed whole (your 20:02 message). It was the ladder from a talk or workshop to a short retreat and the twelve day retreat, the period of adaptation after it, and what a center is. No other section, and none of Parts zero, one and two, pointed at it, so no pointer changed. The space port is now section 11. The text without this release is 4.37.0. Notes for Alex updated
+
+
 ## 4.37.0 (2026-10-17)
 
 - A new page, Next, and the contact form moves to it (your 18:55 message). Part three now ends with its Sources list, and the line that stood above the form is gone. Next is the fifth tab after Intro, Rational, Spiritual and Practical, built from essay/next.md to essay/next.html. It says: if you've read the full essay and feel like taking part in any workshop or online session, you're welcome to leave your details below, and I'll try to keep you updated. The form has a name, an email and an open field, 'How are you doing?', with 'Please share anything you feel.' under the question. Only the email is required. It posts name, email and a new field, message, to the same n8n webhook with the UTM fields and the page address, so the workflow has to pass message on. The page builder skips the table of contents and the lede on a page with no sections, the commit hook and the release script know the new page, the review copy gets Next as a fifth tab, and CLAUDE.md lists the page. The text without this release is 4.36.2. Notes for Alex updated
