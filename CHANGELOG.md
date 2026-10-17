@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.32.7 (2026-10-17)
+
+- Part two, step 3: 'So suffering measures resistance' (Alex's pick)
+
+
 ## 4.32.6 (2026-10-17)
 
 - Part two, step 3: suffering as a measure, said with two people going through the same thing
