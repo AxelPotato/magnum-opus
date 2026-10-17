@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.1 (2026-10-18)
+
+- Contents list becomes a left sidebar with the current section highlighted on wide screens, and a hamburger drawer on phones
+
+
 ## 4.41.0 (2026-10-18)
 
 - Intro: photo of the author with his teacher, Genadiy Givin, after the line about what the essay rests on
