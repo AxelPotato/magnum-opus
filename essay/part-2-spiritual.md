@@ -324,8 +324,6 @@ After the last of these comes something like a birth. The whole universe on this
 * In John's gospel Jesus says that one must be born again, or born from above, since the Greek word can mean either. In the Hindu tradition the twice-born are those who received the initiation that counts as a second birth, and Meister Eckhart taught that God is born in the ground of the soul. The traditions use the image for different things, and I use it for the stage after the top of the scale.
 * Other traditions draw staged maps too, so a scale like this isn't new. Early Buddhism has four stages of awakening, the Jains have fourteen steps of spiritual growth, and Teresa of Avila, the sixteenth-century Spanish mystic, described seven mansions of the inner castle. In Dante's Paradiso the pilgrim rises through the heavens without noticing, and Beatrice tells him it would be stranger if, freed of what held him back, he stayed below, like a flame sitting still on the ground.
 
-Some physicists think our universe is one of many, and if so even the farthest point of this picture has something after it.
-
 ## Why the paths differ
 
 If one structure sits behind all this, a fair question follows. Why do the religions look so different from one another, and why do they keep changing?

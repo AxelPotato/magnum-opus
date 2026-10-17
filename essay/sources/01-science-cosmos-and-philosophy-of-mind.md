@@ -517,7 +517,7 @@ Kind: concept. Status: partly checked.
 
 Who: 'Multiverse' covers several unrelated ideas that all say there is more than one universe. The essay says only that 'some physicists speculate that our universe is one of many, an idea nobody has confirmed, and a hard one to test', and uses it to suggest even plus four may be a stage and not an ending.
 
-In the essay: 'The arrow': 'Some physicists speculate that our universe is one of many, an idea nobody has confirmed, and a hard one to test, and if so even plus four may be a stage and not an ending.'
+In the essay: no longer cited. The sentence 'Some physicists think our universe is one of many, and if so even the farthest point of this picture has something after it.' was cut from 'One more idea' in v4.43.1 (run-7 pick 9.6). The entry stays as private context for discussion.
 
 Where it sits: Feeney et al., 'First Observational Tests of Eternal Inflation' (arXiv 1012.1995, and the analysis-methods paper 1012.3667); popular coverage in NBC, Space.com and Scientific American.
 

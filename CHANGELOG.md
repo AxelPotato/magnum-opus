@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.43.1 (2026-10-17)
+
+- Part two, "One more idea": the sentence "Some physicists think our universe is one of many, and if so even the farthest point of this picture has something after it." is cut (your run-7 pick 9.6). Its reading pack entry stays as private context. The text without this release is 4.43.0. Notes for Alex updated
+
+
 ## 4.43.0 (2026-10-17)
 
 - Part two, step 7: the paragraph "Physics has a picture for this" (E=mc² and the conservation of energy) is cut (your run-7 pick 9.5). Einstein (1905) leaves the Sources list of Part two and the reading pack. The text without this release is 4.42.0. Notes for Alex updated
