@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.39.0 (2026-10-17)
+
+- The space port leaves Part three and becomes a short piece at the top of the Next page (your 20:02 message). It is about half as long and opens with what you are working toward now: the dream and its name, who the people would be, that they matter more than the building and come because they want to, what exists today (two centers, over 120 people) and the hope to help build it. The reason for a place, the kitchen and chore chart line, the launch pad line and the very act of building it are not on the page. Part three now ends with What you can check and its Sources list. CLAUDE.md describes both pages. The text without this release is 4.38.0. Notes for Alex updated
+
+
 ## 4.38.0 (2026-10-17)
 
 - Section 11 of Part three, How people come to it, is removed whole (your 20:02 message). It was the ladder from a talk or workshop to a short retreat and the twelve day retreat, the period of adaptation after it, and what a center is. No other section, and none of Parts zero, one and two, pointed at it, so no pointer changed. The space port is now section 11. The text without this release is 4.37.0. Notes for Alex updated

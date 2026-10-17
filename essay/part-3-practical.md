@@ -193,18 +193,6 @@ That is also what repair looks like: quick and light. A person who has hurt some
 
 It's much harder alone, which is why it comes late in the list: you can't see which hooks you have until someone else leans on them.
 
-## 11. The space port
-
-This section is a dream of mine, so please read it as one. Part two used space travel to picture how far a person can go in one life, and since I'm a science nerd at heart, I took the picture one step further. Nothing gets from the ground to the stars without a place to launch from, so I call the place I dream about a space port.
-
-What I picture is fairly simple. A group of people who want to give their best to the world and to find out how far they can really grow, living and working in the same place. Everything in sections one to ten would happen there every day as ordinary life. A retreat is a few days inside the top right room. A space port would be the same room with a kitchen, a chore chart and the occasional argument about whose turn it is to do the dishes.
-
-The reason I want a place is that the environment decides what is easy. A town makes plenty of good things easy, and a place built around working on yourself would make that easier and more pleasant too, so it stops being an extra on top of a full life.
-
-The people I picture there are people who want to remember who they really are, the thing Part two says we forget, and to give that back to the world while they keep growing. The people who built the first launch pads had never been to space either. So the first space port will be built by whoever wants it, and the very act of building it is what wakes us up enough to live there. The people there would matter more than the building, and nobody would become material for it. People would come because this has become what they want to do with their life, and like any place people live, some would stay for years and some would move on when life took them elsewhere.
-
-It doesn't exist yet. What exists today is smaller: we, the students of Genadiy, have gathered in two centers, one in Riga, Latvia, and one in Sochi, Russia, with over 120 people between them. The space port is the next step I hope we get to take, and I'd love to help build it. What it ends up looking like, I honestly can't tell you yet.
-
 ## What you can check
 
 After a few months of practice, alone, in a pair or in a team, ask: do you produce the thing you said you would? Does anything outside you change, and if it doesn't, why not? How fast do you say sorry first now? Over the last year, are you more fulfilled, or more bleak? Put the answers on the chart from Part one, and ask again a month later.
