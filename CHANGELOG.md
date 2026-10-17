@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.45.0 (2026-10-17)
+
+- Part one, "The reason bigger than you": the Anokhin paragraph and its figure move into the fold "What the studies say" as its first entry (your run-7 pick 10.3, option a). Frankl's paragraph now opens "Viktor Frankl, a psychiatrist who survived the Nazi camps, argued that...". The Sources list is unchanged. The text without this release is 4.44.0. Notes for Alex updated
+
+
 ## 4.44.0 (2026-10-17)
 
 - Part one, "One hose": the four middle paragraphs (holes, nozzle, attention, something worth watering) become one, built from the section's own sentences (your run-7 pick 10.2, option b). The opening paragraph, the last paragraph ("Taken in order...") and the figure stay. The text without this release is 4.43.5. Notes for Alex updated
