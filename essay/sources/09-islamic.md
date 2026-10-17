@@ -1,6 +1,6 @@
 # Islamic sources
 
-Reading pack for Part two of the essay (2026-10-08). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
+Reading pack for Parts two and three of the essay (2026-10-08; the last entry, for Part three, was added 2026-10-17). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
 
 ## Quran 2:115 (wherever you turn)
 
@@ -766,3 +766,27 @@ Background: Attar wrote about four hundred years after Rabia died, and much of w
 
 If someone pushes back:
 - 'Did Rabia really say it?' The source is Attar, and the essay names him.
+
+## Sahih al-Bukhari 6114 ('The strong is the one who controls himself while in anger') (Bukhari died in 870 CE; the hadith comes from Abu Huraira, a companion of the Prophet)
+
+Kind: text. Status: checked (the Arabic and the English read on ihadis.com on 2026-10-17; sunnah.com was not reachable that day).
+
+Who: Sahih al-Bukhari is the collection of reports of the Prophet Muhammad's words and deeds that Sunni Muslims count as the most reliable after the Quran. This hadith is in the Book of Good Manners (Al-Adab), in the chapter on being careful about anger, whose heading quotes two Quran verses, one on forgiving when angry and one on restraining anger (42:37 and 3:134, as I remember the references; not opened).
+
+In the essay (v4.35.0): Part three, section 1, 'Making the decision', seventh and last item of the fold 'A narrow way, and the greatest victory': a hadith in Sahih al-Bukhari reports the Prophet saying that the strong one is the one who controls himself while in anger, which he sets against overcoming people by strength (6114). Sources list (Part three): Sahih al-Bukhari 6114.
+
+Where it sits: Sahih al-Bukhari 6114; in ihadis.com's own references, Book 78, Hadith 141 within the book, chapter 'To be cautious from being angry', and Vol. 8, Book 73, Hadith 135 in the USC-MSA numbering.
+
+The passage: the chain on the page runs Abdullah ibn Yusuf, from Malik, from Ibn Shihab, from Said ibn al-Musayyib, from Abu Huraira. Arabic: laysa al-shadidu bil-sura'a, innama al-shadidu alladhi yamliku nafsahu 'inda al-ghadab. English on the page: 'Narrated Abu Huraira: Allah's Messenger said, "The strong is not the one who overcomes the people by his strength, but the strong is the one who controls himself while in anger."'
+
+Read it free:
+- ihadis.com, Sahih Bukhari 6114 (Arabic and English): https://ihadis.com/en/bukhari/hadith/6114 (read on 2026-10-17)
+
+Read it in a book: Muhammad Muhsin Khan, The Translation of the Meanings of Sahih al-Bukhari (Darussalam); or any complete edition of the Sahih.
+
+Background: The Arabic word for the person overcome in the comparison, sura'a, is the one who throws others down, a wrestler; translators gloss it as 'overcomes the people by his strength' (from memory, not checked). Muslim has a version in which the Prophet first asks the Companions whom they count as a wrestler and then gives the same answer (as I remember, Sahih Muslim 2609; not opened). The chain on the page runs through Malik, the Medinan jurist whose Muwatta is among the oldest hadith books. The essay says 'a hadith in Sahih al-Bukhari reports the Prophet saying', which is what the page shows.
+
+If someone pushes back:
+- 'It is only a hadith, not the Quran.' True, and the essay says what it is. Sunni Muslims accept the Bukhari collection as sound; the Quran itself praises those who 'control their anger' (3:134, as I remember; not opened).
+- 'Isn't there a saying that the struggle against yourself is the greater jihad?' Yes, it circulates widely. It is not in the Bukhari or Muslim collections, and as I remember hadith scholars generally do not accept it as authentic (not checked), which is why the essay uses 6114.
+- 'It only talks about anger.' The hadith names anger as the test of self-control. The essay quotes it as it stands.

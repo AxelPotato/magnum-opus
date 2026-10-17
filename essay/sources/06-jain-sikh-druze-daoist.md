@@ -1,6 +1,6 @@
 # Jain, Sikh, Druze and Daoist sources
 
-Reading pack for Part two of the essay (2026-10-08). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
+Reading pack for Parts two and three of the essay (2026-10-08; the last entries, for Part three, were added 2026-10-17). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
 
 ## Acharanga Sutra (Ayaro), in Hermann Jacobi's 1884 translation (Book I probably 5th to 4th century BCE; written down in the Svetambara canon at Valabhi (traditionally 454 CE); Jacobi's translation 1884)
 
@@ -426,3 +426,50 @@ Background: The chapter is a short cosmogony: the many come from the one, and th
 If someone pushes back:
 - Does the Daodejing say all is one? It says all things come from one, and later chapters speak of returning to the root. The essay claims no more than that.
 - Is Daoism a religion? Both, in different periods: a philosophy of the early texts and an organized religion with priests and temples from the second century CE. The essay quotes the texts.
+
+## Uttaradhyayana Sutra, chapter 9: King Nami answers Indra (conquering oneself is the greater victory) (a Svetambara Jain canonical text counted among the Mulasutras, early, with wide uncertainty on the dating; Jacobi's English 1895)
+
+Kind: text. Status: checked (Jacobi's English read on Wisdom Library on 2026-10-17; the Prakrit lines seen on two pages that quote them, not checked against a critical edition).
+
+Who: The Uttaradhyayana Sutra is a Jain text of 36 chapters on doctrine and discipline, counted among the Mulasutras of the Svetambara canon (Wisdom Library's summary of Jacobi's edition). Chapter 9 tells how King Nami remembers a former birth, gives his throne to his son and goes to a lonely place. Shakra, which is Indra, king of the gods, comes in the guise of a brahmin and tests him with arguments for going back to a king's duties. Nami answers each.
+
+In the essay (v4.35.0): Part three, section 1, 'Making the decision', fifth item of the fold 'A narrow way, and the greatest victory': King Nami has given up his throne, and Indra, in the guise of a brahmin, tells him that a true warrior would bring every prince who does not acknowledge him into subjection; Nami answers that a man may conquer thousands and thousands of valiant foes, and greater will be his victory if he conquers nobody but himself (chapter 9). Sources list (Part three): Uttaradhyayana Sutra, chapter 9 (Jacobi's translation, Sacred Books of the East, vol. 45).
+
+Where it sits: Chapter 9, 'The Pravragya of King Nami' (pravrajya means going forth into renunciation). Verses 31 to 35 in Jacobi's numbering: Indra's challenge is 31, Nami's answer 33 to 35. Pages that give the Prakrit number the same line 9.34.
+
+The passage (Jacobi's translation, public domain): Indra: (31) 'O king, bring into subjection all princes who do not acknowledge you; thus you will be a true Kshattriya.' Nami: (33) 'Though a man should conquer thousands and thousands of valiant (foes), greater will be his victory if he conquers nobody but himself. (34) Fight with your Self; why fight with external foes? He who conquers himself through himself, will obtain happiness. (35) The five senses, anger, pride, delusion, and greed--difficult to conquer is one's self; but when that is conquered, everything is conquered.' The Prakrit of the first, as quoted on the pages below: jo sahassam sahassanam samgame dujjae jine / egam jinejja appanam esa se paramo jao.
+
+Read it free:
+- Wisdom Library, Uttaradhyayana Sutra, chapter 9 (Jacobi): https://www.wisdomlib.org/jainism/book/uttaradhyayana-sutra/d/doc424219.html (read on 2026-10-17)
+- eSamskriti, Gospels of Mahavir (the Prakrit verse with 'true war' and the English gloss): https://esamskriti.com/e/Spirituality/Jaina-Darsana/Gospels-of-Mahavir-1.aspx (read on 2026-10-17)
+
+Read it in a book: Hermann Jacobi, Jaina Sutras part 2 (Sacred Books of the East, vol. 45, 1895; Motilal Banarsidass reprint), the Uttaradhyayana and the Sutrakritanga.
+
+Background: Compare the Dhammapada entry (`05-buddhist.md`, Dhp 103): Pali yo sahassam sahassena sangame manuse jine, ekanca jeyyamattanam, sa ve sangamajuttamo; Prakrit jo sahassam sahassanam samgame dujjae jine, egam jinejja appanam, esa se paramo jao. Same shape and nearly the same words, which is why the essay says 'almost the same verse'. I set the two lines side by side myself; I have not checked which scholars have written about the parallel. In Jacobi's note to the chapter, Nami is one of the Pratyekabuddhas, saints who reach the highest stage of knowledge by their own effort and, unlike the Tirthankaras, do not teach the true Law. In the chapter the answer to Indra goes on to charity: 'Though a man should give, every month, thousands and thousands of cows, better will be he who controls himself, though he give no alms' (39).
+
+If someone pushes back:
+- 'It is a Jain monk's verse, so it is about giving up the world.' It is said by a king who has given up his throne, and the essay says so. The verse is about the contest itself, which anyone can read as an inner one.
+- 'Is it really the same verse as the Dhammapada?' The opening and the shape are the same, and the Jain line says victory (jao) where the Pali says best in battle. The essay says almost, and cites each text for itself.
+
+## Daodejing 33 ('He who overcomes himself is mighty') (Attributed to Laozi; the text took shape in the fourth to third century BCE; Legge's translation 1891)
+
+Kind: text. Status: checked (Legge's English read on Project Gutenberg on 2026-10-17; other translations and the Chinese not opened).
+
+Who: As for Daodejing 42 above: the foundational text of Daoism, 81 short chapters, attributed to Laozi. Chapter 33 is a run of paired lines: knowing others and knowing yourself, overcoming others and overcoming yourself, being content and keeping on.
+
+In the essay (v4.35.0): Part three, section 1, 'Making the decision', sixth item of the fold 'A narrow way, and the greatest victory': the Daodejing says that whoever overcomes others is strong, and whoever overcomes himself is mighty (33). Sources list (Part three): Daodejing 33 (Legge's translation).
+
+Where it sits: Daodejing 33 in the standard (Wang Bi) numbering. In Legge's edition it has two numbered paragraphs.
+
+The passage (Legge, public domain): 'He who knows other men is discerning; he who knows himself is intelligent. He who overcomes others is strong; he who overcomes himself is mighty. He who is satisfied with his lot is rich; he who goes on acting with energy has a (firm) will.' Second paragraph: 'He who does not fail in the requirements of his position, continues long; he who dies and yet does not perish, has longevity.'
+
+Read it free:
+- Project Gutenberg, The Tao Teh King, or the Tao and its Characteristics (Legge), plain text: https://www.gutenberg.org/cache/epub/216/pg216.txt (read on 2026-10-17)
+
+Read it in a book: As for Daodejing 42 above: Robert G. Henricks, Lao-Tzu: Te-Tao Ching (Ballantine, 1989); Philip J. Ivanhoe, The Daodejing of Laozi (Hackett, 2003); Roger Ames and David Hall, Dao De Jing (Ballantine, 2003).
+
+Background: 'Strong' and 'mighty' are Legge's two English words for two different Chinese terms (as I remember the Chinese; not opened), and other translators choose other pairs, for example 'has force' and 'is strong' (not checked). What carries over is the shape: the same effort turned outward is strength, and turned inward is something greater. The essay uses only that pair. The chapter's other lines are not used.
+
+If someone pushes back:
+- 'Isn't the Daodejing about yielding, not struggling?' The chapter says overcoming oneself, and the text elsewhere prefers softness to force. The essay cites only the line it quotes.
+- 'Is this the same idea as the Dhammapada verse?' The same turn from outer to inner victory, in a different form: a pair of lines in a run of pairs, where the Dhammapada and the Jain verse set it against a battle.

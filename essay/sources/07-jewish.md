@@ -1,6 +1,6 @@
 # Jewish sources
 
-Reading pack for Part two of the essay (2026-10-08). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
+Reading pack for Parts two and three of the essay (2026-10-08; the last entry, for Part three, was added 2026-10-17). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
 
 ## Shneur Zalman of Liadi and Chabad (Habad) Hasidism (1745 to 1812 (dates from memory, not checked this session))
 
@@ -726,3 +726,27 @@ Background: The book sets two basic attitudes side by side: I-It, where the othe
 
 If someone pushes back:
 - 'Buber keeps God and the person as two, an I and a Thou, and he turned away from mystical union.' True. The essay cites him for the shape of prayer, a part meeting the whole as a You, which is his point, and not for identity.
+
+## Mishnah Avot 4:1 (Ben Zoma: who is mighty? He who subdues his inclination) and Proverbs 16:32 (Mishnah edited around 200 CE; Proverbs is usually dated to the first millennium BCE, with wide uncertainty)
+
+Kind: text. Status: checked (Kulp's English and the Hebrew of Avot 4:1 read on Sefaria on 2026-10-17; the Revised JPS English and the Hebrew of Proverbs 16:32 read the same day).
+
+Who: Ben Zoma is one of the sages of the Mishnah. Pirkei Avot is the tractate that collects the sages' sayings on how to live. In 4:1 he asks four short questions and answers each with a verse: who is wise, who is mighty, who is rich, who is honored.
+
+In the essay (v4.35.0): Part three, section 1, 'Making the decision', fourth item of the fold 'A narrow way, and the greatest victory': in Pirkei Avot Ben Zoma asks who is mighty, a word that can also mean hero, and answers: the one who subdues his inclination; he backs it with Proverbs, which says it is better to have self-control than to conquer a city (4:1, quoting Proverbs 16:32). Only the second of his four answers is used. Sources list (Part three): Pirkei Avot 4:1 (Kulp's translation, Sefaria), quoting Proverbs 16:32 (Jewish Publication Society translation).
+
+Where it sits: Pirkei Avot 4:1 (the first mishnah of chapter 4). Proverbs 16:32 in the Writings of the Hebrew Bible.
+
+The passage: Kulp (Mishnah Yomit, on Sefaria): 'Ben Zoma said: Who is wise? He who learns from every man, as it is said: "From all who taught me have I gained understanding" (Psalms 119:99). Who is mighty? He who subdues his [evil] inclination, as it is said: "He that is slow to anger is better than the mighty; and he that rules his spirit than he that takes a city" (Proverbs 16:32).' The Hebrew of the second question: eizehu gibor, ha-kovesh et yitzro. Proverbs 16:32 in the Revised JPS (2023): 'Better to be forbearing than mighty, to have self-control than to conquer a city.' Hebrew: tov erekh apayim mi-gibor, u-moshel be-ruho mi-lokhed ir.
+
+Read it free:
+- Sefaria, Pirkei Avot 4:1 (Hebrew and Kulp's English): https://www.sefaria.org/Pirkei_Avot.4.1 (read on 2026-10-17)
+- Sefaria, Proverbs 16:32 (Revised JPS, 2023): https://www.sefaria.org/Proverbs.16.32 (read on 2026-10-17)
+
+Read it in a book: Pirkei Avot, in any Jewish prayer book that prints it with a translation, or as a stand-alone edition with commentary. Kulp's Mishnah Yomit commentary is free on Sefaria.
+
+Background: In Kulp's English the word 'evil' sits in brackets, because the Hebrew says only 'his inclination' (yitzro). The Rabbis speak of a good and an evil inclination, and the verb kovesh is the one for subduing or conquering. Gibor is the Biblical Hebrew word for a mighty man or a warrior, and in modern Hebrew it is the ordinary word for a hero (general knowledge of Hebrew; not checked against a dictionary), which is why the essay says 'a word that can also mean hero'. Kulp's 'mighty' follows the verse in Proverbs. Ben Zoma's four answers each turn an outward title into an inward one: wise is the one who learns from everyone, mighty the one who subdues the inclination, rich the one who rejoices in his lot, honored the one who honors others. The essay uses only the second.
+
+If someone pushes back:
+- 'The mishnah says evil inclination, so it is about suppressing desire.' The Hebrew says 'his inclination', and the essay says 'inclination'. The verse in Proverbs is about anger and ruling the spirit, and Ben Zoma widens it.
+- 'Proverbs is about being slow to anger, and nothing more.' Its second line, 'he that rules his spirit than he that takes a city', is the line Ben Zoma uses, and it is wider than anger.

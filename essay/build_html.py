@@ -477,6 +477,9 @@ details.say-fold summary::before{content:"+";display:inline-block;width:1rem;tex
 details.say-fold[open] summary::before{content:"\2212"}
 details.say-fold summary:hover{color:var(--ink)}
 details.say-fold .say{margin-top:.4rem}
+.say li.grp{list-style:none;margin:1.3rem 0 .6rem -1.15rem;padding-left:0;font-family:var(--mono);font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.say li.grp:first-child{margin-top:.3rem}
+details.say-fold .say-close{margin:1.2rem 0 .6rem}
 @media print{details.say-fold>*{display:block}}
 .say li{margin-bottom:.7rem;padding-left:.2rem}
 .say li::marker{color:var(--muted)}
@@ -500,7 +503,8 @@ FONTS = ('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght
 
 
 # Where the contact form at the end of Part three sends its leads: the n8n essay-lead webhook.
-# It takes name, phone and email (at least one), the UTM fields and page_url, as urlencoded POST.
+# The form asks for an email only (Alex, 17 October). The webhook still accepts name and phone, and
+# takes the UTM fields and page_url, as urlencoded POST.
 CONTACT_ENDPOINT = 'https://n8n.giving-school.eu/webhook/essay-lead'
 
 # Runs on every part, so UTM values from the page a reader lands on still reach the form in Part three.
@@ -521,12 +525,9 @@ document.querySelectorAll('.contact-form').forEach(function (f) {
     e.preventDefault();
     var s = f.querySelector('.contact-status'), btn = f.querySelector('button');
     if (el('website').value) { s.textContent = 'Thank you.'; return; }
-    var d = new URLSearchParams(), any = false;
-    ['name', 'phone', 'email'].forEach(function (k) {
-      var v = el(k).value.trim();
-      if (v) { d.set(k, v); any = true; }
-    });
-    if (!any) { s.textContent = 'Add an email or a phone number, then send.'; return; }
+    var d = new URLSearchParams(), v = el('email').value.trim();
+    if (!v) { s.textContent = 'Add your email, then send.'; return; }
+    d.set('email', v);
     var utm = {};
     try { utm = JSON.parse(sessionStorage.getItem('essay_utm') || '{}'); } catch (x) {}
     Object.keys(utm).forEach(function (k) { if (/^utm_/.test(k) && utm[k]) d.set(k, utm[k]); });
@@ -545,9 +546,7 @@ def contact_html(intro):
     return ('<section class="contact" aria-label="Get in touch">'
             f'<p>{smart(intro)}</p>'
             f'<form class="contact-form" data-endpoint="{html.escape(CONTACT_ENDPOINT)}">'
-            '<label>Your name<input name="name" autocomplete="name"></label>'
-            '<label>Email<input name="email" type="email" autocomplete="email"></label>'
-            '<label>Or a phone number, with country code<input name="phone" type="tel" autocomplete="tel"></label>'
+            '<label>Your email<input name="email" type="email" autocomplete="email"></label>'
             '<label class="trap" aria-hidden="true">Leave this empty<input name="website" tabindex="-1" autocomplete="off"></label>'
             '<button type="submit">Send</button>'
             '<p class="contact-status" role="status" aria-live="polite"></p>'
@@ -576,6 +575,9 @@ def convert(md, R):
             room = {'Default': 'default', 'Driven': 'driven', 'Drifting': 'drifting', 'High agency': 'high'}.get(t, 'default')
             out.append(f'<h3 class="room {room}"><span class="dot"></span>{smart(t)}</h3>')
             continue
+        if b.startswith('  ') and out and out[-1].endswith('</ul></details>'):  # an indented paragraph closes the fold above it
+            out[-1] = out[-1][:-len('</details>')] + f'<p class="say-close">{smart(b.strip())}</p></details>'
+            continue
         if fold_title and not b.startswith('* '):  # a heading with no list under it stays a heading
             out.append(f'<h4>{smart(fold_title)}</h4>')
             fold_title = None
@@ -584,7 +586,8 @@ def convert(md, R):
             continue
         if b.startswith('* '):
             n = sum(1 for l in b.split('\n') if l.startswith('* '))
-            lis = ''.join(f'<li>{smart(l[2:])}</li>' for l in b.split('\n') if l.startswith('* '))
+            lis = ''.join(f'<li class="grp">{smart(l[2:])}</li>' if l.endswith(':') else f'<li>{smart(l[2:])}</li>'  # a bullet ending in a colon labels the ones after it
+                          for l in b.split('\n') if l.startswith('* '))
             if fold_title:
                 if fold_title.startswith('What the studies'):
                     label = f'{fold_title} ({n} {"study" if n == 1 else "studies"})'
