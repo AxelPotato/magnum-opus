@@ -74,7 +74,7 @@ It comes with conditions. The people have to be aimed at something, because a gr
 
 The people also have to want it, and this is where the team meets the wish from section 1. A team multiplies whatever is put into it, and anything times nothing is still nothing, a fact your math teacher and your guru would both confirm. A good team that doesn't want to play is a good roster with a bad season. A group of people who each really want to move gives everyone in it much more than any of them could find alone, like a cable made of many strands.
 
-The team does something for the wish itself, too. On your own it dies down faster. So people meet to reignite each other's passion and to remind each other, and when your own spark drops, lighting up a partner gets some of it back. The company of people who want the same thing is one of the best things to feed it.
+The team does something for the wish itself, too. On your own it dies down faster. So people meet to reignite each other's passion and to remind each other, and when your own spark drops, lighting up a partner gets some of it back. The company of people who want the same thing is one of the best things to feed it. Ananda, one of the Buddha's monks, once said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it.
 
 The modern world makes this harder. In an earlier age the other people came with the village. Now you can order food, learn skills and find company from a phone without anyone seeing you need anything. That is convenient, and it also removes the one thing that did the work. You have to build the village on purpose.
 
@@ -169,5 +169,11 @@ It doesn't exist yet. What exists today is smaller: we, the students of Genadiy,
 After a few months of practice, alone, in a pair or in a team, ask: do you produce the thing you said you would? Does anything outside you change, and if it doesn't, why not? How fast do you say sorry first now? Over the last year, are you more fulfilled, or more bleak? Put the answers on the chart from Part one, and ask again a month later.
 
 And one question for the road: if you had the energy of a whole team and no direction, what would you do with it? Then ask who in your life could tell you.
+
+## Sources
+
+4. The team
+
+- Samyutta Nikaya 45.2, the Upaddha Sutta (Sujato's translation, SuttaCentral).
 
 [CONTACT: If you'd like to talk about any of this, or find out where the nearest talk or workshop is, leave your email address. It comes straight to me, and I'll get in touch.]

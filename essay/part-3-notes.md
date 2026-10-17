@@ -1,6 +1,6 @@
 # Part three · notes for Alex (not part of the essay)
 
-Version 4.33.1, 2026-10-17. File: `part-3-practical.md`, about 5,700 words (5,600 before the rewrite), the same ten sections in the same order. Part two changed a lot between 4.22.0 and 4.32.7 (how a whole turns itself down, with free will; the wall felt from inside, with pain, suffering, love and evil; the turn, with the fall; something carries over, with dying; karma as the mirror; energy as a mill on a river, with God, asking and grace), and Part three was last shaped on 13 to 15 October, so several of its pointers had gone stale. This pass makes every pointer true of the current Part two, ties the practice to the new subjects where that helps the reader, and trims what Part two now says for itself. It was first written against Part two 4.31.0 and rebased onto main when the Part two additions merged first. The text was the same then; every pointer was read again against Part two 4.32.7. Version 4.33.1 adds your answers to the options file, listed under "After your answers". The `humanizer` rules were applied by hand to every changed sentence (no dashes, no bold, no "not X but Y", no triads for effect), and the dash, bold and money checks come back clean.
+Version 4.33.2, 2026-10-17. File: `part-3-practical.md`, about 5,700 words (5,600 before the rewrite), the same ten sections in the same order. Part two changed a lot between 4.22.0 and 4.32.7 (how a whole turns itself down, with free will; the wall felt from inside, with pain, suffering, love and evil; the turn, with the fall; something carries over, with dying; karma as the mirror; energy as a mill on a river, with God, asking and grace), and Part three was last shaped on 13 to 15 October, so several of its pointers had gone stale. This pass makes every pointer true of the current Part two, ties the practice to the new subjects where that helps the reader, and trims what Part two now says for itself. It was first written against Part two 4.31.0 and rebased onto main when the Part two additions merged first. The text was the same then; every pointer was read again against Part two 4.32.7. Version 4.33.1 adds your answers to the options file, listed under "After your answers". Version 4.33.2 adds the Buddha sentence you approved (6.1.a), listed under "The Buddha sentence". The `humanizer` rules were applied by hand to every changed sentence (no dashes, no bold, no "not X but Y", no triads for effect), and the dash, bold and money checks come back clean.
 
 ## How it was checked
 
@@ -50,6 +50,14 @@ What went in, in page order:
 
 Every small default in section 2 of the options file stays in, as you asked, to be judged on the finished page. Left as written by your picks: 3.3, 3.4, 4.2, 4.4 and 4.7.
 
+## The Buddha sentence (4.33.2)
+
+What went in (6.1.a), at the end of the paragraph in section 4 on feeding the wish: "Ananda, one of the Buddha's monks, once said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it." It comes from Samyutta Nikaya 45.2, the Upaddha Sutta, in Sujato's translation on SuttaCentral. The sentence uses that exchange only, not the two reasons the sutta gives after it.
+
+It is the first citation in Part three, so the page now has a Sources list before the contact form (the label "4. The team" and one line), the reading pack has an entry for the sutta in `essay/sources/05-buddhist.md`, and the README lines and counts follow (the counts were one short and are recounted). The entry says what to answer if someone pushes on it: the sutta's "good friend" is someone you can learn from, a peer or a teacher, which is a little more than people who want the same thing; it is told to a king as well as to monks; and other texts say to walk alone like a rhinoceros horn when you find no good companion, although the same poem says to wander with a good one if you find one.
+
+To take it out, ask for "revert 6.1". That is a fix release that removes the sentence, the Sources list, the entry and the README lines. The text as it was before this release is 4.33.1, commit 6a3f554.
+
 ## Where Part three leans on Part two
 
 Each pointer is one clause, and none restates the step it points at. Names, not step numbers: Part two gained a step in 4.32.0 and its steps 3 to 7 became 4 to 8, which moved nothing here.
@@ -91,8 +99,8 @@ Part two now has the wall felt from inside (pain as the body's report, suffering
 
 ## Still open
 
-In the project file `part-3/rewrite-2026-10-17/changes-and-options.md`: a sentence on the Buddha's words about friendship for section 4 (3.5.b) and the paragraph on prayer (3.8.b), both drafts for you to approve and neither in the text; and sections 9 and 10 with the form (4.6), which you want to think through before anything changes there.
+In the project file `part-3/rewrite-2026-10-17/changes-and-options.md`: the paragraph on prayer (3.8.b), which is the next release (4.33.3); and sections 9 and 10 with the form (4.6), which you want to think through before anything changes there (6.3 offers shorter shapes for the ladder in section 9, and the default is to leave it).
 
 ## Build notes
 
-Part three has no figure or portrait rules in `build_html.py` (`rules=lambda: {}`), so changing the first words of a paragraph breaks no key. The hero lede ("How this is done today, by people with jobs, families and not much spare time.") still holds. The contact form asks for an email only (4.33.1): `contact_html()` renders one email field, the script sends only the email, and the line above the form says so. The webhook is unchanged. No citations were added or dropped, so the reading pack needed no new entry.
+Part three has no figure or portrait rules in `build_html.py` (`rules=lambda: {}`), so changing the first words of a paragraph breaks no key. The hero lede ("How this is done today, by people with jobs, families and not much spare time.") still holds. The contact form asks for an email only (4.33.1): `contact_html()` renders one email field, the script sends only the email, and the line above the form says so. The webhook is unchanged. One citation was added in 4.33.2 (Samyutta Nikaya 45.2), the first in Part three. The page builder needed no change for it: the line "## Sources" starts the list, the label "4. The team" becomes a small heading, the bullet becomes a list item, and the contact marker after it still renders as the form, last on the page.

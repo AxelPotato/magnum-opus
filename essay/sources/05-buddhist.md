@@ -1,6 +1,6 @@
 # Buddhist sources
 
-Reading pack for Part two of the essay (2026-10-08). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
+Reading pack for Parts two and three of the essay (2026-10-08; the last entry, for Part three, was added 2026-10-17). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
 
 ## Udana 6.4, the Tittha Sutta (the blind men and the elephant) (Pali canon, Khuddaka Nikaya, in the Udana; written down in Sri Lanka in the first century BCE; the Udana is usually counted among the older books of the Khuddaka Nikaya)
 
@@ -579,3 +579,35 @@ Background: Jain teaching is explicit that a Jina, being liberated, does not act
 
 If someone pushes back:
 - 'Pure Land Buddhists do pray for help.' Yes. 'As examples of where the road leads' is exact for Jainism and Theravada and only partly for Pure Land, which is a strong example of grace in its own right.
+
+## Samyutta Nikaya 45.2, the Upaddha Sutta (good friends are the whole of the holy life) (Pali canon, Samyutta Nikaya, the Connected Discourses on the Path; retold at SN 3.18)
+
+Kind: text. Status: checked (read on 2026-10-17 in four English translations; the texts used in the pushbacks were read the same day).
+
+Who: A very short discourse. Ananda tells the Buddha that good friendship is half of the holy life, and the Buddha corrects him: it is the whole of it. Later tradition makes Ananda the Buddha's cousin and attendant (Dictionary of Pali Proper Names); the sutta says neither.
+
+In the essay (v4.33.2): Part three, section 4, 'The team', end of the paragraph on feeding the wish: Ananda, one of the Buddha's monks, said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it. Only that exchange is used, not the two reasons that follow. Sources list (Part three): Samyutta Nikaya 45.2, the Upaddha Sutta (Sujato's translation, SuttaCentral).
+
+Where it sits: SN 45.2 on SuttaCentral ('SN 45:2' in Bodhi's and Thanissaro's style). Pali Text Society edition S v 2 to 3. The Buddha retells it to King Pasenadi at SN 3.18, and in SN 45.3 Sariputta says the same line and is praised.
+
+The passage (Sujato's translation, SuttaCentral). Ananda: 'Sir, good friends, companions, and associates are half the spiritual life.' The Buddha: 'Not so, Ananda! Not so, Ananda! Good friends, companions, and associates are the whole of the spiritual life.' Two reasons follow: a mendicant with good friends 'can expect to develop and cultivate the noble eightfold path', and beings are freed from birth, aging and death by relying on the Buddha as a good friend. The other translators: Bodhi 'this is half of the holy life' and 'This is the entire holy life'; Thanissaro 'half of the holy life' and 'actually the whole of the holy life'; Woodward 'the whole, not the half, of the holy life'.
+
+Read it free:
+- SuttaCentral, Sujato, 'Half the Spiritual Life': https://suttacentral.net/sn45.2/en/sujato (read on 2026-10-17)
+- SuttaCentral, Bodhi, 'Half the Holy Life': https://suttacentral.net/sn45.2/en/bodhi (read on 2026-10-17)
+- Access to Insight, Thanissaro: https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.002.than.html (read on 2026-10-17)
+- Woodward, with his notes: https://buddhadust.net/dhamma-vinaya/pts/sn/05_mv/sn05.45.002.wood.pts.htm (read on 2026-10-17)
+- SN 3.18, the retelling to the king: https://suttacentral.net/sn3.18/en/sujato (read on 2026-10-17)
+- AN 8.54, to a layman: https://suttacentral.net/an8.54/en/sujato (read on 2026-10-17)
+- Sutta Nipata 1.3, the horned rhino: https://suttacentral.net/snp1.3/en/sujato (read on 2026-10-17)
+- Dhammapada 61: https://suttacentral.net/dhp60-75/en/sujato (read on 2026-10-17)
+- Bhikkhu Bodhi, 'Association with the Wise': https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_26.html (read on 2026-10-17)
+
+Read it in a book: Bhikkhu Bodhi, The Connected Discourses of the Buddha (Wisdom Publications, 2000), SN 45:2. F. L. Woodward, The Book of the Kindred Sayings, part 5 (Pali Text Society).
+
+Background: 'Good friend' is kalyanamitta. The Pali Text Society dictionary gives 'a good companion, a virtuous friend' and, as a technical term, 'a spiritual guide'. Thanissaro's note says the word covers more than keeping company: 'learning from them and emulating their good qualities', as AN 8.54 spells out. Bodhi says good friendship 'means considerably more than associating with people that one finds amenable and who share one's interests'. So the good friend of the sutta is someone you can learn from, a peer or a teacher. Woodward's notes, which follow the commentary, read 'holy life' (brahmacariya) here as the noble path itself, and say Ananda was corrected because he was still a learner who could not know this at first hand, while Sariputta in the next sutta could. Two Chinese parallels (SA 726, SA 768) have the same correction. Each path factor is said to ripen 'as letting go' (Sujato), a stock phrase that translators render differently, and the sutta does not make it the point.
+
+If someone pushes back:
+- 'It is said to a monk, so it is about monastic life.' It is spoken among monks, but in SN 3.18 the Buddha retells the exchange to a king, a layman, and tells him to train like this: 'I will have good friends, companions, and associates.' In AN 8.54 he teaches good friendship to a layman, Dighajanu the Koliyan. 'Monks only' is a misreading.
+- 'The Buddha also said to walk alone like a rhinoceros horn (Sutta Nipata 1.3, Dhammapada 61).' True, and it is the other side of the picture, but it is conditional. The same poem says 'If you find an alert companion, an attentive friend to live happily together, then, overcoming all adversities, wander with them, joyful and mindful', and Dhammapada 61 begins 'If while wandering you find no partner equal or better than yourself'. Both sides are in the texts, and the poem as a whole leans toward solitude.
+- 'A good friend is just a friend who shares your goal.' Nearer to someone equal or further along whom you learn from (see Background). The essay's sentence says only what the sutta says.
