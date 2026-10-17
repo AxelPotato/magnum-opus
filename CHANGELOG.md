@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.14 (2026-10-17)
+
+- Part three, section 5: "Ananda, one of the Buddha's monks," becomes "Ananda, the Buddha's attendant," (your run-7 pick 8.2). The reading pack entry follows. The text without this release is 4.41.13. Notes for Alex updated
+
+
 ## 4.41.13 (2026-10-17)
 
 - Part three, section 8: "Part two called prayer the part turning toward the whole" becomes "Prayer is the part turning toward the whole" (your run-7 pick 8.1). The old wording pointed at a fold two of the readers never opened. The text without this release is 4.41.12. Notes for Alex updated
