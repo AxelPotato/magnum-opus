@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.32.5 (2026-10-17)
+
+- Part two, step 3: the pain and suffering paragraphs rewritten in plain words, without the computer picture (the dashboard warning light)
+
+
 ## 4.32.4 (2026-10-17)
 
 - Part two Sources: Ohno line without the unconfirmed chapter
