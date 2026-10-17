@@ -37,7 +37,7 @@ Turn up the energy before you have a direction and you get a louder version of t
 
 ## 1. Making the decision
 
-This comes first and matters most, because the rest of Part three has nothing to work with until someone has decided. A team can support what you have chosen, and a teacher can guide a person who is walking.
+This comes first and matters most, because the rest of Part three has nothing to work with until someone has decided.
 
 By the decision I mean something plain: to commit to the journey and to keep to it. A wish is the wanting. A decision is the yes that goes with it, the point where the wanting turns into a direction you are going to follow.
 

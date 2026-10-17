@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.5 (2026-10-17)
+
+- Part three, section 1: "A team can support what you have chosen, and a teacher can guide a person who is walking." is cut (your run-7 pick 6.2). The paragraph ends on "...until someone has decided." and section 2 says the rest. The text without this release is 4.41.4. Notes for Alex updated
+
+
 ## 4.41.4 (2026-10-17)
 
 - Part three, the opening: the last sentence ends at "...because people arrive from different places." (your run-7 pick 6.1). The clause "and a good guide reads where you are standing before deciding where you start" is cut, because section 6 introduces the guide properly. The text without this release is 4.41.3. Notes for Alex updated
