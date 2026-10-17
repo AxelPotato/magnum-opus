@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.17 (2026-10-17)
+
+- Part two, step 8: the frame comes before the list of powers (your run-7 pick 9.2). The four sentences from "Let me be clear about what I'm doing here" to "...the materialist view of separation leaves none." move to right after "Every tradition keeps a list of things like that, and the lists are remarkably alike.", and the list of powers starts a paragraph of its own. No words change. The text without this release is 4.41.16. Notes for Alex updated
+
+
 ## 4.41.16 (2026-10-17)
 
 - Part two, step 8: the step from your Reiki night changes (your run-7 pick 9.1, option c). "So the worldview had to be wrong." becomes "That was enough to send me looking.", and the placebo sentences ("Placebo was the obvious answer, and it didn't fit. Nobody had told me I would feel anything, I didn't believe in it, and the sensations were new to me, so there was nothing for my mind to copy.") are cut. The story, and your conclusion next to the careful sceptic, stay. The text without this release is 4.41.15. Notes for Alex updated
