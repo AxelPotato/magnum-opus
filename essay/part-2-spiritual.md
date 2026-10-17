@@ -292,7 +292,7 @@ There is a catch, and the traditions agree about it more than about almost anyth
 * In Matthew's gospel Jesus walks on the sea, and for a moment Peter walks on the water too (14:25-29). When the scribes and Pharisees ask him for a sign, he answers that an evil and adulterous generation seeks for a sign, and that none will be given to it except the sign of the prophet Jonah (12:38-39).
 * Teresa of Avila writes in her Life that her body was sometimes lifted up from the ground in rapture, that she ordered her nuns never to speak of it, and that she asked God to give her no more of the graces that could be seen from outside (chapter 20).
 
-One thing is missing from this list on purpose: seeing the future. It is also connected to the knowledge dial but has a catch to it. The short version is that there is no future to see, only now. That one I'd rather talk through with you in person.
+One thing is missing from this list on purpose: seeing the future. It is also connected to the knowledge dial but has a catch to it. The short version is that there is no future to see, only now. That one needs a longer conversation than this part has room for.
 
 ## One more idea: how far the road goes
 
