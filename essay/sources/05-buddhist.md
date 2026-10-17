@@ -173,7 +173,7 @@ Kind: text. Status: partly checked.
 
 Who: A short discourse in which the Buddha contrasts how an untrained ordinary person and a trained noble disciple respond to physical pain.
 
-In the essay: Part two, 'Why separation feels so real', in the paragraph on the method of letting go: 'in the Sallatha Sutta he says that an untrained person feels two pains, the physical one and the mental one added to it, while a trained disciple feels only the first.' Table: 'The second pain you add (SN 36.6).'
+In the essay (v4.32.0): Part two, step 3, 'The wall, felt from inside', second item of 'Two arrows, and the absence of good': when something hurts, an untrained person feels two pains, the physical one and the mental one added on top, like a man struck by one arrow and then by a second, while a trained disciple feels only the first (SN 36.6). Moved here from step 7, 'Energy' (it was step 6 before the renumbering). The main text of step 3 makes the same point without naming the sutta: most of what we call suffering is the grip held around a pain. The table in figs4.py still has 'The second pain you add (SN 36.6)'. Earliest use: 'Why separation feels so real', in the paragraph on the method of letting go.
 
 Where it sits: SN 36.6 (Sallatha Sutta). Thanissaro and Nyanaponika title it 'The Dart'.
 
@@ -469,7 +469,7 @@ Kind: text. Status: checked (the sutta read in Sujato's translation on SuttaCent
 
 Who: A short discourse in which the Buddha looks back on his life as a young man in his father's house.
 
-In the essay: Part two, step 3, 'The turn', first item of 'Restless until it rests': the delicate life (lotus ponds made just for him, a house for each of the three seasons, musicians for the four months of the rains), the reflection that he too would grow old, get sick and die, and the vanity of youth, health and life falling away. The four sights are named as the later biographies' version of the same moment.
+In the essay: Part two, step 4, 'The turn', first item of 'Restless until it rests': the delicate life (lotus ponds made just for him, a house for each of the three seasons, musicians for the four months of the rains), the reflection that he too would grow old, get sick and die, and the vanity of youth, health and life falling away. The four sights are named as the later biographies' version of the same moment.
 
 Where it sits: AN 3.39 (in some numberings AN 3.38). The four sights as a story about Gotama come from the later biographies. In the canon the same pattern is told about an earlier Buddha, Vipassi, in the Mahapadana Sutta (DN 14).
 
@@ -493,7 +493,7 @@ Kind: text. Status: checked (Sujato's translations read on SuttaCentral, 2026-10
 
 Who: Two long discourses. In DN 2 the Buddha tells King Ajatasattu what a contemplative gains, step by step. In DN 11 a householder, Kevaddha, asks him to have a monk perform a miracle to win over the town.
 
-In the essay: Part two, step 7, 'Miracles, or levels of knowledge': the list of powers (walking on water as if it were earth, flying cross-legged through the sky) and the warning (the Buddha is horrified by displays of psychic power and of reading minds, and values instruction).
+In the essay: Part two, step 8, 'Miracles, the levels of knowledge': the list of powers (walking on water as if it were earth, flying cross-legged through the sky) and the warning (the Buddha is horrified by displays of psychic power and of reading minds, and values instruction).
 
 Where it sits: DN 2, the section on psychic powers among the fruits of the contemplative life. DN 11, the three demonstrations (psychic power, revealing, instruction).
 
@@ -509,3 +509,73 @@ Background: The drawback the Buddha names in DN 11 is that a sceptic can say the
 
 If someone pushes back:
 - 'Buddhists treat these as metaphors.' Some modern readers do; the texts present them as abilities and the commentaries discuss them as such. The essay does not need to settle it.
+
+## Samyutta Nikaya 56.11, the Dhammacakkappavattana Sutta (the first talk: the four noble truths) (Pali canon, Samyutta Nikaya, the Connected Discourses on the Truths)
+
+Kind: text. Status: checked (Thanissaro Bhikkhu's translation read on Access to Insight, 2026-10-17).
+
+Who: By tradition the first talk the Buddha gave after his awakening, to his five former companions in the deer park at Isipatana near Varanasi. Its title means 'setting the wheel of the Dhamma in motion'.
+
+In the essay (v4.32.0): Part two, step 3, 'The wall, felt from inside', first item of 'Two arrows, and the absence of good': in his first talk the Buddha names the truth of suffering, its origin in craving, its ending, and the path that leads to that ending. The essay adds, marked as its own reading ('As I read it'), that craving is the need setting from step 2 in his words.
+
+Where it sits: SN 56.11 (Pali Text Society edition SN v 420, from memory). A parallel version is in the Vinaya, Mahavagga 1.6.
+
+The passage: Paraphrase. Dukkha (stress, suffering): birth, aging, illness and death are dukkha, and in short the five clinging-aggregates. Its origin is the craving that leads to further becoming: craving for sensual pleasure, for becoming and for non-becoming. Its cessation is the fading and ending of that craving, its relinquishment and letting go. The path is the noble eightfold path. Before the truths the talk rejects two extremes, sensual indulgence and self-torment, and calls the path the middle way.
+
+Read it free:
+- Access to Insight, SN 56.11 (Thanissaro Bhikkhu): https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html (read on 2026-10-17)
+- SuttaCentral, SN 56.11 (Bhikkhu Sujato; Bhikkhu Bodhi): https://suttacentral.net/sn56.11 (not checked)
+
+Read it in a book: Bhikkhu Bodhi, The Connected Discourses of the Buddha (Wisdom Publications, 2000). Walpola Rahula, What the Buddha Taught (1959; Grove Press), chapters 2 to 5, the classic short introduction to the four truths.
+
+Background: Dukkha is wider than pain. It covers unease, stress and the unsatisfactoriness of whatever does not last. The Pali for craving is tanha, literally thirst. The same sutta frames the truths as tasks: dukkha is to be understood, craving abandoned, cessation realized and the path developed. The essay marks its equation of craving with the need setting as its own reading, which is right, since the sutta has no axiom of one whole behind it.
+
+If someone pushes back:
+- 'Buddhism says life is suffering, which is pessimistic.' The first truth says that clinging to what does not last brings dukkha, and the third says it can end. The talk itself calls its way the middle way.
+- 'Craving is not the same as a need to feel whole.' The essay says 'as I read it'. In the Buddha's own scheme craving rests on ignorance, the first link of dependent arising, which is close to what the essay calls the wall.
+
+## The Metta Sutta, Sutta Nipata 1.8 (the Karaniya Metta Sutta: as a mother protects her only child) (Pali canon, Khuddaka Nikaya; the same text is Khuddakapatha 9)
+
+Kind: text. Status: checked (the Amaravati Sangha translation read on Access to Insight, 2026-10-17).
+
+Who: A short discourse in verse on loving kindness (metta), one of the most often chanted texts in Theravada countries. The commentary's frame story is that the Buddha taught it to monks who were frightened by forest spirits.
+
+In the essay (v4.32.0): Part two, step 3, 'The wall, felt from inside', third item of 'Halves, and a ladder': just as a mother would protect her only child with her life, one should cultivate a boundless heart toward all beings (Sutta Nipata 1.8).
+
+Where it sits: Sutta Nipata 1.8, verses 143 to 152 in the continuous numbering; the mother simile is verse 149 (verse numbers from memory).
+
+The passage (Amaravati Sangha, free distribution): 'Even as a mother protects with her life / Her child, her only child, / So with a boundless heart / Should one cherish all living beings'.
+
+Read it free:
+- Access to Insight, Karaniya Metta Sutta (Amaravati Sangha): https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.amar.html (read on 2026-10-17)
+- SuttaCentral, Snp 1.8: https://suttacentral.net/snp1.8 (not checked)
+
+Read it in a book: K. R. Norman, The Group of Discourses (Sutta-nipata) (Pali Text Society, 2nd edition 2001). Sharon Salzberg, Lovingkindness: The Revolutionary Art of Happiness (Shambhala, 1995), for the practice.
+
+Background: Metta is the first of the four boundless states (brahmaviharas): loving kindness, compassion, sympathetic joy and equanimity. The classic method widens it step by step, from oneself to a dear person, a neutral person and a hostile one, and then to all beings (Buddhaghosa, Visuddhimagga, chapter 9, from memory). That widening matches the essay's line that love grows outward a step at a time.
+
+If someone pushes back:
+- 'Metta is a meditation, not love in your sense.' It is cultivated goodwill, and the sutta's own image for it is a mother's love, so the essay's use stays inside the text.
+
+## Devotion without a creator God: the buddhas and the Jinas (concept; Buddhism and Jainism)
+
+Kind: concept. Status: unchecked (general knowledge; no page opened this session).
+
+Who: Neither Buddhism nor Jainism teaches a creator God, and both are devotional in practice. Buddhists bow and make offerings before images of the Buddha and, in the Mahayana, of other buddhas and bodhisattvas. Jains worship the Jinas (tirthankaras), the twenty-four teachers of this age who reached liberation, in temple puja.
+
+In the essay (v4.32.0): Part two, step 7, 'Energy', last item of 'God, asking, and grace': Buddhism and Jainism have no creator God to pray to, and both keep devotion toward those who have fully woken up, the buddhas and the Jinas, as examples of where the road leads.
+
+Where it sits: No single text. Jainism: the Navkar (Namokar) mantra, which bows to the liberated (arihants and siddhas), the teachers, the preceptors and all monks, and asks for nothing. Theravada: the recollection of the Buddha's qualities ('iti pi so', for example AN 6.10). Pure Land: the Larger Sukhavativyuha Sutra, with Amitabha's vows.
+
+The passage: none quoted.
+
+Read it free:
+- Access to Insight, AN 6.10, the Mahanama Sutta (recollection of the Buddha): https://www.accesstoinsight.org/tipitaka/an/an06/an06.010.than.html (not checked)
+- Britannica, Jainism: https://www.britannica.com/topic/Jainism (not checked)
+
+Read it in a book: Paul Dundas, The Jains (Routledge, 2nd edition 2002), the chapter on worship. Lawrence A. Babb, Absent Lord: Ascetics and Kings in a Jain Ritual Culture (University of California Press, 1996), whose title is the point: the Jina is liberated and does not answer. Rupert Gethin, The Foundations of Buddhism (Oxford, 1998).
+
+Background: Jain teaching is explicit that a Jina, being liberated, does not act in the world or grant requests, so worship holds up the goal and purifies the worshipper. Theravada treats the Buddha in much the same way. East Asian Pure Land Buddhism is the case to know for the essay's grace item: there, birth in Amitabha's pure land rests on his vow, which Shinran called 'other power' (tariki), close to the Christian idea of grace. 'Fully woken up' is Buddhist wording; Jains speak of omniscience (kevala jnana) and liberation.
+
+If someone pushes back:
+- 'Pure Land Buddhists do pray for help.' Yes. 'As examples of where the road leads' is exact for Jainism and Theravada and only partly for Pure Land, which is a strong example of grace in its own right.

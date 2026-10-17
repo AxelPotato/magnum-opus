@@ -211,7 +211,7 @@ Kind: text. Status: checked.
 
 Who: A dialogue narrated by Phaedo, set in the prison on the last day of Socrates, with his friends Simmias and Cebes. It ends with Socrates drinking hemlock.
 
-In the essay: In 'Not enough time in one life': 'In Plato's Phaedo, Socrates gives several arguments for the survival of the soul on his last day', as one Greek example in a list of traditions where something continues between lives.
+In the essay (v4.32.0): Part two, step 5, 'Something carries over', first item of the fold 'Practice for dying': on the day of his death Socrates says that those who practice philosophy rightly are practicing nothing other than dying and being dead (64a), and that this is why death frightens them less than anyone (67e). Checked on 2026-10-17: Fowler's translation on Perseus has at 67e 'the true philosophers practice dying, and death is less terrible to them than to any other men' (https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Phaedo:section=67e, read on 2026-10-17); Fowler's 64a was seen quoted in a search result as 'those who practice philosophy aright study nothing but dying and being dead'. The dialogue is set on Socrates' last day, so 'on the day of his death' is right. Earlier use, in 'Not enough time in one life': 'In Plato's Phaedo, Socrates gives several arguments for the survival of the soul on his last day'.
 
 Where it sits: Phaedo 70c to 107b for the arguments. According to the Internet Encyclopedia of Philosophy summary seen this session: cyclical argument 70c to 72e, recollection 72e to 78b, affinity 78b to 84b, final argument from the Forms 102b to 107b. The myth of the afterlife follows, roughly 107c to 115a (memory).
 
@@ -385,7 +385,7 @@ Kind: text. Status: checked (Legge's translation read in the archive.org scan of
 
 Who: Mencius, the most important Confucian thinker after Confucius. The same book holds the child at the well (2A:6), which Wang Yangming took up and which the essay uses in step 5.
 
-In the essay: Part two, step 6, 'Energy', fourth item of 'Empty, and let it through': he was good at nourishing his vast, flowing qi; it is exceedingly great and strong; nourished by rightness and left unharmed, it fills everything between heaven and earth; it grows out of a long run of right deeds, and when the heart is not at ease with what you do, it starves.
+In the essay: Part two, step 7, 'Energy', fourth item of 'Empty, and let it through': he was good at nourishing his vast, flowing qi; it is exceedingly great and strong; nourished by rightness and left unharmed, it fills everything between heaven and earth; it grows out of a long run of right deeds, and when the heart is not at ease with what you do, it starves.
 
 Where it sits: Mencius, Book II, Part A (Gongsun Chou I), chapter 2, the conversation with Gongsun Chou about the unmoved heart. Legge numbers the lines 11 to 15.
 
@@ -409,7 +409,7 @@ Kind: text. Status: checked (the line located in an online copy of Part I, 2026-
 
 Who: A Russian singer and writer. Two Lives is a long mystical novel about a young man, Levushka, and the teachers he travels with.
 
-In the essay: Part two, step 7: 'Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge.' The English is Alex's own.
+In the essay: Part two, step 8, 'Miracles, the levels of knowledge': 'Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge.' The English is Alex's own.
 
 Where it sits: Part I, the train journey, after the Florentine comforts the conductor: «Право же, на свете нет чудес. Все объясняется очень просто», and a few lines later «...нет чудес, а есть та или иная степень знания».
 
@@ -423,7 +423,7 @@ Background: The book is popular in Russian-speaking spiritual circles; the essay
 
 Kind: concept. Status: unchecked (biographical mention only).
 
-In the essay: Part two, step 7: in 2012 the author's 'philosophy of choice was Nietzsche's idea of the Übermensch, the closest thing I had found to an answer to the question of why bother living.' It describes the author, not an argument.
+In the essay: Part two, step 8, 'Miracles, the levels of knowledge': in 2012 the author's 'philosophy of choice was Nietzsche's idea of the Übermensch, the closest thing I had found to an answer to the question of why bother living.' It describes the author, not an argument.
 
 Read it in a book: Nietzsche, Thus Spoke Zarathustra, translated by Graham Parkes (Oxford World's Classics, 2005).
 
@@ -442,3 +442,27 @@ Read it free:
 Read it in a book: Pico della Mirandola, Oration on the Dignity of Man: A New Translation and Commentary, edited by Borghesi, Papio and Riva (Cambridge University Press, 2012).
 
 Background: Pico wrote the speech to open a public debate in Rome on 900 theses, which the pope blocked. The passage is the most quoted Renaissance statement of human freedom. He was a Christian Platonist, so the freedom is given by God, which matches the essay's 'handed over' reading.
+
+## Plato, Symposium: Aristophanes' halves (189c to 193d) and Diotima's ladder (210a to 212a) (Plato c. 428 to 348 BCE; written about 385 to 370 BCE; set at a dinner in 416 BCE)
+
+Kind: text. Status: partly checked (Fowler's translation of 192e read on Perseus, 2026-10-17; the ladder from memory).
+
+Who: Plato's dialogue on love (eros). Guests at the poet Agathon's house each give a speech in praise of Love. The comic playwright Aristophanes tells a myth, and Socrates reports what the priestess Diotima of Mantinea taught him.
+
+In the essay (v4.32.0): Part two, step 3, 'The wall, felt from inside', first item of 'Halves, and a ladder': Aristophanes tells a comic story in which humans were once whole and were cut in two, so each of us goes looking for our other half, and love is the name for the desire and pursuit of the whole (192e to 193a); Diotima describes a ladder of love from one beautiful body to all of them, then to beautiful souls, to laws and knowledge, and finally to beauty itself (210a to 212a).
+
+Where it sits: Aristophanes' speech 189c to 193d, the line on the whole at 192e to 193a. Diotima's ladder 210a to 212a, inside Socrates' speech (201d to 212c).
+
+The passage: Fowler (Loeb, 1925): 'our original form was as I have described, and we were entire; and the craving and pursuit of that entirety is called Love' (192e, the last words run into 193a). Jowett (public domain) has 'the desire and pursuit of the whole is called love', the wording the essay follows. The ladder, paraphrased: from one beautiful body to the beauty in all bodies, then the beauty of souls, of practices and laws, of the kinds of knowledge, until one sees beauty itself, which neither comes to be nor passes away.
+
+Read it free:
+- Perseus, Symposium (Fowler), section 192e: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0174:text=Sym.:section=192e (read on 2026-10-17)
+- Project Gutenberg, Symposium (Jowett): https://www.gutenberg.org/ebooks/1600 (not checked)
+
+Read it in a book: Alexander Nehamas and Paul Woodruff, Plato: Symposium (Hackett, 1989). Robin Waterfield, Symposium (Oxford World's Classics, 1994). Frisbee Sheffield, Plato's Symposium: The Ethics of Desire (Oxford, 2006), for the scholarship.
+
+Background: In Aristophanes' story the first humans were round, with four arms, four legs and two faces, and Zeus cut them in half for their pride, so each half longs for the other. Plato gives it to a comedian, and the essay is right to call it a comic story. Diotima then corrects it: love is not for one's other half unless that half is good, and its real aim is the good and beauty itself. Together they give the essay's two moves, love as a longing for wholeness and love widening a step at a time. 'Platonic love' comes from the ladder.
+
+If someone pushes back:
+- 'Aristophanes is a joke, and Diotima rejects his view.' Both true. The essay calls it a comic story and puts Diotima right after it.
+- 'The ladder leaves the individual person behind.' A known objection in the literature (Gregory Vlastos made it, from memory). The essay uses the ladder only for the widening.

@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.32.0 (2026-10-17)
+
+- Part two: new step 3 'The wall, felt from inside' (pain, suffering, love, evil), dying and the fear of death in 'Something carries over', folds on the fall (under the turn) and on God, prayer and grace (under energy), physics in step 1 trimmed to one paragraph, steps renumbered to eight, chain figure and reading pack updated
+
+
 ## 4.31.0 (2026-10-17)
 
 - Alex's Essay Desk edits to Part two: 'everything is a part of it', 'There is a distance, on the screen', a fun-way aside after the computer picture, step 7 heading 'Miracles, the levels of knowledge', and wording in the Reiki story, the claim paragraph, the Antarova line (Concordia) and the future-seeing teaser

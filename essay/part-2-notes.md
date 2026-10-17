@@ -144,3 +144,15 @@ Alex went through the open decisions from the lecture check (full list with evid
 - Step 7: each step up shows more, including more of what needs fixing, and the whole comes back knowing more than when it set out.
 
 Kept as they were, as recommended: escape velocity at the corner, the corner as plus one, four levels (the lectures sometimes add a fifth), the computer picture (the lectures call the world a computer game you are meant to leave), karma coming back in a later life, service in a team left for Part three. Still open: Alex's last step, and whether to soften "None of the traditions I'm about to quote is mine".
+
+
+## Version 4.32.0 (2026-10-17): pain and love, dying, the fall, God and grace
+
+Alex asked which spiritual concepts the seven steps did not explain yet (options in the project file `part-2/other-concepts-to-explain.md`, placement plan in `part-2/new-steps-plan.md`). His picks: A.b, 1.a, 2.a, love inside the new step, 4.a, 5.a ("be careful, controversial area") and the 9.a trim.
+
+- New step 3, "The wall, felt from inside": pain as the body's report, suffering as the grip held around it, and that report as what makes the return possible (the error log); love as the same signal read the other way (the wall dropping), strongest where the wall is thinnest, need told apart from love, love growing outward; evil read from the axiom (nobody else, the steering handed over, the wall at its thickest, Augustine's absence of good). Two folds: suffering (SN 56.11, the Sallatha Sutta moved here from Energy, Augustine's Enchiridion, Irenaeus, Job 42:5) and love (Symposium, 1 John 4:16, the Metta Sutta, Ibn Arabi). The compass paragraph in the turn now calls itself the signal from step 3 read over months.
+- "Something carries over" adds what dying is and the fear of death as the wall's strongest reflex, plus a fold "Practice for dying" (Phaedo, Katha Upanishad and Gita 2.20, 1 Corinthians 15:55, Rumi's "I died as a mineral"). "Die before you die" is left out (not accepted as hadith).
+- The turn gets a fold "Leaving home, and coming to yourself": Genesis 3, hamartia and chet as missing the mark, the prodigal son ("he came to himself"), original sin and 1 Corinthians 15:22, Luria's breaking of the vessels, the Hymn of the Pearl.
+- Energy gets a fold "God, asking, and grace", written with care: the nearest thing in the axiom to what the traditions call God is the whole met from one position, prayer is the part turning toward it, grace is the river arriving unearned. It says what prayer is and never how to pray. Witnesses: Advaita's Brahman and Ishvara, Quran 50:16, Psalm 16:8, Buber, Ephesians 2:8, Rabia (as told by Attar), and Buddhism and Jainism said accurately to have no creator God.
+- Step 1's physics is down to one paragraph (fields, identical electrons, Bell and the Nobel tests); Hensen 2015 is no longer cited.
+- Steps 3 to 7 are renumbered 4 to 8, and the chain figure has eight boxes. Parts zero, one and three never refer to Part two's step numbers.
