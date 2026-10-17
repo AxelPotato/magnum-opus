@@ -151,7 +151,7 @@ What changed: the section "How people come to it" is out of Part three, whole, a
 
 The ladder item in the options file (6.3, shorter shapes for the section) is moot now, and so are the run 7 verdict items that were about this section.
 
-To take it out, ask for "revert 11". That is a release that puts the section back between the mirror and the space port, word for word as it stood in 4.37.0, and gives the space port its number 12 again. The text as it was before this release is 4.37.0, commit f3f55eb.
+To take it out, ask for "revert 11". That is a release that puts the section back after the mirror, word for word as it stood in 4.37.0, numbered 11. The text as it was before this release is 4.37.0, commit f3f55eb.
 
 ## The space port moves to Next (4.39.0)
 
@@ -169,7 +169,7 @@ To take it out, ask for "revert space port". That is a release that puts the lon
 
 What changed: section 4 is called "Giving" and is explained in plainer words (your 20:04 message: the word "service" doesn't ring for most people, and the section is good enough not to get lost behind it). "Service" is gone from the page, and "serve" went with it. What the section says is the same, and most of its sentences are yours word for word. What is new: it opens with what giving means here and two small examples, an hour of real attention and your skills put to work on someone else's problem, and it says that this is where the reason bigger than you from the section before turns into something you do. The two ideas from Part two (the fingers, love as the wall dropping) now have a paragraph of their own, starting with "It starts with the people closest to you". The two rules read "the first" and "the second". The second rule loses "because that is where the second effect shows up", which pointed at an effect the section had never named; the sentence about having less of you to guard follows directly instead. "Credit" became "recognition", because the money rule counts the word. "Service is the method taking that seriously" is cut, since it only restated the paragraph, and "Service gives the energy somewhere to go" became "Giving sends the energy somewhere". Section 5 already said "you pursue a goal and you give", so the team list and the heading now match.
 
-The word is my pick (item 9.4 in the options file offers "Helping others", "Being of use" and "Contribution" as others): "Giving" is short, matches the team list, and covers people and causes alike. If you want another one, say which and I will change the heading and the few places it recurs.
+The word is my pick (item 9.3 in the options file offers "Helping others", "Being of use" and "Contribution" as others): "Giving" is short, matches the team list, and covers people and causes alike. If you want another one, say which and I will change the heading and the few places it recurs.
 
 To take it out, ask for "revert giving". That is a release that puts the heading and the text back as they stood in 4.39.0. The text as it was before this release is 4.39.0, commit c7409fc.
 
