@@ -280,7 +280,7 @@ def rules1():
         'Here is why the turbulence is worth it': dict(after=figure(F.fig_loop(), 'The two legs feed each other.')),
         'A quick way to find your own examples': dict(after=figure(F.fig_jail(), 'The jail-cell test.')),
         'Say each line runs from 0 to 100.': dict(after=figure(F.fig_bars(), 'Effectiveness is roughly BE times DO. Do not quote me.')),
-        'Start with the physiology.': dict(after=figure(F.fig_anokhin(), 'Anokhin\'s functional system, simplified: a goal is a model of the result, and the result is compared with it.')),
+        'The Soviet physiologist Pyotr Anokhin': dict(li_after=figure(F.fig_anokhin(), 'Anokhin\'s functional system, simplified: a goal is a model of the result, and the result is compared with it.')),
         'Viktor Frankl, a psychiatrist': dict(who=[('frankl', 'Viktor Frankl', 'neutral')]),
         'The lab has looked at this too': dict(after=figure(F.fig_studies(), 'Left: a randomized field experiment. Right: a review of ten long-term studies, which shows an association, not a cause. Read both as a direction.')),
         'Picture someone who freezes': dict(after=figure(F.fig_scales(), 'The fear is a vote. A bigger reason is a bigger vote.')),
@@ -606,8 +606,13 @@ def convert(md, R):
             continue
         if b.startswith('* '):
             n = sum(1 for l in b.split('\n') if l.startswith('* '))
-            lis = ''.join(f'<li class="grp">{smart(l[2:])}</li>' if l.endswith(':') else f'<li>{smart(l[2:])}</li>'  # a bullet ending in a colon labels the ones after it
-                          for l in b.split('\n') if l.startswith('* '))
+            def li(l):
+                t = l[2:]
+                if t.endswith(':'):  # a bullet ending in a colon labels the ones after it
+                    return f'<li class="grp">{smart(t)}</li>'
+                rule = next((v for k, v in R.items() if 'li_after' in v and t.startswith(k)), None)  # li_after puts a figure inside the entry
+                return f'<li>{smart(t)}{rule["li_after"] if rule else ""}</li>'
+            lis = ''.join(li(l) for l in b.split('\n') if l.startswith('* '))
             if fold_title:
                 if fold_title.startswith('What the studies'):
                     label = f'{fold_title} ({n} {"study" if n == 1 else "studies"})'
@@ -650,7 +655,8 @@ def convert(md, R):
                     out.append(rule['after'])
         else:
             out.append(para)
-    unused = [k for k in R if not any(b.strip().startswith(k) for b in blocks)]
+    starts = [b.strip() for b in blocks] + [l[2:] for b in blocks for l in b.split('\n') if l.startswith('* ')]
+    unused = [k for k in R if not any(s.startswith(k) for s in starts)]
     if unused:
         print('  note: placement rules that matched no paragraph:', *unused, sep='\n    ')
     return out, toc

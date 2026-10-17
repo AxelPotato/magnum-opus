@@ -517,7 +517,7 @@ Kind: concept. Status: partly checked.
 
 Who: 'Multiverse' covers several unrelated ideas that all say there is more than one universe. The essay says only that 'some physicists speculate that our universe is one of many, an idea nobody has confirmed, and a hard one to test', and uses it to suggest even plus four may be a stage and not an ending.
 
-In the essay: 'The arrow': 'Some physicists speculate that our universe is one of many, an idea nobody has confirmed, and a hard one to test, and if so even plus four may be a stage and not an ending.'
+In the essay: no longer cited. The sentence 'Some physicists think our universe is one of many, and if so even the farthest point of this picture has something after it.' was cut from 'One more idea' in v4.43.1 (run-7 pick 9.6). The entry stays as private context for discussion.
 
 Where it sits: Feeney et al., 'First Observational Tests of Eternal Inflation' (arXiv 1012.1995, and the analysis-methods paper 1012.3667); popular coverage in NBC, Space.com and Scientific American.
 
@@ -558,15 +558,15 @@ If someone pushes back:
 - Some places take longer than a day. True, and the essay says 'nearly'.
 - Is it about speed or reach? Both. The essay's point is reach, how many places you can be at home in.
 
-## Cells switched off, not deleted: Gurdon's nuclear transfer, Yamanaka's reprogramming, and cancer cells that stop listening (Gurdon 1962 (Xenopus). Takahashi and Yamanaka 2006 (mouse), 2007 (human). Nobel Prize in Physiology or Medicine 2012, shared. Hanahan and Weinberg 2000.)
+## Cells switched off, not deleted: Gurdon's nuclear transfer and Yamanaka's reprogramming (Gurdon 1962 (Xenopus). Takahashi and Yamanaka 2006 (mouse), 2007 (human). Nobel Prize in Physiology or Medicine 2012, shared.)
 
 Kind: study. Status: partly checked.
 
-Who: John Gurdon (1933 to 2025) was a British developmental biologist at Oxford and Cambridge. Shinya Yamanaka is a Japanese stem cell researcher at Kyoto University. They shared the 2012 Nobel Prize in Physiology or Medicine for showing that mature cells can be reprogrammed. Douglas Hanahan and Robert Weinberg wrote the standard review of what cancer cells have in common.
+Who: John Gurdon (1933 to 2025) was a British developmental biologist at Oxford and Cambridge. Shinya Yamanaka is a Japanese stem cell researcher at Kyoto University. They shared the 2012 Nobel Prize in Physiology or Medicine for showing that mature cells can be reprogrammed.
 
-In the essay: Part two, step 2, 'How a whole turns itself down'. 'Almost every cell in it carries the complete plan for you... nothing is deleted' is the textbook point that differentiated cells keep the genome and switch most of it off. Gurdon is the tadpole gut cell nucleus put into an emptied egg, which grew into a frog. Yamanaka is the 2006 mouse result and the 2007 human one. The sentence that a cancer cell 'stops listening and grows as if it were the only cell there is' summarizes the hallmarks of cancer: self-sufficiency in growth signals and insensitivity to signals that say stop.
+In the essay: Part two, step 2, 'How a whole turns itself down'. 'Almost every cell in it carries the complete plan for you... nothing is deleted' is the textbook point that differentiated cells keep the genome and switch most of it off. Gurdon is the tadpole gut cell nucleus put into an emptied egg, which grew into a frog. Yamanaka is the 2006 mouse result and the 2007 human one. The sentence about a cancer cell that stops listening was cut in v4.43.3 (run-7 pick 9.8), and Hanahan and Weinberg are no longer cited; what stays is that cells in a body pick up signals from their neighbors that say when to divide and when to stop.
 
-Where it sits: Gurdon, J. B. (1962), Journal of Embryology and Experimental Morphology 10, 622 to 640, 'The developmental capacity of nuclei taken from intestinal epithelium cells of feeding tadpoles'. Takahashi, K. and Yamanaka, S. (2006), Cell 126(4), 663 to 676, doi 10.1016/j.cell.2006.07.024. Takahashi, K. et al. (2007), Cell 131(5), 861 to 872. Hanahan, D. and Weinberg, R. A. (2000), Cell 100(1), 57 to 70 (page numbers from memory).
+Where it sits: Gurdon, J. B. (1962), Journal of Embryology and Experimental Morphology 10, 622 to 640, 'The developmental capacity of nuclei taken from intestinal epithelium cells of feeding tadpoles'. Takahashi, K. and Yamanaka, S. (2006), Cell 126(4), 663 to 676, doi 10.1016/j.cell.2006.07.024. Takahashi, K. et al. (2007), Cell 131(5), 861 to 872.
 
 The passage (paraphrase, not cleared for quoting): Paraphrase. Gurdon moved nuclei from gut cells of feeding tadpoles into frog eggs whose own nucleus had been destroyed, and some of these eggs developed into tadpoles and, in the later reports, into adult frogs, so the nucleus of a specialised cell still held everything needed to build a whole animal. Yamanaka's group showed that four factors (Oct3/4, Sox2, c-Myc and Klf4) turn mouse skin fibroblasts back into cells that behave like embryonic stem cells, and a year later did the same with human cells.
 
@@ -577,36 +577,10 @@ Read it free:
 
 Read it in a book: Gurdon's own account is in his Nobel lecture (2012). For a readable tour of cell identity and reprogramming, a good developmental biology textbook, for example Gilbert's Developmental Biology, has a chapter on nuclear equivalence (from memory).
 
-Background: The 1962 paper does not settle that the transplanted nuclei came from fully specialised cells; the search results say this was shown later, by 1975. Briggs and King had earlier suggested adult nuclei lose the ability, using a different frog species. Reprogramming is inefficient and reprogrammed cells can keep traces of where they came from, so 'switched back' is a simplification. A few cell types lose their nucleus (mature red blood cells), and immune cells rearrange part of their DNA, which is why the essay says 'almost every cell'. The cancer sentence is a plain summary of the hallmarks, and cancer has many causes, mostly damaged DNA. The essay uses it only as a picture of a part that stops responding to the whole.
+Background: The 1962 paper does not settle that the transplanted nuclei came from fully specialised cells; the search results say this was shown later, by 1975. Briggs and King had earlier suggested adult nuclei lose the ability, using a different frog species. Reprogramming is inefficient and reprogrammed cells can keep traces of where they came from, so 'switched back' is a simplification. A few cell types lose their nucleus (mature red blood cells), and immune cells rearrange part of their DNA, which is why the essay says 'almost every cell'.
 
 If someone pushes back:
 - Isn't that just an analogy? Yes. The essay says that it shows a pattern, a whole present in a part with most of it off, and nothing more.
-- Is it right to say a cancer cell 'forgets'? The essay does not say that. It says the cell stops listening to signals from its neighbors.
-- Is cancer a moral comparison? No. The essay applies it to no person, and says the scale is one the author is on too.
-
-## Albert Einstein, 'Does the inertia of a body depend upon its energy content?' (1905): mass is a form of energy (Einstein 1879 to 1955; Annalen der Physik 18, 639-641, September 1905)
-
-Kind: text. Status: partly checked (title, journal and the result are standard; the paper itself was not opened this session).
-
-Who: The short follow-up to Einstein's special relativity paper of the same year.
-
-In the essay: Part two, step 7, 'Energy': 'Einstein's E=mc² says that mass is a form of energy, so a rock, a body and a star are energy packed very tight.' Used as a picture with the step 1 warning label, next to the conservation of energy.
-
-Where it sits: Annalen der Physik 18 (1905), 639-641. The paper writes the result as: if a body gives off energy L as radiation, its mass goes down by L/c². The famous form E=mc² came later.
-
-The passage (paraphrase): a body that emits energy loses mass in proportion, so the mass of a body is a measure of its energy content.
-
-Read it free:
-- Wikipedia, Mass-energy equivalence (history and the 1905 paper): https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence (not checked)
-- The English translation of the 1905 paper is widely reprinted, for example in The Principle of Relativity (Dover, 1952) (not checked)
-
-Read it in a book: The Principle of Relativity (Dover, 1952), a collection of the original papers in English.
-
-Background: Mass-energy equivalence is among the best tested results in physics: nuclear reactions and particle accelerators confirm it every day. Two points for discussion. Energy in physics is a property that a system has, so 'everything is made of energy' is loose talk, while 'mass is a form of energy' is exact. And energy is conserved: it changes form and moves on, and the total in a closed system stays the same. The essay uses both points only as a picture for the step, and says so.
-
-If someone pushes back:
-- 'E=mc² says nothing about human energy.' Agreed, and the essay says the same: it is the picture, and the claim about a person rests on the tank and the river and on what a reader can check.
-- 'Things are not made of energy.' Right, and the essay avoids saying that. It says mass is a form of energy, which is the exact statement.
 
 ## John Bell's theorem (1964), the loophole-free tests of 2015 and the 2022 Nobel Prize (Bell 1928 to 1990; Physics 1, 195-200, 1964; Hensen et al., Nature 526, 682-686, 2015; Nobel Prize in Physics 2022)
 

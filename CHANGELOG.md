@@ -8,6 +8,166 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.46.2 (2026-10-17)
+
+- Part one, "The reason bigger than you": the Anokhin entry in the fold "What the studies say" is reworded to sit in the fold like the entries after it (your 22:12 message). "...you search for another way." now ends "...you search for another way (Anokhin, 1973)." and the last three sentences, "Anokhin never asked whether the goal is about you or about somebody else. His theory is about what a goal does. The next ones ask which kind.", become one: "The theory is about what a goal does, and it doesn't ask whether the goal is about you or about somebody else." The first three sentences and the figure are as they were. The text without this release is 4.46.1. Notes for Alex updated
+
+
+## 4.46.1 (2026-10-17)
+
+- Part three, section 7: the sentence "That is how the road began for Genadiy in section 6: what he saw in the people he met in his teens gave him a huge wish to know what they knew." is gone (your 22:07 message). The paragraph now ends on "...another to sit across from someone for whom it is ordinary." Nothing else in section 7 changed. The text without this release is 4.46.0. Notes for Alex updated
+
+
+## 4.46.0 (2026-10-17)
+
+- Part three, section 7: "Guidance" is now "Mentorship" and is written again around how an apprentice learns from a blacksmith by standing next to them (your 21:39 message). It says mentorship runs on personal example and is closer to a workshop than to a classroom, that a mentor is someone who has had more time to practice what you want, that what they say matters less and only a small part of it is telling you what to do or where you are right or wrong, and that the biggest effect is feeling what it is like to be a person a few steps ahead, which you called osmosis and which makes people mature much faster. The opening line about sounding like a cult, the three checks, the paragraph on blind spots, the "you can leave" paragraph and "who checks the teacher?" are gone, and the story about feedback is two sentences. The text without this release is 4.45.3. Notes for Alex updated
+
+
+## 4.45.3 (2026-10-17)
+
+- Part three, section 6: the paragraph "A teacher does one more job." is now version 2 from the Run 7 final verdict thread, which you picked at 21:24 (item 4). It says that a teacher can make the first sorry easier, that he says what he sees to the whole team and each person looks for their own part in the conflict, that when one person is simply wrong that gets said too, and that "the sorry itself still has to come from one of the two." The sentence about his view belonging to none of us and the team-meetings observation are gone with the rest of the old ending. This replaces my own first rewrite of the paragraph (4.41.2). The text without this release is 4.45.2. Notes for Alex updated
+
+
+## 4.45.2 (2026-10-17)
+
+- Part zero: "And if someone handed it to you, it was written with you in mind as well." moves from the end of the Part one paragraph to right after "...and why almost nobody works on both." (your run-7 pick 11.2, option b). Same words. The text without this release is 4.45.1. Notes for Alex updated
+
+
+## 4.45.1 (2026-10-17)
+
+- Part zero: "how the method of conscious development I share looks like" becomes "what the method of conscious development I share looks like" (your run-7 pick 11.1). The text without this release is 4.45.0. Notes for Alex updated
+
+
+## 4.45.0 (2026-10-17)
+
+- Part one, "The reason bigger than you": the Anokhin paragraph and its figure move into the fold "What the studies say" as its first entry (your run-7 pick 10.3, option a). Frankl's paragraph now opens "Viktor Frankl, a psychiatrist who survived the Nazi camps, argued that...". The Sources list is unchanged. The text without this release is 4.44.0. Notes for Alex updated
+
+
+## 4.44.0 (2026-10-17)
+
+- Part one, "One hose": the four middle paragraphs (holes, nozzle, attention, something worth watering) become one, built from the section's own sentences (your run-7 pick 10.2, option b). The opening paragraph, the last paragraph ("Taken in order...") and the figure stay. The text without this release is 4.43.5. Notes for Alex updated
+
+
+## 4.43.5 (2026-10-17)
+
+- Part one, the High agency room: "the Stoic idea from the driven room" becomes "the Stoic idea from the drifting room" (your run-7 pick 10.1). The Stoic idea is explained in the Drifting room. The text without this release is 4.43.4. Notes for Alex updated
+
+
+## 4.43.4 (2026-10-17)
+
+- Part two, step 8: "That one I'd rather talk through with you in person." becomes "That one needs a longer conversation than this part has room for." (your run-7 pick 9.9, option b). The teaser stays, without "in person". The text without this release is 4.43.3. Notes for Alex updated
+
+
+## 4.43.3 (2026-10-17)
+
+- Part two, step 2: the sentence about cells in a body now ends at "...that say when to divide and when to stop." (your run-7 pick 9.8). The clause "and a cancer cell stops listening and grows as if it were the only cell there is" is cut. Hanahan and Weinberg (2000) leave the Sources list of Part two and the reading pack. The text without this release is 4.43.2. Notes for Alex updated
+
+
+## 4.43.2 (2026-10-17)
+
+- Part two, step 2: "NPCs don't level up. Players do." is cut, and "a person is an NPC" becomes "a person is like an NPC" (your run-7 pick 9.7, option b). The game picture stays. The text without this release is 4.43.1. Notes for Alex updated
+
+
+## 4.43.1 (2026-10-17)
+
+- Part two, "One more idea": the sentence "Some physicists think our universe is one of many, and if so even the farthest point of this picture has something after it." is cut (your run-7 pick 9.6). Its reading pack entry stays as private context. The text without this release is 4.43.0. Notes for Alex updated
+
+
+## 4.43.0 (2026-10-17)
+
+- Part two, step 7: the paragraph "Physics has a picture for this" (E=mc² and the conservation of energy) is cut (your run-7 pick 9.5). Einstein (1905) leaves the Sources list of Part two and the reading pack. The text without this release is 4.42.0. Notes for Alex updated
+
+
+## 4.42.0 (2026-10-17)
+
+- Part two, step 7: the paragraph "The machine has its own version." is cut (your run-7 pick 9.4). It said a program that stops acting as a separate process gets wider permissions from the operating system, up to administrative rights, and called that an incident. The printer joke in step 8 stands on its own, and step 8 no longer points at this paragraph since the last release. The text without this release is 4.41.18. Notes for Alex updated
+
+
+## 4.41.18 (2026-10-17)
+
+- Part two, step 8: three sentences are cut from the paragraph on what a miracle is under the axiom (your run-7 pick 9.3, option b): "Every mind runs on the same machine, and the axiom section already mentioned that information can leak across the walls between programs, so a thinner wall leaks more.", "The far is part of the same whole, and the admin rights from step 7 let a program write where it couldn't write before." and "Going without food or sleep, and staying warm in the cold, is the need setting turned down, since a part that feels less lack needs less from outside." The text without this release is 4.41.17. Notes for Alex updated
+
+
+## 4.41.17 (2026-10-17)
+
+- Part two, step 8: the frame comes before the list of powers (your run-7 pick 9.2). The four sentences from "Let me be clear about what I'm doing here" to "...the materialist view of separation leaves none." move to right after "Every tradition keeps a list of things like that, and the lists are remarkably alike.", and the list of powers starts a paragraph of its own. No words change. The text without this release is 4.41.16. Notes for Alex updated
+
+
+## 4.41.16 (2026-10-17)
+
+- Part two, step 8: the step from your Reiki night changes (your run-7 pick 9.1, option c). "So the worldview had to be wrong." becomes "That was enough to send me looking.", and the placebo sentences ("Placebo was the obvious answer, and it didn't fit. Nobody had told me I would feel anything, I didn't believe in it, and the sensations were new to me, so there was nothing for my mind to copy.") are cut. The story, and your conclusion next to the careful sceptic, stay. The text without this release is 4.41.15. Notes for Alex updated
+
+
+## 4.41.15 (2026-10-17)
+
+- Part three, section 8: "...which is a large part of why section 7 exists" is cut, so the sentence ends "The others are learned with a person who can see what you're doing." (your run-7 pick 8.3). The text without this release is 4.41.14. Notes for Alex updated
+
+
+## 4.41.14 (2026-10-17)
+
+- Part three, section 5: "Ananda, one of the Buddha's monks," becomes "Ananda, the Buddha's attendant," (your run-7 pick 8.2). The reading pack entry follows. The text without this release is 4.41.13. Notes for Alex updated
+
+
+## 4.41.13 (2026-10-17)
+
+- Part three, section 8: "Part two called prayer the part turning toward the whole" becomes "Prayer is the part turning toward the whole" (your run-7 pick 8.1). The old wording pointed at a fold two of the readers never opened. The text without this release is 4.41.12. Notes for Alex updated
+
+
+## 4.41.12 (2026-10-17)
+
+- Part three, section 9: the last sentence ends at "...carry some of it for you." (your run-7 pick 7.7). The clause "and that is part of why this method is built around a pair and a team" is cut. The text without this release is 4.41.11. Notes for Alex updated
+
+
+## 4.41.11 (2026-10-17)
+
+- Part three, section 9: "some mornings the ego complains, and you go anyway" becomes "some mornings you'd rather stay in bed, and you go anyway" (your run-7 pick 7.6). The text without this release is 4.41.10. Notes for Alex updated
+
+
+## 4.41.10 (2026-10-17)
+
+- Part three, section 8: the last paragraph starts "Regularity starts with the daily sit, every day, even when it's a short one, because the drift from Part two takes no days off." instead of "Then comes the rule that holds the rest together: regularity. It starts with..." (your run-7 pick 7.5). The text without this release is 4.41.9. Notes for Alex updated
+
+
+## 4.41.9 (2026-10-17)
+
+- Part three, section 2: "That is where mine started, with the questions from Part two, and over time it grew into wanting to help other people live happier lives." ends at "...with the questions from Part two." (your run-7 pick 7.4). Section 3 gives your goal in full two paragraphs later. The text without this release is 4.41.8. Notes for Alex updated
+
+
+## 4.41.8 (2026-10-17)
+
+- Part three, the fold "What if I'm not sure?": "Mine began in my teens and turned into a search." is cut (your run-7 pick 7.3). Part zero says the same thing, and the bullet stays as a description of readers who start with questions. The text without this release is 4.41.7. Notes for Alex updated
+
+
+## 4.41.7 (2026-10-17)
+
+- Part three, the fold "What if I'm not sure?": "My teacher did in his teens, and what he saw in those people gave him a huge wish to know what they knew." becomes "My teacher did, in his teens." (your run-7 pick 7.2). Section 6 says the rest nearly word for word. The text without this release is 4.41.6. Notes for Alex updated
+
+
+## 4.41.6 (2026-10-17)
+
+- Part three, section 1: "you stop having to argue it out every morning, and the energy the arguing would have used goes into the work" becomes "you no longer have to bargain with yourself every morning, and the energy that took goes into the work" (your run-7 pick 7.1, using the wording you liked). The text without this release is 4.41.5. Notes for Alex updated
+
+
+## 4.41.5 (2026-10-17)
+
+- Part three, section 1: "A team can support what you have chosen, and a teacher can guide a person who is walking." is cut (your run-7 pick 6.2). The paragraph ends on "...until someone has decided." and section 2 says the rest. The text without this release is 4.41.4. Notes for Alex updated
+
+
+## 4.41.4 (2026-10-17)
+
+- Part three, the opening: the last sentence ends at "...because people arrive from different places." (your run-7 pick 6.1). The clause "and a good guide reads where you are standing before deciding where you start" is cut, because section 6 introduces the guide properly. The text without this release is 4.41.3. Notes for Alex updated
+
+
+## 4.41.3 (2026-10-17)
+
+- Part three, the opening: the compass sentence keeps the reading with the reader (your run-7 pick 5, Ruth's wording). "Both are yours to read, but you can't see yourself from the outside, so the rest of your direction usually comes from someone much further along who can." becomes "Both are yours to read. What you can't do is see yourself from the outside, and that part usually comes from someone much further along who can." The text without this release is 4.41.2. Notes for Alex updated
+
+
+## 4.41.2 (2026-10-17)
+
+- Part three, section 6: the sentence "And with him in the middle, the group stays pointed at what everyone came for." is gone, and the paragraph is arranged so it does not need it (your run-7 pick on item 4). The last two sentences change places: "Because his view belongs to none of us, a group of very different people can face the same way without anyone having to win." now comes first, and the paragraph ends on what you saw yourself, "I've watched this happen in team meetings: he speaks to the room, and afterwards everyone is busy with what it meant for them." No words are added. The text without this release is 4.40.2. Notes for Alex updated
+
+
 ## 4.41.1 (2026-10-18)
 
 - Contents list becomes a left sidebar with the current section highlighted on wide screens, and a hamburger drawer on phones
