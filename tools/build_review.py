@@ -4,7 +4,8 @@
 
 Run it on a checkout of main. It builds each part with essay/build_html.py (the same text,
 figures and styles as the essay pages), puts the pages behind the essay's own tabs,
-and prefixes every id with its part so the parts can share one page. Readers who can comment
+and prefixes every id with its part so the parts can share one page. The open part's contents
+list is a left sidebar on wide screens and a hamburger drawer on phones, as on the essay pages. Readers who can comment
 get a "Comment on this part" button and can select any words or tap a paragraph, then press
 Comment. The contact form on the Next page turns into a note, because an Artifact cannot reach its webhook.
 It writes only OUT.html: not part of the release flow.
@@ -36,6 +37,7 @@ REVIEW_CSS = """
 @media (hover:hover){.marking .part main :is(p,li,figure,h2,h3,h4):not(.marked):hover{background:color-mix(in srgb,var(--drifting) 6%,transparent);box-shadow:0 0 0 .35rem color-mix(in srgb,var(--drifting) 6%,transparent);border-radius:3px}}
 #comment-pop{position:absolute;z-index:20;font-family:var(--mono);font-size:.82rem;padding:.45rem .95rem;border-radius:999px;border:0;background:var(--ink);color:var(--paper);cursor:pointer;box-shadow:0 2px 12px color-mix(in srgb,var(--ink) 25%,transparent)}
 #comment-pop:focus-visible{outline:2px solid var(--drifting);outline-offset:3px}
+@media (max-width:72rem){body.has-toc .review-bar{padding-left:4rem}}
 """
 
 REVIEW_JS = """
@@ -43,9 +45,40 @@ REVIEW_JS = """
   var parts = [].slice.call(document.querySelectorAll('.part'));
   var names = %s;
   var clearMark = function () {};
+
+  // The open part's contents list: a left sidebar on wide screens, a hamburger drawer on narrow
+  // ones, as on the essay pages. Parts without one (Next) get neither.
+  var b = document.body, btn = document.querySelector('.toc-btn'), nav = null, links = [], heads = [], last = -2;
+  function setOpen(o) { b.classList.toggle('toc-open', o); btn.setAttribute('aria-expanded', o ? 'true' : 'false'); }
+  function spy() {
+    if (!nav) return;
+    var y = window.innerHeight * 0.25, cur = -1;
+    heads.forEach(function (h, i) { if (h && h.getBoundingClientRect().top <= y) cur = i; });
+    if (cur === last) return;
+    last = cur;
+    links.forEach(function (a, i) { a.classList.toggle('on', i === cur); if (i === cur) a.setAttribute('aria-current', 'true'); else a.removeAttribute('aria-current'); });
+    if (cur >= 0) { var a = links[cur]; if (a.offsetTop < nav.scrollTop + 40 || a.offsetTop + a.offsetHeight > nav.scrollTop + nav.clientHeight - 40) nav.scrollTop = a.offsetTop - 80; }
+  }
+  function tocFor(p) {
+    setOpen(false);
+    nav = p.querySelector('nav.toc');
+    b.classList.toggle('has-toc', !!nav);
+    links = nav ? [].slice.call(nav.querySelectorAll('a')) : [];
+    heads = links.map(function (a) { return document.getElementById(a.getAttribute('href').slice(1)); });
+    if (nav) btn.setAttribute('aria-controls', nav.id);
+    last = -2;
+    spy();
+  }
+  btn.addEventListener('click', function () { setOpen(!b.classList.contains('toc-open')); });
+  document.querySelector('.toc-scrim').addEventListener('click', function () { setOpen(false); });
+  document.addEventListener('click', function (e) { if (e.target.closest && e.target.closest('.toc a')) setOpen(false); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') setOpen(false); });
+  window.addEventListener('scroll', spy, { passive: true });
+
   function show(i) {
     clearMark();
     parts.forEach(function (p, k) { p.hidden = k !== i; });
+    tocFor(parts[i]);
     try { localStorage.setItem('essay_review_tab', String(i)); } catch (e) {}
   }
   function setHash(h) { try { history.replaceState(null, '', '#' + h); } catch (e) {} }
@@ -191,6 +224,7 @@ def part_body(n):
     body = body.replace(f'<script>{B.CONTACT_JS}</script>', '')
     body = re.sub(r' data-endpoint="[^"]*"', '', body)
     p = f'p{n}-'
+    body = body.replace('<nav class="toc"', '<nav class="toc" id="toc"', 1)
     body = re.sub(r'\bid="([^"]+)"', lambda m: f'id="{p}{m[1]}"', body)
     body = re.sub(r'href="#([^"]+)"', lambda m: f'href="#{p}{m[1]}"', body)
     body = re.sub(r'url\(#([^)]+)\)', lambda m: f'url(#{p}{m[1]})', body)
@@ -215,13 +249,16 @@ def build():
             f'<meta name="essay-version" content="{ver}">'
             '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
             f'<link rel="stylesheet" href="{B.FONTS}">'
-            f'<style>{B.CSS}{extras}{REVIEW_CSS}</style>'
+            f'<style>{B.CSS}{B.TOC_CSS}{extras}{REVIEW_CSS}</style>'
             f'<script>{B.UTM_JS}</script>')
     plain = 'Notes on any paragraph are welcome.'
     bar = (f'<div class="review-bar" data-uncommentable><p>A draft, shared for feedback. Version {ver}. '
            f'<span class="how" data-plain="{plain}">{plain}</span></p></div>')
+    toc_btn = ('<button class="toc-btn" type="button" aria-label="Contents" aria-expanded="false" data-uncommentable>'
+               '<svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><path d="M3 5h14M3 10h14M3 15h14" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg></button>'
+               '<div class="toc-scrim"></div>')
     parts = ''.join(part_body(n) for n in range(len(TABS)))
-    return head + bar + parts + '<script>' + (REVIEW_JS % repr(TABS)) + '</script>'
+    return head + bar + toc_btn + parts + '<script>' + (REVIEW_JS % repr(TABS)) + '</script>'
 
 
 if __name__ == '__main__':
