@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.32.2 (2026-10-17)
+
+- Part two, step 8: the hacking reality line and the grandma joke after the Antarova sentence
+
+
 ## 4.32.1 (2026-10-17)
 
 - Part two: Rabia's prayer is now 'attributed to Rabia of Basra' (not confirmed in Attar's Tadhkirat al-Awliya)
