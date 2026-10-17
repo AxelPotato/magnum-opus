@@ -238,5 +238,3 @@ And one question for the road: if you had the energy of a whole team and no dire
 5. The team
 
 - Samyutta Nikaya 45.2, the Upaddha Sutta (Sujato's translation, SuttaCentral).
-
-[CONTACT: If you'd like to talk about any of this, or find out where the nearest talk or workshop is, leave your email address. It comes straight to me, and I'll get in touch.]

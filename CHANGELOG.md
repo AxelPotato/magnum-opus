@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.37.0 (2026-10-17)
+
+- A new page, Next, and the contact form moves to it (your 18:55 message). Part three now ends with its Sources list, and the line that stood above the form is gone. Next is the fifth tab after Intro, Rational, Spiritual and Practical, built from essay/next.md to essay/next.html. It says: if you've read the full essay and feel like taking part in any workshop or online session, you're welcome to leave your details below, and I'll try to keep you updated. The form has a name, an email and an open field, 'How are you doing?', with 'Please share anything you feel.' under the question. Only the email is required. It posts name, email and a new field, message, to the same n8n webhook with the UTM fields and the page address, so the workflow has to pass message on. The page builder skips the table of contents and the lede on a page with no sections, the commit hook and the release script know the new page, the review copy gets Next as a fifth tab, and CLAUDE.md lists the page. The text without this release is 4.36.2. Notes for Alex updated
+
+
 ## 4.36.2 (2026-10-17)
 
 - Part three: discipline is named in the team's list (7.4.b). Section 5 says what a pair or a team combines, and the list now reads: you work on your attention, you build discipline, you meet your mirror, you pursue a goal and you give. The words sit after attention, in the order of the sections, and the section on discipline already says a pair and a team carry part of it. The text without this release is 4.36.1. Notes for Alex updated
