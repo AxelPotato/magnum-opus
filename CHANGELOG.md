@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.7 (2026-10-17)
+
+- Part three, the fold "What if I'm not sure?": "My teacher did in his teens, and what he saw in those people gave him a huge wish to know what they knew." becomes "My teacher did, in his teens." (your run-7 pick 7.2). Section 6 says the rest nearly word for word. The text without this release is 4.41.6. Notes for Alex updated
+
+
 ## 4.41.6 (2026-10-17)
 
 - Part three, section 1: "you stop having to argue it out every morning, and the energy the arguing would have used goes into the work" becomes "you no longer have to bargain with yourself every morning, and the energy that took goes into the work" (your run-7 pick 7.1, using the wording you liked). The text without this release is 4.41.5. Notes for Alex updated

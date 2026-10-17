@@ -8,7 +8,7 @@ Part three is for those who feel they have crossed the bottom point of most sepa
 * For driven people it is usually a crash: burnout, a body that stops cooperating, or a depression that lands right after the goal is reached.
 * Something happens to someone close, a relative in the hospital or a partner's betrayal. Values shift, and for some people that is where this begins.
 * Sometimes there is nothing left to try. The founder in Part one kept building up tension until the old way stopped working, and out of options went on a retreat.
-* Some meet someone who has what they want. My teacher did in his teens, and what he saw in those people gave him a huge wish to know what they knew.
+* Some meet someone who has what they want. My teacher did, in his teens.
 * For one friend of mine it was a single talk. After years of trying everything spiritual, my friend decided it was all nonsense and went into business, and within months felt empty. One talk by my teacher was enough to sense at once that the point was the middle of Part one's chart, letting go and action together.
 * From the inside:
 * Some start with questions, the kind that ask why things are the way they are and why we are the way we are. Mine began in my teens and turned into a search.
