@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.36.1 (2026-10-17)
+
+- Part two and Part three: your wish to build systems and institutes joins the goal (7.1.a with your addition). Part two's 'Why I want this' gets one sentence before 'That is my point of support, the thing I live for that is bigger than me': 'I also wish to build systems and institutes that help others do the same in the best way possible.' Part three's section 3 (a goal and a reason) says the same thing is part of the point of support, in one sentence after the goal. The text without this release is 4.36.0. Notes for Alex updated
+
+
 ## 4.36.0 (2026-10-17)
 
 - Part three: a new section, 'Discipline' (7.4). It sits after 'Work with attention' and says that every other part of the method leans on discipline, that the decision is the yes and discipline keeps it true on the days when the wanting is quiet, that in this method it grows from the outside in (a fixed time for the sit, meetings on the calendar) toward an inner discipline built by use, that it should be light and a friendly demand on yourself, that a slipped day is picked up the next day, and that a pair and a team carry part of it. It comes from Alex's message and the teacher's lectures and cites nothing. The sections after it move down by one and the pointers follow. One line in the goal section now says 'plain willpower' where it said 'discipline', so the two do not pull against each other. The seven goals of the method stay seven, because discipline is a means to them. The text without this release is 4.35.0. Notes for Alex updated
