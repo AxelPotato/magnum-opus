@@ -399,7 +399,7 @@ The axiom and the machine
 
 3. The wall, felt from inside
 
-- Ohno, T. (1988). Toyota Production System: Beyond Large-Scale Production. Productivity Press (first published in Japanese in 1978), chapter 2, on asking why five times.
+- Ohno, T. (1988). Toyota Production System: Beyond Large-Scale Production. Productivity Press (first published in Japanese in 1978), on asking why five times.
 - Augustine, Enchiridion, chapter 11.
 - Samyutta Nikaya 56.11 (the Dhammacakkappavattana Sutta). Samyutta Nikaya 36.6 (the Sallatha Sutta).
 - Irenaeus, Against Heresies IV.38-39. Job 42:5.

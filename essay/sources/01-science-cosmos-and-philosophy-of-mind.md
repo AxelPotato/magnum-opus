@@ -644,7 +644,7 @@ Who: Taiichi Ohno (1912 to 1990), the Toyota engineer and executive credited wit
 
 In the essay (v4.32.3): Part two, step 3, 'The wall, felt from inside', first item of 'A post-mortem, the way we do it at work': in software a post-mortem keeps asking why until it reaches the root cause, and Taiichi Ohno made it famous at Toyota as asking why five times. The fold then runs two chains of whys, a wish that ends at happiness and a pain that ends at the wall.
 
-Where it sits: chapter 2, 'The Application of the Toyota Production System', which opens by asking whether the reader can ask why five times and walks through a machine that stopped working.
+Where it sits: one secondary account places it at the start of chapter 2, 'The Application of the Toyota Production System', with the example of a machine that stopped working (not confirmed, so the essay's Sources line gives no chapter). Ohno credited the habit to Sakichi Toyoda's era.
 
 The passage: often quoted as 'the basis of Toyota's scientific approach ... by repeating why five times, the nature of the problem as well as its solution becomes clear' (secondary wording; check against the book before quoting).
 
