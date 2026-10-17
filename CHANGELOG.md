@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.8 (2026-10-17)
+
+- Part three, the fold "What if I'm not sure?": "Mine began in my teens and turned into a search." is cut (your run-7 pick 7.3). Part zero says the same thing, and the bullet stays as a description of readers who start with questions. The text without this release is 4.41.7. Notes for Alex updated
+
+
 ## 4.41.7 (2026-10-17)
 
 - Part three, the fold "What if I'm not sure?": "My teacher did in his teens, and what he saw in those people gave him a huge wish to know what they knew." becomes "My teacher did, in his teens." (your run-7 pick 7.2). Section 6 says the rest nearly word for word. The text without this release is 4.41.6. Notes for Alex updated

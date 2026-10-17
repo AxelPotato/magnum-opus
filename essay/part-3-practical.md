@@ -11,7 +11,7 @@ Part three is for those who feel they have crossed the bottom point of most sepa
 * Some meet someone who has what they want. My teacher did, in his teens.
 * For one friend of mine it was a single talk. After years of trying everything spiritual, my friend decided it was all nonsense and went into business, and within months felt empty. One talk by my teacher was enough to sense at once that the point was the middle of Part one's chart, letting go and action together.
 * From the inside:
-* Some start with questions, the kind that ask why things are the way they are and why we are the way we are. Mine began in my teens and turned into a search.
+* Some start with questions, the kind that ask why things are the way they are and why we are the way we are.
 * Some feel an emptiness that results can't reach. For me it showed up whenever I had time to myself, and it made the weekends the worst part of the week.
 * Others have nothing to complain about. Nothing crashed and everything works, and a quiet question shows up anyway: is this all there is?
 * Some reach a plateau, years of calm and comfort with nothing changing, until the calm itself starts to feel pointless.
