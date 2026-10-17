@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.3 (2026-10-17)
+
+- Part three, the opening: the compass sentence keeps the reading with the reader (your run-7 pick 5, Ruth's wording). "Both are yours to read, but you can't see yourself from the outside, so the rest of your direction usually comes from someone much further along who can." becomes "Both are yours to read. What you can't do is see yourself from the outside, and that part usually comes from someone much further along who can." The text without this release is 4.41.2. Notes for Alex updated
+
+
 ## 4.41.2 (2026-10-17)
 
 - Part three, section 6: the sentence "And with him in the middle, the group stays pointed at what everyone came for." is gone, and the paragraph is arranged so it does not need it (your run-7 pick on item 4). The last two sentences change places: "Because his view belongs to none of us, a group of very different people can face the same way without anyone having to win." now comes first, and the paragraph ends on what you saw yourself, "I've watched this happen in team meetings: he speaks to the room, and afterwards everyone is busy with what it meant for them." No words are added. The text without this release is 4.40.2. Notes for Alex updated
