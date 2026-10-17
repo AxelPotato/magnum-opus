@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.32.8 (2026-10-17)
+
+- Part two: the traditions folds now sit inside each step, right after the paragraph they support, instead of at the end
+
+
 ## 4.32.7 (2026-10-17)
 
 - Part two, step 3: 'So suffering measures resistance' (Alex's pick)
