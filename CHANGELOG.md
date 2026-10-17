@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.15 (2026-10-17)
+
+- Part three, section 8: "...which is a large part of why section 7 exists" is cut, so the sentence ends "The others are learned with a person who can see what you're doing." (your run-7 pick 8.3). The text without this release is 4.41.14. Notes for Alex updated
+
+
 ## 4.41.14 (2026-10-17)
 
 - Part three, section 5: "Ananda, one of the Buddha's monks," becomes "Ananda, the Buddha's attendant," (your run-7 pick 8.2). The reading pack entry follows. The text without this release is 4.41.13. Notes for Alex updated
