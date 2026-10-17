@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.33.3 (2026-10-17)
+
+- Part three, section 7: a paragraph on prayer after the inner practices (6.2.a). It says what prayer is in the method: learning to talk with life itself, with the masks off, asking for help and for other people, always next to doing. It gives no instructions and cites nothing outside the essay. The text without this release is 4.33.2. Notes for Alex updated
+
+
 ## 4.33.2 (2026-10-17)
 
 - Part three, section 4: the Buddha's answer to Ananda about good friends (Samyutta Nikaya 45.2) closes the paragraph on feeding the wish (6.1.a). It is the first citation in Part three, so the page gets a Sources list before the contact form, and the reading pack gets the entry. The text without this release is 4.33.1. Notes for Alex updated
