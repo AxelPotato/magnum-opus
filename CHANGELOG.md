@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.31.0 (2026-10-17)
+
+- Alex's Essay Desk edits to Part two: 'everything is a part of it', 'There is a distance, on the screen', a fun-way aside after the computer picture, step 7 heading 'Miracles, the levels of knowledge', and wording in the Reiki story, the claim paragraph, the Antarova line (Concordia) and the future-seeing teaser
+
+
 ## 4.30.2 (2026-10-16)
 
 - Part one, One hose: the target is the reason to fix the hose at all; with nothing worth watering there is no reason to plug, open or aim
