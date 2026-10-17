@@ -93,13 +93,15 @@ Then there's the reason behind the goal. Part two called mine a point of support
 
 One caution, since the outer goals can turn on you. Doing more with your life is one of the wishes in section 2, and results are how you check the work. They are an indicator and never the aim. If you start chasing them for their own sake, you've rebuilt the Driven room with better vocabulary.
 
-## 4. Service
+## 4. Giving
 
-By service I mean putting effort into the good of other people, or of something bigger than you, without counting what comes back. It starts with the people closest to you. If you accept what Part two said about the fingers of one hand, then helping you is helping me, as a matter of plumbing, with niceness left out of it. And if love is what the wall dropping feels like, service is a way to practice it on purpose, and the circle widens from there, one step at a time, toward the people who are hard for you. Service is the method taking that seriously.
+Giving here means putting effort into the good of other people, or of something bigger than you, and not counting what comes back. An hour of real attention counts. So does using your skills on someone else's problem. This is where the reason bigger than you from the last section turns into something you do.
 
-It has two rules. Give without conditions: don't demand thanks, credit or a result in return, and don't hold the person hostage to the goal behind it, however big that goal is. The second rule is to give to something bigger than your own comfort, because that is where the second effect shows up. While you serve something larger than yourself, there is less of you to guard, and that speeds up the one thing almost nothing else touches, the slow change in the ego. It doesn't make you less yourself. What wears away is the part of us that keeps defending, and what is left is what we bring into the world.
+It starts with the people closest to you. If you accept what Part two said about the fingers of one hand, then helping you is helping me, as a matter of plumbing, with niceness left out of it. And if love is what the wall dropping feels like, giving is a way to practice it on purpose. The circle widens from there, one step at a time, toward the people who are hard for you.
 
-Inner work done only for yourself can go in a circle. You improve your own state, then you improve it more. That has real value, and it can turn into polishing the same stone. Service gives the energy somewhere to go, the way a mill lets the river through, and it is also where the work gets tested, because other people can tell you whether it helped.
+It has two rules. The first is to give without conditions: don't demand thanks, recognition or a result in return, and don't hold the person hostage to the goal behind it, however big that goal is. The second is to give to something bigger than your own comfort. While you're busy with something larger than yourself, there is less of you to guard, and that speeds up the one thing almost nothing else touches, the slow change in the ego. It doesn't make you less yourself. What wears away is the part of us that keeps defending, and what is left is what we bring into the world.
+
+Inner work done only for yourself can go in a circle. You improve your own state, then you improve it more. That has real value, and it can turn into polishing the same stone. Giving sends the energy somewhere, the way a mill lets the river through, and it is also where the work gets tested, because other people can tell you whether it helped.
 
 ## 5. The team
 
