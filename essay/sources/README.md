@@ -250,7 +250,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Ibn Arabi, Tarjuman al-Ashwaq, poem XI ('My heart has become capable of every form') [text, checked]
 - Rumi, Masnavi, Book III, 3901 to 3906 ('I died as a mineral') [text, partly checked]
 - Quran 50:16 ('nearer to him than the jugular vein') [text, partly checked]
-- Attar, Tadhkirat al-Awliya: Rabia of Basra's prayer [text, partly checked]
+- Rabia of Basra's prayer, attributed in the Sufi tradition [text, partly checked]
 
 ### Context (Theosophy, the perennial philosophy) and talking points (`10-context-and-talking-points.md`)
 

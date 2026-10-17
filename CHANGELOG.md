@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.32.1 (2026-10-17)
+
+- Part two: Rabia's prayer is now 'attributed to Rabia of Basra' (not confirmed in Attar's Tadhkirat al-Awliya)
+
+
 ## 4.32.0 (2026-10-17)
 
 - Part two: new step 3 'The wall, felt from inside' (pain, suffering, love, evil), dying and the fear of death in 'Something carries over', folds on the fall (under the turn) and on God, prayer and grace (under energy), physics in step 1 trimmed to one paragraph, steps renumbered to eight, chain figure and reading pack updated

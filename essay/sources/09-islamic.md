@@ -744,13 +744,13 @@ Background: God speaks in the royal 'We'. Commentators differ on what is near: s
 If someone pushes back:
 - 'Classical tafsir says the angels are near, not God.' Some commentators say so; others, and the Sufis, read it as God. The essay reports the verse's plain wording.
 
-## Attar, Tadhkirat al-Awliya: Rabia of Basra's prayer ('if I worship you for fear of hell, burn me in it') (Rabia al-Adawiyya, died about 801; Farid al-Din Attar, about 1145 to about 1221; Arberry's partial translation 1966)
+## Rabia of Basra's prayer ('if I worship you for fear of hell, burn me in it'), attributed in the Sufi tradition (Rabia al-Adawiyya, died about 801; retold in later sources, often credited to Attar's Tadhkirat al-Awliya)
 
-Kind: text. Status: partly checked (the book and the prayer's attribution to Attar seen in search results, 2026-10-17; the wording not seen in Arberry's text).
+Kind: text. Status: partly checked (the prayer's attribution to Attar seen in search results, 2026-10-17, but the citation check could not confirm it in the Tadhkirat al-Awliya, so the essay says only that it is attributed to Rabia in the Sufi tradition).
 
 Who: Rabia of Basra, an early woman ascetic in Iraq, remembered as the one who put pure love of God at the center of Sufism. Attar, a Persian poet of Nishapur (The Conference of the Birds), wrote the Tadhkirat al-Awliya ('Memorial of the Saints'), lives and sayings of the Sufi saints.
 
-In the essay (v4.32.0): Part two, step 7, 'Energy', sixth item of 'God, asking, and grace': Attar tells of Rabia praying that if she worshipped God for fear of hell, God should burn her in it, if for hope of paradise, shut her out of it, and if for God's own sake, not withhold his beauty from her.
+In the essay (v4.32.0): Part two, step 7, 'Energy', sixth item of 'God, asking, and grace': a prayer attributed to Rabia of Basra, the early Sufi woman saint, asks that if she worshipped God for fear of hell, God should burn her in it, if for hope of paradise, shut her out of it, and if for God's own sake, not withhold his beauty from her.
 
 Where it sits: Tadhkirat al-Awliya, the chapter on Rabia. In English: A. J. Arberry, Muslim Saints and Mystics: Episodes from the Tadhkirat al-Auliya' (Routledge and Kegan Paul, 1966), the chapter on Rabia.
 

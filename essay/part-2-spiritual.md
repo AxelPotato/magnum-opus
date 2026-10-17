@@ -263,7 +263,7 @@ Letting go is how the wheel opens, which is why so many traditions describe the 
 * The Quran says that God is nearer to a person than the jugular vein (50:16). Psalm 16:8, the verse the Baal Shem Tov read for equanimity in the fold above, says in its plain sense: I have set the LORD always before me.
 * Martin Buber, the Jewish philosopher, wrote in I and Thou in 1923 that the lines of all our relations meet in the eternal You, and that every real meeting with another as a You is a glimpse of it.
 * The letter to the Ephesians says that by grace you have been saved through faith, and that this is not your own doing, it is the gift of God (2:8).
-* Attar, the Persian poet, tells of Rabia of Basra praying that if she worshipped God for fear of hell, God should burn her in it, if for hope of paradise, shut her out of it, and if for God's own sake, not withhold his beauty from her.
+* A prayer attributed to Rabia of Basra, the early Sufi woman saint, asks that if she worships God for fear of hell, God should burn her in it, if for hope of paradise, shut her out of it, and if for God's own sake, not withhold his beauty from her.
 * Buddhism and Jainism have no creator God to pray to, and both keep devotion toward those who have fully woken up, the buddhas and the Jinas, mostly as examples of where the road leads.
 
 ## 8. Miracles, the levels of knowledge
@@ -427,7 +427,7 @@ The axiom and the machine
 - Einstein, A. (1905). Does the inertia of a body depend upon its energy content? Annalen der Physik, 18, 639-641.
 - Mencius 2A:2, translated by Legge, J., The Works of Mencius (The Chinese Classics, vol. II).
 - The Baal Shem Tov on Psalm 16, and bittul, in the Hasidic tradition. Philippians 2:5-8. Eckhart, German sermons (Walshe's translation, revised by McGinn). Majjhima Nikaya 118.
-- Shankara on Brahman and Ishvara. Quran 50:16. Psalm 16:8. Buber, M. (1923). I and Thou (Ich und Du). Ephesians 2:8. Attar, Tadhkirat al-Awliya (Memorial of the Saints), on Rabia of Basra.
+- Shankara on Brahman and Ishvara. Quran 50:16. Psalm 16:8. Buber, M. (1923). I and Thou (Ich und Du). Ephesians 2:8. The prayer attributed to Rabia of Basra in the Sufi tradition (retold in later sources).
 
 8. Miracles, the levels of knowledge
 
