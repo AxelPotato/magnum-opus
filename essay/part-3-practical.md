@@ -87,7 +87,7 @@ Part one's chart put DO and BE on two axes and said you need both. This section 
 
 A goal in this method has three properties. It's short, meaning weeks or months. It's measurable, so at the end you can say yes or no. And it's tied to reality, so it lives in the world and not in your head. Plan the family trip for the summer. Finish a draft of an essay. The outer result is the check on the inner work, because it's very easy to feel like you're growing when nothing around you has moved.
 
-Inner work is real work, and from the inside it can be hard to tell whether it's working. A calm sit feels like progress whether or not anything has changed. The compass will tell you, but it reads over months. A goal turns the calm into something you can test sooner. It also gets your energy moving, which is its second job. A goal you care about pulls effort out of you that discipline never would.
+Inner work is real work, and from the inside it can be hard to tell whether it's working. A calm sit feels like progress whether or not anything has changed. The compass will tell you, but it reads over months. A goal turns the calm into something you can test sooner. It also gets your energy moving, which is its second job. A goal you care about pulls effort out of you that plain willpower never would.
 
 Then there's the reason behind the goal. Part two called mine a point of support, the thing I live for that is bigger than me: to know who I am and what it means to exist, and to share it so that other people's lives get better and happier. The goal can be small as long as the reason is bigger than you, and Part one made the case for that. The reason keeps a person going after the first excitement has worn off.
 
@@ -161,7 +161,19 @@ Then comes the rule that holds the rest together: regularity. It starts with the
 
 If you already sit, you know the sitting. What this adds is what surrounds it: a pair who notices when your attention has wandered, a mirror that shows you the hooks you can't feel on a cushion, and a mentor who can see what you can't.
 
-## 9. Mirror work and ego work
+## 9. Discipline
+
+Every other part of this method leans on discipline, and so does anything else that matters in life. The decision is the yes, and discipline keeps it true on the days when the wanting is quiet. Nobody learned an instrument or a sport on inspiration alone.
+
+By discipline I mean something plain: doing what you decided to do after the mood for it has passed. Part one gave a boring test for DO, how well you follow up on your words, and discipline is the same test applied to the words you give yourself. The method works on habits of mind and body, and habits were built by repetition, so repetition is also how they change. The daily sit is a good place to meet it: five minutes that happen because they were planned.
+
+In this method discipline grows from the outside in. A fixed time for the sit and a meeting that is on the calendar are the outside, and keeping them is something you can do even on a day when you don't feel like it. After a while you see what they give you, and the keeping starts to come from you. That is inner discipline, the strength to carry out what you decided, and it is built the way a muscle is, by use, every day and in small things. It works like going to the gym: some mornings the ego complains, and you go anyway, because of the body you want a year from now.
+
+Keep it light, and keep it yours: a demand you make on yourself, in a friendly tone. Gritting your teeth through a sit adds tension, which is the thing the sit is there to remove, so keep the frame small enough to hold without a fight. Five minutes every day is a frame you can keep, and a frame you keep teaches your mind that you can trust your own word. When a day slips, pick it up the next day without a speech about it.
+
+Other people make all of this easier. A pair who notices a missed day and a team that meets at a set time carry some of it for you, and that is part of why this method is built around a pair and a team.
+
+## 10. Mirror work and ego work
 
 Part two said that what happens to you works like a mirror. A colleague's tone, a partner's silence, a stranger in traffic: whatever hooks me points at something in me that still needs work. This section takes that seriously as a working rule: I take responsibility for what happens around me. That never means letting people hurt you.
 
@@ -181,7 +193,7 @@ That is also what repair looks like: quick and light. A person who has hurt some
 
 It's much harder alone, which is why it comes late in the list: you can't see which hooks you have until someone else leans on them.
 
-## 10. How people come to it
+## 11. How people come to it
 
 The method works wherever a person lives, and it is built so the first steps can be taken by someone who has a job, a family and a normal amount of doubt. Nobody is asked to give those up. Ordinary life is the training ground, and the pair is what keeps you from sleeping through it.
 
@@ -193,11 +205,11 @@ It starts small, with a talk or a workshop of a few hours, where a person can fi
 
 There's a reason it starts small. You can't pull anyone toward this. You can make it easier to approach.
 
-## 11. The space port
+## 12. The space port
 
 This section is a dream of mine, so please read it as one. Part two used space travel to picture how far a person can go in one life, and since I'm a science nerd at heart, I took the picture one step further. Nothing gets from the ground to the stars without a place to launch from, so I call the place I dream about a space port.
 
-What I picture is fairly simple. A group of people who want to give their best to the world and to find out how far they can really grow, living and working in the same place. Everything in sections one to nine would happen there every day as ordinary life. A retreat is a few days inside the top right room. A space port would be the same room with a kitchen, a chore chart and the occasional argument about whose turn it is to do the dishes.
+What I picture is fairly simple. A group of people who want to give their best to the world and to find out how far they can really grow, living and working in the same place. Everything in sections one to ten would happen there every day as ordinary life. A retreat is a few days inside the top right room. A space port would be the same room with a kitchen, a chore chart and the occasional argument about whose turn it is to do the dishes.
 
 The reason I want a place is that the environment decides what is easy. A town makes plenty of good things easy, and a place built around working on yourself would make that easier and more pleasant too, so it stops being an extra on top of a full life.
 

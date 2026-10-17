@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.36.0 (2026-10-17)
+
+- Part three: a new section, 'Discipline' (7.4). It sits after 'Work with attention' and says that every other part of the method leans on discipline, that the decision is the yes and discipline keeps it true on the days when the wanting is quiet, that in this method it grows from the outside in (a fixed time for the sit, meetings on the calendar) toward an inner discipline built by use, that it should be light and a friendly demand on yourself, that a slipped day is picked up the next day, and that a pair and a team carry part of it. It comes from Alex's message and the teacher's lectures and cites nothing. The sections after it move down by one and the pointers follow. One line in the goal section now says 'plain willpower' where it said 'discipline', so the two do not pull against each other. The seven goals of the method stay seven, because discipline is a means to them. The text without this release is 4.35.0. Notes for Alex updated
+
+
 ## 4.35.0 (2026-10-17)
 
 - Part three: a new first section, 'Making the decision' (7.3). It says the rest of Part three has nothing to work with until someone has decided, that the decision is the yes that goes with the wish, and that teachings from very different places call the road hard and give the greatest victory to the one who conquers themselves. A fold, 'A narrow way, and the greatest victory', gives seven witnesses, each read on a text page: Katha Upanishad 1.3.14, Matthew 7:13 to 14, Dhammapada 103 to 105, Pirkei Avot 4:1 with Proverbs 16:32, the Uttaradhyayana (chapter 9), Daodejing 33 and Sahih al-Bukhari 6114. The saying about conquering yourself is not in Sun Tzu, so he is not cited. The sections after it move down by one, the pointers follow, the Sources list gets a group for the new section, and the reading pack gets seven entries. The text without this release is 4.34.0. Notes for Alex updated
