@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.18 (2026-10-17)
+
+- Part two, step 8: three sentences are cut from the paragraph on what a miracle is under the axiom (your run-7 pick 9.3, option b): "Every mind runs on the same machine, and the axiom section already mentioned that information can leak across the walls between programs, so a thinner wall leaks more.", "The far is part of the same whole, and the admin rights from step 7 let a program write where it couldn't write before." and "Going without food or sleep, and staying warm in the cold, is the need setting turned down, since a part that feels less lack needs less from outside." The text without this release is 4.41.17. Notes for Alex updated
+
+
 ## 4.41.17 (2026-10-17)
 
 - Part two, step 8: the frame comes before the list of powers (your run-7 pick 9.2). The four sentences from "Let me be clear about what I'm doing here" to "...the materialist view of separation leaves none." move to right after "Every tradition keeps a list of things like that, and the lists are remarkably alike.", and the list of powers starts a paragraph of its own. No words change. The text without this release is 4.41.16. Notes for Alex updated
