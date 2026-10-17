@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.40.1 (2026-10-17)
+
+- The Next page says what the people would make together (your 20:33 message). The second paragraph has one more sentence, right after the one about giving back to the world: "A big part of the dream is working together to create new technologies, culture and projects, and new ways to make our world a better place." The list is yours, in your order. Nothing else changed. The text without this release is 4.40.0. Notes for Alex updated
+
+
 ## 4.40.0 (2026-10-17)
 
 - Section 4 of Part three is renamed from Service to Giving and explained in plainer words (your 20:04 message). It opens with what giving means here and two small examples, and says this is where the reason bigger than you turns into something you do. The fingers and love as the wall dropping have a paragraph of their own, the two rules are the first and the second, the pointer to a second effect that was never named is cut, and credit is recognition. The words service and serve are gone from the page. The text without this release is 4.39.0. Notes for Alex updated
