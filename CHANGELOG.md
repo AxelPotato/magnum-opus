@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.45.2 (2026-10-17)
+
+- Part zero: "And if someone handed it to you, it was written with you in mind as well." moves from the end of the Part one paragraph to right after "...and why almost nobody works on both." (your run-7 pick 11.2, option b). Same words. The text without this release is 4.45.1. Notes for Alex updated
+
+
 ## 4.45.1 (2026-10-17)
 
 - Part zero: "how the method of conscious development I share looks like" becomes "what the method of conscious development I share looks like" (your run-7 pick 11.1). The text without this release is 4.45.0. Notes for Alex updated
