@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.32.3 (2026-10-17)
+
+- Part two, step 3: fold 'A post-mortem, the way we do it at work' (the five whys from a wish to happiness and from a pain to the wall); the first noble truth bullet notes the post-mortem shape
+
+
 ## 4.32.2 (2026-10-17)
 
 - Part two, step 8: the hacking reality line and the grandma joke after the Antarova sentence

@@ -38,6 +38,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Orbital speed and escape speed (7.7, 10.8 and 11.2 km/s, 41 percent) [concept, checked]
 - Escape speeds from the Sun and from the Galaxy (17 and about 500 km/s) [concept, checked]
 - Voyager 1 and the edge of the Sun's bubble [study, checked]
+- Taiichi Ohno, the five whys (Toyota Production System) [text, partly checked]
 - The Milky Way and the observable universe: 100,000 and 93 billion light-years [concept, checked]
 - Multiverse speculation [concept, partly checked]
 - Airliner reach: 'nearly any point on the globe within about a day' [concept, unchecked]

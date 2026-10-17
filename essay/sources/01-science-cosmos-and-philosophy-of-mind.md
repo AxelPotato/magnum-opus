@@ -635,3 +635,29 @@ If someone pushes back:
 - 'Entanglement doesn't mean everything is one.' The essay says the picture of many separate things with private properties fails at the bottom, which is exactly what a Bell test checks, and calls it the shape of the axiom turning up in physics.
 - 'So it explains telepathy.' No, and the essay says so itself: it carries no message.
 - 'Weren't there loopholes?' The 2015 experiments closed the main ones together. The remaining 'freedom of choice' worry (superdeterminism) cannot be closed by any experiment and is a minority view.
+
+## Taiichi Ohno, the five whys (Toyota Production System, 1978; English edition 1988)
+
+Kind: text. Status: partly checked (the book, chapter and method seen in search results, 2026-10-17; the original wording not read).
+
+Who: Taiichi Ohno (1912 to 1990), the Toyota engineer and executive credited with the Toyota Production System. His book Toyota Production System: Beyond Large-Scale Production was first published in Japanese by Diamond in 1978 and in English by Productivity Press in 1988. One account says it was ghostwritten from interviews by Setsuo Mito.
+
+In the essay (v4.32.3): Part two, step 3, 'The wall, felt from inside', first item of 'A post-mortem, the way we do it at work': in software a post-mortem keeps asking why until it reaches the root cause, and Taiichi Ohno made it famous at Toyota as asking why five times. The fold then runs two chains of whys, a wish that ends at happiness and a pain that ends at the wall.
+
+Where it sits: chapter 2, 'The Application of the Toyota Production System', which opens by asking whether the reader can ask why five times and walks through a machine that stopped working.
+
+The passage: often quoted as 'the basis of Toyota's scientific approach ... by repeating why five times, the nature of the problem as well as its solution becomes clear' (secondary wording; check against the book before quoting).
+
+Read it free:
+- Wikipedia, Five whys: https://en.wikipedia.org/wiki/Five_whys (seen in a search result)
+- Lean Enterprise Institute on the five whys: https://lean.org/?p=12637 (seen in a search result)
+- Gemba Academy, on Ohno and the book's authorship: https://blog.gembaacademy.com/?p=11396 (seen in a search result)
+
+Read it in a book: Taiichi Ohno, Toyota Production System: Beyond Large-Scale Production (Productivity Press, 1988).
+
+Background: The five whys spread from Toyota into lean manufacturing and then into software, where blameless post-mortems after an outage use the same habit. Five is a rule of thumb, and practitioners stop when they reach a cause that, once fixed, prevents the whole class of problem. The essay uses it as a picture for tracing a wish back to happiness and a pain back to the sense of being separate.
+
+If someone pushes back:
+- 'The five whys can stop at a convenient cause, or branch.' True, and practitioners say so. The essay offers it as an exercise to try on yourself.
+- 'Ohno didn't invent it.' Toyota credits the habit to Sakichi Toyoda's era and Ohno with making it standard; the essay says only that Ohno made it famous.
+

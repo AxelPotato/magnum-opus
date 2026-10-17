@@ -128,9 +128,14 @@ That leaves the hardest question this part has to answer. If we are one, why wou
 
 So pain and love are one signal, read in two directions. The more wall you hold, the more it hurts, and the less you hold, the more love gets through. Over one evening that's a mood. Over a year it is a direction, and the next step is about the moment the direction changes.
 
+#### A post-mortem, the way we do it at work
+
+* In software, when something breaks, the team writes a post-mortem. The habit is to keep asking why until you reach the cause that, once fixed, stops the whole problem from coming back. Taiichi Ohno made it famous at Toyota as asking why five times. Try it on a wish. Why do I want a new car? Mine is getting old. Why does that matter? I'd feel I'm doing well. Why do I want that? Then I could finally relax. And why relax? Because then I'd be happy. Every chain I've tried ends there, whatever it starts from.
+* Now try it on a pain. Why am I irritated with my colleague? The credit went to someone else. Why does that sting? I need people to see what I'm worth. Why? My worth feels like something out there that I have to win and defend. And why would it be out there? Because I feel like I'm in here, separate, and everything else is out there. That's the wall from step 2, and every chain of this kind I've tried ends at it too. Run it on something of your own. It takes about a minute.
+
 #### Two arrows, and the absence of good
 
-* In his first talk the Buddha names the truth of suffering, its origin in craving, its ending, and the path that leads to that ending (Samyutta Nikaya 56.11). As I read it, craving is the need setting from step 2 in his words.
+* In his first talk the Buddha names the truth of suffering, its origin in craving, its ending, and the path that leads to that ending (Samyutta Nikaya 56.11), which is the shape of a post-mortem: the problem, its root cause, the fact that it can end, and the fix. As I read it, craving is the need setting from step 2 in his words.
 * In the Sallatha Sutta he says that when something hurts, an untrained person feels two pains, the physical one and the mental one added on top, like a man struck by one arrow and then by a second, while a trained disciple feels only the first (Samyutta Nikaya 36.6).
 * Augustine asks in his Enchiridion what we call evil if not the absence of good, and compares it to a disease or a wound in the body, which is the absence of health and does not exist on its own (chapter 11).
 * Irenaeus, a second-century bishop, taught that people were made unfinished so that they could grow, and that they come to know the worth of good by having tasted its opposite (Against Heresies IV.38 to 39).
@@ -394,6 +399,7 @@ The axiom and the machine
 
 3. The wall, felt from inside
 
+- Ohno, T. (1988). Toyota Production System: Beyond Large-Scale Production. Productivity Press (first published in Japanese in 1978), chapter 2, on asking why five times.
 - Augustine, Enchiridion, chapter 11.
 - Samyutta Nikaya 56.11 (the Dhammacakkappavattana Sutta). Samyutta Nikaya 36.6 (the Sallatha Sutta).
 - Irenaeus, Against Heresies IV.38-39. Job 42:5.
