@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.43.3 (2026-10-17)
+
+- Part two, step 2: the sentence about cells in a body now ends at "...that say when to divide and when to stop." (your run-7 pick 9.8). The clause "and a cancer cell stops listening and grows as if it were the only cell there is" is cut. Hanahan and Weinberg (2000) leave the Sources list of Part two and the reading pack. The text without this release is 4.43.2. Notes for Alex updated
+
+
 ## 4.43.2 (2026-10-17)
 
 - Part two, step 2: "NPCs don't level up. Players do." is cut, and "a person is an NPC" becomes "a person is like an NPC" (your run-7 pick 9.7, option b). The game picture stays. The text without this release is 4.43.1. Notes for Alex updated
