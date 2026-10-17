@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.35.0 (2026-10-17)
+
+- Part three: a new first section, 'Making the decision' (7.3). It says the rest of Part three has nothing to work with until someone has decided, that the decision is the yes that goes with the wish, and that teachings from very different places call the road hard and give the greatest victory to the one who conquers themselves. A fold, 'A narrow way, and the greatest victory', gives seven witnesses, each read on a text page: Katha Upanishad 1.3.14, Matthew 7:13 to 14, Dhammapada 103 to 105, Pirkei Avot 4:1 with Proverbs 16:32, the Uttaradhyayana (chapter 9), Daodejing 33 and Sahih al-Bukhari 6114. The saying about conquering yourself is not in Sun Tzu, so he is not cited. The sections after it move down by one, the pointers follow, the Sources list gets a group for the new section, and the reading pack gets seven entries. The text without this release is 4.34.0. Notes for Alex updated
+
+
 ## 4.34.0 (2026-10-17)
 
 - Part three opens with who it is for and a fold, 'What if I'm not sure?' (7.2). The sentence: Part three is for those who feel they have crossed the bottom point of most separation, which Part two called the turn, and who want to begin the journey back to unity. The fold lists how people started, from the outside (a crash, something close to home, the old way running out, meeting someone who has what you want, one talk) and from the inside (questions, an emptiness results cannot reach, flatness in a good life, a plateau, a feeling that something is off). It closes with the point that the way a person comes has no effect on how ready they are, with the student who started because sleep would not come. Every example is already in the essay or in what Alex said. The page builder gets two small rules for it: a bullet ending in a colon is a label, and an indented paragraph closes the fold above it. The text without this release is 4.33.4. Notes for Alex updated

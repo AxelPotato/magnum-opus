@@ -1,6 +1,6 @@
 # Buddhist sources
 
-Reading pack for Parts two and three of the essay (2026-10-08; the last entry, for Part three, was added 2026-10-17). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
+Reading pack for Parts two and three of the essay (2026-10-08; the last entries, for Part three, were added 2026-10-17). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
 
 ## Udana 6.4, the Tittha Sutta (the blind men and the elephant) (Pali canon, Khuddaka Nikaya, in the Udana; written down in Sri Lanka in the first century BCE; the Udana is usually counted among the older books of the Khuddaka Nikaya)
 
@@ -586,7 +586,7 @@ Kind: text. Status: checked (read on 2026-10-17 in four English translations; th
 
 Who: A very short discourse. Ananda tells the Buddha that good friendship is half of the holy life, and the Buddha corrects him: it is the whole of it. Later tradition makes Ananda the Buddha's cousin and attendant (Dictionary of Pali Proper Names); the sutta says neither.
 
-In the essay (v4.33.2): Part three, section 4, 'The team', end of the paragraph on feeding the wish: Ananda, one of the Buddha's monks, said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it. Only that exchange is used, not the two reasons that follow. Sources list (Part three): Samyutta Nikaya 45.2, the Upaddha Sutta (Sujato's translation, SuttaCentral).
+In the essay (v4.33.2; section 4 until v4.35.0): Part three, section 5, 'The team', end of the paragraph on feeding the wish: Ananda, one of the Buddha's monks, said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it. Only that exchange is used, not the two reasons that follow. Sources list (Part three): Samyutta Nikaya 45.2, the Upaddha Sutta (Sujato's translation, SuttaCentral).
 
 Where it sits: SN 45.2 on SuttaCentral ('SN 45:2' in Bodhi's and Thanissaro's style). Pali Text Society edition S v 2 to 3. The Buddha retells it to King Pasenadi at SN 3.18, and in SN 45.3 Sariputta says the same line and is praised.
 
@@ -611,3 +611,26 @@ If someone pushes back:
 - 'It is said to a monk, so it is about monastic life.' It is spoken among monks, but in SN 3.18 the Buddha retells the exchange to a king, a layman, and tells him to train like this: 'I will have good friends, companions, and associates.' In AN 8.54 he teaches good friendship to a layman, Dighajanu the Koliyan. 'Monks only' is a misreading.
 - 'The Buddha also said to walk alone like a rhinoceros horn (Sutta Nipata 1.3, Dhammapada 61).' True, and it is the other side of the picture, but it is conditional. The same poem says 'If you find an alert companion, an attentive friend to live happily together, then, overcoming all adversities, wander with them, joyful and mindful', and Dhammapada 61 begins 'If while wandering you find no partner equal or better than yourself'. Both sides are in the texts, and the poem as a whole leans toward solitude.
 - 'A good friend is just a friend who shares your goal.' Nearer to someone equal or further along whom you learn from (see Background). The essay's sentence says only what the sutta says.
+
+## Dhammapada 103 to 105 (the supreme conqueror is the one who conquers himself) (Pali canon, Khuddaka Nikaya, chapter 8, the Sahassavagga, 'The Thousands'; a collection of verses, with wide uncertainty on the dating of individual verses)
+
+Kind: text. Status: checked (the Pali and Sujato's English read on SuttaCentral on 2026-10-17; other translations not opened). The Sun Tzu check in the last pushback was done the same day on Giles's translation.
+
+Who: The Dhammapada is the best known collection of short verses in the Pali canon and a main text of Theravada Buddhism. Chapter 8 is built on the word 'thousand': each verse puts a thousand of something beside one better thing. Verses 103 to 105 are the stretch about conquering.
+
+In the essay (v4.35.0): Part three, section 1, 'Making the decision', third item of the fold 'A narrow way, and the greatest victory': the supreme conqueror is the one who conquers a single person, himself, and the verse sets that above winning a battle against a million; another verse says no god, and not even Mara, the tempter of the Buddhist stories, can undo the victory of someone who has tamed themselves (103 to 105). Sources list (Part three): Dhammapada 103 to 105 (Sujato's translation, SuttaCentral).
+
+Where it sits: Dhp 103, 104 and 105 (the range Dhp 100-115 on SuttaCentral). Verse 103 sets one victory over oneself beside a thousand times a thousand in battle; 104 says it is better to conquer oneself than all those other folk; 105 says that for a person who has tamed themselves no god, no Mara and no divinity can undo the victory.
+
+The passage (Sujato's translation, SuttaCentral): 103: 'The supreme conqueror is not he who conquers a million men in battle, but he who conquers a single man: himself.' 104: 'It is surely better to conquer oneself than all those other folk. When a person has tamed themselves, always living restrained,' 105: 'no god nor centaur, nor Mara nor divinity, can undo the victory of such a personage.' Pali of 103: yo sahassam sahassena, sangame manuse jine; ekanca jeyyamattanam, sa ve sangamajuttamo.
+
+Read it free:
+- SuttaCentral, Dhammapada 100-115 (Pali and Sujato): https://suttacentral.net/dhp100-115/en/sujato (read on 2026-10-17)
+
+Read it in a book: Gil Fronsdal, The Dhammapada (Shambhala, 2005). Valerie Roebuck, The Dhammapada (Penguin Classics). Acharya Buddharakkhita, The Dhammapada (Buddhist Publication Society), which I remember is also free on Access to Insight (not checked).
+
+Background: Sujato renders the last word of 103, sangamajuttamo, as 'supreme conqueror'; as I read the compound it is the best of those who win in battle. Mara is the tempter and death-figure of the Buddhist stories, the one who tried to turn the Buddha from awakening. In the Pali of 105 the last pair is Mara together with Brahma (na maro saha brahmuna), and Sujato's 'divinity' stands for Brahma; so the verse says that nothing in the world of gods or tempters can take the victory away from someone who has tamed themselves. The Jain Uttaradhyayana has the first verse in nearly the same words (see that entry in `06-jain-sikh-druze-daoist.md`): the Pali and the Prakrit have the same shape, the same opening, and the same close, and each tradition gives it to its own hero. The essay says 'almost the same verse'.
+
+If someone pushes back:
+- 'Sun Tzu said the one who conquers himself wins every battle.' It is not in the Art of War. Giles's translation (Project Gutenberg, number 132, read on 2026-10-17) has no such line, and the nearest one is in chapter 3: 'If you know the enemy and know yourself, you need not fear the result of a hundred battles.' The saying that victory over yourself outweighs victory in battle is this verse and its Jain twin, with the Daodejing 33 pair (overcoming others, overcoming oneself) beside them.
+- 'Buddhists teach there is no self, so who conquers whom?' The Pali word atta serves as the plain reflexive, 'oneself', as well as 'self'. The verse speaks of the person you are working with and says nothing about a lasting self.

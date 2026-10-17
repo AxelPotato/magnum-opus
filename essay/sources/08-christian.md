@@ -1,6 +1,6 @@
 # Christian sources
 
-Reading pack for Part two of the essay (2026-10-08). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
+Reading pack for Parts two and three of the essay (2026-10-08; the last entry, for Part three, was added 2026-10-17). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
 
 ## Paul, 1 Corinthians 12:12-27 (one body, many members) (1 Corinthians written about AD 53-55)
 
@@ -867,3 +867,27 @@ Background: Grace (Greek charis) means a free gift or favor. These verses were a
 
 If someone pushes back:
 - 'Grace is God's free favor, not energy.' The essay offers the river as its reading, and the unearned part is exactly the verse's point.
+
+## Matthew 7:13-14 (the narrow gate, in the Sermon on the Mount) (The Gospel of Matthew, about AD 80-90)
+
+Kind: text. Status: checked (the ESV read on Bible Gateway on 2026-10-17, with the Luke parallel; the Greek not opened).
+
+Who: The close of the Sermon on the Mount (Matthew 5 to 7), a few lines after the golden rule (7:12; see the entry above). Jesus is the speaker.
+
+In the essay (v4.35.0): Part three, section 1, 'Making the decision', second item of the fold 'A narrow way, and the greatest victory': in the Sermon on the Mount Jesus says to enter by the narrow gate, because the way that leads to life is hard and few find it (Matthew 7:13 to 14). Only 'narrow', 'hard' and 'few find it' are used; the wide gate and what it leads to are left out. Sources list (Part three): Matthew 7:13 to 14 (English Standard Version).
+
+Where it sits: Matthew 7:13-14. Luke 13:22-24 has a parallel in a different setting.
+
+The passage (ESV): 'Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few.' The ESV notes that some manuscripts read 'For the way is wide and easy' in verse 13. Luke 13:23-24 (ESV): 'And someone said to him, "Lord, will those who are saved be few?" And he said to them, "Strive to enter through the narrow door. For many, I tell you, will seek to enter and will not be able."'
+
+Read it free:
+- Bible Gateway, Matthew 7:13-14 (ESV): https://www.biblegateway.com/passage/?search=Matthew%207%3A13-14&version=ESV (read on 2026-10-17)
+- Bible Gateway, Luke 13:22-24 (ESV): https://www.biblegateway.com/passage/?search=Luke%2013%3A22-24&version=ESV (read on 2026-10-17)
+
+Read it in a book: Dale Allison and W. D. Davies, Matthew (International Critical Commentary); Ulrich Luz, Matthew 1-7 (Hermeneia); Dale Allison, The Sermon on the Mount (Crossroad, 1999).
+
+Background: The picture of two ways, one easy and one hard, is an old teaching form in Jewish writing (the two ways of life and death in Deuteronomy 30:15-20 and Psalm 1; from memory, not checked). Early Christians called their movement 'the Way' (Acts 9:2; from memory). In Luke the saying answers a question about how many will be saved, and the answer is about effort, not about numbers: 'Strive to enter through the narrow door.'
+
+If someone pushes back:
+- 'The verse says most people are lost.' The verse sets many against few and speaks of destruction and life. The essay uses it only for the difficulty of the way, and Luke's version answers a question about numbers with a call to effort.
+- 'Some manuscripts of Matthew 7:13 differ.' They do, in the first clause (the ESV footnote). The sense of the two verses is the same either way.
