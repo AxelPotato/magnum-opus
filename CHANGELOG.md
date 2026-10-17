@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.45.3 (2026-10-17)
+
+- Part three, section 6: the paragraph "A teacher does one more job." is now version 2 from the Run 7 final verdict thread, which you picked at 21:24 (item 4). It says that a teacher can make the first sorry easier, that he says what he sees to the whole team and each person looks for their own part in the conflict, that when one person is simply wrong that gets said too, and that "the sorry itself still has to come from one of the two." The sentence about his view belonging to none of us and the team-meetings observation are gone with the rest of the old ending. This replaces my own first rewrite of the paragraph (4.41.2). The text without this release is 4.45.2. Notes for Alex updated
+
+
 ## 4.45.2 (2026-10-17)
 
 - Part zero: "And if someone handed it to you, it was written with you in mind as well." moves from the end of the Part one paragraph to right after "...and why almost nobody works on both." (your run-7 pick 11.2, option b). Same words. The text without this release is 4.45.1. Notes for Alex updated
