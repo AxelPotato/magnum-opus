@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.4 (2026-10-17)
+
+- Part three, the opening: the last sentence ends at "...because people arrive from different places." (your run-7 pick 6.1). The clause "and a good guide reads where you are standing before deciding where you start" is cut, because section 6 introduces the guide properly. The text without this release is 4.41.3. Notes for Alex updated
+
+
 ## 4.41.3 (2026-10-17)
 
 - Part three, the opening: the compass sentence keeps the reading with the reader (your run-7 pick 5, Ruth's wording). "Both are yours to read, but you can't see yourself from the outside, so the rest of your direction usually comes from someone much further along who can." becomes "Both are yours to read. What you can't do is see yourself from the outside, and that part usually comes from someone much further along who can." The text without this release is 4.41.2. Notes for Alex updated

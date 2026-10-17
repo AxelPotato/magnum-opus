@@ -33,7 +33,7 @@ Direction has its own problem. Part two gave you two instruments for it, and the
 
 Life nudges a person toward this work on its own, through the mirror, when the same lesson keeps coming back, and through the turn, when everything works and it still feels flat. It is patient about it. If your life is going well and feels well, you have no need of a method. A method is a way to do on purpose, and faster, what life does slowly, which comes down to acting as one in the spots where you still act as two.
 
-Turn up the energy before you have a direction and you get a louder version of the wrong thing. The sections below go in an order that suits most people. The decision comes first for everyone. After that the order changes from person to person, because people arrive from different places, and a good guide reads where you are standing before deciding where you start.
+Turn up the energy before you have a direction and you get a louder version of the wrong thing. The sections below go in an order that suits most people. The decision comes first for everyone. After that the order changes from person to person, because people arrive from different places.
 
 ## 1. Making the decision
 
