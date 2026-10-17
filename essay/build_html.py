@@ -477,6 +477,9 @@ details.say-fold summary::before{content:"+";display:inline-block;width:1rem;tex
 details.say-fold[open] summary::before{content:"\2212"}
 details.say-fold summary:hover{color:var(--ink)}
 details.say-fold .say{margin-top:.4rem}
+.say li.grp{list-style:none;margin:1.3rem 0 .6rem -1.15rem;padding-left:0;font-family:var(--mono);font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.say li.grp:first-child{margin-top:.3rem}
+details.say-fold .say-close{margin:1.2rem 0 .6rem}
 @media print{details.say-fold>*{display:block}}
 .say li{margin-bottom:.7rem;padding-left:.2rem}
 .say li::marker{color:var(--muted)}
@@ -484,10 +487,13 @@ details.say-fold .say{margin-top:.4rem}
 h4{font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:1.6rem 0 .8rem;font-weight:500}
 footer{max-width:40rem;margin:0 auto;padding:1.5rem 0 0;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.74rem;line-height:1.6;color:var(--muted)}
 a{color:var(--high)}
-.contact{margin:3rem 0 1rem;padding-top:1.6rem;border-top:1px solid var(--rule)}
-.contact-form{display:grid;gap:1rem;margin-top:1rem}
+.contact{margin:1.5rem 0 1rem}
+.contact-form{display:grid;gap:1.1rem;margin-top:1rem}
 .contact-form label{display:grid;gap:.35rem;font-family:var(--mono);font-size:.78rem;color:var(--muted)}
-.contact-form input{font:inherit;font-family:var(--body,inherit);font-size:1rem;color:var(--ink);background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:.6rem .7rem;width:100%;box-sizing:border-box}
+.contact-form .hint{font-size:.78rem}
+.hero h1+.parts{margin-top:1.6rem}
+.contact-form input,.contact-form textarea{font:inherit;font-family:var(--body,inherit);font-size:1rem;color:var(--ink);background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:.6rem .7rem;width:100%;box-sizing:border-box}
+.contact-form textarea{min-height:7.5rem;line-height:1.5;resize:vertical}
 .contact-form button{justify-self:start;font-family:var(--mono);font-size:.85rem;color:var(--paper);background:var(--ink);border:0;border-radius:8px;padding:.65rem 1.3rem;cursor:pointer}
 .contact-form button:disabled{opacity:.55;cursor:default}
 .contact-form .trap{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
@@ -499,11 +505,13 @@ FONTS = ('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght
          '&family=IBM+Plex+Mono:wght@400;500&family=Literata:opsz,wght@7..72,400..700&family=Comic+Neue:wght@700&display=swap')
 
 
-# Where the contact form at the end of Part three sends its leads: the n8n essay-lead webhook.
-# It takes name, phone and email (at least one), the UTM fields and page_url, as urlencoded POST.
+# Where the contact form on the Next page sends its leads: the n8n essay-lead webhook.
+# The form asks for a name, an email and an open message, "How are you doing?" (Alex, 17 October); only
+# the email is required. It posts name, email and message, plus the UTM fields and page_url, as urlencoded POST.
+# The webhook took name and email before; the message field is new, so the workflow has to pass it on.
 CONTACT_ENDPOINT = 'https://n8n.giving-school.eu/webhook/essay-lead'
 
-# Runs on every part, so UTM values from the page a reader lands on still reach the form in Part three.
+# Runs on every page, so UTM values from the page a reader lands on still reach the form on the Next page.
 UTM_JS = """
 (function () {
   try {
@@ -521,19 +529,17 @@ document.querySelectorAll('.contact-form').forEach(function (f) {
     e.preventDefault();
     var s = f.querySelector('.contact-status'), btn = f.querySelector('button');
     if (el('website').value) { s.textContent = 'Thank you.'; return; }
-    var d = new URLSearchParams(), any = false;
-    ['name', 'phone', 'email'].forEach(function (k) {
-      var v = el(k).value.trim();
-      if (v) { d.set(k, v); any = true; }
-    });
-    if (!any) { s.textContent = 'Add an email or a phone number, then send.'; return; }
+    var d = new URLSearchParams(), v = el('email').value.trim();
+    if (!v) { s.textContent = 'Add your email, then send.'; return; }
+    d.set('email', v);
+    ['name', 'message'].forEach(function (k) { var x = el(k).value.trim(); if (x) d.set(k, x); });
     var utm = {};
     try { utm = JSON.parse(sessionStorage.getItem('essay_utm') || '{}'); } catch (x) {}
     Object.keys(utm).forEach(function (k) { if (/^utm_/.test(k) && utm[k]) d.set(k, utm[k]); });
     d.set('page_url', location.href);
     btn.disabled = true; s.textContent = 'Sending\u2026';
     fetch(f.dataset.endpoint, { method: 'POST', body: d })
-      .then(function (r) { if (!r.ok) throw new Error(r.status); f.reset(); s.textContent = 'Thank you. I got it, and I\u2019ll be in touch.'; })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); f.reset(); s.textContent = 'Thank you. I got it, and I\u2019ll try to keep you updated.'; })
       .catch(function () { s.textContent = 'That didn\u2019t go through. Please try again in a minute.'; })
       .finally(function () { btn.disabled = false; });
   });
@@ -541,13 +547,14 @@ document.querySelectorAll('.contact-form').forEach(function (f) {
 """
 
 
-def contact_html(intro):
+def contact_html(intro=''):
     return ('<section class="contact" aria-label="Get in touch">'
-            f'<p>{smart(intro)}</p>'
+            + (f'<p>{smart(intro)}</p>' if intro else '') +
             f'<form class="contact-form" data-endpoint="{html.escape(CONTACT_ENDPOINT)}">'
-            '<label>Your name<input name="name" autocomplete="name"></label>'
-            '<label>Email<input name="email" type="email" autocomplete="email"></label>'
-            '<label>Or a phone number, with country code<input name="phone" type="tel" autocomplete="tel"></label>'
+            '<label>Your name<input name="name" autocomplete="name" maxlength="120"></label>'
+            '<label>Your email<input name="email" type="email" autocomplete="email" maxlength="200"></label>'
+            '<label>How are you doing?<span class="hint">Please share anything you feel.</span>'
+            '<textarea name="message" rows="5" maxlength="2000"></textarea></label>'
             '<label class="trap" aria-hidden="true">Leave this empty<input name="website" tabindex="-1" autocomplete="off"></label>'
             '<button type="submit">Send</button>'
             '<p class="contact-status" role="status" aria-live="polite"></p>'
@@ -576,6 +583,9 @@ def convert(md, R):
             room = {'Default': 'default', 'Driven': 'driven', 'Drifting': 'drifting', 'High agency': 'high'}.get(t, 'default')
             out.append(f'<h3 class="room {room}"><span class="dot"></span>{smart(t)}</h3>')
             continue
+        if b.startswith('  ') and out and out[-1].endswith('</ul></details>'):  # an indented paragraph closes the fold above it
+            out[-1] = out[-1][:-len('</details>')] + f'<p class="say-close">{smart(b.strip())}</p></details>'
+            continue
         if fold_title and not b.startswith('* '):  # a heading with no list under it stays a heading
             out.append(f'<h4>{smart(fold_title)}</h4>')
             fold_title = None
@@ -584,7 +594,8 @@ def convert(md, R):
             continue
         if b.startswith('* '):
             n = sum(1 for l in b.split('\n') if l.startswith('* '))
-            lis = ''.join(f'<li>{smart(l[2:])}</li>' for l in b.split('\n') if l.startswith('* '))
+            lis = ''.join(f'<li class="grp">{smart(l[2:])}</li>' if l.endswith(':') else f'<li>{smart(l[2:])}</li>'  # a bullet ending in a colon labels the ones after it
+                          for l in b.split('\n') if l.startswith('* '))
             if fold_title:
                 if fold_title.startswith('What the studies'):
                     label = f'{fold_title} ({n} {"study" if n == 1 else "studies"})'
@@ -633,26 +644,36 @@ def convert(md, R):
     return out, toc
 
 
+NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Next']  # the tabs, in order; Next is the page after the essay
+
+
 def hero_html(part):
     backup = part == '2a'
     if backup:
         part = 2
-    names = ['Intro', 'Rational', 'Spiritual', 'Practical']
-    heads = ['Before you start', 'Rational', 'Spiritual', 'Practical']
+    heads = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Next']
     nums = ['one', 'two', 'three']
     lede = {
         0: 'What each part is for, who is talking, and who taught me.',
         1: 'Two directions, four rooms, and a map that turns out to be bigger than it looks.',
         2: 'Two ways of reading a life, one assumption that separates them, and what follows from it in the world\'s religions.',
         3: 'How this is done today, by people with jobs, families and not much spare time.',
+        4: '',  # the Next page opens straight on its own sentence
     }[part]
     if backup:
         lede = 'What the middle of the chart is, what lies past the edge of it, and why a rational person might want to find out.'
-    lis = ''.join(f'<li class="now">{n}</li>' if i == part else f'<li>{n}</li>' for i, n in enumerate(names))
+        kicker = 'Backup: an earlier version of part two'
+    elif part == 0:
+        kicker = 'Part zero'
+    elif part == 4:
+        kicker = 'After the essay'
+    else:
+        kicker = 'Part ' + nums[part - 1] + ' of three'
+    lis = ''.join(f'<li class="now">{n}</li>' if i == part else f'<li>{n}</li>' for i, n in enumerate(NAMES))
     return ('<header class="hero"><div class="hero-in">'
-            f'<p class="kicker">{"Backup: an earlier version of part two" if backup else ("Part zero" if part == 0 else "Part " + nums[part - 1] + " of three")}</p>'
+            f'<p class="kicker">{kicker}</p>'
             f'<h1>{heads[part]}</h1>'
-            f'<p class="lede">{lede}</p>'
+            + (f'<p class="lede">{lede}</p>' if lede else '') +
             f'<ul class="parts">{lis}</ul>'
             '</div></header>')
 
@@ -673,12 +694,14 @@ PART2_FOOT = 'A draft. The pictures in this part are drawn for it.'
 
 PART0_FOOT = 'A draft.'
 PART3_FOOT = 'A draft.'
+NEXT_FOOT = 'A draft.'
 
 PARTS = {
     0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: {}, cast=False, css_extra='', foot=PART0_FOOT),
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=True, css_extra='', foot=PART1_FOOT),
     2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA, foot=PART2_FOOT),
     3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=lambda: {}, cast=False, css_extra='', foot=PART3_FOOT),
+    4: dict(md='next.md', out='next.html', title='Next', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
     # kept for reference, not part of the default build: python build_html.py --part 2a
     '2a': dict(md='backup/part-2-variant-a-psychological.md', out='backup/part-2-variant-a-psychological.html', title='Part Two, backup: Spiritual', rules=lambda: rules2a(),
                cast=False, css_extra=F3.CSS_EXTRA, foot=PART2_FOOT + ' This is the first version of part two, kept as a backup.', fixed_ver='1.0.0', backup=True),
@@ -691,7 +714,7 @@ def page(part, fragment=False):
     ver = cfg.get('fixed_ver') or open(os.path.join(HERE, '..', 'VERSION'), encoding='utf-8').read().strip()
     body, toc = convert(md, cfg['rules']())
     toc_html = ' '.join(f'<a href="#{s}">{smart(t)}</a>' for s, t in toc)
-    main = ('<main><div class="col"><nav class="toc" aria-label="In this part">' + toc_html + '</nav>' + (cast_html() if cfg['cast'] else '')
+    main = ('<main><div class="col">' + (f'<nav class="toc" aria-label="In this part">{toc_html}</nav>' if toc else '') + (cast_html() if cfg['cast'] else '')
             + '\n'.join(body) + '</div>'
             f'<footer>Version {ver}. Built from {cfg["md"]}. ' + cfg['foot'] + '</footer></main>')
     head = (f'<title>{cfg["title"]}</title>'

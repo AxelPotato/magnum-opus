@@ -1,12 +1,12 @@
-"""Build the review copy of the essay: all four parts on one page, for the shared Artifact.
+"""Build the review copy of the essay: all four parts and the Next page on one page, for the shared Artifact.
 
     python tools/build_review.py OUT.html
 
 Run it on a checkout of main. It builds each part with essay/build_html.py (the same text,
-figures and styles as the essay pages), puts the four parts behind the essay's own part tabs,
+figures and styles as the essay pages), puts the pages behind the essay's own tabs,
 and prefixes every id with its part so the parts can share one page. Readers who can comment
 get a "Comment on this part" button and can select any words or tap a paragraph, then press
-Comment. The contact form turns into a note, because an Artifact cannot reach its webhook.
+Comment. The contact form on the Next page turns into a note, because an Artifact cannot reach its webhook.
 It writes only OUT.html: not part of the release flow.
 """
 import html
@@ -18,8 +18,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, 'essay'))
 import build_html as B  # noqa: E402
 
-TABS = ['intro', 'rational', 'spiritual', 'practical']
-NEXT = ['Part one: Rational', 'Part two: Spiritual', 'Part three: Practical']
+TABS = ['intro', 'rational', 'spiritual', 'practical', 'next']
+NEXT = ['Part one: Rational', 'Part two: Spiritual', 'Part three: Practical', 'leave your details']
 
 REVIEW_CSS = """
 .review-bar{background:var(--card);border-bottom:1px solid var(--rule);font-family:var(--mono);font-size:.78rem;line-height:1.5;color:var(--muted);padding:.6rem 1rem}
@@ -195,12 +195,11 @@ def part_body(n):
     body = re.sub(r'href="#([^"]+)"', lambda m: f'href="#{p}{m[1]}"', body)
     body = re.sub(r'url\(#([^)]+)\)', lambda m: f'url(#{p}{m[1]})', body)
     # The essay's own part list becomes the tabs.
-    names = ['Intro', 'Rational', 'Spiritual', 'Practical']
-    for i, name in enumerate(names):
+    for i, name in enumerate(B.NAMES):
         if i != n:
             body = body.replace(f'<li>{name}</li>', f'<li><a href="#{TABS[i]}">{name}</a></li>', 1)
     end = '<div class="part-end" data-uncommentable>'
-    if n < 3:
+    if n < len(TABS) - 1:
         end += f'<a href="#{TABS[n + 1]}">Next: {html.escape(NEXT[n])}</a>'
     end += '<button type="button" class="comment-part" hidden>Comment on this part</button>'
     end += '</div>'
@@ -211,7 +210,7 @@ def part_body(n):
 
 def build():
     ver = open(os.path.join(ROOT, 'VERSION'), encoding='utf-8').read().strip()
-    extras = ''.join(dict.fromkeys(B.PARTS[n]['css_extra'] for n in range(4)))
+    extras = ''.join(dict.fromkeys(B.PARTS[n]['css_extra'] for n in range(len(TABS))))
     head = (f'<title>Alex\'s Essay Draft</title>'
             f'<meta name="essay-version" content="{ver}">'
             '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
@@ -221,7 +220,7 @@ def build():
     plain = 'Notes on any paragraph are welcome.'
     bar = (f'<div class="review-bar" data-uncommentable><p>A draft, shared for feedback. Version {ver}. '
            f'<span class="how" data-plain="{plain}">{plain}</span></p></div>')
-    parts = ''.join(part_body(n) for n in range(4))
+    parts = ''.join(part_body(n) for n in range(len(TABS)))
     return head + bar + parts + '<script>' + (REVIEW_JS % repr(TABS)) + '</script>'
 
 

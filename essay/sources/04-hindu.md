@@ -1,6 +1,6 @@
 # Hindu sources
 
-Reading pack for Part two of the essay (2026-10-08). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
+Reading pack for Parts two and three of the essay (2026-10-08; the last entry, for Part three, was added 2026-10-17). For Alex's own reading and discussions, not part of the essay. Read `README.md` in this folder first for what the labels mean. Links marked "(seen in a search result)" appeared in a search result or in the check list in the session; links marked "(not checked)" are standard addresses given from memory and may have moved.
 
 ## The Upanishads as a corpus (atman, Brahman, and how old) (Early prose Upanishads (Brihadaranyaka, Chandogya) usually placed before the Buddha, very roughly the 7th to 6th century BCE, with wide uncertainty. The verse Upanishads (Katha, Isha, Shvetashvatara and others) are generally put later.)
 
@@ -495,3 +495,26 @@ Background: The Katha is the first text to put Death on stage as a teacher, and 
 If someone pushes back:
 - 'The Gita uses it to justify fighting.' In its setting, yes. The essay cites the claim about the self, not the argument for the battle.
 - 'Is this about reincarnation?' The Gita's next lines (2.22, the worn clothes) are. This verse says only that the self is not slain, which fits both rebirth and liberation.
+
+## Katha Upanishad 1.3.14 ('Arise, awake': the path is as hard as a razor's edge) (the Katha is usually placed in the last centuries BCE, after the early prose Upanishads, with wide uncertainty)
+
+Kind: text. Status: checked (the Sanskrit, Sastri's English and Shankara's commentary read on Wisdom Library on 2026-10-17; other translations not opened).
+
+Who: The same Katha Upanishad as the entry on 1.2.18 above. The verse sits in the first chapter's third section, which Wisdom Library titles 'The parable of the chariot'. Death, the speaker throughout, has told the boy Nachiketa how the self is reached, and here he turns to the listener.
+
+In the essay (v4.35.0): Part three, section 1, 'Making the decision', first item of the fold 'A narrow way, and the greatest victory': the Katha Upanishad tells the listener to arise and awake, and says the wise call the path hard to go by, as hard as the sharp edge of a razor (1.3.14). Sources list (Part three): Katha Upanishad 1.3.14 (Sastri's translation, with Shankara's commentary).
+
+Where it sits: Katha 1.3.14: chapter 1, third section (valli), verse 14.
+
+The passage: Sanskrit: uttisthata jagrata prapya varan nibodhata | ksurasya dhara nisita duratyaya durgam pathas tat kavayo vadanti. Sastri's English (Wisdom Library): 'Arise, awake; having reached the great, learn; the edge of a razor is sharp and impassable; that path, the intelligent say, is hard to go by.'
+
+Read it free:
+- Wisdom Library, Katha Upanishad 1.3.14, with Shankara's commentary (Sastri): https://www.wisdomlib.org/hinduism/book/katha-upanishad-shankara-bhashya/d/doc145217.html (read on 2026-10-17)
+
+Read it in a book: As for 1.2.18 above: Patrick Olivelle, The Early Upanisads (Oxford, 1998), with the Sanskrit; Eknath Easwaran, The Upanishads (Nilgiri Press, 2nd edition 2007), readable.
+
+Background: Shankara reads 'the great' as excellent teachers: 'Having approached excellent preceptors who know that, realise the atman taught by them.' He hears the verse as scripture speaking, like a mother, to beings 'sleeping in beginningless ignorance', and he says the path is hard because the thing to be known is very subtle: 'because the object to be known is very subtle, they say the road of knowledge leading to that is not easily attainable.' The Sanskrit word behind 'the great' (varan) can also mean boons or choices, and some translators take it that way (as I remember, Max Muller's 1884 'Having obtained your boons, understand them'; not opened). The essay uses only the call to wake and the razor's edge, which every reading shares. The motto 'Arise, awake, and stop not till the goal is reached' is Swami Vivekananda's, taken from this verse (from memory, not checked).
+
+If someone pushes back:
+- 'The verse tells you to go to a teacher, and the essay leaves that out.' Shankara reads it that way, and Part three has a section on the teacher. This fold uses the verse for the difficulty of the road and for the call to wake.
+- 'Is the razor's edge about danger?' In Shankara's commentary it is about subtlety: the road is hard to cross because the thing to be known is so subtle. The essay says only 'hard to go by'.

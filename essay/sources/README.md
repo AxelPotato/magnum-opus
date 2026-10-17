@@ -1,13 +1,13 @@
-# essay/sources: the reading pack for Part two
+# essay/sources: the reading pack for Parts two and three
 
-Not part of the essay. For every person, text, study and tradition that Part two cites (and a few it only implies), an entry that lets Alex read the source himself and talk about it: who they are, the exact place the essay leans on, a free place to read it where one exists, the best book edition, and background for discussion, including what scholars add and what to say if someone pushes back.
+Not part of the essay. For every person, text, study and tradition that Parts two and three cite (and a few they only imply), an entry that lets Alex read the source himself and talk about it: who they are, the exact place the essay leans on, a free place to read it where one exists, the best book edition, and background for discussion, including what scholars add and what to say if someone pushes back.
 
-Built on 2026-10-08 by ten agents from the final essay (v2.3.0), the claim check in `essay/research/CHECKLIST.md` and the research files. 185 entries, 720 links. Two entries were added for v4.22.0 (step 2 rewritten), with links from search results. Four were added for the new step 3, 'The turn' (AN 3.39, Ecclesiastes 2, Augustine's Confessions 1.1, Rumi's reed), each read on a primary text page on 2026-10-16. In v4.24.0 step 4 was rewritten around the soul: Eduyot 2:10 and Quran 23:100 are cited again, and Alan Watts moved to a fold under the axiom ("But why would it do that?", next to the Big Bang as the materialist edge of explanation), and the entries for Ian Stevenson and Jim Tucker, Gaudapada and the Tibetan Book of the Dead are no longer cited and stay as private context for discussion. In v4.28.0 step 6 became 'Energy' (Einstein 1905 and Mencius 2A:2 added; bittul, fana, kenosis, Eckhart, MN 118 and the Sallatha Sutta stay cited there), the repair rules (Mishnah Yoma 8:9, Matthew 5:23-24, teshuvah, tawba, metanoia) moved to step 5, and the old step 7 became the unnumbered section 'One more idea: how far the road goes'. Free will was added to step 2 (Avot 3:15, Gita 18:63, Quran 18:29, Pico; Spinoza's Ethics II P35 scholium is now cited there too, as the one who disagrees). In v4.32.0 a new step 3, 'The wall, felt from inside' (pain, love and evil as one signal), was added and the old steps 3 to 7 became steps 4 to 8; death joined 'Something carries over' with the fold 'Practice for dying'; 'The turn' gained a fold on the fall, sin and the prodigal son, and 'Energy' a fold on God, prayer and grace; the physics in step 1 was trimmed, so Hensen et al. (2015) is no longer cited and stays as private context inside the new Bell entry. Nineteen entries were added for it on 2026-10-17 (listed below with the other entries), the Sallatha Sutta moved from 'Energy' to step 3, the 'In the essay' lines of Luria, Genesis 3, the Hymn of the Pearl, the Phaedo, Psalm 16:8 and Advaita (Ishvara) were updated, and the step numbers in the other current entries follow the new numbering.
+Built on 2026-10-08 by ten agents from the final essay (v2.3.0), the claim check in `essay/research/CHECKLIST.md` and the research files. 185 entries, 720 links. Two entries were added for v4.22.0 (step 2 rewritten), with links from search results. Four were added for the new step 3, 'The turn' (AN 3.39, Ecclesiastes 2, Augustine's Confessions 1.1, Rumi's reed), each read on a primary text page on 2026-10-16. In v4.24.0 step 4 was rewritten around the soul: Eduyot 2:10 and Quran 23:100 are cited again, and Alan Watts moved to a fold under the axiom ("But why would it do that?", next to the Big Bang as the materialist edge of explanation), and the entries for Ian Stevenson and Jim Tucker, Gaudapada and the Tibetan Book of the Dead are no longer cited and stay as private context for discussion. In v4.28.0 step 6 became 'Energy' (Einstein 1905 and Mencius 2A:2 added; bittul, fana, kenosis, Eckhart, MN 118 and the Sallatha Sutta stay cited there), the repair rules (Mishnah Yoma 8:9, Matthew 5:23-24, teshuvah, tawba, metanoia) moved to step 5, and the old step 7 became the unnumbered section 'One more idea: how far the road goes'. Free will was added to step 2 (Avot 3:15, Gita 18:63, Quran 18:29, Pico; Spinoza's Ethics II P35 scholium is now cited there too, as the one who disagrees). In v4.32.0 a new step 3, 'The wall, felt from inside' (pain, love and evil as one signal), was added and the old steps 3 to 7 became steps 4 to 8; death joined 'Something carries over' with the fold 'Practice for dying'; 'The turn' gained a fold on the fall, sin and the prodigal son, and 'Energy' a fold on God, prayer and grace; the physics in step 1 was trimmed, so Hensen et al. (2015) is no longer cited and stays as private context inside the new Bell entry. Nineteen entries were added for it on 2026-10-17 (listed below with the other entries), the Sallatha Sutta moved from 'Energy' to step 3, the 'In the essay' lines of Luria, Genesis 3, the Hymn of the Pearl, the Phaedo, Psalm 16:8 and Advaita (Ishvara) were updated, and the step numbers in the other current entries follow the new numbering. In v4.33.2 one entry was added for Part three, which cites a source for the first time: Samyutta Nikaya 45.2, the Upaddha Sutta ("good friends are the whole of the spiritual life"), read on four translations and on the texts used in its pushbacks on 2026-10-17. In v4.35.0 Part three gained a new first section, 'Making the decision', with a fold of seven witnesses on the narrow road and the victory over oneself, and seven entries were added for it, each read on a primary text page on 2026-10-17: Katha Upanishad 1.3.14, Matthew 7:13 to 14, Dhammapada 103 to 105, Pirkei Avot 4:1 with Proverbs 16:32, Uttaradhyayana chapter 9, Daodejing 33 and Sahih al-Bukhari 6114. The entry for the Upaddha Sutta now says section 5, because the new section moved the others down by one.
 
 ## How reliable it is
 
-- Status per entry: checked = the locator and the use were confirmed on a page; partly checked = some of it was; unchecked = from memory and the research files only. Counts (recounted 2026-10-17, 228 entries): 89 checked, 124 partly checked, 15 unchecked. The first build had 64, 113 and 8.
-- Links: 788 in all (recounted 2026-10-17). 697 appeared in a search result or in the check list ("seen in a search result"), 31 were opened and read in a later session ("read on" with the date), and the remaining 60 are standard addresses given from memory, nearly all marked "not checked". A link that was seen in a search result existed that day. It does not prove the page contains the passage.
+- Status per entry: checked = the locator and the use were confirmed on a page; partly checked = some of it was; unchecked = from memory and the research files only. Counts (recounted by script on 2026-10-17 after the seven Part three entries of v4.35.0 were added): 237 entries, 97 checked, 125 partly checked, 15 unchecked. The first build had 64, 113 and 8.
+- Links: 810 in all, counted by script on 2026-10-17 as every link line with an address in the 'Read it free' lists. 676 are marked "seen in a search result" (they appeared in a search result or in the check list), 50 were opened and read in a later session ("read on" with the date), and the remaining 84 are standard addresses given from memory or not opened, nearly all marked "not checked". A link that was seen in a search result existed that day. It does not prove the page contains the passage.
 - "Confirmed" in the check list means found on a reliable page, usually a secondary one. No primary text was opened by the agents, so open the book or the free text before quoting anything.
 - Quotations: passages are paraphrases unless an entry says otherwise. Keep any quotation from a work still in copyright to a sentence or two, copied from the book.
 - The background sections are for discussion and include specialist objections on purpose. The essay itself does not carry them (Part two is not a proof).
@@ -107,6 +107,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Patanjali, Yoga Sutras 3.19, 3.37 and 3.39: the powers [text, checked]
 - Bhagavad Gita 18:63: 'then do as you wish' [text, checked]
 - Katha Upanishad 1.2.18 (Nachiketa and Death) and Bhagavad Gita 2.20 [text, partly checked]
+- Katha Upanishad 1.3.14 ('Arise, awake': the path is as hard as a razor's edge) [text, checked]
 
 ### Buddhist sources (`05-buddhist.md`)
 
@@ -132,6 +133,8 @@ Every person, text or study the essay cites should have an entry here, and every
 - Samyutta Nikaya 56.11, the Dhammacakkappavattana Sutta (the four noble truths) [text, checked]
 - The Metta Sutta, Sutta Nipata 1.8 (as a mother protects her only child) [text, checked]
 - Devotion without a creator God: the buddhas and the Jinas [concept, unchecked]
+- Samyutta Nikaya 45.2, the Upaddha Sutta (good friends are the whole of the holy life) [text, checked]
+- Dhammapada 103 to 105 (the supreme conqueror is the one who conquers himself) [text, checked]
 
 ### Jain, Sikh, Druze and Daoist sources (`06-jain-sikh-druze-daoist.md`)
 
@@ -150,6 +153,8 @@ Every person, text or study the essay cites should have an entry here, and every
 - Sikh scripture on rebirth and grace (Guru Granth Sahib, Japji pauri 4) [text, partly checked]
 - The Druze belief in immediate rebirth (taqammus) [tradition, partly checked]
 - Zhuangzi, chapter 2: the butterfly dream [text, checked]
+- Uttaradhyayana Sutra, chapter 9 (King Nami answers Indra: the greater victory is over oneself) [text, checked]
+- Daodejing 33 ('he who overcomes himself is mighty') [text, checked]
 
 ### Jewish sources (`07-jewish.md`)
 
@@ -180,6 +185,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Job 42:5 ('now my eye sees you') [text, checked]
 - Judges 20:16 and the words for sin: chet and hamartia, 'missing the mark' [text, checked]
 - Martin Buber, I and Thou (1923): the eternal Thou [text, partly checked]
+- Mishnah Avot 4:1 (Ben Zoma: who is mighty?) with Proverbs 16:32 [text, checked]
 
 ### Christian sources (`08-christian.md`)
 
@@ -218,6 +224,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Luke 15:11-32, the prodigal son ('he came to himself') [text, checked]
 - 1 Corinthians 15:22 and 15:55, and original sin [text, checked for the verses]
 - Ephesians 2:8-9 ('by grace you have been saved through faith') [text, checked]
+- Matthew 7:13-14 (the narrow gate) [text, checked]
 
 ### Islamic sources (`09-islamic.md`)
 
@@ -252,6 +259,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Rumi, Masnavi, Book III, 3901 to 3906 ('I died as a mineral') [text, partly checked]
 - Quran 50:16 ('nearer to him than the jugular vein') [text, partly checked]
 - Rabia of Basra's prayer, attributed in the Sufi tradition [text, partly checked]
+- Hadith: the strong one is the one who controls himself in anger (Bukhari 6114) [text, checked]
 
 ### Context (Theosophy, the perennial philosophy) and talking points (`10-context-and-talking-points.md`)
 

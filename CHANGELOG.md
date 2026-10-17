@@ -8,6 +8,61 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.37.0 (2026-10-17)
+
+- A new page, Next, and the contact form moves to it (your 18:55 message). Part three now ends with its Sources list, and the line that stood above the form is gone. Next is the fifth tab after Intro, Rational, Spiritual and Practical, built from essay/next.md to essay/next.html. It says: if you've read the full essay and feel like taking part in any workshop or online session, you're welcome to leave your details below, and I'll try to keep you updated. The form has a name, an email and an open field, 'How are you doing?', with 'Please share anything you feel.' under the question. Only the email is required. It posts name, email and a new field, message, to the same n8n webhook with the UTM fields and the page address, so the workflow has to pass message on. The page builder skips the table of contents and the lede on a page with no sections, the commit hook and the release script know the new page, the review copy gets Next as a fifth tab, and CLAUDE.md lists the page. The text without this release is 4.36.2. Notes for Alex updated
+
+
+## 4.36.2 (2026-10-17)
+
+- Part three: discipline is named in the team's list (7.4.b). Section 5 says what a pair or a team combines, and the list now reads: you work on your attention, you build discipline, you meet your mirror, you pursue a goal and you give. The words sit after attention, in the order of the sections, and the section on discipline already says a pair and a team carry part of it. The text without this release is 4.36.1. Notes for Alex updated
+
+
+## 4.36.1 (2026-10-17)
+
+- Part two and Part three: your wish to build systems and institutes joins the goal (7.1.a with your addition). Part two's 'Why I want this' gets one sentence before 'That is my point of support, the thing I live for that is bigger than me': 'I also wish to build systems and institutes that help others do the same in the best way possible.' Part three's section 3 (a goal and a reason) says the same thing is part of the point of support, in one sentence after the goal. The text without this release is 4.36.0. Notes for Alex updated
+
+
+## 4.36.0 (2026-10-17)
+
+- Part three: a new section, 'Discipline' (7.4). It sits after 'Work with attention' and says that every other part of the method leans on discipline, that the decision is the yes and discipline keeps it true on the days when the wanting is quiet, that in this method it grows from the outside in (a fixed time for the sit, meetings on the calendar) toward an inner discipline built by use, that it should be light and a friendly demand on yourself, that a slipped day is picked up the next day, and that a pair and a team carry part of it. It comes from Alex's message and the teacher's lectures and cites nothing. The sections after it move down by one and the pointers follow. One line in the goal section now says 'plain willpower' where it said 'discipline', so the two do not pull against each other. The seven goals of the method stay seven, because discipline is a means to them. The text without this release is 4.35.0. Notes for Alex updated
+
+
+## 4.35.0 (2026-10-17)
+
+- Part three: a new first section, 'Making the decision' (7.3). It says the rest of Part three has nothing to work with until someone has decided, that the decision is the yes that goes with the wish, and that teachings from very different places call the road hard and give the greatest victory to the one who conquers themselves. A fold, 'A narrow way, and the greatest victory', gives seven witnesses, each read on a text page: Katha Upanishad 1.3.14, Matthew 7:13 to 14, Dhammapada 103 to 105, Pirkei Avot 4:1 with Proverbs 16:32, the Uttaradhyayana (chapter 9), Daodejing 33 and Sahih al-Bukhari 6114. The saying about conquering yourself is not in Sun Tzu, so he is not cited. The sections after it move down by one, the pointers follow, the Sources list gets a group for the new section, and the reading pack gets seven entries. The text without this release is 4.34.0. Notes for Alex updated
+
+
+## 4.34.0 (2026-10-17)
+
+- Part three opens with who it is for and a fold, 'What if I'm not sure?' (7.2). The sentence: Part three is for those who feel they have crossed the bottom point of most separation, which Part two called the turn, and who want to begin the journey back to unity. The fold lists how people started, from the outside (a crash, something close to home, the old way running out, meeting someone who has what you want, one talk) and from the inside (questions, an emptiness results cannot reach, flatness in a good life, a plateau, a feeling that something is off). It closes with the point that the way a person comes has no effect on how ready they are, with the student who started because sleep would not come. Every example is already in the essay or in what Alex said. The page builder gets two small rules for it: a bullet ending in a colon is a label, and an indented paragraph closes the fold above it. The text without this release is 4.33.4. Notes for Alex updated
+
+
+## 4.33.4 (2026-10-17)
+
+- Part two, 'Why I want this': Alex's goal in his own words (7.1). He wishes to obtain knowledge of who he is and what it means to exist, and to share it with other people in a way that is effective and understandable, so that it benefits their lives and makes them happier. The sentence ends as before, 'That is my point of support, the thing I live for that is bigger than me.' Part three echoes it: section 1 says 'happier lives' for 'fuller lives', and section 2 says what the point of support is. The text without this release is 4.33.3. Notes for Alex updated
+
+
+## 4.33.3 (2026-10-17)
+
+- Part three, section 7: a paragraph on prayer after the inner practices (6.2.a). It says what prayer is in the method: learning to talk with life itself, with the masks off, asking for help and for other people, always next to doing. It gives no instructions and cites nothing outside the essay. The text without this release is 4.33.2. Notes for Alex updated
+
+
+## 4.33.2 (2026-10-17)
+
+- Part three, section 4: the Buddha's answer to Ananda about good friends (Samyutta Nikaya 45.2) closes the paragraph on feeding the wish (6.1.a). It is the first citation in Part three, so the page gets a Sources list before the contact form, and the reading pack gets the entry. The text without this release is 4.33.1. Notes for Alex updated
+
+
+## 4.33.1 (2026-10-17)
+
+- Alex's answers to the Part three options applied. Part zero: the essay rests on what he learned from his teacher, and where the reading is his he says so (1.1.b). Part two: one line in the free will paragraph, 'What stays open is the pace and the way.' (1.2.c). Part three: the first group of reasons ends with 'whether this is all there is'; love joins service; 'the slow change in the ego' and 'what is left is what we bring into the world'; what the teacher asks of us is softened; suffering as resistance joins the clamps; the line about more centers is cut; the compass question joins the closing checks. The contact form asks for an email only. The small defaults stay in. Notes for Alex updated. No sources added
+
+
+## 4.33.0 (2026-10-17)
+
+- Part three follows the new Part two, rebased onto main 4.32.7 after the Part two additions (the wall felt from inside, dying, the fall, God and grace): energy has Part two's two sources, direction names the compass and the mirror, the course paragraph becomes a paragraph on the nudges (the mirror and the turn), pointers to the controller, the fingers, the mill, the forgetting and the drift go in by name, the anger story says 'the internal click' where it said 'the flip', the space port reason loses a pointer Part two does not support, and small wording fixes (fuel, flashlight, habit, checkout, wandered, chore chart). Part one: two typos. Every pointer re-read against Part two 4.32.7. Notes for Alex in essay/part-3-notes.md. No sources added
+
+
 ## 4.32.7 (2026-10-17)
 
 - Part two, step 3: 'So suffering measures resistance' (Alex's pick)
