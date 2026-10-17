@@ -61,7 +61,7 @@ A decision needs something to stand on, and that is the wish. It's the one thing
 
 What is the wish for? These are the reasons people give for starting, and they are not promises the method makes. Life pushes people toward this kind of work in very different ways, and the reasons often change along the way. Most of them fall into a few groups.
 
-Some come with questions: why we exist, how the world works and why it is the way it is, and whether this is all there is. That is where mine started, with the questions from Part two, and over time it grew into wanting to help other people live happier lives.
+Some come with questions: why we exist, how the world works and why it is the way it is, and whether this is all there is. That is where mine started, with the questions from Part two.
 
 Others come for steadiness. They want to stay calm when the inbox explodes or a family dinner goes sideways, and to stop replaying the same old conversation on the drive home. They want to stop being run by old habits of mind and painful memories, and to see life as it is, without the mind getting in the way.
 

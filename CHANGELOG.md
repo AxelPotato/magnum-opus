@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.9 (2026-10-17)
+
+- Part three, section 2: "That is where mine started, with the questions from Part two, and over time it grew into wanting to help other people live happier lives." ends at "...with the questions from Part two." (your run-7 pick 7.4). Section 3 gives your goal in full two paragraphs later. The text without this release is 4.41.8. Notes for Alex updated
+
+
 ## 4.41.8 (2026-10-17)
 
 - Part three, the fold "What if I'm not sure?": "Mine began in my teens and turned into a search." is cut (your run-7 pick 7.3). Part zero says the same thing, and the bullet stays as a description of readers who start with questions. The text without this release is 4.41.7. Notes for Alex updated
