@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.44.0 (2026-10-17)
+
+- Part one, "One hose": the four middle paragraphs (holes, nozzle, attention, something worth watering) become one, built from the section's own sentences (your run-7 pick 10.2, option b). The opening paragraph, the last paragraph ("Taken in order...") and the figure stay. The text without this release is 4.43.5. Notes for Alex updated
+
+
 ## 4.43.5 (2026-10-17)
 
 - Part one, the High agency room: "the Stoic idea from the driven room" becomes "the Stoic idea from the drifting room" (your run-7 pick 10.1). The Stoic idea is explained in the Drifting room. The text without this release is 4.43.4. Notes for Alex updated
