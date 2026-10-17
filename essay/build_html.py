@@ -44,7 +44,7 @@ def uri(key, size=240):
     p = find_img(key)
     im = Image.open(p)
     has_alpha = im.mode == 'RGBA' and im.getextrema()[3][0] < 250
-    if key == 'scooby':
+    if key in ('scooby', 'teacher'):  # keep the picture's own proportions
         im = im.convert('RGB')
     else:
         im = im.resize((size, size), Image.LANCZOS)
@@ -313,6 +313,18 @@ def rules2a():
         'People have been writing about this for far longer': dict(after=figure(F3.fig_names(), 'Names from different traditions for the far side of the map. They are not the same claim, and they point in roughly the same direction.')),
         'Start with the border itself.': dict(after=figure(F3.fig_rubber(), 'The rubber hand illusion. The felt border of the body is something the brain works out, and it can be moved.')),
     }
+
+
+def rules0():
+    return {
+        'Everything in this essay rests on what I learned': dict(after=figure(
+            f'<img class="pic" src="{uri("teacher")}" width="720" height="900" loading="lazy" '
+            'alt="Two men standing side by side outdoors, the author and his teacher, Genadiy Givin">',
+            'My teacher, Genadiy Givin, and I.', 'photo')),
+    }
+
+
+PART0_CSS = '.fig .pic{display:block;width:100%;max-width:26rem;height:auto;margin:0 auto;border-radius:10px;border:1px solid var(--rule)}'
 
 
 def rules2():
@@ -697,7 +709,7 @@ PART3_FOOT = 'A draft.'
 NEXT_FOOT = 'A draft.'
 
 PARTS = {
-    0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: {}, cast=False, css_extra='', foot=PART0_FOOT),
+    0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: rules0(), cast=False, css_extra=PART0_CSS, foot=PART0_FOOT),
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=True, css_extra='', foot=PART1_FOOT),
     2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA, foot=PART2_FOOT),
     3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=lambda: {}, cast=False, css_extra='', foot=PART3_FOOT),
