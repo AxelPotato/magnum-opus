@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.0 (2026-10-18)
+
+- Intro: photo of the author with his teacher, Genadiy Givin, after the line about what the essay rests on
+
+
 ## 4.40.2 (2026-10-17)
 
 - The Next page says the place is built around the people (your 20:33 message). The sentence "The people would matter more than the building, and nobody would become material for it." is replaced by "The place would be built around the people who live there." The sentence after it, that they come because it is what they want to do with their life, stays as it was. The text without this release is 4.40.1. Notes for Alex updated
