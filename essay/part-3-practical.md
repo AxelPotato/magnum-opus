@@ -139,7 +139,7 @@ Mentorship in this method works the same way. It runs on personal example, and i
 
 A mentor is simply a person who has had more time to practice what you want. What they say matters less than you would expect, and only a small part of it is telling you what to do or where you are right or wrong. When they do say something, it is short, and it comes from having stood where you are standing. A lot of what was said to me was about attention, and it took me a while to see that most of it had been right.
 
-The biggest effect is that you get to feel what it is like to be a person a few steps ahead: how they sit through a tense meeting, how fast they come back from a bad day. It is one thing to be told that something is possible and another to sit across from someone for whom it is ordinary. That is how the road began for Genadiy in section 6: what he saw in the people he met in his teens gave him a huge wish to know what they knew.
+The biggest effect is that you get to feel what it is like to be a person a few steps ahead: how they sit through a tense meeting, how fast they come back from a bad day. It is one thing to be told that something is possible and another to sit across from someone for whom it is ordinary.
 
 You could call it osmosis. Nobody sets out to copy anything, and after a while your own reactions have moved toward what you have been around, the way you pick up an accent from a roommate without trying and without the roommate noticing. It is a big part of why people mature much faster with a mentor than alone.
 

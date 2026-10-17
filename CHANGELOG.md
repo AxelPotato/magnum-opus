@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.46.1 (2026-10-17)
+
+- Part three, section 7: the sentence "That is how the road began for Genadiy in section 6: what he saw in the people he met in his teens gave him a huge wish to know what they knew." is gone (your 22:07 message). The paragraph now ends on "...another to sit across from someone for whom it is ordinary." Nothing else in section 7 changed. The text without this release is 4.46.0. Notes for Alex updated
+
+
 ## 4.46.0 (2026-10-17)
 
 - Part three, section 7: "Guidance" is now "Mentorship" and is written again around how an apprentice learns from a blacksmith by standing next to them (your 21:39 message). It says mentorship runs on personal example and is closer to a workshop than to a classroom, that a mentor is someone who has had more time to practice what you want, that what they say matters less and only a small part of it is telling you what to do or where you are right or wrong, and that the biggest effect is feeling what it is like to be a person a few steps ahead, which you called osmosis and which makes people mature much faster. The opening line about sounding like a cult, the three checks, the paragraph on blind spots, the "you can leave" paragraph and "who checks the teacher?" are gone, and the story about feedback is two sentences. The text without this release is 4.45.3. Notes for Alex updated
