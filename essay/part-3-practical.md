@@ -22,7 +22,7 @@ Of everything in this part, this is the one that decides the rest, and it's the 
 
 What is the wish for? These are the reasons people give for starting, and they are not promises the method makes. Life pushes people toward this kind of work in very different ways, and the reasons often change along the way. Most of them fall into a few groups.
 
-Some come with questions: why we exist, how the world works and why it is the way it is. That is where mine started, with the questions from Part two, and over time it grew into wanting to help other people live fuller lives.
+Some come with questions: why we exist, how the world works and why it is the way it is, and whether this is all there is. That is where mine started, with the questions from Part two, and over time it grew into wanting to help other people live fuller lives.
 
 Others come for steadiness. They want to stay calm when the inbox explodes or a family dinner goes sideways, and to stop replaying the same old conversation on the drive home. They want to stop being run by old habits of mind and painful memories, and to see life as it is, without the mind getting in the way.
 
@@ -56,9 +56,9 @@ One caution, since the outer goals can turn on you. Doing more with your life is
 
 ## 3. Service
 
-By service I mean putting effort into the good of other people, or of something bigger than you, without counting what comes back. It starts with the people closest to you. If you accept what Part two said about the fingers of one hand, then helping you is helping me, as a matter of plumbing, with niceness left out of it. Service is the method taking that seriously.
+By service I mean putting effort into the good of other people, or of something bigger than you, without counting what comes back. It starts with the people closest to you. If you accept what Part two said about the fingers of one hand, then helping you is helping me, as a matter of plumbing, with niceness left out of it. And if love is what the wall dropping feels like, service is a way to practice it on purpose, and the circle widens from there, one step at a time, toward the people who are hard for you. Service is the method taking that seriously.
 
-It has two rules. Give without conditions: don't demand thanks, credit or a result in return, and don't hold the person hostage to the goal behind it, however big that goal is. The second rule is to give to something bigger than your own comfort, because that is where the second effect shows up. While you serve something larger than yourself, there is less of you to guard, and that speeds up the one thing almost nothing else touches, the slow wearing away of the ego. It doesn't make you less yourself. What wears away is the part of us that keeps defending, and what is left is the real core of our individuality, which is what we bring into the world.
+It has two rules. Give without conditions: don't demand thanks, credit or a result in return, and don't hold the person hostage to the goal behind it, however big that goal is. The second rule is to give to something bigger than your own comfort, because that is where the second effect shows up. While you serve something larger than yourself, there is less of you to guard, and that speeds up the one thing almost nothing else touches, the slow change in the ego. It doesn't make you less yourself. What wears away is the part of us that keeps defending, and what is left is what we bring into the world.
 
 Inner work done only for yourself can go in a circle. You improve your own state, then you improve it more. That has real value, and it can turn into polishing the same stone. Service gives the energy somewhere to go, the way a mill lets the river through, and it is also where the work gets tested, because other people can tell you whether it helped.
 
@@ -100,7 +100,7 @@ I spent a long time on the wrong side of this. At first I argued with the feedba
 
 None of this means doing whatever you're told. You keep responsibility for your own life. You can question what you hear, you can propose a better way, and a good mentor welcomes that, because a student who never pushes back isn't learning to think. A mentor is also checked: someone above them can remove them, and a mentor has no business in your private life. And you can leave.
 
-That leaves the obvious question: who checks the teacher? Nobody checks him the way a mentor is checked. Feedback does reach him, though: those of us who teach have told him more than once that the way something was explained or taught wasn't working for people, and some of it changed because of that. He also almost never asks anyone to do anything in particular. The method is about how and why, and the what is left for each of us to find. What comes from him is input and suggestions, and I take them seriously because I trust him. The check I'd offer you is the one I use: whether the people close to his students find them easier to live with. On my own side, I keep asking the questions at the end of this part, for me, my pair and the team. If the answers stopped changing, I'd ask the question out loud.
+That leaves the obvious question: who checks the teacher? Nobody checks him the way a mentor is checked. Feedback does reach him, though: those of us who teach have told him more than once that the way something was explained or taught wasn't working for people, and some of it changed because of that. Most of what he asks of us is about how and why we do the shared work, and what it means for each of our own lives is left to us to find. What comes from him is input and suggestions, and I take them seriously because I trust him. The check I'd offer you is the one I use: whether the people close to his students find them easier to live with. On my own side, I keep asking the questions at the end of this part, for me, my pair and the team. If the answers stopped changing, I'd ask the question out loud.
 
 ## 7. Work with attention
 
@@ -108,7 +108,7 @@ This is the work you can start today, alone, with no equipment, and it has three
 
 The first is to be here, in the body and in this room, with no detour through later or through the story about it. Part one called the vertical axis BE, and this is its plainest meaning: how much of you is actually present for what is happening right now. It sounds trivial until you try to keep it for a minute.
 
-The second job is letting go of the tension you've already built up. Tension sits in the body as clamps, and you can find them: a jaw, a shoulder, the muscles around the eyes. Attention is the tool. You put it on the clamp and keep it there, like a flashlight held on one spot, and you don't push, because pushing is more tension. Eventually the clamp goes.
+The second job is letting go of the tension you've already built up. Tension sits in the body as clamps, and you can find them: a jaw, a shoulder, the muscles around the eyes. Part two said that suffering measures resistance, the pain plus the grip we hold around it, and the clamps are that grip. Attention is the tool. You put it on the clamp and keep it there, like a flashlight held on one spot, and you don't push, because pushing is more tension. Eventually the clamp goes.
 
 Stillness is the simplest form of this, and it's the one from the start of this part: eyes closed, attention on the sensations in the body, and back to them whenever a thought pulls you away. There is no breath to slow down and nothing to adjust. It's one practice among several, and the others are more active: relaxing a muscle group, reviving a part of the body, holding the breath for a moment, a plain sentence spoken inward toward the center of the chest, laughter when it comes naturally. Nobody needs all of them. Together they are the inner practices, and they are the quieter half of the method. I name them so you know what they are and why they are there. This essay is here to convey ideas, and it isn't a manual. Stillness is the one practice here you can try straight from the page. The others are learned with a person who can see what you're doing, which is a large part of why section 6 exists.
 
@@ -162,12 +162,12 @@ The reason I want a place is that the environment decides what is easy. A town m
 
 The people I picture there are people who want to remember who they really are, the thing Part two says we forget, and to give that back to the world while they keep growing. The people who built the first launch pads had never been to space either. So the first space port will be built by whoever wants it, and the very act of building it is what wakes us up enough to live there. The people there would matter more than the building, and nobody would become material for it. People would come because this has become what they want to do with their life, and like any place people live, some would stay for years and some would move on when life took them elsewhere.
 
-It doesn't exist yet. What exists today is smaller: we, the students of Genadiy, have gathered in two centers, one in Riga, Latvia, and one in Sochi, Russia, with over 120 people between them, and we would like there to be more of them in different places around the world. The space port is the next step I hope we get to take, and I'd love to help build it. What it ends up looking like, I honestly can't tell you yet.
+It doesn't exist yet. What exists today is smaller: we, the students of Genadiy, have gathered in two centers, one in Riga, Latvia, and one in Sochi, Russia, with over 120 people between them. The space port is the next step I hope we get to take, and I'd love to help build it. What it ends up looking like, I honestly can't tell you yet.
 
 ## What you can check
 
-After a few months of practice, alone, in a pair or in a team, ask: do you produce the thing you said you would? Does anything outside you change, and if it doesn't, why not? How fast do you say sorry first now? Put the answers on the chart from Part one, and ask again a month later.
+After a few months of practice, alone, in a pair or in a team, ask: do you produce the thing you said you would? Does anything outside you change, and if it doesn't, why not? How fast do you say sorry first now? Over the last year, are you more fulfilled, or more bleak? Put the answers on the chart from Part one, and ask again a month later.
 
 And one question for the road: if you had the energy of a whole team and no direction, what would you do with it? Then ask who in your life could tell you.
 
-[CONTACT: If you'd like to talk about any of this, or find out where the nearest talk or workshop is, leave your name and an email or a phone number, whichever you prefer. It comes straight to me, and I'll get in touch.]
+[CONTACT: If you'd like to talk about any of this, or find out where the nearest talk or workshop is, leave your email address. It comes straight to me, and I'll get in touch.]

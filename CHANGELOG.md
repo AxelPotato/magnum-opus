@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.33.1 (2026-10-17)
+
+- Alex's answers to the Part three options applied. Part zero: the essay rests on what he learned from his teacher, and where the reading is his he says so (1.1.b). Part two: one line in the free will paragraph, 'What stays open is the pace and the way.' (1.2.c). Part three: the first group of reasons ends with 'whether this is all there is'; love joins service; 'the slow change in the ego' and 'what is left is what we bring into the world'; what the teacher asks of us is softened; suffering as resistance joins the clamps; the line about more centers is cut; the compass question joins the closing checks. The contact form asks for an email only. The small defaults stay in. Notes for Alex updated. No sources added
+
+
 ## 4.33.0 (2026-10-17)
 
 - Part three follows the new Part two, rebased onto main 4.32.7 after the Part two additions (the wall felt from inside, dying, the fall, God and grace): energy has Part two's two sources, direction names the compass and the mirror, the course paragraph becomes a paragraph on the nudges (the mirror and the turn), pointers to the controller, the fingers, the mill, the forgetting and the drift go in by name, the anger story says 'the internal click' where it said 'the flip', the space port reason loses a pointer Part two does not support, and small wording fixes (fuel, flashlight, habit, checkout, wandered, chore chart). Part one: two typos. Every pointer re-read against Part two 4.32.7. Notes for Alex in essay/part-3-notes.md. No sources added

@@ -500,7 +500,8 @@ FONTS = ('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght
 
 
 # Where the contact form at the end of Part three sends its leads: the n8n essay-lead webhook.
-# It takes name, phone and email (at least one), the UTM fields and page_url, as urlencoded POST.
+# The form asks for an email only (Alex, 17 October). The webhook still accepts name and phone, and
+# takes the UTM fields and page_url, as urlencoded POST.
 CONTACT_ENDPOINT = 'https://n8n.giving-school.eu/webhook/essay-lead'
 
 # Runs on every part, so UTM values from the page a reader lands on still reach the form in Part three.
@@ -521,12 +522,9 @@ document.querySelectorAll('.contact-form').forEach(function (f) {
     e.preventDefault();
     var s = f.querySelector('.contact-status'), btn = f.querySelector('button');
     if (el('website').value) { s.textContent = 'Thank you.'; return; }
-    var d = new URLSearchParams(), any = false;
-    ['name', 'phone', 'email'].forEach(function (k) {
-      var v = el(k).value.trim();
-      if (v) { d.set(k, v); any = true; }
-    });
-    if (!any) { s.textContent = 'Add an email or a phone number, then send.'; return; }
+    var d = new URLSearchParams(), v = el('email').value.trim();
+    if (!v) { s.textContent = 'Add your email, then send.'; return; }
+    d.set('email', v);
     var utm = {};
     try { utm = JSON.parse(sessionStorage.getItem('essay_utm') || '{}'); } catch (x) {}
     Object.keys(utm).forEach(function (k) { if (/^utm_/.test(k) && utm[k]) d.set(k, utm[k]); });
@@ -545,9 +543,7 @@ def contact_html(intro):
     return ('<section class="contact" aria-label="Get in touch">'
             f'<p>{smart(intro)}</p>'
             f'<form class="contact-form" data-endpoint="{html.escape(CONTACT_ENDPOINT)}">'
-            '<label>Your name<input name="name" autocomplete="name"></label>'
-            '<label>Email<input name="email" type="email" autocomplete="email"></label>'
-            '<label>Or a phone number, with country code<input name="phone" type="tel" autocomplete="tel"></label>'
+            '<label>Your email<input name="email" type="email" autocomplete="email"></label>'
             '<label class="trap" aria-hidden="true">Leave this empty<input name="website" tabindex="-1" autocomplete="off"></label>'
             '<button type="submit">Send</button>'
             '<p class="contact-status" role="status" aria-live="polite"></p>'

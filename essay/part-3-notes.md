@@ -1,6 +1,6 @@
 # Part three · notes for Alex (not part of the essay)
 
-Version 4.33.0, 2026-10-17. File: `part-3-practical.md`, about 5,660 words (5,600 before), the same ten sections in the same order. Part two changed a lot between 4.22.0 and 4.32.7 (how a whole turns itself down, with free will; the wall felt from inside, with pain, suffering, love and evil; the turn, with the fall; something carries over, with dying; karma as the mirror; energy as a mill on a river, with God, asking and grace), and Part three was last shaped on 13 to 15 October, so several of its pointers had gone stale. This pass makes every pointer true of the current Part two, ties the practice to the new subjects where that helps the reader, and trims what Part two now says for itself. It was first written against Part two 4.31.0 and rebased onto main when the Part two additions merged first. The text is the same; every pointer was read again against Part two 4.32.7. The `humanizer` rules were applied by hand to every changed sentence (no dashes, no bold, no "not X but Y", no triads for effect), and the dash, bold and money checks come back clean.
+Version 4.33.1, 2026-10-17. File: `part-3-practical.md`, about 5,700 words (5,600 before the rewrite), the same ten sections in the same order. Part two changed a lot between 4.22.0 and 4.32.7 (how a whole turns itself down, with free will; the wall felt from inside, with pain, suffering, love and evil; the turn, with the fall; something carries over, with dying; karma as the mirror; energy as a mill on a river, with God, asking and grace), and Part three was last shaped on 13 to 15 October, so several of its pointers had gone stale. This pass makes every pointer true of the current Part two, ties the practice to the new subjects where that helps the reader, and trims what Part two now says for itself. It was first written against Part two 4.31.0 and rebased onto main when the Part two additions merged first. The text was the same then; every pointer was read again against Part two 4.32.7. Version 4.33.1 adds your answers to the options file, listed under "After your answers". The `humanizer` rules were applied by hand to every changed sentence (no dashes, no bold, no "not X but Y", no triads for effect), and the dash, bold and money checks come back clean.
 
 ## How it was checked
 
@@ -34,6 +34,22 @@ Section 10. "Section" for "part". The sentence "It's a fun way to think about it
 
 Part one. Two typos from the 15 October edit: "does sounds" and "the peak: Where".
 
+## After your answers (4.33.1)
+
+What went in, in page order:
+
+- Part zero (1.1.b). The sentence about the teacher now reads "Everything in this essay rests on what I learned from my teacher, Genadiy Givin, and the method in Part three is the one he teaches. Where the reading is mine, I say so." The sentence after it is as it was.
+- Part two (1.2.c). One line in the free will paragraph, after "If the return were forced, the separation would never have been real in the first place.": "What stays open is the pace and the way." It names no teacher, and it is the only change to Part two in this release.
+- Section 1 (3.1.a). The first group of reasons ends "and whether this is all there is."
+- Section 3 (3.6.a, 4.3.b). After the fingers: "And if love is what the wall dropping feels like, service is a way to practice it on purpose, and the circle widens from there, one step at a time, toward the people who are hard for you." The ego sentences now say "the slow change in the ego" and "what is left is what we bring into the world".
+- Section 6 (4.1.b). "Most of what he asks of us is about how and why we do the shared work, and what it means for each of our own lives is left to us to find." This says what the next sentence ("The method is about how and why, and the what is left for each of us to find.") used to say, so that sentence is gone.
+- Section 7 (3.7.a). After the clamps: "Part two said that suffering measures resistance, the pain plus the grip we hold around it, and the clamps are that grip."
+- Section 10 (4.5.b). "and we would like there to be more of them in different places around the world" is cut.
+- What you can check (3.2.a). "Over the last year, are you more fulfilled, or more bleak?" follows the sorry question.
+- The contact form (4.6). It asks for an email only, and the line above it says "leave your email address".
+
+Every small default in section 2 of the options file stays in, as you asked, to be judged on the finished page. Left as written by your picks: 3.3, 3.4, 4.2, 4.4 and 4.7.
+
 ## Where Part three leans on Part two
 
 Each pointer is one clause, and none restates the step it points at. Names, not step numbers: Part two gained a step in 4.32.0 and its steps 3 to 7 became 4 to 8, which moved nothing here.
@@ -63,7 +79,7 @@ Taken back after the checks, because readers had trusted them or you had picked 
 
 ## Kept on purpose
 
-The ten sections and their order. The four groups of reasons in section 1. The stillness instruction and the three small choices. Your three stories. The teacher's facts. The closing checks. The contact marker. Part three says nothing about whether the return is compulsory, so it does not depend on how Part two's free will paragraph settles.
+The ten sections and their order. The four groups of reasons in section 1. The stillness instruction and the three small choices. Your three stories. The teacher's facts, apart from the one sentence in section 6 you chose to soften. The closing checks, with the compass question added. The contact marker, now asking for an email only. Part three says nothing about whether the return is compulsory, so it does not depend on the line Part two's free will paragraph gained in 4.33.1.
 
 ## Found in Part two while checking
 
@@ -71,12 +87,12 @@ The first pass found four slips in Part two. All four were fixed inside the Part
 
 ## Part two's new pieces
 
-Part two now has the wall felt from inside (pain as the body's report, suffering as the grip around it, so that suffering measures resistance, love as the wall dropping, evil as the wall at its thickest), dying inside "Something carries over", the fall under the turn, and God, asking and grace under energy. Nothing in Part three contradicts any of it, and nothing was added for it unasked. Three ties are drafted as options 3.6, 3.7 and 3.8 in the project file `part-3/rewrite-2026-10-17/changes-and-options.md`: love with section 3 (service), suffering as resistance with the clamps in section 7, and prayer (Part two's fold on God says how to pray belongs to Part three, and Part three has no prayer practice, so nothing was invented). The compass check in option 3.2 now has Part two's own wording behind it.
+Part two now has the wall felt from inside (pain as the body's report, suffering as the grip around it, so that suffering measures resistance, love as the wall dropping, evil as the wall at its thickest), dying inside "Something carries over", the fall under the turn, and God, asking and grace under energy. Nothing in Part three contradicts any of it. Two of the three ties I offered went in at your pick: love with service in section 3 (3.6.a) and suffering as resistance with the clamps in section 7 (3.7.a). The third is prayer (3.8). Part two's fold on God says how to pray belongs to Part three, and Part three has no prayer practice, so nothing was invented; a paragraph is being drafted in the project folder for you to approve. The compass question in "What you can check" has Part two's own wording behind it.
 
-## Open choices
+## Still open
 
-Listed with a recommendation each in the project file `part-3/rewrite-2026-10-17/changes-and-options.md`.
+In the project file `part-3/rewrite-2026-10-17/changes-and-options.md`: a sentence on the Buddha's words about friendship for section 4 (3.5.b) and the paragraph on prayer (3.8.b), both drafts for you to approve and neither in the text; and sections 9 and 10 with the form (4.6), which you want to think through before anything changes there.
 
 ## Build notes
 
-Part three has no figure or portrait rules in `build_html.py` (`rules=lambda: {}`), so changing the first words of a paragraph breaks no key. The hero lede ("How this is done today, by people with jobs, families and not much spare time.") still holds. No citations were added or dropped, so the reading pack needed no new entry.
+Part three has no figure or portrait rules in `build_html.py` (`rules=lambda: {}`), so changing the first words of a paragraph breaks no key. The hero lede ("How this is done today, by people with jobs, families and not much spare time.") still holds. The contact form asks for an email only (4.33.1): `contact_html()` renders one email field, the script sends only the email, and the line above the form says so. The webhook is unchanged. No citations were added or dropped, so the reading pack needed no new entry.
