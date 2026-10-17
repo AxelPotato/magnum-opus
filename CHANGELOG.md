@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.33.4 (2026-10-17)
+
+- Part two, 'Why I want this': Alex's goal in his own words (7.1). He wishes to obtain knowledge of who he is and what it means to exist, and to share it with other people in a way that is effective and understandable, so that it benefits their lives and makes them happier. The sentence ends as before, 'That is my point of support, the thing I live for that is bigger than me.' Part three echoes it: section 1 says 'happier lives' for 'fuller lives', and section 2 says what the point of support is. The text without this release is 4.33.3. Notes for Alex updated
+
+
 ## 4.33.3 (2026-10-17)
 
 - Part three, section 7: a paragraph on prayer after the inner practices (6.2.a). It says what prayer is in the method: learning to talk with life itself, with the masks off, asking for help and for other people, always next to doing. It gives no instructions and cites nothing outside the essay. The text without this release is 4.33.2. Notes for Alex updated

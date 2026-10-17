@@ -347,7 +347,7 @@ That holds for our own time too. A form made for a village that shared one story
 
 Part one's zoom out ended on full human potential, and that's what I'm after for this lifetime: the whole map, including everything past the corner of the chart. I don't want to believe it's there. I want to see it for myself, the way you see that a room is lit once you look up.
 
-It started with questions. Why am I alive? What is happening here? How do the universe and the world work? Why am I, me? As I took steps on that road, I started losing some of my walls, and I felt, and then realized, how connected we are. That changed the way I feel toward people and the world. It grew into a strong, sincere wish to help others see the world without the limitations all of us carry, and to make them happy, because that is what makes me happy. That is my point of support, the thing I live for that is bigger than me.
+It started with questions. Why am I alive? What is happening here? How do the universe and the world work? Why am I, me? As I took steps on that road, I started losing some of my walls, and I felt, and then realized, how connected we are. That changed the way I feel toward people and the world. I wish to obtain knowledge of who I am and what it means to exist. And my desire is to share it with other people in a way that is effective and understandable, so that it benefits their lives and makes them happier, because that is what makes me happy. That is my point of support, the thing I live for that is bigger than me.
 
 ## What you can check
 

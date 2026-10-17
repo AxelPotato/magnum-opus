@@ -22,7 +22,7 @@ Of everything in this part, this is the one that decides the rest, and it's the 
 
 What is the wish for? These are the reasons people give for starting, and they are not promises the method makes. Life pushes people toward this kind of work in very different ways, and the reasons often change along the way. Most of them fall into a few groups.
 
-Some come with questions: why we exist, how the world works and why it is the way it is, and whether this is all there is. That is where mine started, with the questions from Part two, and over time it grew into wanting to help other people live fuller lives.
+Some come with questions: why we exist, how the world works and why it is the way it is, and whether this is all there is. That is where mine started, with the questions from Part two, and over time it grew into wanting to help other people live happier lives.
 
 Others come for steadiness. They want to stay calm when the inbox explodes or a family dinner goes sideways, and to stop replaying the same old conversation on the drive home. They want to stop being run by old habits of mind and painful memories, and to see life as it is, without the mind getting in the way.
 
@@ -50,7 +50,7 @@ A goal in this method has three properties. It's short, meaning weeks or months.
 
 Inner work is real work, and from the inside it can be hard to tell whether it's working. A calm sit feels like progress whether or not anything has changed. The compass will tell you, but it reads over months. A goal turns the calm into something you can test sooner. It also gets your energy moving, which is its second job. A goal you care about pulls effort out of you that discipline never would.
 
-Then there's the reason behind the goal. Part two called mine a point of support, the thing I live for that is bigger than me. The goal can be small as long as the reason is bigger than you, and Part one made the case for that. The reason keeps a person going after the first excitement has worn off.
+Then there's the reason behind the goal. Part two called mine a point of support, the thing I live for that is bigger than me: to know who I am and what it means to exist, and to share it so that other people's lives get better and happier. The goal can be small as long as the reason is bigger than you, and Part one made the case for that. The reason keeps a person going after the first excitement has worn off.
 
 One caution, since the outer goals can turn on you. Doing more with your life is one of the wishes in section 1, and results are how you check the work. They are an indicator and never the aim. If you start chasing them for their own sake, you've rebuilt the Driven room with better vocabulary.
 
