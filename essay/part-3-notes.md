@@ -1,6 +1,6 @@
 # Part three · notes for Alex (not part of the essay)
 
-Version 4.40.2, 2026-10-17. File: `part-3-practical.md`, about 6,600 words with the folds and the Sources list (about 5,700 at 4.33.1), ten numbered sections: the decision first, then eight of the ten that were there in the same order (the ones on how people come to it and on the space port are gone), with discipline after attention. Part two changed a lot between 4.22.0 and 4.32.7 (how a whole turns itself down, with free will; the wall felt from inside, with pain, suffering, love and evil; the turn, with the fall; something carries over, with dying; karma as the mirror; energy as a mill on a river, with God, asking and grace), and Part three was last shaped on 13 to 15 October, so several of its pointers had gone stale. This pass makes every pointer true of the current Part two, ties the practice to the new subjects where that helps the reader, and trims what Part two now says for itself. It was first written against Part two 4.31.0 and rebased onto main when the Part two additions merged first. The text was the same then; every pointer was read again against Part two 4.32.7. Version 4.33.1 adds your answers to the options file, listed under "After your answers". Version 4.33.2 adds the Buddha sentence you approved (6.1.a), listed under "The Buddha sentence". Version 4.33.3 adds the paragraph on prayer you approved (6.2.a), listed under "The prayer paragraph". Version 4.33.4 puts your own goal into Part two and Part three in your words (7.1), listed under "Your goal, in your words". Version 4.34.0 opens Part three with who it is for and a fold, "What if I'm not sure?" (7.2), listed under "Who this part is for". Version 4.35.0 adds a new first section, "Making the decision" (7.3), listed under "Making the decision". Version 4.36.0 adds discipline to the method (7.4), listed under "Discipline". Version 4.36.1 adds your wish to build systems and institutes to the goal (7.1.a with your addition), listed under "Systems and institutes". Version 4.36.2 names discipline in the team's list (7.4.b), listed under "Discipline in the team list". Version 4.37.0 moves the contact form out of Part three onto a new page, Next, with the form you described, listed under "The Next page". Version 4.38.0 removes the section on how people come to it (your 20:02 message), listed under "Section 11 removed". Version 4.39.0 moves the space port out of Part three, in a shorter form, onto the Next page (the same message), listed under "The space port moves to Next". Version 4.40.0 renames section 4 from Service to Giving and explains it in plainer words (your 20:04 message), listed under "Service becomes Giving"; older entries below that say "service" mean this section as it was before. Version 4.40.1 adds what the people would make together to the Next page (your 20:33 message), listed under "Next: working together". Version 4.40.2 replaces the sentence about the people and the building on the Next page with a plainer one (the same message), listed under "Next: the line about the people". Section numbers in these notes follow the page as it is now, so "section 2" means "Your own wish" even where an older release is described. The `humanizer` rules were applied by hand to every changed sentence (no dashes, no bold, no "not X but Y", no triads for effect), and the dash, bold and money checks come back clean.
+Version 4.46.2, 2026-10-17. File: `part-3-practical.md`, about 6,200 words with the folds and the Sources list (about 5,700 at 4.33.1), ten numbered sections: the decision first, then eight of the ten that were there in the same order (the ones on how people come to it and on the space port are gone), with discipline after attention. Part two changed a lot between 4.22.0 and 4.32.7 (how a whole turns itself down, with free will; the wall felt from inside, with pain, suffering, love and evil; the turn, with the fall; something carries over, with dying; karma as the mirror; energy as a mill on a river, with God, asking and grace), and Part three was last shaped on 13 to 15 October, so several of its pointers had gone stale. This pass makes every pointer true of the current Part two, ties the practice to the new subjects where that helps the reader, and trims what Part two now says for itself. It was first written against Part two 4.31.0 and rebased onto main when the Part two additions merged first. The text was the same then; every pointer was read again against Part two 4.32.7. Version 4.33.1 adds your answers to the options file, listed under "After your answers". Version 4.33.2 adds the Buddha sentence you approved (6.1.a), listed under "The Buddha sentence". Version 4.33.3 adds the paragraph on prayer you approved (6.2.a), listed under "The prayer paragraph". Version 4.33.4 puts your own goal into Part two and Part three in your words (7.1), listed under "Your goal, in your words". Version 4.34.0 opens Part three with who it is for and a fold, "What if I'm not sure?" (7.2), listed under "Who this part is for". Version 4.35.0 adds a new first section, "Making the decision" (7.3), listed under "Making the decision". Version 4.36.0 adds discipline to the method (7.4), listed under "Discipline". Version 4.36.1 adds your wish to build systems and institutes to the goal (7.1.a with your addition), listed under "Systems and institutes". Version 4.36.2 names discipline in the team's list (7.4.b), listed under "Discipline in the team list". Version 4.37.0 moves the contact form out of Part three onto a new page, Next, with the form you described, listed under "The Next page". Version 4.38.0 removes the section on how people come to it (your 20:02 message), listed under "Section 11 removed". Version 4.39.0 moves the space port out of Part three, in a shorter form, onto the Next page (the same message), listed under "The space port moves to Next". Version 4.40.0 renames section 4 from Service to Giving and explains it in plainer words (your 20:04 message), listed under "Service becomes Giving"; older entries below that say "service" mean this section as it was before. Version 4.40.1 adds what the people would make together to the Next page (your 20:33 message), listed under "Next: working together". Version 4.40.2 replaces the sentence about the people and the building on the Next page with a plainer one (the same message), listed under "Next: the line about the people". Versions 4.41.2 to 4.45.2 apply your picks on the run-7 verdict one at a time, each listed under its own heading after "Next: the line about the people" and named by the verdict item ("verdict 5" and so on), with its own revert phrase. Version 4.45.3 swaps item 4 for the verdict thread's version 2 (your tap at 21:24), listed under "Verdict 4: the teacher in the middle, your version 2". Version 4.46.0 is your 21:39 message, listed under "Mentorship replaces Guidance". Version 4.46.1 takes one sentence out of it (your 22:07 message), listed under "Mentorship, one sentence out". Version 4.46.2 rewords the Anokhin entry in Part one's fold (your 22:12 message), listed under "Anokhin, reworded for the fold". Section numbers in these notes follow the page as it is now, so "section 2" means "Your own wish" even where an older release is described. The `humanizer` rules were applied by hand to every changed sentence (no dashes, no bold, no "not X but Y", no triads for effect), and the dash, bold and money checks come back clean.
 
 ## How it was checked
 
@@ -42,7 +42,7 @@ What went in, in page order:
 - Part two (1.2.c). One line in the free will paragraph, after "If the return were forced, the separation would never have been real in the first place.": "What stays open is the pace and the way." It names no teacher, and it is the only change to Part two in this release.
 - Section 2 (3.1.a). The first group of reasons ends "and whether this is all there is."
 - Section 4 (3.6.a, 4.3.b). After the fingers: "And if love is what the wall dropping feels like, giving is a way to practice it on purpose" (it said service then), and the circle widens from there, one step at a time, toward the people who are hard for you. The ego sentences now say "the slow change in the ego" and "what is left is what we bring into the world".
-- Section 7 (4.1.b). "Most of what he asks of us is about how and why we do the shared work, and what it means for each of our own lives is left to us to find." This says what the next sentence ("The method is about how and why, and the what is left for each of us to find.") used to say, so that sentence is gone.
+- Section 7 (4.1.b). "Most of what he asks of us is about how and why we do the shared work, and what it means for each of our own lives is left to us to find." (Gone since 4.46.0, with the paragraph it was in.) This says what the next sentence ("The method is about how and why, and the what is left for each of us to find.") used to say, so that sentence is gone.
 - Section 8 (3.7.a). After the clamps: "Part two said that suffering measures resistance, the pain plus the grip we hold around it, and the clamps are that grip."
 - The space port, now on the Next page (4.5.b). "and we would like there to be more of them in different places around the world" is cut.
 - What you can check (3.2.a). "Over the last year, are you more fulfilled, or more bleak?" follows the sorry question.
@@ -62,7 +62,7 @@ To take it out, ask for "revert 6.1". That is a fix release that removes the sen
 
 What went in (6.2.a), in section 8 after the paragraph on stillness and the other inner practices: 148 words on what prayer is in the method. "A plain sentence spoken inward toward the center of the chest" is one of the practices in the paragraph before it, and the new paragraph calls it a form of prayer. So the word has a meaning before section 10, where the anger story says "It was close to prayer". The paragraph says that prayer is learning to talk with life itself, with the masks off; that the way in is a question (how would you talk if you met God, or whatever you call the source?); that asking is part of it, for help and for other people, and that the asking points toward giving; that you can tell the conversation is real the way you can tell a person is really listening; and that it does not replace doing.
 
-It cites nothing outside the essay, so it needed no Sources line and no reading-pack entry. Each sentence was traced to the teacher's lectures in a check kept in the project folder (`part-3/rewrite-2026-10-17/prayer-lecture-check.md`, private because it holds the lecture ids and the Russian quotes). One line the first check offered, about bargaining, turned out to be about wanting the whole path fully and not about praying for favors, so it is not used, and the paragraph says nothing about bargaining, grace, set words or other religions' prayer. "Part two called prayer the part turning toward the whole" quotes the fold on God, asking and grace.
+It cites nothing outside the essay, so it needed no Sources line and no reading-pack entry. Each sentence was traced to the teacher's lectures in a check kept in the project folder (`part-3/rewrite-2026-10-17/prayer-lecture-check.md`, private because it holds the lecture ids and the Russian quotes). One line the first check offered, about bargaining, turned out to be about wanting the whole path fully and not about praying for favors, so it is not used, and the paragraph says nothing about bargaining, grace, set words or other religions' prayer. "Part two called prayer the part turning toward the whole" quoted the fold on God, asking and grace. Since 4.41.13 the sentence reads "Prayer is the part turning toward the whole" and no longer names Part two (see "Verdict 8.1").
 
 To take it out, ask for "revert 6.2". That is a fix release that removes the paragraph. The text as it was before this release is 4.33.2, commit 2e8aa80.
 
@@ -189,6 +189,208 @@ With the sentence from 4.40.1 the page talks about projects now, so the old line
 
 To take it out, ask for "revert people line". That is a release that puts the old sentence back. The text as it was before this release is 4.40.1, commit 263c003.
 
+## Run 7 picks (4.41.2 and after)
+
+Your picks on the run-7 verdict (your 21:06 UTC message), applied one release at a time in the order of the verdict: Part three first (items 4 to 8), then Part two (item 9), Part one (item 10) and Part zero (item 11). Each release has its own heading below with the verdict number in it, and its own revert phrase ("revert verdict 5" and so on). Reverting one means a new release that puts back only that, so the others stay. Two releases come after the picks: version 2 of item 4 (4.45.3, your tap at 21:24) and the Mentorship section (4.46.0, your 21:39 message).
+
+Not applied, and why. Item 1, the contact line: the line went when the form moved to the Next page in 4.37.0, and you gave no pick on it. Item 2, your "2. b": the space port section left Part three in 4.39.0, the Next piece has no sentence about building it, and the guardrail line was already replaced in 4.40.2, so both readings of "b" are settled. Item 3, section 11: removed in 4.38.0. Item 9.10: you picked b, leave it as it is. The two items that were not a plain letter are handled as you wrote them: item 4 is a rewrite, where my first one (4.41.2) was replaced by the verdict thread's version 2, which you tapped at 21:24 (4.45.3, listed under item 4 at the end of the run), and item 7.1 uses "bargaining with yourself".
+
+## Verdict 4: the teacher in the middle (4.41.2)
+
+What changed: the last sentence of the paragraph in section 6 about the teacher and groups, "And with him in the middle, the group stays pointed at what everyone came for.", was taken out, and the last two sentences changed places, so the paragraph ended on what you saw in team meetings. This was my own rewrite, made from your 21:06 message ("lets think of a way to rewrite the part to avoid that statement at all"). I made it before I saw the verdict thread's version 2 and your tap on it at 21:24, and release 4.45.3 below replaces it with that version.
+
+To take it out, ask for "revert verdict 4". Release 4.45.3 below changed this paragraph again, so that phrase is one release that puts the paragraph back as it was on main (4.40.2) and removes both. The text as it was before this release is 4.41.1, commit 6a6e087.
+
+## Verdict 5: the compass sentence (4.41.3)
+
+What changed: the sentence at the start of Part three that follows the compass and the mirror. It read "Both are yours to read, but you can't see yourself from the outside, so the rest of your direction usually comes from someone much further along who can." It now reads "Both are yours to read. What you can't do is see yourself from the outside, and that part usually comes from someone much further along who can." This is the wording your pick a gave, which came from Ruth. The reading stays with the reader, as Part two says it does, and the guide is the outside view, which is how section 7 described guidance when this was made (it is Mentorship since 4.46.0). The part of the sentence Ruth's control said had brought her in is the part that stays.
+
+To take it out, ask for "revert verdict 5". That is a release that puts the old sentence back. The text as it was before this release is 4.41.2, commit f41f2a6.
+
+## Verdict 6.1: the guide in the opening (4.41.4)
+
+What changed: the last paragraph of the opening ends at "After that the order changes from person to person, because people arrive from different places." The clause "and a good guide reads where you are standing before deciding where you start" is cut. Mara counted the guide four times in the stretch before section 2, and this was the first of them. Section 6 introduces the guide properly, so nothing is lost. The next release cuts the second.
+
+To take it out, ask for "revert verdict 6.1". That is a release that puts the clause back. The text as it was before this release is 4.41.3, commit 1a7ed6e.
+
+## Verdict 6.2: the team sentence in section 1 (4.41.5)
+
+What changed: the first paragraph of section 1 loses its second sentence, "A team can support what you have chosen, and a teacher can guide a person who is walking." It now ends on "This comes first and matters most, because the rest of Part three has nothing to work with until someone has decided." The next section opens with the sentence all five readers scored best, "A mentor can point, a team can lift, a teacher can try to wake it and pass it on, but none of them can want it for you", so the point is made once, where it works.
+
+To take it out, ask for "revert verdict 6.2". That is a release that puts the sentence back. The text as it was before this release is 4.41.4, commit 264461d.
+
+## Verdict 7.1: bargaining with yourself (4.41.6)
+
+What changed: in section 1, the last sentence read "you stop having to argue it out every morning, and the energy the arguing would have used goes into the work." It now reads "you no longer have to bargain with yourself every morning, and the energy that took goes into the work." You liked "bargaining with yourself" more than "talk yourself into it", which was my default. I had left it out because the money rule counts it as a money idiom. You chose it, so it stays, as the second one you kept after "a tax on energy". It names the morning negotiation with yourself, which "argue it out" could be heard to mean as "stop questioning".
+
+To take it out, ask for "revert verdict 7.1". That is a release that puts the old sentence back. The text as it was before this release is 4.41.5, commit 1423b39.
+
+## Verdict 7.2: the teacher in the fold (4.41.7)
+
+What changed: in the fold "What if I'm not sure?", the bullet about meeting someone who has what you want read "My teacher did in his teens, and what he saw in those people gave him a huge wish to know what they knew." It now reads "Some meet someone who has what they want. My teacher did, in his teens." Section 6 says the rest in nearly the same words ("what he saw in them gave him a huge wish to know what they knew"), and Mara catches a repeat like that every run.
+
+To take it out, ask for "revert verdict 7.2". That is a release that puts the longer sentence back. The text as it was before this release is 4.41.6, commit 29190a2.
+
+## Verdict 7.3: your teens in the fold (4.41.8)
+
+What changed: the bullet in the fold that begins "Some start with questions" loses its last sentence, "Mine began in my teens and turned into a search." Part zero already says it ("In my teens I had a lot of questions... Over time those questions led to a spiritual search"), and Mara skimmed your origin the third time it came. The bullet stays, as a description of readers who start that way.
+
+To take it out, ask for "revert verdict 7.3". That is a release that puts the sentence back. The text as it was before this release is 4.41.7, commit 4b23d23.
+
+## Verdict 7.4: the wish and your own start (4.41.9)
+
+What changed: in section 2, the paragraph on people who come with questions ends "That is where mine started, with the questions from Part two." The tail, "and over time it grew into wanting to help other people live happier lives", is cut, because since 4.33.4 section 3 gives your goal in full two paragraphs later and this was an echo of it.
+
+To take it out, ask for "revert verdict 7.4". That is a release that puts the tail back. The text as it was before this release is 4.41.8, commit bb23742.
+
+## Verdict 7.5: regularity (4.41.10)
+
+What changed: the paragraph on regularity at the end of section 8 used to open "Then comes the rule that holds the rest together: regularity. It starts with the daily sit, every day..." and now opens "Regularity starts with the daily sit, every day, even when it's a short one, because the drift from Part two takes no days off." Section 9 opens with "Every other part of this method leans on discipline", and two keystones back to back is the kind of thing Mara marks down.
+
+To take it out, ask for "revert verdict 7.5". That is a release that puts the opening sentence back. The text as it was before this release is 4.41.9, commit 9efe2a9.
+
+## Verdict 7.6: staying in bed (4.41.11)
+
+What changed: in the gym comparison in section 9, "some mornings the ego complains, and you go anyway" is now "some mornings you'd rather stay in bed, and you go anyway." Calling plain reluctance "the ego", next to a meeting on the calendar, made it sound like the "your mirror" move Dan asks his friend about. The new line is just what a Tuesday feels like.
+
+To take it out, ask for "revert verdict 7.6". That is a release that puts the old words back. The text as it was before this release is 4.41.10, commit 3fcbda0.
+
+## Verdict 7.7: the pair refrain in section 9 (4.41.12)
+
+What changed: the last paragraph of section 9 now ends "A pair who notices a missed day and a team that meets at a set time carry some of it for you." The clause "and that is part of why this method is built around a pair and a team" is cut. Josh said every section landed on pair, mirror, mentor and harder alone until he could hear it coming, and this was one more landing.
+
+To take it out, ask for "revert verdict 7.7". That is a release that puts the clause back. The text as it was before this release is 4.41.11, commit c549a6b.
+
+## Verdict 8.1: the prayer opener (4.41.13)
+
+What changed: the second sentence of the prayer paragraph in section 8 read "Part two called prayer the part turning toward the whole, and in the method it means learning to talk with life itself." It now reads "Prayer is the part turning toward the whole, and in the method it means learning to talk with life itself." The old wording pointed at the fold "God, asking, and grace" in Part two, which Mara and Dan did not open, so for them it pointed at nothing they had read. The sentence now stands on its own, and a reader who did open the fold finds the same thing there.
+
+To take it out, ask for "revert verdict 8.1". That is a release that puts the old wording back. The text as it was before this release is 4.41.12, commit c815a81.
+
+## Verdict 8.2: Ananda (4.41.14)
+
+What changed: in section 5, "Ananda, one of the Buddha's monks, once said that good friends are half of the spiritual life" is now "Ananda, the Buddha's attendant, once said...". Ruth said the old wording undersold him, since he was the Buddha's attendant. The sutta itself does not say it, but the canon does in another place: Anguttara Nikaya 1.223 names Ananda the foremost of the Buddha's monk disciples as a personal attendant. The reading pack entry for Samyutta Nikaya 45.2 says so. The Sources line is unchanged.
+
+To take it out, ask for "revert verdict 8.2". That is a release that puts the old words back. The text as it was before this release is 4.41.13, commit 1d140a2.
+
+## Verdict 8.3: the pointer to section 7 (4.41.15)
+
+What changed: in section 8, after the list of practices, the sentence read "The others are learned with a person who can see what you're doing, which is a large part of why section 7 exists." It now stops at "...what you're doing." Three of the readers heard the pointer as the mentor turning into the gate (Ruth: "the free one on the page, the rest in the room"). Naming the practices stays, which you decided.
+
+To take it out, ask for "revert verdict 8.3". That is a release that puts the pointer back. The text as it was before this release is 4.41.14, commit 68e9b12.
+
+## Verdict 9.1: the Reiki night (4.41.16)
+
+What changed: the night after the Reiki session, in step 8. Two edits. "So the worldview had to be wrong." is now "That was enough to send me looking." And the two sentences on placebo are cut: "Placebo was the obvious answer, and it didn't fit. Nobody had told me I would feel anything, I didn't believe in it, and the sensations were new to me, so there was nothing for my mind to copy." That was the sentence the readers argued with, and all five went down at this step (Dan called it the weakest inference in the essay, presented as decisive; Ruth's control, a nurse, said paying attention to your body alone produces sensations). The story stays, and so does your conclusion a few lines later, next to the careful sceptic: "the honest conclusion I came to wasn't that Reiki is proven. It was that my assumptions were wrong."
+
+To take it out, ask for "revert verdict 9.1". That is a release that puts both back. The text as it was before this release is 4.41.15, commit 640abd8.
+
+## Verdict 9.2: the frame before the list of powers (4.41.17)
+
+What changed: in step 8, the four sentences that begin "Let me be clear about what I'm doing here, because this is the most controversial step in the essay" and end "the axiom leaves room for them, and the materialist view of separation leaves none" moved up one paragraph, to right after the first sentence of the paragraph about the traditions' lists ("Every tradition keeps a list of things like that, and the lists are remarkably alike."). The list itself, flying and walking through walls included, now starts a paragraph of its own after that frame. The paragraph that followed the frame now starts "If the world is made of separate things...". No words changed. The list was Mara's lowest point ("close to closing the tab") and the frame that pulled her back used to come a paragraph later.
+
+To take it out, ask for "revert verdict 9.2". That is a release that puts the paragraphs back in the old order. The text as it was before this release is 4.41.16, commit 38b1702.
+
+## Verdict 9.3: the machine in the miracles paragraph (4.41.18)
+
+What changed: in step 8, the paragraph that starts "Under the axiom it looks different" loses three sentences. Two are the machine explanations of the powers ("Every mind runs on the same machine... so a thinner wall leaks more." and "The far is part of the same whole, and the admin rights from step 7 let a program write where it couldn't write before."). Josh said that is where the metaphor he loved turns into an argument it cannot carry, and Ruth's control felt she was in a metaphor museum. The third is the need setting ("Going without food or sleep, and staying warm in the cold, is the need setting turned down..."), which is the option b part of your pick: next to a retreat it reads as fasting and lost sleep called progress, and only Dan raised it. The paragraph now says the four settings, a miracle as one of them turned up a little, reading minds and seeing at a distance as the knowing setting, healing, walking on water and floating as the doing setting, and why any of it would happen (step 7).
+
+To take it out, ask for "revert verdict 9.3". That is a release that puts the three sentences back. The text as it was before this release is 4.41.17, commit 96a3521.
+
+## Verdict 9.4: the machine version of energy (4.42.0)
+
+What changed: in step 7 (Energy), the paragraph that began "The machine has its own version. A program that stops acting as a separate process with private interests gets wider permissions from the operating system..." is cut, including the line about an incident. Ruth and her control scored it -1, and Mara said each step was starting to feel like the same pattern: claim, physics, machine, tradition fold. It goes with 9.3: step 8 used to point at it ("the admin rights from step 7"), and that pointer left in 4.41.18. The printer joke in step 8 ("It's like getting admin rights to the whole machine and using them to make the printer work") still works on its own. The mill paragraph before it carries the point.
+
+To take it out, ask for "revert verdict 9.4". That is a release that puts the paragraph back; the pointer to it in step 8 left in 4.41.18 and comes back only with "revert verdict 9.3". The text as it was before this release is 4.41.18, commit f13f8b1.
+
+## Verdict 9.5: E=mc2 (4.43.0)
+
+What changed: in step 7 (Energy), the paragraph that began "Physics has a picture for this, with the same warning label as step 1" is cut. It said Einstein's E=mc² makes mass a form of energy, that energy is never used up, and that none of it is a claim about a person. All five readers scored it -1 (Mara: "physics used as mood lighting"; Dan: "two different words that share a spelling"), and the mill paragraph already says there is nothing outside the whole to take energy from and nowhere for it to leak to. Step 7 now goes from the definition of energy straight to the separate self's tank. The Sources list in Part two loses the line for Einstein (1905), and the reading pack loses its entry (its README index, counts and log are updated). Einstein's telegram of 1929 in the opening is a different citation and stays.
+
+To take it out, ask for "revert verdict 9.5". That is a release that puts the paragraph, the Sources line and the pack entry back. The text as it was before this release is 4.42.0, commit cbb82b9.
+
+## Verdict 9.6: the multiverse sentence (4.43.1)
+
+What changed: the one-sentence paragraph after the fold at the end of "One more idea", "Some physicists think our universe is one of many, and if so even the farthest point of this picture has something after it.", is cut. All five readers scored it -1 (Josh: physics as decoration again; Ruth: slightly showy), and nothing pointed to it and it had no source. The section now ends on the fold about second births and staged maps. The reading pack keeps its multiverse entry, marked as no longer cited, in case you are asked about it.
+
+To take it out, ask for "revert verdict 9.6". That is a release that puts the sentence back. The text as it was before this release is 4.43.0, commit b4ec952.
+
+## Verdict 9.7: NPCs (4.43.2)
+
+What changed: in step 2, the paragraph about the game. "Under the materialist view from the start of this part, a person is an NPC" is now "a person is like an NPC", and the last two sentences "NPCs don't level up. Players do." are cut. The paragraph now ends on "...with the steering handed over on purpose." Both Ruths found the tagline smug toward materialists, Mara heard a crypto-bro line, and Dan, the materialist, was put in the NPC slot. The picture stays, and Josh, who liked the paragraph, called the tagline a poster line.
+
+To take it out, ask for "revert verdict 9.7". That is a release that puts the tagline and the old wording back. The text as it was before this release is 4.43.1, commit 556c6e4.
+
+## Verdict 9.8: the cancer cell (4.43.3)
+
+What changed: in step 2, the sentence about cells in a body now ends "Cells in a body pick up signals from their neighbors that say when to divide and when to stop." The clause "and a cancer cell stops listening and grows as if it were the only cell there is" is cut. All five readers noticed it; Ruth lost friends to cancer and did not want it used as a spiritual metaphor, and Mara read it as close to blaming people who are ill. Your rule on negative images points the same way. The Sources list in Part two loses Hanahan and Weinberg (2000), and the reading pack's cells entry drops them and keeps Gurdon and Yamanaka (the pack README's index and log are updated). The sentence after it, about how much of the signal from the whole a person still picks up, stands.
+
+To take it out, ask for "revert verdict 9.8". That is a release that puts the clause, the Sources line and the pack text back. The text as it was before this release is 4.43.2, commit ee2ca05.
+
+## Verdict 9.9: the seeing-the-future teaser (4.43.4)
+
+What changed: the last line of step 8, after the note that seeing the future is missing from the list on purpose, read "That one I'd rather talk through with you in person." It now reads "That one needs a longer conversation than this part has room for." Your call of 16 October stands: the teaser is still there. "In person" is what Josh heard as withholding a bit of the secret so you come to the session (he, Ruth, Mara and Dan all marked it down), and the new wording says only that it takes a longer conversation.
+
+To take it out, ask for "revert verdict 9.9". That is a release that puts the old sentence back. The text as it was before this release is 4.43.3, commit 84a9bfc.
+
+## Verdict 10.1: the Stoic idea is in the Drifting room (4.43.5)
+
+What changed: in Part one, the High agency room says "High agency doesn't mean control over everything. Part of it is knowing which things are up to you, which is the useful half of the Stoic idea from the drifting room." It said "driven room", but the Stoic idea is explained in the Drifting room and the Driven room only has Stoic quotes on a lock screen. Josh and Mara both stopped on it.
+
+To take it out, ask for "revert verdict 10.1". That is a release that puts "driven room" back. The text as it was before this release is 4.43.4, commit c42c318.
+
+## Verdict 10.2: a shorter hose (4.44.0)
+
+What changed: in Part one, "One hose" keeps its opening paragraph, its last paragraph ("Taken in order, each one makes the next one work...") and the figure. The four paragraphs between them, one each for the holes, the nozzle, attention and something worth watering, are now one paragraph built from the section's own sentences: "The holes are every fear, insecurity and doubt you carry... With nothing to water there is no reason to plug a hole, open the nozzle or aim." The section is a little over a third of what it was. All five readers went down in the long version (Josh: another metaphor, at this point?; Ruth: the hose is a summary of things he has already said; Mara: if this were a design doc I would cut it). What they kept is the figure and "With nothing to water there is no reason to plug a hole", and both are still there.
+
+To take it out, ask for "revert verdict 10.2". That is a release that puts the four paragraphs back. The text as it was before this release is 4.43.5, commit 17996b3.
+
+## Verdict 10.3: Anokhin in the fold (4.45.0)
+
+What changed: in Part one, in "The reason bigger than you", the paragraph about the Soviet physiologist Pyotr Anokhin (the brain builds a model of the result before you act) moved out of the main text into the fold "What the studies say", where it is now the first entry, with its figure. Its lead-in "Start with the physiology." stayed behind, since that belonged to the walk through the main text. Frankl's paragraph now opens "Viktor Frankl, a psychiatrist who survived the Nazi camps, argued that a human being is always pointed beyond themselves...", because "supplied the second half" depended on Anokhin being the first half. The fold counts six now. Four of the five readers asked why Anokhin was there ("why is it here?"), and Dan, who opened the fold, wanted to defend him, so he is there for a reader like Dan. The Sources list and the reading pack are unchanged. The page builder gained a way to put a figure inside a fold entry.
+
+To take it out, ask for "revert verdict 10.3". That is a release that puts the paragraph and its figure back in the main text. The text as it was before this release is 4.44.0, commit f474f56.
+
+## Verdict 11.1: a grammar slip in Part zero (4.45.1)
+
+What changed: in Part zero, the paragraph on Part three. "how the method of conscious development I share looks like" is now "what the method of conscious development I share looks like". Mara stopped on it as a grammar slip.
+
+To take it out, ask for "revert verdict 11.1". That is a release that puts "how" back. The text as it was before this release is 4.45.0, commit 6a9e88d.
+
+## Verdict 11.2: the handed-it line in Part zero (4.45.2)
+
+What changed: in Part zero, the paragraph on Part one. "And if someone handed it to you, it was written with you in mind as well." used to come last, after the paragraph had spoken to the meditator and to the person you would hand it to. It now comes right after "...and why almost nobody works on both." Same words. Josh, for the second run in a row, said it landed like an afterthought and gave him the feeling of being outreach material. The paragraph now ends on "with nothing they'd need to take on trust."
+
+To take it out, ask for "revert verdict 11.2". That is a release that moves the sentence back to the end. The text as it was before this release is 4.45.1, commit a7bc923.
+
+## Verdict 4: the teacher in the middle, your version 2 (4.45.3)
+
+What changed: the paragraph in section 6 that begins "A teacher does one more job." is now version 2 of your item 4, the one on the card in the Run 7 final verdict thread that you tapped at 21:24. My first rewrite of it (4.41.2, above) is gone, because I made it before I saw that version and your tap. Against that first rewrite, three things differ. "A teacher helps a whole group with it" is now "A teacher can make that step easier". The team sentence ends "their own part in the conflict" where it used to end "in it". And the paragraph ends on a new sentence, "The sorry itself still has to come from one of the two." The sentence "Because his view belongs to none of us, a group of very different people can face the same way without anyone having to win" and the team-meetings observation are not in it any more, so no sentence about what his presence does for the group needs defending, and the paragraph stays with the sorry, the one thing it started with.
+
+To take it out, ask for "revert verdict 4". That is a release that puts the whole paragraph back as it was on main (4.40.2), which removes this release and 4.41.2 together. The text as it was before this release is 4.45.2, commit 9906531.
+
+## Mentorship replaces Guidance (4.46.0)
+
+What changed: section 7 is called Mentorship now and is written again from your 21:39 message. The old section was about 650 words and the new one is about 470. It opens on how an apprentice becomes a blacksmith, by standing next to the smith for years with very little explained, and says mentorship in this method works the same way: it runs on personal example and is closer to a workshop than to a classroom. A mentor is a person who has had more time to practice what you want. What they say matters less than you would expect, and only a small part of it is telling you what to do or where you are right or wrong. The biggest effect is that you feel what it is like to be a person a few steps ahead. You called that osmosis, and the section says people mature much faster that way, with a line about picking up an accent from a roommate. It ends on the distance that works (a few steps), where to look, and the afternoon with the calmest person you know.
+
+What went out: the opening line ("I'll try to say this without sounding like a cult, and you may judge how it goes") and its three checks; the paragraph on blind spots; the paragraph that begins "None of this means doing whatever you're told" and ends "And you can leave"; and "who checks the teacher?" with its answer. Your story about getting feedback is down to two sentences, "A lot of what was said to me was about attention, and it took me a while to see that most of it had been right." The longer version, with the website names, is in the history. In run 7 several readers had named some of these lines (the cult paragraph and the leaving test, "a mentor has no business in your private life", "And you can leave", "who checks the teacher?" and "easier to live with") among their reasons for reading on. Your message came after that, so they are out. Item 10.3 in the options file has ways to bring any of it back.
+
+The rest of Part three still fits. Section 8 says "a mentor who can see what you can't", section 2 says "A mentor can point, a team can lift...", the opening says the outside view usually comes from someone much further along, and section 6 keeps the guide on a mountain path. Part zero says "a team and a guide". That is your hand wording, so I left it; item 10.4 in the options file has "a team and a mentor" if you want the two to match.
+
+To take it out, ask for "revert mentorship". That is a release that puts section 7 back as it was, called Guidance, with the checks, the blind spots paragraph and the long story. The text as it was before this release is 4.45.3, commit 08a4ccb.
+
+## Mentorship, one sentence out (4.46.1)
+
+What changed: in section 7, the sentence "That is how the road began for Genadiy in section 6: what he saw in the people he met in his teens gave him a huge wish to know what they knew." is gone (your 22:07 message). The paragraph now ends on "It is one thing to be told that something is possible and another to sit across from someone for whom it is ordinary." Nothing else in section 7 changed, and section 7 no longer mentions Genadiy.
+
+To take it out, ask for "revert genadiy line". That is a release that puts the sentence back. The text as it was before this release is 4.46.0, commit 52c3760.
+
+## Anokhin, reworded for the fold (4.46.2)
+
+What changed: in Part one, the Anokhin entry at the top of the fold "What the studies say" is written like the entries after it (your 22:12 message). When it moved into the fold in 4.45.0 it was the old paragraph word for word, so it still ended on a sentence that pointed at the next entries, "The next ones ask which kind." Now the citation sits where the other entries put theirs, "...you search for another way (Anokhin, 1973).", which is the work already in the Sources list, and the last three sentences are one that says what the work leaves out, the way the other entries close on a caveat: "The theory is about what a goal does, and it doesn't ask whether the goal is about you or about somebody else." "Anokhin never asked" became "it doesn't ask", so the sentence is about the theory and not about the man. The first three sentences and the figure under the entry are as they were. The fold's counter still says six studies and counts this entry.
+
+To take it out, ask for "revert anokhin wording". That is a release that puts the old ending back, without the citation. The text as it was before this release is 4.46.1, commit 9f2ccba.
+
 ## Where Part three leans on Part two
 
 Each pointer is one clause, and none restates the step it points at. Names, not step numbers: Part two gained a step in 4.32.0 and its steps 3 to 7 became 4 to 8, which moved nothing here.
@@ -214,11 +416,11 @@ Words borrowed: the turn, the compass, the mirror, the fingers, the mill and the
 
 Cut: the course paragraph ("Something carries over" now carries the long course, "Karma, or the fingers" the new costume, "The turn" the flatness, and "graduate" is not Part two's word; one of your earlier readers heard it as the school talking); "Change my inner state, and the relationship changes"; "It also doesn't mean telling other people their problems are your mirror"; the fun-way and nerd sentence in section 12; "with this breath".
 
-Taken back after the checks, because readers had trusted them or you had picked them: "you have no need of a method"; "None of this means doing whatever you're told"; "Turn up the energy before you have a direction and you get a louder version of the wrong thing"; the examples in section 10 (a colleague's tone, a partner's silence, a stranger in traffic); "This essay is here to convey ideas, and it isn't a manual"; "I took the picture one step further". Also taken back: a rank for the teacher ("the player at level forty"), a Part two pointer on the clamps sentence in section 8, and the sandbox clause in section 3. Part one's "driven room" (your 15 October edit) is left as you wrote it.
+Taken back after the checks, because readers had trusted them or you had picked them: "you have no need of a method"; "None of this means doing whatever you're told" (gone again in 4.46.0, with the rest of the old section 7); "Turn up the energy before you have a direction and you get a louder version of the wrong thing"; the examples in section 10 (a colleague's tone, a partner's silence, a stranger in traffic); "This essay is here to convey ideas, and it isn't a manual"; "I took the picture one step further". Also taken back: a rank for the teacher ("the player at level forty"), a Part two pointer on the clamps sentence in section 8, and the sandbox clause in section 3. Part one's "driven room" (your 15 October edit) is left as you wrote it.
 
 ## Kept on purpose
 
-Eight of the ten sections that were there, in their order (the ladder went in 4.38.0 and the space port moved in 4.39.0); the decision joins them at the front and discipline after attention. The four groups of reasons in section 2. The stillness instruction and the three small choices. Your three stories. The teacher's facts, apart from the one sentence in section 7 you chose to soften. The closing checks, with the compass question added. The contact form, which moved to the Next page in 4.37.0. Part three says nothing about whether the return is compulsory, so it does not depend on the line Part two's free will paragraph gained in 4.33.1.
+Eight of the ten sections that were there, in their order (the ladder went in 4.38.0 and the space port moved in 4.39.0); the decision joins them at the front and discipline after attention. The four groups of reasons in section 2. The stillness instruction and the three small choices. Your stories, apart from the long feedback story in section 7, which is two sentences in Mentorship since 4.46.0. The teacher's facts, apart from the paragraph on who checks the teacher, which went out of section 7 in 4.46.0. The closing checks, with the compass question added. The contact form, which moved to the Next page in 4.37.0. Part three says nothing about whether the return is compulsory, so it does not depend on the line Part two's free will paragraph gained in 4.33.1.
 
 ## Found in Part two while checking
 
