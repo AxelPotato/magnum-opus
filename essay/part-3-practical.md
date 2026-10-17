@@ -173,7 +173,7 @@ In this method discipline grows from the outside in. A fixed time for the sit an
 
 Keep it light, and keep it yours: a demand you make on yourself, in a friendly tone. Gritting your teeth through a sit adds tension, which is the thing the sit is there to remove, so keep the frame small enough to hold without a fight. Five minutes every day is a frame you can keep, and a frame you keep teaches your mind that you can trust your own word. When a day slips, pick it up the next day without a speech about it.
 
-Other people make all of this easier. A pair who notices a missed day and a team that meets at a set time carry some of it for you, and that is part of why this method is built around a pair and a team.
+Other people make all of this easier. A pair who notices a missed day and a team that meets at a set time carry some of it for you.
 
 ## 10. Mirror work and ego work
 

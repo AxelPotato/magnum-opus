@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.12 (2026-10-17)
+
+- Part three, section 9: the last sentence ends at "...carry some of it for you." (your run-7 pick 7.7). The clause "and that is part of why this method is built around a pair and a team" is cut. The text without this release is 4.41.11. Notes for Alex updated
+
+
 ## 4.41.11 (2026-10-17)
 
 - Part three, section 9: "some mornings the ego complains, and you go anyway" becomes "some mornings you'd rather stay in bed, and you go anyway" (your run-7 pick 7.6). The text without this release is 4.41.10. Notes for Alex updated
