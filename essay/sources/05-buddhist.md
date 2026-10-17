@@ -584,7 +584,7 @@ If someone pushes back:
 
 Kind: text. Status: checked (read on 2026-10-17 in four English translations; the texts used in the pushbacks were read the same day).
 
-Who: A very short discourse. Ananda tells the Buddha that good friendship is half of the holy life, and the Buddha corrects him: it is the whole of it. Later tradition makes Ananda the Buddha's cousin and attendant (Dictionary of Pali Proper Names); the sutta says neither. The essay calls him the attendant since 4.41.14.
+Who: A very short discourse. Ananda tells the Buddha that good friendship is half of the holy life, and the Buddha corrects him: it is the whole of it. The sutta calls him only 'Venerable Ananda'. That he was the Buddha's attendant is said elsewhere in the canon: in AN 1.223 the Buddha names Ananda the foremost of his monk disciples 'as a personal attendant' (Sujato's translation; the Pali is upatthakanam yadidam anando; read on SuttaCentral on 2026-10-17). That he was also the Buddha's cousin comes from the commentaries (Dictionary of Pali Proper Names), and the essay does not say it. The essay calls him the attendant since 4.41.14.
 
 In the essay (v4.33.2; section 4 until v4.35.0): Part three, section 5, 'The team', end of the paragraph on feeding the wish: Ananda, the Buddha's attendant, said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it. Only that exchange is used, not the two reasons that follow. Sources list (Part three): Samyutta Nikaya 45.2, the Upaddha Sutta (Sujato's translation, SuttaCentral).
 
@@ -598,6 +598,7 @@ Read it free:
 - Access to Insight, Thanissaro: https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.002.than.html (read on 2026-10-17)
 - Woodward, with his notes: https://buddhadust.net/dhamma-vinaya/pts/sn/05_mv/sn05.45.002.wood.pts.htm (read on 2026-10-17)
 - SN 3.18, the retelling to the king: https://suttacentral.net/sn3.18/en/sujato (read on 2026-10-17)
+- SuttaCentral, Sujato, AN 1.219 to 234 (the foremost monks), for Ananda as the Buddha's attendant at AN 1.223: https://suttacentral.net/an1.219-234/en/sujato (read on 2026-10-17)
 - AN 8.54, to a layman: https://suttacentral.net/an8.54/en/sujato (read on 2026-10-17)
 - Sutta Nipata 1.3, the horned rhino: https://suttacentral.net/snp1.3/en/sujato (read on 2026-10-17)
 - Dhammapada 61: https://suttacentral.net/dhp60-75/en/sujato (read on 2026-10-17)
