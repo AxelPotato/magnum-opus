@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.43.2 (2026-10-17)
+
+- Part two, step 2: "NPCs don't level up. Players do." is cut, and "a person is an NPC" becomes "a person is like an NPC" (your run-7 pick 9.7, option b). The game picture stays. The text without this release is 4.43.1. Notes for Alex updated
+
+
 ## 4.43.1 (2026-10-17)
 
 - Part two, "One more idea": the sentence "Some physicists think our universe is one of many, and if so even the farthest point of this picture has something after it." is cut (your run-7 pick 9.6). Its reading pack entry stays as private context. The text without this release is 4.43.0. Notes for Alex updated
