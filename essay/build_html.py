@@ -708,6 +708,52 @@ PART0_FOOT = 'A draft.'
 PART3_FOOT = 'A draft.'
 NEXT_FOOT = 'A draft.'
 
+# The part's contents list: a left sidebar on wide screens, a hamburger drawer on narrow ones.
+# Everything is scoped to body.has-toc, which only the standalone pages get (not the fragment).
+TOC_CSS = r"""
+.toc-btn,.toc-scrim,.toc-h{display:none}
+body.has-toc .toc-h{display:block;font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;margin:0 0 .6rem .6rem}
+body.has-toc .toc{position:fixed;left:0;top:0;bottom:0;width:min(20rem,86vw);box-sizing:border-box;margin:0;padding:2rem 1rem 2rem 1.25rem;overflow-y:auto;overscroll-behavior:contain;border:0;border-right:1px solid var(--rule);background:var(--paper);z-index:50;display:flex;flex-direction:column;gap:.1rem;line-height:1.4;transform:translateX(-100%);visibility:hidden;transition:transform .2s ease,visibility 0s .2s}
+body.has-toc .toc a{display:block;margin:0;padding:.35rem .6rem;border-radius:6px;white-space:normal}
+body.has-toc .toc a.on{color:var(--ink);background:var(--card);box-shadow:inset 2px 0 0 var(--ink)}
+body.has-toc.toc-open .toc{transform:none;visibility:visible;transition:transform .2s ease}
+body.has-toc .toc-btn{display:flex;align-items:center;justify-content:center;position:fixed;top:.75rem;left:.75rem;z-index:40;width:2.6rem;height:2.6rem;padding:0;border:1px solid var(--rule);border-radius:8px;background:var(--card);color:var(--ink);cursor:pointer}
+body.has-toc .toc-btn:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+body.has-toc.toc-open .toc-scrim{display:block;position:fixed;inset:0;z-index:45;background:rgba(0,0,0,.4)}
+body.has-toc .hero{padding-top:4.5rem}
+@media (min-width:72rem){
+  body.has-toc{padding-left:16rem}
+  body.has-toc .toc{width:16rem;transform:none;visibility:visible;transition:none}
+  body.has-toc .toc-btn,body.has-toc.toc-open .toc-scrim{display:none}
+  body.has-toc .hero{padding-top:clamp(2.5rem,7vw,5rem)}
+  body.has-toc .fig{width:min(54rem,calc(100vw - 20rem))}
+}
+"""
+
+TOC_JS = r"""
+(function () {
+  var b = document.body, btn = document.querySelector('.toc-btn'), nav = document.getElementById('toc');
+  if (!btn || !nav) return;
+  function set(o) { b.classList.toggle('toc-open', o); btn.setAttribute('aria-expanded', o ? 'true' : 'false'); }
+  btn.addEventListener('click', function () { set(!b.classList.contains('toc-open')); });
+  document.querySelector('.toc-scrim').addEventListener('click', function () { set(false); });
+  nav.addEventListener('click', function (e) { if (e.target.closest('a')) set(false); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') set(false); });
+  var links = [].slice.call(nav.querySelectorAll('a')), last = -2;
+  var heads = links.map(function (a) { return document.getElementById(a.getAttribute('href').slice(1)); });
+  function spy() {
+    var y = window.innerHeight * 0.25, cur = -1;
+    heads.forEach(function (h, i) { if (h && h.getBoundingClientRect().top <= y) cur = i; });
+    if (cur === last) return;
+    last = cur;
+    links.forEach(function (a, i) { a.classList.toggle('on', i === cur); if (i === cur) a.setAttribute('aria-current', 'true'); else a.removeAttribute('aria-current'); });
+    if (cur >= 0) { var a = links[cur]; if (a.offsetTop < nav.scrollTop + 40 || a.offsetTop + a.offsetHeight > nav.scrollTop + nav.clientHeight - 40) nav.scrollTop = a.offsetTop - 80; }
+  }
+  window.addEventListener('scroll', spy, { passive: true });
+  spy();
+})();
+"""
+
 PARTS = {
     0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: rules0(), cast=False, css_extra=PART0_CSS, foot=PART0_FOOT),
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=True, css_extra='', foot=PART1_FOOT),
@@ -726,18 +772,25 @@ def page(part, fragment=False):
     ver = cfg.get('fixed_ver') or open(os.path.join(HERE, '..', 'VERSION'), encoding='utf-8').read().strip()
     body, toc = convert(md, cfg['rules']())
     toc_html = ' '.join(f'<a href="#{s}">{smart(t)}</a>' for s, t in toc)
-    main = ('<main><div class="col">' + (f'<nav class="toc" aria-label="In this part">{toc_html}</nav>' if toc else '') + (cast_html() if cfg['cast'] else '')
+    toc_id = '' if fragment else ' id="toc"'
+    main = ('<main><div class="col">' + (f'<nav class="toc"{toc_id} aria-label="In this part"><span class="toc-h">In this part</span>{toc_html}</nav>' if toc else '') + (cast_html() if cfg['cast'] else '')
             + '\n'.join(body) + '</div>'
             f'<footer>Version {ver}. Built from {cfg["md"]}. ' + cfg['foot'] + '</footer></main>')
     head = (f'<title>{cfg["title"]}</title>'
             f'<meta name="viewport" content="width=device-width,initial-scale=1">'
             f'<meta name="version" content="{ver}">'
             f'<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
-            f'<link rel="stylesheet" href="{FONTS}"><style>{CSS}{cfg["css_extra"]}</style>'
+            f'<link rel="stylesheet" href="{FONTS}"><style>{CSS}{TOC_CSS}{cfg["css_extra"]}</style>'
             f'<script>{UTM_JS}</script>')
     if fragment:
         return head + hero_html(part) + main
-    return ('<!doctype html><html lang="en"><head><meta charset="utf-8">' + head + '</head><body>' + hero_html(part) + main + '</body></html>')
+    if not toc:
+        return ('<!doctype html><html lang="en"><head><meta charset="utf-8">' + head + '</head><body>' + hero_html(part) + main + '</body></html>')
+    btn = ('<button class="toc-btn" type="button" aria-label="Contents" aria-expanded="false" aria-controls="toc">'
+           '<svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><path d="M3 5h14M3 10h14M3 15h14" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg></button>'
+           '<div class="toc-scrim"></div>')
+    return ('<!doctype html><html lang="en"><head><meta charset="utf-8">' + head + '</head><body class="has-toc">' + btn + hero_html(part) + main
+            + f'<script>{TOC_JS}</script></body></html>')
 
 
 if __name__ == '__main__':
