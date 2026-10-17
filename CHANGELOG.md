@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.40.2 (2026-10-17)
+
+- The Next page says the place is built around the people (your 20:33 message). The sentence "The people would matter more than the building, and nobody would become material for it." is replaced by "The place would be built around the people who live there." The sentence after it, that they come because it is what they want to do with their life, stays as it was. The text without this release is 4.40.1. Notes for Alex updated
+
+
 ## 4.40.1 (2026-10-17)
 
 - The Next page says what the people would make together (your 20:33 message). The second paragraph has one more sentence, right after the one about giving back to the world: "A big part of the dream is working together to create new technologies, culture and projects, and new ways to make our world a better place." The list is yours, in your order. Nothing else changed. The text without this release is 4.40.0. Notes for Alex updated
