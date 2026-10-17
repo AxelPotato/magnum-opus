@@ -230,7 +230,7 @@ Kind: concept. Status: partly checked.
 
 Who: Shankara (traditionally 8th century CE) is the most authoritative thinker of Advaita ('non-dual') Vedanta. He wrote commentaries on the Upanishads, the Gita and the Brahma Sutras. Maya and avidya are the two words the essay borrows from his school to say why one whole looks like many.
 
-In the essay: Part two, 'Why separation feels so real': 'Advaita Vedanta calls it maya, and scholars of Advaita warn that illusion translates the word badly, since it means something dependent, neither fully real nor simply unreal. It calls the ignorance that keeps it going avidya, a word Buddhism uses too.'
+In the essay (v4.32.0): Part two, step 7, 'Energy', second item of 'God, asking, and grace': in Advaita, Brahman is beyond every quality, and the same Brahman, seen from inside the world of forms, is Ishvara, the Lord who creates and is worshipped (Sources list: 'Shankara on Brahman and Ishvara'). That is the standard account of Shankara: nirguna Brahman (without qualities) and saguna Brahman, also called Ishvara, which is Brahman as it appears through maya, the creator and the object of worship for those still inside the world of names and forms (Stanford Encyclopedia, Sankara, link below; primary places: Shankara's commentary on the Brahma Sutras 1.1.11 and 2.1.14, from memory, so check). Earlier use, in 'Why separation feels so real': 'Advaita Vedanta calls it maya, and scholars of Advaita warn that illusion translates the word badly, since it means something dependent, neither fully real nor simply unreal. It calls the ignorance that keeps it going avidya, a word Buddhism uses too.'
 
 Where it sits: Concepts, not a verse. For primary reading: the opening 'superimposition' (adhyasa) section of Shankara's commentary on the Brahma Sutras (Thibaut, Sacred Books of the East vol. 34, near the start) and his Upadeshasahasri (Mayeda's translation).
 
@@ -441,7 +441,7 @@ Kind: text. Status: checked (Johnston's 1912 translation read on Project Gutenbe
 
 Who: The classical text of the yoga school. Book III, the Vibhuti Pada, describes the powers that come from concentration.
 
-In the essay: Part two, step 7: reading the thoughts of others (3.19), rising above water, mire and thorns (3.39), and the warning that these powers stand against the highest spiritual vision (3.37).
+In the essay: Part two, step 8, 'Miracles, the levels of knowledge': reading the thoughts of others (3.19), rising above water, mire and thorns (3.39), and the warning that these powers stand against the highest spiritual vision (3.37).
 
 Where it sits: Johnston's numbering, which differs by one or two from some editions (in many editions the obstacles sutra is 3.38 and the upward-breath sutra 3.40).
 
@@ -469,3 +469,29 @@ Read it free:
 - Project Gutenberg, The Song Celestial (Arnold): https://www.gutenberg.org/ebooks/2388 (read on 2026-10-16)
 
 Background: The verse comes right at the end of the teaching. Commentators note that Krishna, having given his whole instruction, leaves the decision to Arjuna, and only after that gives his final, most personal counsel (18:64-66).
+
+## Katha Upanishad 1.2.18 (Nachiketa and Death: the self is not born and does not die) and Bhagavad Gita 2.20 (the Katha is usually placed in the last centuries BCE, after the early prose Upanishads; the Gita roughly the last centuries BCE to the early centuries CE; both with wide uncertainty)
+
+Kind: text. Status: partly checked (the Sanskrit and two English renderings seen in search results on 2026-10-17; Müller's and Olivelle's wording not opened).
+
+Who: The Katha Upanishad belongs to the Black Yajurveda. Its frame story: the boy Nachiketa is given by his angry father to Death (Yama), waits three days at Death's house and is granted three wishes. The third is to know what happens to a person after death. Death tries to buy him off with long life, wealth and pleasures, and Nachiketa refuses them.
+
+In the essay (v4.32.0): Part two, step 5, 'Something carries over', second item of the fold 'Practice for dying': Nachiketa asks Death himself what happens after a person dies; the answer is that the self is not born and does not die, and is not slain when the body is slain (1.2.18); the Bhagavad Gita repeats the verse almost word for word (2.20).
+
+Where it sits: The question is 1.1.20 (the third wish). The verse is 1.2.18 in the two-chapter numbering (also given as 2.18, chapter 1, valli 2). Gita 2.20 is in Krishna's first teaching to Arjuna, between 2.13 and 2.22 (see the entry for those verses).
+
+The passage: Sanskrit of Katha 1.2.18: na jayate mriyate va vipascin nayam kutascin na babhuva kascit, ajo nityah sasvato 'yam purano na hanyate hanyamane sarire. Paraphrase: the knowing self is not born and does not die; it did not come from anything, and nothing came from it; unborn, eternal, everlasting and ancient, it is not slain when the body is slain. Gita 2.20 opens with the same words (na jayate mriyate va) and has the whole second line almost exactly. Müller's 1884 translation (Sacred Books of the East 15) is in the public domain.
+
+Read it free:
+- Shlokam, Kathopanishad part 1, canto 2, verse 18 (Sanskrit, translation and notes after Shankara): https://shlokam.org/?p=109069 (seen in a search result)
+- Shlokam, Bhagavad Gita 2.20: https://shlokam.org/gita/gita-2-20.htm (seen in a search result)
+- Hinduwebsite, Katha Upanishad, Müller's translation with commentary: https://hinduwebsite.com/sacredscripts/hinduism/upanishads/katha.asp (seen in a search result)
+- Sacred Texts, Sacred Books of the East vol. 15 (Müller), index: https://sacred-texts.com/hin/sbe15/index.htm (not checked)
+
+Read it in a book: Patrick Olivelle, Upanisads (Oxford World's Classics, 1996), or his The Early Upanisads (Oxford, 1998) with the Sanskrit. Eknath Easwaran, The Upanishads (Nilgiri Press, 2nd edition 2007), readable. For the Gita: Laurie Patton (Penguin Classics, 2008) or Winthrop Sargeant (SUNY, word by word).
+
+Background: The Katha is the first text to put Death on stage as a teacher, and its answer is the atman teaching: what dies is the body, and the self that knows is untouched. The Gita takes the verse into a battlefield, where Krishna uses it to tell Arjuna not to grieve for those who will die. Scholars usually think the Gita borrows from the Katha, since several Katha verses reappear in it (from memory). Advaita reads the self here as Brahman, and the theistic schools as the individual soul, eternal and distinct from God. Either reading supports the essay's use, which is only that the self is not born and does not die.
+
+If someone pushes back:
+- 'The Gita uses it to justify fighting.' In its setting, yes. The essay cites the claim about the self, not the argument for the battle.
+- 'Is this about reincarnation?' The Gita's next lines (2.22, the worn clothes) are. This verse says only that the self is not slain, which fits both rebirth and liberation.

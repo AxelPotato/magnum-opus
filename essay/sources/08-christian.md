@@ -109,7 +109,7 @@ Kind: text. Status: partly checked.
 
 Who: Paul writing to the church at Philippi, probably from prison. Philippians 2:6-11 is often called the Christ hymn, and many scholars think Paul is quoting an earlier hymn.
 
-In the essay: Step 6, 'Letting go, and repair': Paul uses kenosis in Philippians 2:5-8, where Jesus, though in the form of God, did not hold on to that status and emptied himself, and Paul offers this as the attitude his readers should share. Sources list: Philippians 2:5-8.
+In the essay: Step 7, 'Energy', second item of 'Empty, and let it through': Paul uses kenosis in Philippians 2:5-8, where Jesus, though in the form of God, did not hold on to that status and emptied himself, and Paul offers this as the attitude his readers should share. Sources list: Philippians 2:5-8.
 
 Where it sits: Philippians 2:5-8 (the verb ekenosen is in 2:7; the hymn runs 2:6-11)
 
@@ -489,7 +489,7 @@ Kind: text. Status: checked.
 
 Who: A poem inside the Syriac Acts of Thomas, an apocryphal account of the apostle Thomas' mission to India. Many read it as a Gnostic myth of the soul; others see a general Platonic descent-and-return story. Attribution to Bardaisan is a plausible but much contested hypothesis.
 
-In the essay: Why separation feels so real: 'the Hymn of the Pearl, a poem inside the Syriac Acts of Thomas that many read as a Gnostic myth of the soul ... a prince is sent to Egypt to fetch a pearl, forgets his origin, falls asleep, and is woken by a letter from home.' Table, row 'The veil' (Christianity).
+In the essay (v4.32.0): Part two, step 4, 'The turn', last item of 'Leaving home, and coming to yourself': 'an early Christian poem in the Acts of Thomas'; a prince is sent to Egypt to bring back a pearl, forgets who he is and falls asleep, and wakes when a letter from home reminds him. The summary matches the poem. The Acts of Thomas is apocryphal and Gnostic-leaning, so 'a poem in the apocryphal Acts of Thomas' would be the exact label (the earlier checklist suggested the same). Earlier use, in 'Why separation feels so real': 'the Hymn of the Pearl, a poem inside the Syriac Acts of Thomas that many read as a Gnostic myth of the soul ... a prince is sent to Egypt to fetch a pearl, forgets his origin, falls asleep, and is woken by a letter from home.' Table, row 'The veil' (Christianity).
 
 Where it sits: Acts of Thomas, chapters 108-113 (the Hymn of the Pearl); the Syriac and the Greek versions differ
 
@@ -666,7 +666,7 @@ Kind: text. Status: unchecked.
 
 Who: The Sermon on the Mount (Matthew 5 to 7) is the longest teaching of Jesus in Matthew's gospel. The verses on reconciliation sit in the section on anger, where Jesus extends the commandment against murder to the inner state.
 
-In the essay: In step 6, 'Letting go, and repair': in the Sermon on the Mount, Jesus says that if you remember at the altar that your brother has something against you, you should leave your gift there and first go and be reconciled.
+In the essay: In step 6, 'Karma, or the fingers' (since v4.28.0; before that in 'Letting go, and repair'): in the Sermon on the Mount, Jesus says that if you remember at the altar that your brother has something against you, you should leave your gift there and first go and be reconciled.
 
 Where it sits: Matthew 5:23-24.
 
@@ -688,7 +688,7 @@ Kind: text. Status: checked (Pusey's translation read in the Project Gutenberg t
 
 Who: Augustine, bishop of Hippo in North Africa, the most influential Latin Church Father. The Confessions tell his life up to his conversion as one long prayer addressed to God.
 
-In the essay: Part two, step 3, 'The turn', third item of 'Restless until it rests': Augustine opens his Confessions by telling God that he made us for himself, and that our heart is restless until it rests in him (1.1). Paraphrase in modern wording, without quotation marks.
+In the essay: Part two, step 4, 'The turn', third item of 'Restless until it rests': Augustine opens his Confessions by telling God that he made us for himself, and that our heart is restless until it rests in him (1.1). Paraphrase in modern wording, without quotation marks.
 
 Where it sits: Book I, chapter 1, the opening paragraph. Latin: fecisti nos ad te, et inquietum est cor nostrum donec requiescat in te.
 
@@ -710,7 +710,7 @@ If someone pushes back:
 
 Kind: text. Status: checked (ESV read on Bible Gateway, 2026-10-16).
 
-In the essay: Part two, step 7: Jesus walks on the sea and Peter walks on the water for a moment; when the scribes and Pharisees ask for a sign, he answers that an evil and adulterous generation seeks for a sign.
+In the essay: Part two, step 8, 'Miracles, the levels of knowledge': Jesus walks on the sea and Peter walks on the water for a moment; when the scribes and Pharisees ask for a sign, he answers that an evil and adulterous generation seeks for a sign.
 
 The passage (ESV): 'And in the fourth watch of the night he came to them, walking on the sea.' ... 'So Peter got out of the boat and walked on the water and came to Jesus.' (14:25-29) 'An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah.' (12:39)
 
@@ -723,7 +723,7 @@ Background: The gospels tell of many signs and also show Jesus refusing to perfo
 
 Kind: text. Status: checked (David Lewis's translation read on Project Gutenberg, 2026-10-16).
 
-In the essay: Part two, step 7: Teresa, who was seen lifted off the ground, begged God to stop giving her favors that other people could see; in the fold, that she ordered her nuns never to speak of it.
+In the essay: Part two, step 8, 'Miracles, the levels of knowledge': Teresa, who was seen lifted off the ground, begged God to stop giving her favors that other people could see; in the fold, that she ordered her nuns never to speak of it.
 
 The passage (Lewis, public domain): '...and now and then the whole body as well, so that it was lifted up from the ground.' 'I commanded the nuns ... never to speak of it.' 'I made many supplications to our Lord, that He would be pleased to give me no more of those graces which were outwardly visible.'
 
@@ -731,3 +731,139 @@ Read it free:
 - Project Gutenberg, The Life of St. Teresa of Jesus (Lewis): https://www.gutenberg.org/ebooks/8120 (read on 2026-10-16)
 
 Background: Teresa distinguishes union from rapture in this chapter and treats the bodily effects as the least important part. Her embarrassment and her request are the clearest Christian statement of the essay's warning: the outward signs are side effects and a distraction.
+
+## Augustine, Enchiridion, chapter 11 (evil as the absence of good) (Augustine 354 to 430; the Enchiridion on faith, hope and love was written about 421)
+
+Kind: text. Status: checked (New Advent text read on 2026-10-17; the translation there is J. F. Shaw's, from the Nicene and Post-Nicene Fathers, though the page does not name him).
+
+Who: Augustine of Hippo (see the Confessions entry). The Enchiridion is a short handbook he wrote late in life for a layman, Laurentius, who had asked for a summary of the faith.
+
+In the essay (v4.32.0): Part two, step 3, 'The wall, felt from inside'. Main text: Augustine, 'who thought about this question as hard as anyone, said that what we call evil is the absence of good and has no substance of its own', followed by the essay's own picture of a shadow. Third item of 'Two arrows, and the absence of good': he asks what we call evil if not the absence of good, and compares it to a disease or a wound in the body, which is the absence of health and does not exist on its own (chapter 11).
+
+Where it sits: Enchiridion, chapter 11. The same teaching is in Confessions VII.12 to 13 and City of God XI.9 and XI.22.
+
+The passage (Shaw, public domain): 'For what is that which we call evil but the absence of good?' Paraphrase of the rest: in the bodies of animals, disease and wounds are nothing but the absence of health; when a cure comes, the evil does not go somewhere else, it ceases to exist, because a wound or disease is not a substance but a defect in the flesh, which is itself good. Vices in the soul are likewise privations of a natural good.
+
+Read it free:
+- New Advent, The Enchiridion: https://www.newadvent.org/fathers/1302.htm (read on 2026-10-17)
+- Christian Classics Ethereal Library, Nicene and Post-Nicene Fathers, series 1, vol. 3: https://ccel.org/ccel/schaff/npnf103 (not checked)
+
+Read it in a book: Augustine, The Enchiridion on Faith, Hope and Love, translated by Bruce Harbert (New City Press, 1999). G. R. Evans, Augustine on Evil (Cambridge, 1982).
+
+Background: The teaching is called the privation theory of evil (privatio boni). Augustine came to it through the Neoplatonists after his years with the Manichees, who taught that evil is a substance and a power in its own right. In the same chapter he adds that God, being good and all-powerful, would not allow evil in his works unless he could bring good even out of evil. Thomas Aquinas kept the teaching (Summa Theologiae I, question 48). The shadow is the essay's own image; Augustine's are disease and wounds. The main text's 'has no substance of its own' is a fair paraphrase of 'not a substance but a defect'.
+
+If someone pushes back:
+- 'Tell a victim that evil has no substance.' Augustine does not say the harm is unreal. He says evil is a lack in something good, the way a wound is real damage to a real body. The essay adds that none of this makes cruelty fine.
+
+## Irenaeus, Against Heresies IV.38 and IV.39 (made as infants, to grow; knowing good by tasting its opposite) (Irenaeus of Lyon, about 130 to about 202; Against Heresies written about 180)
+
+Kind: text. Status: checked (Roberts and Rambaut's translation, Ante-Nicene Fathers vol. 1, read on New Advent, 2026-10-17).
+
+Who: Irenaeus grew up in Smyrna in Asia Minor, where he heard Polycarp, and became bishop of Lugdunum (Lyon) in Gaul. Against Heresies is a five-book reply to the Gnostic teachers of his day.
+
+In the essay (v4.32.0): Part two, step 3, 'The wall, felt from inside', fourth item of 'Two arrows, and the absence of good': people were made unfinished so that they could grow, and they come to know the worth of good by having tasted its opposite. The essay's locator is IV.38 to 39 (the growing in chapter 38, the tasting in 39.1).
+
+Where it sits: Book IV, chapter 38: man was created as an infant, unable at first to receive perfection, 'making progress day by day, and ascending towards the perfect' (38.3). Chapter 39, section 1: the knowledge of good and evil learned through experience of both.
+
+The passage (Roberts and Rambaut, public domain): 'man could not receive this [perfection], being as yet an infant' (IV.38.1); 'we have not been made gods from the beginning, but at first merely men, then at length gods' (IV.38.4); man 'has also had a twofold experience, possessing knowledge of both kinds', 'just as the tongue receives experience of sweet and bitter by means of tasting' (IV.39.1).
+
+Read it free:
+- New Advent, Against Heresies IV.38: https://www.newadvent.org/fathers/0103438.htm (read on 2026-10-17)
+- New Advent, Against Heresies IV.39: https://www.newadvent.org/fathers/0103439.htm (read on 2026-10-17)
+
+Read it in a book: Robert M. Grant, Irenaeus of Lyons (Routledge, The Early Church Fathers, 1997), selections with introduction. John Hick, Evil and the God of Love (Macmillan, 1966; Palgrave reissue 2010).
+
+Background: John Hick named this line of thought the 'Irenaean' theodicy and set it against the Augustinian one. In Augustine's picture humanity was made complete and fell; in the Irenaean picture humanity was made immature and grows toward the likeness of God through a world that includes hardship ('soul-making', a phrase Hick took from Keats). Specialists note that Irenaeus also taught a fall, and that Hick's contrast is a modern reconstruction built on these chapters. Eastern Orthodox theology stays closer to Irenaeus on this point.
+
+If someone pushes back:
+- 'Irenaeus still teaches a fall.' He does. The essay cites only the growth and the tasting, which are in his text.
+
+## 1 John 4:16 ('God is love, and whoever abides in love abides in God') (the first letter of John, usually dated about AD 90 to 110)
+
+Kind: text. Status: checked (ESV read on Bible Gateway, 2026-10-17).
+
+Who: A short New Testament letter traditionally attributed to John the apostle. Most scholars attribute it to a teacher in the community around the Gospel of John and not to the apostle himself.
+
+In the essay (v4.32.0): Part two, step 3, 'The wall, felt from inside', second item of 'Halves, and a ladder': God is love, and whoever abides in love abides in God, and God abides in him (4:16).
+
+Where it sits: 1 John 4:7-21, the passage on love. 'God is love' is said twice, at 4:8 and 4:16.
+
+The passage (ESV): 'So we have come to know and to believe the love that God has for us. God is love, and whoever abides in love abides in God, and God abides in him.'
+
+Read it free:
+- Bible Gateway, 1 John 4 (ESV): https://www.biblegateway.com/passage/?search=1+John+4&version=ESV (read on 2026-10-17)
+
+Read it in a book: Raymond E. Brown, The Epistles of John (Anchor Bible, Doubleday, 1982), the standard commentary.
+
+Background: The verse is about mutual indwelling. Its verb (Greek meno, abide or remain) is the same as in John 15 ('abide in me, and I in you'). In context the letter ties love of God to love of the brother one can see (4:20). Of all New Testament lines it comes closest to the essay's step 3: whoever is in love is in God.
+
+If someone pushes back:
+- 'It is about love among believers.' In context it starts there, and 4:20 widens it to the brother one can see. The essay quotes the verse as written.
+
+## Luke 15:11-32, the prodigal son ('he came to himself') (the Gospel of Luke, usually dated about AD 80 to 90)
+
+Kind: text. Status: checked (ESV read on Bible Gateway, 2026-10-17).
+
+Who: A parable told by Jesus, found only in Luke, the third of three parables about what was lost (the sheep, the coin and the son).
+
+In the essay (v4.32.0): Part two, step 4, 'The turn', fourth item of 'Leaving home, and coming to yourself': the younger son takes his share, leaves for a far country and spends everything; when a famine comes and he is feeding pigs, he came to himself (15:17); while he is still a long way off his father sees him and runs to him (15:20). 'That is the turn, almost word for word.'
+
+Where it sits: Luke 15:11-32. The turn is 15:17, the father running 15:20, the elder brother 15:25-32.
+
+The passage (ESV): 'But when he came to himself, he said, "How many of my father's hired servants have more than enough bread, but I perish here with hunger!"' (15:17). 'But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him.' (15:20)
+
+Read it free:
+- Bible Gateway, Luke 15 (ESV): https://www.biblegateway.com/passage/?search=Luke+15&version=ESV (read on 2026-10-17)
+
+Read it in a book: Kenneth E. Bailey, The Cross and the Prodigal (InterVarsity Press, 2nd edition 2005), on the Middle Eastern setting. Henri Nouwen, The Return of the Prodigal Son (Doubleday, 1992), a reading through Rembrandt's painting.
+
+Background: 'Came to himself' translates the Greek eis heauton de elthon, literally 'coming into himself'. Bailey points out that an older man running in public was undignified in that culture, which gives 15:20 its force. The parable ends with the elder brother, who stayed home and resents the welcome; the essay leaves him out.
+
+If someone pushes back:
+- 'The parable is about repentance and forgiveness.' It is about a son who leaves, hits bottom, comes to himself and is met before he arrives. The essay reads that as the turn and says so.
+
+## 1 Corinthians 15:22 ('as in Adam all die') and 15:55 ('O death, where is your sting?'), and original sin (1 Corinthians written about AD 53-55; original sin as a doctrine formed mainly by Augustine, about 400 to 430)
+
+Kind: text. Status: checked for the verses (ESV on Bible Gateway, 2026-10-17); the account of the doctrine is from memory.
+
+Who: Paul's long chapter on the resurrection of the dead, written to a church where some said there is no resurrection. Original sin is the Christian teaching that the fall of Adam affects all his descendants.
+
+In the essay (v4.32.0): Part two, step 4, 'The turn', fifth item of 'Leaving home, and coming to yourself': Christian teaching, shaped above all by Augustine, calls the state humanity inherited from the fall original sin, and Paul puts the whole arc in one line: as in Adam all die, so also in Christ shall all be made alive (15:22). Step 5, 'Something carries over', third item of 'Practice for dying': O death, where is your victory? O death, where is your sting? (15:55). See also the entry for 1 Corinthians 15:28, in the same chapter.
+
+Where it sits: 1 Corinthians 15:21-22 (Adam and Christ) and 15:51-57 (the change at the resurrection; 15:55 adapts Hosea 13:14). Original sin: Romans 5:12-21; Augustine's writings against Pelagius, for example On the Merits and Forgiveness of Sins (411-412); the Council of Carthage (418); the Council of Trent, fifth session (1546); Catechism of the Catholic Church 396-409.
+
+The passage (ESV): 'For as in Adam all die, so also in Christ shall all be made alive.' (15:22) 'O death, where is your victory? O death, where is your sting?' (15:55)
+
+Read it free:
+- Bible Gateway, 1 Corinthians 15 (ESV): https://www.biblegateway.com/passage/?search=1+Corinthians+15&version=ESV (read on 2026-10-17)
+- Vatican, Catechism of the Catholic Church, the fall (396-409): https://www.vatican.va/archive/ENG0015/__P1C.HTM (not checked)
+
+Read it in a book: Anthony C. Thiselton, The First Epistle to the Corinthians (Eerdmans, 2000). Alan Jacobs, Original Sin: A Cultural History (HarperOne, 2008), readable.
+
+Background: Augustine read Romans 5:12 in a Latin version that said all sinned 'in whom' (in Adam), which shaped his view that guilt as well as death is inherited; the Greek more likely means 'because all sinned'. The Western churches, Catholic and Protestant, follow Augustine broadly. The Eastern Orthodox churches usually speak of ancestral sin: humanity inherits death and a damaged nature from Adam, not his guilt. Judaism has no doctrine of original sin. So 'Christian teaching, shaped above all by Augustine' is accurate for the Western churches; 'Western Christian teaching' would be exact for all of Christianity.
+
+If someone pushes back:
+- 'The Orthodox reject original sin.' They reject inherited guilt and keep the inherited fallen condition, as above.
+- 'Paul means bodily resurrection.' In 15:22 and 15:55, yes. The essay uses 15:22 for the arc (fall, death, life again) and 15:55 for the end of the fear of death; 15:28 in the same chapter ('God all in all') is the line it uses for the whole.
+
+## Ephesians 2:8-9 ('by grace you have been saved through faith') (Ephesians dated between about AD 60 and 90, authorship debated)
+
+Kind: text. Status: checked (ESV read on Bible Gateway, 2026-10-17).
+
+Who: A letter in Paul's name that many scholars think a follower wrote after his death; see the entry for Ephesians 4:18.
+
+In the essay (v4.32.0): Part two, step 7, 'Energy', fifth item of 'God, asking, and grace': by grace you have been saved through faith, and this is not your own doing, it is the gift of God (2:8). In the same fold the essay says, as its own reading, that grace is the river from this step arriving without being earned.
+
+Where it sits: Ephesians 2:1-10.
+
+The passage (ESV): 'For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.' (2:8-9)
+
+Read it free:
+- Bible Gateway, Ephesians 2 (ESV): https://www.biblegateway.com/passage/?search=Ephesians+2&version=ESV (read on 2026-10-17)
+
+Read it in a book: Andrew T. Lincoln, Ephesians (Word Biblical Commentary, 1990).
+
+Background: Grace (Greek charis) means a free gift or favor. These verses were at the center of the Reformation argument over grace and works; in 1999 Catholics and Lutherans signed a joint declaration on justification that narrowed the difference. Verse 10 adds that we were created 'for good works', so the letter does not say deeds don't matter, only that they don't earn the gift.
+
+If someone pushes back:
+- 'Grace is God's free favor, not energy.' The essay offers the river as its reading, and the unearned part is exactly the verse's point.

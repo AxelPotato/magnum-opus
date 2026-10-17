@@ -2,12 +2,12 @@
 
 Not part of the essay. For every person, text, study and tradition that Part two cites (and a few it only implies), an entry that lets Alex read the source himself and talk about it: who they are, the exact place the essay leans on, a free place to read it where one exists, the best book edition, and background for discussion, including what scholars add and what to say if someone pushes back.
 
-Built on 2026-10-08 by ten agents from the final essay (v2.3.0), the claim check in `essay/research/CHECKLIST.md` and the research files. 185 entries, 720 links. Two entries were added for v4.22.0 (step 2 rewritten), with links from search results. Four were added for the new step 3, 'The turn' (AN 3.39, Ecclesiastes 2, Augustine's Confessions 1.1, Rumi's reed), each read on a primary text page on 2026-10-16. In v4.24.0 step 4 was rewritten around the soul: Eduyot 2:10 and Quran 23:100 are cited again, and Alan Watts moved to a fold under the axiom ("But why would it do that?", next to the Big Bang as the materialist edge of explanation), and the entries for Ian Stevenson and Jim Tucker, Gaudapada and the Tibetan Book of the Dead are no longer cited and stay as private context for discussion. In v4.28.0 step 6 became 'Energy' (Einstein 1905 and Mencius 2A:2 added; bittul, fana, kenosis, Eckhart, MN 118 and the Sallatha Sutta stay cited there), the repair rules (Mishnah Yoma 8:9, Matthew 5:23-24, teshuvah, tawba, metanoia) moved to step 5, and the old step 7 became the unnumbered section 'One more idea: how far the road goes'. Free will was added to step 2 (Avot 3:15, Gita 18:63, Quran 18:29, Pico; Spinoza's Ethics II P35 scholium is now cited there too, as the one who disagrees).
+Built on 2026-10-08 by ten agents from the final essay (v2.3.0), the claim check in `essay/research/CHECKLIST.md` and the research files. 185 entries, 720 links. Two entries were added for v4.22.0 (step 2 rewritten), with links from search results. Four were added for the new step 3, 'The turn' (AN 3.39, Ecclesiastes 2, Augustine's Confessions 1.1, Rumi's reed), each read on a primary text page on 2026-10-16. In v4.24.0 step 4 was rewritten around the soul: Eduyot 2:10 and Quran 23:100 are cited again, and Alan Watts moved to a fold under the axiom ("But why would it do that?", next to the Big Bang as the materialist edge of explanation), and the entries for Ian Stevenson and Jim Tucker, Gaudapada and the Tibetan Book of the Dead are no longer cited and stay as private context for discussion. In v4.28.0 step 6 became 'Energy' (Einstein 1905 and Mencius 2A:2 added; bittul, fana, kenosis, Eckhart, MN 118 and the Sallatha Sutta stay cited there), the repair rules (Mishnah Yoma 8:9, Matthew 5:23-24, teshuvah, tawba, metanoia) moved to step 5, and the old step 7 became the unnumbered section 'One more idea: how far the road goes'. Free will was added to step 2 (Avot 3:15, Gita 18:63, Quran 18:29, Pico; Spinoza's Ethics II P35 scholium is now cited there too, as the one who disagrees). In v4.32.0 a new step 3, 'The wall, felt from inside' (pain, love and evil as one signal), was added and the old steps 3 to 7 became steps 4 to 8; death joined 'Something carries over' with the fold 'Practice for dying'; 'The turn' gained a fold on the fall, sin and the prodigal son, and 'Energy' a fold on God, prayer and grace; the physics in step 1 was trimmed, so Hensen et al. (2015) is no longer cited and stays as private context inside the new Bell entry. Nineteen entries were added for it on 2026-10-17 (listed below with the other entries), the Sallatha Sutta moved from 'Energy' to step 3, the 'In the essay' lines of Luria, Genesis 3, the Hymn of the Pearl, the Phaedo, Psalm 16:8 and Advaita (Ishvara) were updated, and the step numbers in the other current entries follow the new numbering.
 
 ## How reliable it is
 
-- Status per entry: checked = the locator and the use were confirmed on a page; partly checked = some of it was; unchecked = from memory and the research files only. Counts: 64 checked, 113 partly checked, 8 unchecked.
-- Links: 652 of 720 appeared in a search result or in the check list during the session ("seen in a search result"); the rest are standard addresses given from memory ("not checked"). A link that was seen in a search result existed that day. It does not prove the page contains the passage.
+- Status per entry: checked = the locator and the use were confirmed on a page; partly checked = some of it was; unchecked = from memory and the research files only. Counts (recounted 2026-10-17, 228 entries): 89 checked, 124 partly checked, 15 unchecked. The first build had 64, 113 and 8.
+- Links: 788 in all (recounted 2026-10-17). 697 appeared in a search result or in the check list ("seen in a search result"), 31 were opened and read in a later session ("read on" with the date), and the remaining 60 are standard addresses given from memory, nearly all marked "not checked". A link that was seen in a search result existed that day. It does not prove the page contains the passage.
 - "Confirmed" in the check list means found on a reliable page, usually a secondary one. No primary text was opened by the agents, so open the book or the free text before quoting anything.
 - Quotations: passages are paraphrases unless an entry says otherwise. Keep any quotation from a work still in copyright to a sentence or two, copied from the book.
 - The background sections are for discussion and include specialist objections on purpose. The essay itself does not carry them (Part two is not a proof).
@@ -38,11 +38,13 @@ Every person, text or study the essay cites should have an entry here, and every
 - Orbital speed and escape speed (7.7, 10.8 and 11.2 km/s, 41 percent) [concept, checked]
 - Escape speeds from the Sun and from the Galaxy (17 and about 500 km/s) [concept, checked]
 - Voyager 1 and the edge of the Sun's bubble [study, checked]
+- Taiichi Ohno, the five whys (Toyota Production System) [text, partly checked]
 - The Milky Way and the observable universe: 100,000 and 93 billion light-years [concept, checked]
 - Multiverse speculation [concept, partly checked]
 - Airliner reach: 'nearly any point on the globe within about a day' [concept, unchecked]
 - Cells switched off, not deleted: Gurdon, Yamanaka and the cancer cell that stops listening [study, partly checked]
 - Albert Einstein, 'Does the inertia of a body depend upon its energy content?' (1905): mass is a form of energy [text, partly checked]
+- John Bell's theorem (1964), the loophole-free tests of 2015 (Hensen et al., now private context) and the 2022 Nobel Prize [study, partly checked]
 
 ### Psychology, neuroscience and the research on survival (`02-psychology-neuroscience-and-survival-research.md`)
 
@@ -82,6 +84,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Konkordia Antarova, Two Lives: no miracles, only levels of knowledge [text, checked]
 - Friedrich Nietzsche, the Übermensch [concept, unchecked]
 - Pico della Mirandola, Oration on the Dignity of Man: no fixed seat [text, checked]
+- Plato, Symposium: Aristophanes' halves and Diotima's ladder [text, partly checked]
 
 ### Hindu sources (`04-hindu.md`)
 
@@ -103,6 +106,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Kashmir Shaivism: the five cloaks (kancukas) and recognition [tradition, partly checked]
 - Patanjali, Yoga Sutras 3.19, 3.37 and 3.39: the powers [text, checked]
 - Bhagavad Gita 18:63: 'then do as you wish' [text, checked]
+- Katha Upanishad 1.2.18 (Nachiketa and Death) and Bhagavad Gita 2.20 [text, partly checked]
 
 ### Buddhist sources (`05-buddhist.md`)
 
@@ -125,6 +129,9 @@ Every person, text or study the essay cites should have an entry here, and every
 - Nirvana, and the bodhisattva who returns to the marketplace (Ten Ox-Herding Pictures) [concept, partly checked]
 - Anguttara Nikaya 3.39, the Sukhumala Sutta (a delicate lifestyle) and the four sights [text, checked]
 - Digha Nikaya 2 and 11: the psychic powers and the Buddha's view of them [text, checked]
+- Samyutta Nikaya 56.11, the Dhammacakkappavattana Sutta (the four noble truths) [text, checked]
+- The Metta Sutta, Sutta Nipata 1.8 (as a mother protects her only child) [text, checked]
+- Devotion without a creator God: the buddhas and the Jinas [concept, unchecked]
 
 ### Jain, Sikh, Druze and Daoist sources (`06-jain-sikh-druze-daoist.md`)
 
@@ -170,6 +177,9 @@ Every person, text or study the essay cites should have an entry here, and every
 - Devekut (cleaving to God) [concept, unchecked]
 - Ecclesiastes 2:4-11 (all was vanity and a striving after wind) [text, checked]
 - Mishnah Avot 3:15: everything is foreseen, and freedom of choice is given [text, checked]
+- Job 42:5 ('now my eye sees you') [text, checked]
+- Judges 20:16 and the words for sin: chet and hamartia, 'missing the mark' [text, checked]
+- Martin Buber, I and Thou (1923): the eternal Thou [text, partly checked]
 
 ### Christian sources (`08-christian.md`)
 
@@ -202,6 +212,12 @@ Every person, text or study the essay cites should have an entry here, and every
 - Augustine, Confessions 1.1 ('our heart is restless until it rests in you') [text, checked]
 - Matthew 14:25-29 and 12:38-39 [text, checked]
 - Teresa of Avila, The Life, chapter 20 [text, checked]
+- Augustine, Enchiridion, chapter 11 (evil as the absence of good) [text, checked]
+- Irenaeus, Against Heresies IV.38 and IV.39 (made as infants, to grow) [text, checked]
+- 1 John 4:16 ('God is love') [text, checked]
+- Luke 15:11-32, the prodigal son ('he came to himself') [text, checked]
+- 1 Corinthians 15:22 and 15:55, and original sin [text, checked for the verses]
+- Ephesians 2:8-9 ('by grace you have been saved through faith') [text, checked]
 
 ### Islamic sources (`09-islamic.md`)
 
@@ -232,6 +248,10 @@ Every person, text or study the essay cites should have an entry here, and every
 - Sufism and mainstream Islam: what to attribute to whom [tradition, partly checked]
 - Rumi, the Masnavi, Book I, lines 1 to 4 (the song of the reed) [text, checked]
 - Quran 18:29: 'whoever wills, let him believe' [text, checked]
+- Ibn Arabi, Tarjuman al-Ashwaq, poem XI ('My heart has become capable of every form') [text, checked]
+- Rumi, Masnavi, Book III, 3901 to 3906 ('I died as a mineral') [text, partly checked]
+- Quran 50:16 ('nearer to him than the jugular vein') [text, partly checked]
+- Rabia of Basra's prayer, attributed in the Sufi tradition [text, partly checked]
 
 ### Context (Theosophy, the perennial philosophy) and talking points (`10-context-and-talking-points.md`)
 

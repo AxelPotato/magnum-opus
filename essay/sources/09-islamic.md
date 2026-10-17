@@ -641,7 +641,7 @@ Kind: text. Status: checked (Nicholson's translation read in the archive.org sca
 
 Who: Rumi, the Persian poet and Sufi teacher of Konya, whose followers founded the Mevlevi order. The Masnavi is his long teaching poem in six books.
 
-In the essay: Part two, step 3, 'The turn', fourth item of 'Restless until it rests': Rumi opens his Masnavi with a reed flute that cries because it was parted from the reed bed, and says that everyone who is left far from their source wishes back the time when they were united with it (Book I, 1 to 4).
+In the essay: Part two, step 4, 'The turn', fourth item of 'Restless until it rests': Rumi opens his Masnavi with a reed flute that cries because it was parted from the reed bed, and says that everyone who is left far from their source wishes back the time when they were united with it (Book I, 1 to 4).
 
 Where it sits: Masnavi I.1-4, the opening lines, often printed as the first eighteen verses, the 'Song of the Reed'.
 
@@ -671,3 +671,98 @@ Read it free:
 - Quran.com, 18:29: https://quran.com/18/29 (not checked; the text was read through the alquran.cloud API)
 
 Background: Islamic theology argued at length about free will and divine decree (qadar). This verse is one of the standard texts for human choice, and other verses (for example 76:30, 'you do not will except that Allah wills') are read against it. The essay quotes only the clause about choice, and does not claim the tradition settled the question.
+
+## Ibn Arabi, Tarjuman al-Ashwaq, poem XI ('My heart has become capable of every form') (Ibn Arabi 1165 to 1240; the Tarjuman was written in Mecca about 1214-1215; Nicholson's translation 1911)
+
+Kind: text. Status: checked (Nicholson's 1911 translation read on a mirror of the sacred-texts.com page, 2026-10-17).
+
+Who: Ibn Arabi (see his entry above). The Tarjuman al-Ashwaq ('The Interpreter of Desires') is a collection of sixty-one love poems; he later wrote a commentary on them to show that they speak of divine realities.
+
+In the essay (v4.32.0): Part two, step 3, 'The wall, felt from inside', fourth item of 'Halves, and a ladder': his heart had become able to take on every form, a pasture for gazelles and a convent for monks, and he follows the religion of love wherever its camels turn (Tarjuman al-Ashwaq, poem 11).
+
+Where it sits: Poem XI, stanzas 13 to 15, in Nicholson's numbering (R. A. Nicholson, The Tarjuman al-Ashwaq: A Collection of Mystical Odes, Oriental Translation Fund, Royal Asiatic Society, 1911). Confirmed: the poem is XI in Nicholson.
+
+The passage (Nicholson 1911, public domain): 'My heart has become capable of every form: it is a pasture for gazelles and a convent for Christian monks, / And a temple for idols and the pilgrim's Ka'ba and the tables of the Tora and the book of the Koran. / I follow the religion of Love: whatever way Love's camels take, that is my religion and my faith.'
+
+Read it free:
+- Sacred Texts, The Tarjuman al-Ashwaq, poem XI (Nicholson): https://sacred-texts.com/isl/taa/taa14.htm (seen in a search result; the site refused the fetch)
+- Mirror of the same page: https://neonvagabond.xyz/mirrors/sacred-texts/isl/taa/taa14.htm (read on 2026-10-17)
+- Ibn Arabi Society, The Poetry of Ibn Arabi: https://ibnarabisociety.org/poetry-poems/ (seen in a search result)
+
+Read it in a book: Michael Sells, Stations of Desire: Love Elegies from Ibn 'Arabi and New Poems (Ibis Editions, 2000). Nicholson 1911, reprinted several times.
+
+Background: These are among the most quoted lines in Sufi literature, and today they are often read as religious pluralism. Specialists caution that in Ibn Arabi's own commentary the heart's 'every form' is its openness to every form in which God shows himself, and the 'religion of love' is following the Beloved wherever he leads; he wrote as a committed Muslim and did not teach that all religions are equal. The essay's wording stays inside the poem: a heart that can take on every form and follows love.
+
+If someone pushes back:
+- 'Ibn Arabi was not a pluralist.' The essay doesn't call him one. It cites a heart that can take every form, which is what the poem says.
+
+## Rumi, Masnavi, Book III, lines 3901 to 3906 ('I died as a mineral and became a plant') (Rumi 1207 to 1273; Book III composed in the 1260s)
+
+Kind: text. Status: partly checked (Ibrahim Gamard's translation, which follows Nicholson's line numbers, seen with the numbers 3901-3906 on a page, 2026-10-17; Nicholson's own volume not opened).
+
+Who: Rumi (see his entry above).
+
+In the essay (v4.32.0): Part two, step 5, 'Something carries over', fourth item of 'Practice for dying': he died as a mineral and became a plant, died as a plant and rose to an animal, died as an animal and became a man, and asks why he should fear, since he was never less by dying (Masnavi, Book III, 3901 to 3906).
+
+Where it sits: Book III, lines 3901 to 3906, in Nicholson's numbering (Gibb Memorial Trust edition; the translation of Books III and IV is 1930). One web page gives 3501 to 3506, which looks like a typo; Gamard's 3901 to 3906 agrees with the essay.
+
+The passage: Gamard (in copyright): 'I died to the mineral state and became a plant; I died to the vegetable state and reached animality; I died to the animal state and became a man; then what should I fear? I have never become less from dying.' The lines go on to dying as a man to rise among the angels, and beyond (paraphrase, from memory).
+
+Read it free:
+- Silene, Jalal ad-Din Rumi (Gamard's translation with the line numbers): https://www.silene.ong/en?p=91532 (read on 2026-10-17)
+- Raza Rumi, 'I have never become less from dying' (Chittick's version; its line numbers are inconsistent): https://razarumi.com/i-have-never-become-less-from-dying/ (seen in a search result)
+- Dar-al-Masnavi, Gamard's site with the Persian: https://www.dar-al-masnavi.org/ (not checked)
+
+Read it in a book: R. A. Nicholson, The Mathnawi of Jalalu'ddin Rumi, vol. IV (translation of Books III and IV; Gibb Memorial Trust, 1930). Jawid Mojaddedi, Rumi: The Masnavi, Book Three (Oxford World's Classics, 2013). William Chittick, The Sufi Path of Love (SUNY, 1983).
+
+Background: The passage is often quoted as Rumi teaching reincarnation or evolution. Specialists read it as the soul's ascent through the levels of creation in one cosmic journey, and as the Sufi 'dying before you die', not as rebirth into new bodies. Nicholson's earlier verse rendering in The Mystics of Islam (1914) made it famous in English. The essay places it under 'Practice for dying', next to Plato, which fits that reading.
+
+If someone pushes back:
+- 'Rumi didn't teach reincarnation.' Most specialists agree, and the essay does not cite these lines for rebirth. It cites them for not fearing death.
+
+## Quran 50:16 ('nearer to him than the jugular vein')
+
+Kind: text. Status: partly checked (the Sahih International wording and a note on the classical commentary seen in search results, 2026-10-17; Arberry's wording from memory).
+
+Who: Surah 50, Qaf, a Meccan surah about resurrection and judgment.
+
+In the essay (v4.32.0): Part two, step 7, 'Energy', third item of 'God, asking, and grace': the Quran says that God is nearer to a person than the jugular vein (50:16). A paraphrase, without quotation marks.
+
+Where it sits: Quran 50:16. The next verses (50:17-18) speak of the two recording angels.
+
+The passage: Arberry (1955, in copyright): 'We indeed created man; and We know what his soul whispers within him, and We are nearer to him than the jugular vein' (from memory, check). Sahih International: 'And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein.'
+
+Read it free:
+- Alim, translations of 50:16 compared: https://www.alim.org/quran/compare/surah/50/16/ (seen in a search result)
+- Islamic Network, 50:16: https://alquran.cloud/ayah/50:16 (seen in a search result)
+- Quran.com, 50:16: https://quran.com/50/16 (not checked)
+
+Read it in a book: Seyyed Hossein Nasr and others (eds.), The Study Quran (HarperOne, 2015), which gives the classical readings of the verse. M. A. S. Abdel Haleem, The Qur'an (Oxford World's Classics, 2004).
+
+Background: God speaks in the royal 'We'. Commentators differ on what is near: some classical commentators (Ibn Kathir among them) read 'We' here as God's angels, or the nearness as God's knowledge, which fits the recording angels in the next verses; others, and the whole Sufi tradition, read it as God's own nearness, and it is one of the most quoted verses in Sufi writing. The essay gives the plain wording. Translation: if the essay ever quotes it, Arberry's 'nearer to him than the jugular vein' matches its wording, and 50:16 would join the Arberry group in the translation note at the top of the Sources list.
+
+If someone pushes back:
+- 'Classical tafsir says the angels are near, not God.' Some commentators say so; others, and the Sufis, read it as God. The essay reports the verse's plain wording.
+
+## Rabia of Basra's prayer ('if I worship you for fear of hell, burn me in it'), attributed in the Sufi tradition (Rabia al-Adawiyya, died about 801; retold in later sources, often credited to Attar's Tadhkirat al-Awliya)
+
+Kind: text. Status: partly checked (the prayer's attribution to Attar seen in search results, 2026-10-17, but the citation check could not confirm it in the Tadhkirat al-Awliya, so the essay says only that it is attributed to Rabia in the Sufi tradition).
+
+Who: Rabia of Basra, an early woman ascetic in Iraq, remembered as the one who put pure love of God at the center of Sufism. Attar, a Persian poet of Nishapur (The Conference of the Birds), wrote the Tadhkirat al-Awliya ('Memorial of the Saints'), lives and sayings of the Sufi saints.
+
+In the essay (v4.32.0): Part two, step 7, 'Energy', sixth item of 'God, asking, and grace': a prayer attributed to Rabia of Basra, the early Sufi woman saint, asks that if she worshipped God for fear of hell, God should burn her in it, if for hope of paradise, shut her out of it, and if for God's own sake, not withhold his beauty from her.
+
+Where it sits: Tadhkirat al-Awliya, the chapter on Rabia. In English: A. J. Arberry, Muslim Saints and Mystics: Episodes from the Tadhkirat al-Auliya' (Routledge and Kegan Paul, 1966), the chapter on Rabia.
+
+The passage: Arberry's wording as it is usually quoted (from memory, in copyright): 'O God, if I worship Thee for fear of Hell, burn me in Hell, and if I worship Thee in hope of Paradise, exclude me from Paradise; but if I worship Thee for Thine own sake, grudge me not Thy everlasting beauty.'
+
+Read it free:
+- IMHU, Rabia al-Adawiyya (gives the prayer and its source in Attar): https://imhu.org/people/rabia-al-adawiyya (seen in a search result)
+- Routledge, Muslim Saints and Mystics: https://www.routledge.com/products/9780415442565 (seen in a search result)
+
+Read it in a book: Arberry 1966 (Routledge reprint). Margaret Smith, Rabi'a the Mystic and Her Fellow-Saints in Islam (Cambridge, 1928). Rkia Elaroui Cornell, Rabi'a from Narrative to Myth (Oneworld, 2019), on how her image was built over the centuries.
+
+Background: Attar wrote about four hundred years after Rabia died, and much of what is told about her, this prayer included, is first found in late sources; Cornell traces how. The essay attributes the prayer to Attar's telling, which is the accurate way to cite it. The same idea, loving God for God's sake and not for reward or out of fear, is told of her in other stories too, such as carrying a torch to burn paradise and water to put out hell.
+
+If someone pushes back:
+- 'Did Rabia really say it?' The source is Attar, and the essay names him.

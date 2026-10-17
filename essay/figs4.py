@@ -296,12 +296,13 @@ def fig_chain():
     b.append(T(40, 74, 'clause 3: the separation ends', 'small'))
     steps = [
         ('Separation is a way of looking', 'the whole looks at itself from positions', ['from clauses 1 and 2']),
-        ('How a whole turns itself down', 'lowered settings, a convincing world, a drift', ['from clause 2,', 'step 1, plus an observation']),
-        ('The turn', 'at the bottom point the signal flips toward home', ['from clause 3,', 'and step 2']),
-        ('Something carries over', 'one life is not enough, so a soul must carry it', ['from clause 3,', 'and step 3']),
-        ('Karma, or the fingers', 'nobody else to harm; the mirror shows the cost', ['from clause 1,', 'carried by step 4']),
-        ('Energy', 'less wall to hold, and more of the whole flows through', ['from clause 1,', 'steps 2 and 3']),
-        ('Miracles, or levels of knowledge', 'a lowered setting turned up a little', ['from step 2,', 'and step 6']),
+        ('How a whole turns itself down', 'lowered settings, free will, a convincing world', ['from clause 2,', 'step 1, plus an observation']),
+        ('The wall, felt from inside', 'pain where the wall is held, love where it drops', ['from clause 1,', 'and step 2']),
+        ('The turn', 'at the bottom point the signal flips toward home', ['from clause 3,', 'steps 2 and 3']),
+        ('Something carries over', 'one life is not enough, so a soul must carry it', ['from clause 3,', 'and step 4']),
+        ('Karma, or the fingers', 'nobody else to harm; the mirror shows the cost', ['from clause 1,', 'carried by step 5']),
+        ('Energy', 'less wall to hold, and more of the whole flows through', ['from clause 1,', 'steps 2 and 4']),
+        ('Miracles, the levels of knowledge', 'a lowered setting turned up a little', ['from step 2,', 'and step 7']),
     ]
     y0, h, gap = 112, 62, 24
     prev_bottom = 86
@@ -315,7 +316,7 @@ def fig_chain():
         for k, tg in enumerate(tags):
             b.append(T(490, y + 28 + k * 17, tg, 'small b'))
         prev_bottom = y + h
-    return svg('0 0 680 %d' % (prev_bottom + 14), 'A chain of seven steps, each following from the one before and from a clause of the axiom: separation is a way of looking, how a whole turns itself down, the turn, something carries over, karma, energy, and miracles', ''.join(b), u)
+    return svg('0 0 680 %d' % (prev_bottom + 14), 'A chain of eight steps, each following from the one before and from a clause of the axiom: separation is a way of looking, how a whole turns itself down, the wall felt from inside, the turn, something carries over, karma, energy, and miracles', ''.join(b), u)
 
 
 # ------------------------------------------------------------------ the table: same structure, different words

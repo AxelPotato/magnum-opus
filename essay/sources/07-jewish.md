@@ -138,7 +138,7 @@ Kind: tradition. Status: partly checked.
 
 Who: Isaac Luria, called the Ari, taught a circle of Kabbalists in Safed in the Galilee in the early 1570s. His student Hayyim Vital wrote down his system. Its three central symbols, in Scholem's phrase, are tzimtzum, the breaking of the vessels and tikkun.
 
-In the essay (v4.22.0): Part two, step 2, traditions block, one sentence: tzimtzum, the Infinite withdraws into itself to leave a space in which a world can exist. The older use below has been dropped from the essay text.
+In the essay (v4.32.0): Part two, step 2, traditions block: tzimtzum, the Infinite withdraws into itself to leave a space in which a world can exist. And step 4, 'The turn', sixth item of 'Leaving home, and coming to yourself': the vessels made to hold the divine light broke and scattered sparks into the world, and tikkun, the repair, gathers them back, with every good deed raising a spark (Sources list: Scholem 1941, lecture 7). That brings back part of the older use below, which was dropped in v4.22.0. The passage below supports it; strictly, Luria's tikkun works through prayer and the commandments, so 'every good deed' is the popular Hasidic form of the idea.
 
 Older use: In 'Why separation feels so real' the essay said the Kabbalists of sixteenth century Safed taught that the infinite contracted to make room for a world, that the vessels meant to hold its light shattered, and that gathering the pieces is humanity's work, 'a story of fragmentation and repair'. Also 'The same things in different words' ('the Lurianic Kabbalists with the shattered vessels and their repair') and the table (shattered vessels under 'The veil', tikkun under 'The return').
 
@@ -166,7 +166,7 @@ Kind: person. Status: checked.
 
 Who: The Baal Shem Tov ('master of the good name', the Besht) was a healer and preacher in Podolia who started the Hasidic movement. He wrote nothing himself, so all his teaching comes through students.
 
-In the essay: In 'Why separation feels so real': 'the Baal Shem Tov read a verse in Psalm 16 as teaching equanimity, so that praise and insult feel the same.' Table, row 'Letting go': 'Bittul, nullifying the self. Praise and insult feel the same.'
+In the essay (v4.32.0): Part two, step 7, 'Energy', first item of 'Empty, and let it through': the Baal Shem Tov read a verse in Psalm 16 as teaching equanimity, so that praise and insult feel the same. The next fold, 'God, asking, and grace', gives the same verse in its plain sense: 'I have set the LORD always before me' (Psalm 16:8, ESV, read on Bible Gateway 2026-10-17: https://www.biblegateway.com/passage/?search=Psalm+16&version=ESV). The verse continues 'because he is at my right hand, I shall not be shaken.' Earlier use: 'Why separation feels so real', and the table row 'Letting go': 'Bittul, nullifying the self. Praise and insult feel the same.'
 
 Where it sits: Psalm 16:8, 'Shiviti Adonai l'negdi tamid'. The teaching is recorded in Tzava'at HaRivash (Kehot edition, p. 1 according to the Sichos in English page).
 
@@ -450,7 +450,7 @@ Kind: text. Status: partly checked.
 
 Who: The story of the serpent, the woman and the man, and the tree of the knowledge of good and evil, in the Hebrew Bible's second creation account.
 
-In the essay: In 'Why separation feels so real': 'In Genesis, the couple eat from the tree of knowledge, notice that they are exposed, and hide from the one they'd been walking with in the garden.' It stands as an old picture of a fall into separation.
+In the essay (v4.32.0): Part two, step 4, 'The turn', fold 'Leaving home, and coming to yourself'. First item, as the essay's own reading: 'the first story in the Bible tells the same arc in its own words: the fall is the step down into separation, sin is acting from the wall, and salvation is the way back.' Second item: Adam and Eve eat from the tree of the knowledge of good and evil, their eyes are opened, they cover themselves and hide from God among the trees, and they are sent out of the garden (3:6-8 and 3:23). Checked in the ESV on Bible Gateway, 2026-10-17 (https://www.biblegateway.com/passage/?search=Genesis+3&version=ESV): 3:7 'the eyes of both were opened', 3:8 'hid themselves from the presence of the LORD God among the trees of the garden', 3:23 'the LORD God sent him out from the garden of Eden'. Strictly, the creation account of Genesis 1 comes first and the garden story is Genesis 2 to 3, so 'the first story' is loose. Earlier use, in 'Why separation feels so real': 'In Genesis, the couple eat from the tree of knowledge, notice that they are exposed, and hide from the one they'd been walking with in the garden.'
 
 Where it sits: Genesis 3:5 (you will be like God, knowing good and evil), 3:7 (eyes opened, they know they are naked) and 3:8 (they hear the sound of the LORD God walking in the garden and hide).
 
@@ -599,7 +599,7 @@ Kind: text. Status: unchecked.
 
 Who: The Mishnah is the first written collection of rabbinic oral law, edited in the land of Israel around 200 CE. Tractate Yoma deals with the Day of Atonement, and chapter 8 ends with the rules on what atones for what.
 
-In the essay: In step 6, 'Letting go, and repair': the Mishnah says that Yom Kippur atones for sins between a person and God, but for sins against another person only once that person has been appeased.
+In the essay: In step 6, 'Karma, or the fingers' (since v4.28.0; before that in 'Letting go, and repair'): the Mishnah says that Yom Kippur atones for sins between a person and God, but for sins against another person only once that person has been appeased.
 
 Where it sits: Mishnah Yoma 8:9. Cited from memory by the research files, not seen on a page in the check.
 
@@ -623,7 +623,7 @@ Kind: text. Status: checked (2:4-11 read in the World English Bible; 2:11 read i
 
 Who: Qohelet, the Teacher, the voice of Ecclesiastes. Tradition attached the book to Solomon. Most scholars date it much later and read the royal voice as a literary device.
 
-In the essay: Part two, step 3, 'The turn', second item of 'Restless until it rests': he made himself great works, built houses, planted vineyards, gathered silver and gold and kept nothing from his eyes that they wanted, then looked at everything his hands had done, and all was vanity and a striving after wind (2:4 to 11). The last phrase is ESV wording.
+In the essay: Part two, step 4, 'The turn', second item of 'Restless until it rests': he made himself great works, built houses, planted vineyards, gathered silver and gold and kept nothing from his eyes that they wanted, then looked at everything his hands had done, and all was vanity and a striving after wind (2:4 to 11). The last phrase is ESV wording.
 
 Where it sits: Ecclesiastes 2:4-11. The refrain 'vanity and a striving after wind' also closes 1:14.
 
@@ -655,3 +655,74 @@ Read it free:
 - Sefaria, Pirkei Avot 3:15: https://www.sefaria.org/Pirkei_Avot.3.15 (read on 2026-10-16)
 
 Background: The classic Jewish statement of the paradox of foreknowledge and free will. Maimonides discusses it in his laws of repentance (chapter 5), holding both sides and saying that God's knowledge is not like ours. The essay uses it as the shortest statement of the step's point.
+
+## Job 42:5 ('now my eye sees you') (Hebrew Bible, the Writings; the poem of Job is usually dated between the sixth and fourth centuries BCE)
+
+Kind: text. Status: checked (ESV read on Bible Gateway, 2026-10-17).
+
+Who: The book of Job tells of a righteous man who loses his children, his wealth and his health, argues with three friends who insist he must have sinned, and demands an answer from God. God answers from a whirlwind (chapters 38 to 41) with questions about creation, not with an explanation.
+
+In the essay (v4.32.0): Part two, step 3, 'The wall, felt from inside', last item of 'Two arrows, and the absence of good': at the end of the book, after the voice from the whirlwind, Job says to God that he had heard of him by the hearing of the ear, and now his eye sees him (42:5).
+
+Where it sits: Job 42:1-6, Job's last reply.
+
+The passage (ESV): 'I had heard of you by the hearing of the ear, but now my eye sees you;' The next verse (42:6) is hard to translate; the ESV has 'therefore I despise myself, and repent in dust and ashes.'
+
+Read it free:
+- Bible Gateway, Job 42 (ESV): https://www.biblegateway.com/passage/?search=Job+42&version=ESV (read on 2026-10-17)
+- Sefaria, Job 42 (Hebrew with English): https://www.sefaria.org/Job.42 (not checked)
+
+Read it in a book: Robert Alter, The Wisdom Books: Job, Proverbs, and Ecclesiastes (Norton, 2010). Edward L. Greenstein, Job: A New Translation (Yale, 2019), which reads 42:6 very differently.
+
+Background: The book never tells Job why he suffered. The reader knows about the wager in heaven (chapters 1 and 2), and Job never does. What changes is that he meets God directly, and that is what the essay uses the verse for: the suffering ends in seeing, not in an explanation. Job 42:6 is disputed ('repent' may mean 'am comforted' or 'relent'), and the essay does not cite it.
+
+If someone pushes back:
+- 'Job is about undeserved suffering.' Yes, and the essay doesn't say his suffering was deserved. It cites the end, where hearsay becomes sight.
+
+## Judges 20:16 and the words for sin: Hebrew chet and Greek hamartia, 'missing the mark' (Judges: Hebrew Bible, Former Prophets, compiled in the first millennium BCE; the New Testament, first century CE)
+
+Kind: text. Status: checked (Judges 20:16 in the ESV on Bible Gateway, and the Strong's and BDB entries for H2398 and the Strong's entry for G264 on Bible Hub, all 2026-10-17).
+
+Who: Two words. Hebrew chet, sin, is a noun from the root ch-t-' (ח-ט-א), whose verb chata means to miss. Greek hamartia, the usual New Testament word for sin, belongs with the verb hamartano, to miss the mark.
+
+In the essay (v4.32.0): Part two, step 4, 'The turn', third item of 'Leaving home, and coming to yourself': hamartia comes from a verb that means to miss the mark, and the Hebrew chet has the same sense: the book of Judges uses its verb for slingers who could sling a stone at a hair and not miss (20:16).
+
+Where it sits: Judges 20:16, the 700 left-handed slingers of Benjamin. 'And not miss' is the hiphil of chata, the same root as chet. BDB lists 'miss (a goal or way)' as the verb's first sense, with this verse as its example. Proverbs 19:2 ('whoever makes haste with his feet misses his way', ESV) is another plain case.
+
+The passage (ESV): 'Among all these were 700 chosen men who were left-handed; every one could sling a stone at a hair and not miss.' Strong's on G264: '(properly) to miss the mark (and so not share in the prize)'.
+
+Read it free:
+- Bible Gateway, Judges 20 (ESV): https://www.biblegateway.com/passage/?search=Judges+20&version=ESV (read on 2026-10-17)
+- Bible Hub, Strong's Hebrew 2398 (chata): https://biblehub.com/hebrew/2398.htm (read on 2026-10-17)
+- Bible Hub, Strong's Greek 264 (hamartano): https://biblehub.com/greek/264.htm (read on 2026-10-17)
+
+Read it in a book: Gary A. Anderson, Sin: A History (Yale, 2009), on how the biblical pictures of sin (a burden, a debt) changed over time. Joseph Lam, Patterns of Sin in the Hebrew Bible (Oxford, 2016).
+
+Background: The etymology is old and sound: Homer uses hamartano for a spear that misses its target. Scholars add a caution worth knowing. By the first century hamartia simply meant sin or wrongdoing, and 'missing the mark' is its etymology, not what a reader of Paul heard each time; the same holds for most uses of chet. The essay says the word 'comes from' a verb meaning to miss the mark and that chet 'has the same sense', which is accurate, and Judges 20:16 shows the verb doing that work.
+
+If someone pushes back:
+- 'Etymology isn't meaning.' True, and preachers overuse this one. The essay uses it for the picture, and the Judges verse is the plain physical use.
+
+## Martin Buber, I and Thou (1923): the extended lines of relations meet in the eternal Thou (Buber 1878 to 1965; Ich und Du 1923; English by Ronald Gregor Smith 1937, 2nd edition 1958, and by Walter Kaufmann 1970)
+
+Kind: text. Status: partly checked (both sentences seen in search results quoting Smith's translation, 2026-10-17; the book not opened).
+
+Who: Martin Buber, born in Vienna, a Jewish philosopher, the translator with Franz Rosenzweig of the Hebrew Bible into German, and the best-known modern teller of Hasidic stories. He left Germany for Jerusalem in 1938 and taught at the Hebrew University.
+
+In the essay (v4.32.0): Part two, step 7, 'Energy', fourth item of 'God, asking, and grace': in I and Thou in 1923 he wrote that the lines of all our relations meet in the eternal You, and that every real meeting with another as a You is a glimpse of it.
+
+Where it sits: The opening of Part Three of the book (about page 75 of the Scribner edition of Smith's translation; page from a search result, check).
+
+The passage (Smith, in copyright, one sentence): 'The extended lines of relations meet in the eternal Thou.' Smith goes on that every particular Thou is a glimpse through to the eternal Thou. Kaufmann renders the first sentence 'Extended, the lines of relationships intersect in the eternal You' (seen in a search result; check the book before quoting).
+
+Read it free:
+- My Jewish Learning, I and Thou: selected passages: https://www.myjewishlearning.com/article/i-and-thou-selected-passages/ (seen in a search result)
+- Encyclopedia.com, Buber, Martin (1878-1965): https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/buber-martin-1878-1965 (seen in a search result)
+- Stanford Encyclopedia of Philosophy, Martin Buber: https://plato.stanford.edu/entries/buber/ (not checked)
+
+Read it in a book: Martin Buber, I and Thou, translated by Walter Kaufmann (Scribner, 1970; Touchstone paperback). Smith's translation (T. & T. Clark, 1937; Scribner Classics, 2000). Paul Mendes-Flohr, Martin Buber: A Life of Faith and Dissent (Yale, 2019).
+
+Background: The book sets two basic attitudes side by side: I-It, where the other is an object to use or know, and I-Thou, a meeting with the whole of another being, which cannot be held and keeps falling back into I-It. God is the Thou that never becomes an It, met through real meetings with people, nature and art, not around them. Kaufmann thought 'Thou' sounded too churchy in English and used 'You', and the essay follows him. Copyright: Buber died in 1965, so the German is protected in Europe until the end of 2035, and both English translations should be treated as in copyright, so keep any quotation to a sentence.
+
+If someone pushes back:
+- 'Buber keeps God and the person as two, an I and a Thou, and he turned away from mystical union.' True. The essay cites him for the shape of prayer, a part meeting the whole as a You, which is his point, and not for identity.

@@ -8,6 +8,46 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.32.7 (2026-10-17)
+
+- Part two, step 3: 'So suffering measures resistance' (Alex's pick)
+
+
+## 4.32.6 (2026-10-17)
+
+- Part two, step 3: suffering as a measure, said with two people going through the same thing
+
+
+## 4.32.5 (2026-10-17)
+
+- Part two, step 3: the pain and suffering paragraphs rewritten in plain words, without the computer picture (the dashboard warning light)
+
+
+## 4.32.4 (2026-10-17)
+
+- Part two Sources: Ohno line without the unconfirmed chapter
+
+
+## 4.32.3 (2026-10-17)
+
+- Part two, step 3: fold 'A post-mortem, the way we do it at work' (the five whys from a wish to happiness and from a pain to the wall); the first noble truth bullet notes the post-mortem shape
+
+
+## 4.32.2 (2026-10-17)
+
+- Part two, step 8: the hacking reality line and the grandma joke after the Antarova sentence
+
+
+## 4.32.1 (2026-10-17)
+
+- Part two: Rabia's prayer is now 'attributed to Rabia of Basra' (not confirmed in Attar's Tadhkirat al-Awliya)
+
+
+## 4.32.0 (2026-10-17)
+
+- Part two: new step 3 'The wall, felt from inside' (pain, suffering, love, evil), dying and the fear of death in 'Something carries over', folds on the fall (under the turn) and on God, prayer and grace (under energy), physics in step 1 trimmed to one paragraph, steps renumbered to eight, chain figure and reading pack updated
+
+
 ## 4.31.0 (2026-10-17)
 
 - Alex's Essay Desk edits to Part two: 'everything is a part of it', 'There is a distance, on the screen', a fun-way aside after the computer picture, step 7 heading 'Miracles, the levels of knowledge', and wording in the Reiki story, the claim paragraph, the Antarova line (Concordia) and the future-seeing teaser

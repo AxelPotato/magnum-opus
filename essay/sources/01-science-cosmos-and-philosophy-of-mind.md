@@ -590,7 +590,7 @@ Kind: text. Status: partly checked (title, journal and the result are standard; 
 
 Who: The short follow-up to Einstein's special relativity paper of the same year.
 
-In the essay: Part two, step 6, 'Energy': 'Einstein's E=mc² says that mass is a form of energy, so a rock, a body and a star are energy packed very tight.' Used as a picture with the step 1 warning label, next to the conservation of energy.
+In the essay: Part two, step 7, 'Energy': 'Einstein's E=mc² says that mass is a form of energy, so a rock, a body and a star are energy packed very tight.' Used as a picture with the step 1 warning label, next to the conservation of energy.
 
 Where it sits: Annalen der Physik 18 (1905), 639-641. The paper writes the result as: if a body gives off energy L as radiation, its mass goes down by L/c². The famous form E=mc² came later.
 
@@ -607,3 +607,57 @@ Background: Mass-energy equivalence is among the best tested results in physics:
 If someone pushes back:
 - 'E=mc² says nothing about human energy.' Agreed, and the essay says the same: it is the picture, and the claim about a person rests on the tank and the river and on what a reader can check.
 - 'Things are not made of energy.' Right, and the essay avoids saying that. It says mass is a form of energy, which is the exact statement.
+
+## John Bell's theorem (1964), the loophole-free tests of 2015 and the 2022 Nobel Prize (Bell 1928 to 1990; Physics 1, 195-200, 1964; Hensen et al., Nature 526, 682-686, 2015; Nobel Prize in Physics 2022)
+
+Kind: study. Status: partly checked (the 2015 paper and the prize citation seen in search results on 2026-10-17; Bell's paper not opened).
+
+Who: John Stewart Bell, a physicist from Belfast who worked at CERN. In 1964 he showed that if each particle carried its own pre-set answers and no influence traveled faster than light, the correlations between measurements on two distant particles would have to stay under a limit (a Bell inequality), and that quantum mechanics predicts correlations above it. Alain Aspect, John Clauser and Anton Zeilinger ran the experiments that showed the limit is broken.
+
+In the essay (v4.32.0): Part two, step 1, 'Separation is a way of looking', the physics paragraph: two particles prepared together and sent far apart behave as one thing with a joint state; John Bell showed how to test that, and the people who ran the tests got the Nobel Prize in 2022; it carries no message. The Sources list keeps Bell (1964) and the 2022 press release. Hensen et al. (2015) was cited until v4.31.0, for 'the loopholes were closed by 2015', and is now private context.
+
+Where it sits: Bell, J. S. (1964), On the Einstein Podolsky Rosen paradox, Physics 1(3), 195-200. The Nobel Prize in Physics 2022, shared equally by Aspect, Clauser and Zeilinger 'for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science'. Hensen, B., et al. (2015), Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres, Nature 526, 682-686, doi 10.1038/nature15759 (Ronald Hanson's group at Delft).
+
+The passage: Paraphrase. Measured far apart, the two particles agree more often than any pair of private, pre-set instructions could arrange. The 2015 Delft test closed the two main loopholes (detection and locality) in one experiment; photon experiments in Vienna and at NIST closed them the same year (from memory).
+
+Read it free:
+- arXiv, Hensen et al., the Delft preprint: https://arxiv.org/abs/1508.05949 (seen in a search result)
+- QuTech, Hanson lab, Loophole-free Bell test 2015: https://qutech.nl/lab/hanson-lab/research-highlights/hanson-lab-loophole-free-bell-test (seen in a search result)
+- Physics World, Aspect, Clauser and Zeilinger win the 2022 Nobel Prize for Physics: https://physicsworld.com/a/alain-aspect-john-clauser-and-anton-zeilinger-win-the-2022-nobel-prize-for-physics/ (seen in a search result)
+- Nobel Prize, Physics 2022 press release: https://www.nobelprize.org/prizes/physics/2022/press-release/ (not checked)
+- Stanford Encyclopedia of Philosophy, Bell's Theorem: https://plato.stanford.edu/entries/bell-theorem/ (not checked)
+
+Read it in a book: J. S. Bell, Speakable and Unspeakable in Quantum Mechanics (Cambridge University Press, 1987; 2nd edition 2004), which reprints the 1964 paper. Anton Zeilinger, Dance of the Photons (Farrar, Straus and Giroux, 2010), a popular account by one of the laureates. Tim Maudlin, Quantum Non-Locality and Relativity (Wiley-Blackwell, 3rd edition 2011), harder.
+
+Background: Clauser's 1972 Berkeley experiment was the first test. Aspect's in Orsay (1982) switched the settings while the photons were in flight. Zeilinger's group went on to use entanglement for teleportation and quantum cryptography. What the experiments rule out is 'local hidden variables', and they leave open which interpretation is right: Bohmian mechanics keeps hidden variables and gives up locality, many-worlds keeps a kind of locality, and others give up the idea that outcomes are fixed before measurement. No interpretation lets anyone send a signal through entanglement (the no-signalling theorem), which is why the essay says it carries no message. The Delft test had a few hundred trials and a modest statistical margin (a p-value of about 0.04, seen in a secondary source), one reason the essay now leans on the prize and not on one paper.
+
+If someone pushes back:
+- 'Entanglement doesn't mean everything is one.' The essay says the picture of many separate things with private properties fails at the bottom, which is exactly what a Bell test checks, and calls it the shape of the axiom turning up in physics.
+- 'So it explains telepathy.' No, and the essay says so itself: it carries no message.
+- 'Weren't there loopholes?' The 2015 experiments closed the main ones together. The remaining 'freedom of choice' worry (superdeterminism) cannot be closed by any experiment and is a minority view.
+
+## Taiichi Ohno, the five whys (Toyota Production System, 1978; English edition 1988)
+
+Kind: text. Status: partly checked (the book, chapter and method seen in search results, 2026-10-17; the original wording not read).
+
+Who: Taiichi Ohno (1912 to 1990), the Toyota engineer and executive credited with the Toyota Production System. His book Toyota Production System: Beyond Large-Scale Production was first published in Japanese by Diamond in 1978 and in English by Productivity Press in 1988. One account says it was ghostwritten from interviews by Setsuo Mito.
+
+In the essay (v4.32.3): Part two, step 3, 'The wall, felt from inside', first item of 'A post-mortem, the way we do it at work': in software a post-mortem keeps asking why until it reaches the root cause, and Taiichi Ohno made it famous at Toyota as asking why five times. The fold then runs two chains of whys, a wish that ends at happiness and a pain that ends at the wall.
+
+Where it sits: one secondary account places it at the start of chapter 2, 'The Application of the Toyota Production System', with the example of a machine that stopped working (not confirmed, so the essay's Sources line gives no chapter). Ohno credited the habit to Sakichi Toyoda's era.
+
+The passage: often quoted as 'the basis of Toyota's scientific approach ... by repeating why five times, the nature of the problem as well as its solution becomes clear' (secondary wording; check against the book before quoting).
+
+Read it free:
+- Wikipedia, Five whys: https://en.wikipedia.org/wiki/Five_whys (seen in a search result)
+- Lean Enterprise Institute on the five whys: https://lean.org/?p=12637 (seen in a search result)
+- Gemba Academy, on Ohno and the book's authorship: https://blog.gembaacademy.com/?p=11396 (seen in a search result)
+
+Read it in a book: Taiichi Ohno, Toyota Production System: Beyond Large-Scale Production (Productivity Press, 1988).
+
+Background: The five whys spread from Toyota into lean manufacturing and then into software, where blameless post-mortems after an outage use the same habit. Five is a rule of thumb, and practitioners stop when they reach a cause that, once fixed, prevents the whole class of problem. The essay uses it as a picture for tracing a wish back to happiness and a pain back to the sense of being separate.
+
+If someone pushes back:
+- 'The five whys can stop at a convenient cause, or branch.' True, and practitioners say so. The essay offers it as an exercise to try on yourself.
+- 'Ohno didn't invent it.' Toyota credits the habit to Sakichi Toyoda's era and Ohno with making it standard; the essay says only that Ohno made it famous.
+
