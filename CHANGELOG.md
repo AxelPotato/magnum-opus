@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.41.10 (2026-10-17)
+
+- Part three, section 8: the last paragraph starts "Regularity starts with the daily sit, every day, even when it's a short one, because the drift from Part two takes no days off." instead of "Then comes the rule that holds the rest together: regularity. It starts with..." (your run-7 pick 7.5). The text without this release is 4.41.9. Notes for Alex updated
+
+
 ## 4.41.9 (2026-10-17)
 
 - Part three, section 2: "That is where mine started, with the questions from Part two, and over time it grew into wanting to help other people live happier lives." ends at "...with the questions from Part two." (your run-7 pick 7.4). Section 3 gives your goal in full two paragraphs later. The text without this release is 4.41.8. Notes for Alex updated
