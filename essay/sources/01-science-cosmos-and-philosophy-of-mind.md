@@ -584,30 +584,6 @@ If someone pushes back:
 - Is it right to say a cancer cell 'forgets'? The essay does not say that. It says the cell stops listening to signals from its neighbors.
 - Is cancer a moral comparison? No. The essay applies it to no person, and says the scale is one the author is on too.
 
-## Albert Einstein, 'Does the inertia of a body depend upon its energy content?' (1905): mass is a form of energy (Einstein 1879 to 1955; Annalen der Physik 18, 639-641, September 1905)
-
-Kind: text. Status: partly checked (title, journal and the result are standard; the paper itself was not opened this session).
-
-Who: The short follow-up to Einstein's special relativity paper of the same year.
-
-In the essay: Part two, step 7, 'Energy': 'Einstein's E=mc² says that mass is a form of energy, so a rock, a body and a star are energy packed very tight.' Used as a picture with the step 1 warning label, next to the conservation of energy.
-
-Where it sits: Annalen der Physik 18 (1905), 639-641. The paper writes the result as: if a body gives off energy L as radiation, its mass goes down by L/c². The famous form E=mc² came later.
-
-The passage (paraphrase): a body that emits energy loses mass in proportion, so the mass of a body is a measure of its energy content.
-
-Read it free:
-- Wikipedia, Mass-energy equivalence (history and the 1905 paper): https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence (not checked)
-- The English translation of the 1905 paper is widely reprinted, for example in The Principle of Relativity (Dover, 1952) (not checked)
-
-Read it in a book: The Principle of Relativity (Dover, 1952), a collection of the original papers in English.
-
-Background: Mass-energy equivalence is among the best tested results in physics: nuclear reactions and particle accelerators confirm it every day. Two points for discussion. Energy in physics is a property that a system has, so 'everything is made of energy' is loose talk, while 'mass is a form of energy' is exact. And energy is conserved: it changes form and moves on, and the total in a closed system stays the same. The essay uses both points only as a picture for the step, and says so.
-
-If someone pushes back:
-- 'E=mc² says nothing about human energy.' Agreed, and the essay says the same: it is the picture, and the claim about a person rests on the tank and the river and on what a reader can check.
-- 'Things are not made of energy.' Right, and the essay avoids saying that. It says mass is a form of energy, which is the exact statement.
-
 ## John Bell's theorem (1964), the loophole-free tests of 2015 and the 2022 Nobel Prize (Bell 1928 to 1990; Physics 1, 195-200, 1964; Hensen et al., Nature 526, 682-686, 2015; Nobel Prize in Physics 2022)
 
 Kind: study. Status: partly checked (the 2015 paper and the prize citation seen in search results on 2026-10-17; Bell's paper not opened).

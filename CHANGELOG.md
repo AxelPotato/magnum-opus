@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.43.0 (2026-10-17)
+
+- Part two, step 7: the paragraph "Physics has a picture for this" (E=mc² and the conservation of energy) is cut (your run-7 pick 9.5). Einstein (1905) leaves the Sources list of Part two and the reading pack. The text without this release is 4.42.0. Notes for Alex updated
+
+
 ## 4.42.0 (2026-10-17)
 
 - Part two, step 7: the paragraph "The machine has its own version." is cut (your run-7 pick 9.4). It said a program that stops acting as a separate process gets wider permissions from the operating system, up to administrative rights, and called that an incident. The printer joke in step 8 stands on its own, and step 8 no longer points at this paragraph since the last release. The text without this release is 4.41.18. Notes for Alex updated

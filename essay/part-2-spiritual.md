@@ -242,8 +242,6 @@ One warning. The easy version of karma is blame: she had it coming, he reaped wh
 
 People say it all the time. This place has good energy, that person drains my energy, I need to protect my energy. Indian texts call the life force prana, which also means breath, and Chinese thought calls it qi. Most of the time nobody says what they mean by it, so here is what I mean. In this step energy is your capacity to act and to be present, the fuel behind DO and BE from Part one: how much you can make happen, and how much of what is happening you can actually take in.
 
-Physics has a picture for this, with the same warning label as step 1. Einstein's E=mc² says that mass is a form of energy, so a rock, a body and a star are energy packed very tight, and step 1 already said that the things we count as particles are ripples in fields. Physics also has a rule that matters here. Energy is never used up. It only changes form and moves on, which is the conservation of energy, and in the physics we use day to day that is about as solid as it gets. None of it is a claim about a person. It is the shape I want to keep in mind for what follows.
-
 Now look at how the separate self handles energy. It treats it like a tank. I have this much, I spend it, I run out, and I guard what is left. Everything in step 2 points that way: a point of view with lowered settings, inside a world built to say that you are in here and the rest is out there, naturally assumes that its energy is its own small supply. And holding the wall costs. Step 2 says the wall is held in the body as tension, and Part one called tension a tax. A good part of the tank goes on guarding the tank.
 
 Under the axiom it can't really work that way, because there is nothing outside the whole to take energy from and nowhere for it to leak to. A part that starts remembering the whole works more like a mill on a river. The mill doesn't drink the river. The water turns the wheel, does real work and flows on to the next mill downstream, and the mill's job is to let it through. A mill that clamps its wheel tight, which is the tension again, gets less flow. So the extra energy comes from two places, and neither one takes from anybody. Some of it is what you stop spending on the wall. The rest is access: from the point of view of one person, the river is the size of the whole, far more than any part could hold.
@@ -430,7 +428,6 @@ The axiom and the machine
 
 7. Energy
 
-- Einstein, A. (1905). Does the inertia of a body depend upon its energy content? Annalen der Physik, 18, 639-641.
 - Mencius 2A:2, translated by Legge, J., The Works of Mencius (The Chinese Classics, vol. II).
 - The Baal Shem Tov on Psalm 16, and bittul, in the Hasidic tradition. Philippians 2:5-8. Eckhart, German sermons (Walshe's translation, revised by McGinn). Majjhima Nikaya 118.
 - Shankara on Brahman and Ishvara. Quran 50:16. Psalm 16:8. Buber, M. (1923). I and Thou (Ich und Du). Ephesians 2:8. The prayer attributed to Rabia of Basra in the Sufi tradition (retold in later sources).
