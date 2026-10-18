@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.54.1 (2026-10-18)
+
+- Part three, "My teacher and I" fold: "where he lived" becomes "where he lives" (F3)
+
+
 ## 4.54.0 (2026-10-18)
 
 - Part three, section 5: the two centers named after "The way we have arranged ourselves around it is ours" (item 2, with F3: he lives in Sochi)
