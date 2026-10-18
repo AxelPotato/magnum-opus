@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.59.0 (2026-10-18)
+
+- Part one, Driven: two rooms in the same week (item 13.a)
+
+
 ## 4.58.3 (2026-10-18)
 
 - Part one, BE: meditation first, "and it helps a lot", in place of breathing apps and long baths (item 12.a)
