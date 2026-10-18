@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.59.10 (2026-10-18)
+
+- Part one: "Congratulations." cut (item 21.1.a)
+
+
 ## 4.59.9 (2026-10-18)
 
 - Parts zero and two: "witnesses" for the traditions cut (item 20.3.a)

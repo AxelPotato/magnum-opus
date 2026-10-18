@@ -10,7 +10,7 @@ And how often are you the first one to make a move in a conflict? The first "oka
 
 Hold on to your two answers. They measure two different things, almost nobody works on both, and the few who do end up living a different kind of life. That's the whole idea, so you can disagree with it early. A person grows in two directions. I call them DO and BE. DO is how much you make things happen. BE is how much you let go of whatever holds you back from the inside, which turns out to be how much you can be here, aware of what is actually happening right now. When both are high, I call it high agency, and the rest of this essay is about what it is, why it's hard to get to, and why it's worth the trouble.
 
-The whole thing is one big graph that I'll draw slowly. Congratulations.
+The whole thing is one big graph that I'll draw slowly.
 
 ## DO: making things happen
 
