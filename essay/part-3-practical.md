@@ -1,6 +1,6 @@
 # Part three: Practical
 
-Part three is for those who feel they have crossed the bottom point of most separation, which Part two called the turn, and who want to begin the journey back to unity.
+Part three is for anyone who wants to begin the journey back to unity, and most of all for those who feel they have crossed the bottom point of most separation, which Part two called the turn.
 
 #### What if I'm not sure?
 
