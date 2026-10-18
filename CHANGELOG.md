@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.59.9 (2026-10-18)
+
+- Parts zero and two: "witnesses" for the traditions cut (item 20.3.a)
+
+
 ## 4.59.8 (2026-10-18)
 
 - Part zero: "Where the reading is mine, I say so." cut from the teacher paragraph (item 20.2.a)
