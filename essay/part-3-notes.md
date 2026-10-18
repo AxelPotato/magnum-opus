@@ -1,6 +1,6 @@
 # Part three · notes for Alex (not part of the essay)
 
-Version 4.46.2, 2026-10-17. File: `part-3-practical.md`, about 6,200 words with the folds and the Sources list (about 5,700 at 4.33.1), ten numbered sections: the decision first, then eight of the ten that were there in the same order (the ones on how people come to it and on the space port are gone), with discipline after attention. Part two changed a lot between 4.22.0 and 4.32.7 (how a whole turns itself down, with free will; the wall felt from inside, with pain, suffering, love and evil; the turn, with the fall; something carries over, with dying; karma as the mirror; energy as a mill on a river, with God, asking and grace), and Part three was last shaped on 13 to 15 October, so several of its pointers had gone stale. This pass makes every pointer true of the current Part two, ties the practice to the new subjects where that helps the reader, and trims what Part two now says for itself. It was first written against Part two 4.31.0 and rebased onto main when the Part two additions merged first. The text was the same then; every pointer was read again against Part two 4.32.7. Version 4.33.1 adds your answers to the options file, listed under "After your answers". Version 4.33.2 adds the Buddha sentence you approved (6.1.a), listed under "The Buddha sentence". Version 4.33.3 adds the paragraph on prayer you approved (6.2.a), listed under "The prayer paragraph". Version 4.33.4 puts your own goal into Part two and Part three in your words (7.1), listed under "Your goal, in your words". Version 4.34.0 opens Part three with who it is for and a fold, "What if I'm not sure?" (7.2), listed under "Who this part is for". Version 4.35.0 adds a new first section, "Making the decision" (7.3), listed under "Making the decision". Version 4.36.0 adds discipline to the method (7.4), listed under "Discipline". Version 4.36.1 adds your wish to build systems and institutes to the goal (7.1.a with your addition), listed under "Systems and institutes". Version 4.36.2 names discipline in the team's list (7.4.b), listed under "Discipline in the team list". Version 4.37.0 moves the contact form out of Part three onto a new page, Next, with the form you described, listed under "The Next page". Version 4.38.0 removes the section on how people come to it (your 20:02 message), listed under "Section 11 removed". Version 4.39.0 moves the space port out of Part three, in a shorter form, onto the Next page (the same message), listed under "The space port moves to Next". Version 4.40.0 renames section 4 from Service to Giving and explains it in plainer words (your 20:04 message), listed under "Service becomes Giving"; older entries below that say "service" mean this section as it was before. Version 4.40.1 adds what the people would make together to the Next page (your 20:33 message), listed under "Next: working together". Version 4.40.2 replaces the sentence about the people and the building on the Next page with a plainer one (the same message), listed under "Next: the line about the people". Versions 4.41.2 to 4.45.2 apply your picks on the run-7 verdict one at a time, each listed under its own heading after "Next: the line about the people" and named by the verdict item ("verdict 5" and so on), with its own revert phrase. Version 4.45.3 swaps item 4 for the verdict thread's version 2 (your tap at 21:24), listed under "Verdict 4: the teacher in the middle, your version 2". Version 4.46.0 is your 21:39 message, listed under "Mentorship replaces Guidance". Version 4.46.1 takes one sentence out of it (your 22:07 message), listed under "Mentorship, one sentence out". Version 4.46.2 rewords the Anokhin entry in Part one's fold (your 22:12 message), listed under "Anokhin, reworded for the fold". Section numbers in these notes follow the page as it is now, so "section 2" means "Your own wish" even where an older release is described. The `humanizer` rules were applied by hand to every changed sentence (no dashes, no bold, no "not X but Y", no triads for effect), and the dash, bold and money checks come back clean.
+Version 4.51.15, 2026-10-18. File: `part-3-practical.md`, about 6,200 words with the folds and the Sources list (about 5,700 at 4.33.1), ten numbered sections: the decision first, then eight of the ten that were there in the same order (the ones on how people come to it and on the space port are gone), with discipline after attention. Part two changed a lot between 4.22.0 and 4.32.7 (how a whole turns itself down, with free will; the wall felt from inside, with pain, suffering, love and evil; the turn, with the fall; something carries over, with dying; karma as the mirror; energy as a mill on a river, with God, asking and grace), and Part three was last shaped on 13 to 15 October, so several of its pointers had gone stale. This pass makes every pointer true of the current Part two, ties the practice to the new subjects where that helps the reader, and trims what Part two now says for itself. It was first written against Part two 4.31.0 and rebased onto main when the Part two additions merged first. The text was the same then; every pointer was read again against Part two 4.32.7. Version 4.33.1 adds your answers to the options file, listed under "After your answers". Version 4.33.2 adds the Buddha sentence you approved (6.1.a), listed under "The Buddha sentence". Version 4.33.3 adds the paragraph on prayer you approved (6.2.a), listed under "The prayer paragraph". Version 4.33.4 puts your own goal into Part two and Part three in your words (7.1), listed under "Your goal, in your words". Version 4.34.0 opens Part three with who it is for and a fold, "What if I'm not sure?" (7.2), listed under "Who this part is for". Version 4.35.0 adds a new first section, "Making the decision" (7.3), listed under "Making the decision". Version 4.36.0 adds discipline to the method (7.4), listed under "Discipline". Version 4.36.1 adds your wish to build systems and institutes to the goal (7.1.a with your addition), listed under "Systems and institutes". Version 4.36.2 names discipline in the team's list (7.4.b), listed under "Discipline in the team list". Version 4.37.0 moves the contact form out of Part three onto a new page, Next, with the form you described, listed under "The Next page". Version 4.38.0 removes the section on how people come to it (your 20:02 message), listed under "Section 11 removed". Version 4.39.0 moves the space port out of Part three, in a shorter form, onto the Next page (the same message), listed under "The space port moves to Next". Version 4.40.0 renames section 4 from Service to Giving and explains it in plainer words (your 20:04 message), listed under "Service becomes Giving"; older entries below that say "service" mean this section as it was before. Version 4.40.1 adds what the people would make together to the Next page (your 20:33 message), listed under "Next: working together". Version 4.40.2 replaces the sentence about the people and the building on the Next page with a plainer one (the same message), listed under "Next: the line about the people". Versions 4.41.2 to 4.45.2 apply your picks on the run-7 verdict one at a time, each listed under its own heading after "Next: the line about the people" and named by the verdict item ("verdict 5" and so on), with its own revert phrase. Version 4.45.3 swaps item 4 for the verdict thread's version 2 (your tap at 21:24), listed under "Verdict 4: the teacher in the middle, your version 2". Version 4.46.0 is your 21:39 message, listed under "Mentorship replaces Guidance". Version 4.46.1 takes one sentence out of it (your 22:07 message), listed under "Mentorship, one sentence out". Version 4.46.2 rewords the Anokhin entry in Part one's fold (your 22:12 message), listed under "Anokhin, reworded for the fold". Versions 4.46.3 to 4.51.15 apply items 1 to 3, 5, 6 and 7 of the run-8 verdict (your "implement all changes for 1-3" and your answers of 06:50 on 18 October), one release each, listed under the headings that start "Run-8 verdict". Section numbers in these notes follow the page as it is now, so "section 2" means "Your own wish" even where an older release is described. The `humanizer` rules were applied by hand to every changed sentence (no dashes, no bold, no "not X but Y", no triads for effect), and the dash, bold and money checks come back clean.
 
 ## How it was checked
 
@@ -390,6 +390,214 @@ To take it out, ask for "revert genadiy line". That is a release that puts the s
 What changed: in Part one, the Anokhin entry at the top of the fold "What the studies say" is written like the entries after it (your 22:12 message). When it moved into the fold in 4.45.0 it was the old paragraph word for word, so it still ended on a sentence that pointed at the next entries, "The next ones ask which kind." Now the citation sits where the other entries put theirs, "...you search for another way (Anokhin, 1973).", which is the work already in the Sources list, and the last three sentences are one that says what the work leaves out, the way the other entries close on a caveat: "The theory is about what a goal does, and it doesn't ask whether the goal is about you or about somebody else." "Anokhin never asked" became "it doesn't ask", so the sentence is about the theory and not about the man. The first three sentences and the figure under the entry are as they were. The fold's counter still says six studies and counts this entry.
 
 To take it out, ask for "revert anokhin wording". That is a release that puts the old ending back, without the citation. The text as it was before this release is 4.46.1, commit 9f2ccba.
+
+## Run-8 verdict 1: "to the whole team" out (4.46.3)
+
+What changed: in section 6, the sentence in the paragraph that begins "A teacher does one more job." now reads "He says what he sees, and each person goes looking for their own part in the conflict." The words "to the whole team" are gone (your "implement all changes for 1-3" on the run-8 verdict, item 1.b). In run 8 every reader who stopped there pictured a verdict said in front of the group: Josh's lowest point in the essay, the line Ruth said weighed most, and a -1 from Dan. "When one person is simply wrong, that gets said too." stays, because Dan named it as the sentence that answered his question from the karma step. Nothing else in the paragraph changed.
+
+To take it out, ask for "revert run-8 verdict 1". That is a release that puts the three words back. The text as it was before this release is 4.46.2, commit d5a6487.
+
+## Run-8 verdict 2.1: the form first on the Next page (4.46.4)
+
+What changed: the Next page now opens with the invitation ("If you've read the full essay and feel like taking part in any workshop or online session...") and the form, and the three paragraphs on the space port follow them. No words changed (your "implement all changes for 1-3" on the run-8 verdict, item 2.1.b). In run 8 every reader went down at "I picture a group of people living and working in the same place...", and then met the form right under it. Josh read the form through it ("the intake question... right under a paragraph about a community that lives together"), and Mara said that with the form first she would have filled it in with less hesitation. Now the form stands on Part three's ending, and a reader who wants to know what you are working toward reads on. Item 2.2 of the verdict (the first sentence of the space port) stays as it is, since the form no longer sits under it.
+
+To take it out, ask for "revert run-8 verdict 2.1". That is a release that puts the space port back above the invitation. The text as it was before this release is 4.46.3.
+
+## Run-8 verdict 2.4: who reads the message (4.46.5)
+
+What changed: on the Next page, the invitation now ends "...you're welcome to leave your details below. They come straight to me, and I'll try to keep you updated." The words "They come straight to me, and" are new (your "implement all changes for 1-3" on the run-8 verdict, item 2.4.b). It is already true, since the form sends a card to your own Telegram. Dan, the skeptic, said that with this on the page he would have typed a line and pressed Send, and in run 7 Ruth's control read sent the form because the person who answers is the one who wrote. The stronger version, "and I'll write back myself" (2.4.c), waits for your yes, since it is a promise only you can make.
+
+To take it out, ask for "revert run-8 verdict 2.4". The text as it was before this release is 4.46.4.
+
+## Run-8 verdict 3: the promise in Part zero (4.46.6)
+
+What changed: Part zero's last paragraph now ends "Part three says more about him." The clause "and about why I trust him" is gone (your "implement all changes for 1-3" on the run-8 verdict, item 3.a). Both of Ruth's run-8 reads went into section 6 looking for that why and came out without it. The promise dates from 4.3.0, when section 6 had your personal note on him; your run-5 picks (4.16.0) took the praise out and later rewrites took out the rest, so the line in Part zero had outlived what it pointed at. If you want to give the why in your own words, it goes in section 6 after the paragraph on what he does, and the clause can come back with it (verdict 3.b, fact F3).
+
+To take it out, ask for "revert run-8 verdict 3". The text as it was before this release is 4.46.5.
+
+## Run-8 verdict 2.4.c: you answer yourself (4.46.7)
+
+What changed: on the Next page, the invitation now ends "Your details come straight to me, and I'll answer you myself and try to keep you updated." It replaces 4.46.5's "They come straight to me, and I'll try to keep you updated." You said yes to F4 on 18 October ("Yes I will"), so the stronger version from item 2.4.c goes in. "They" became "Your details" so the sentence can't be read as being about the sessions described before it (4.47.0).
+
+To take it out, ask for "revert run-8 verdict 2.4.c". That puts back 4.46.5's sentence. The text as it was before this release is 4.46.6.
+
+## Run-8 verdict 2.3: what an online session is (4.47.0)
+
+What changed: on the Next page, two sentences after "...leave your details below." say what the online sessions are: "The online sessions I have in mind each take one subject, with some practical elements and answers to interesting questions. One lasts about an hour and a half, and anyone can stay longer when the discussion is good." They are your answer to F1 on 18 October, in your terms: nothing is scheduled yet, so "I have in mind", and no date, price, language or leader is named. In run 8 Josh's first reason for not sending the form was that "workshop or online session" gave him nothing to picture saying yes to. Workshops get no description, since you described only the online sessions.
+
+To take it out, ask for "revert run-8 verdict 2.3". The text as it was before this release is 4.46.7.
+
+## Run-8 verdict 2.3: the sessions are in English (4.47.1)
+
+What changed: the sentence on the Next page now reads "The online sessions I have in mind are in English, and each takes one subject, with some practical elements and answers to interesting questions." (your message of 18 October, "its in english obviously"). In run 8 Josh and Mara both named the language as something they wanted to know before saying yes.
+
+To take it out, ask for "revert in english". The text as it was before this release is 4.47.0.
+
+## Run-8 verdict 5: systems and institutes said once (4.47.2)
+
+What changed: in section 3, the sentence "Building systems and institutes that help others do the same in the best way possible is part of it." is gone (your "5. implement fully" of 18 October, run-8 verdict 5.b). Your wish to build systems and institutes stays in Part two, where your goal is stated in full, and section 3 still gives your goal in short. In run 8 Mara skimmed P3 92 as Part two repeated almost word for word, Ruth said "I am counting", and Dan underlined the word both times.
+
+To take it out, ask for "revert run-8 verdict 5". The text as it was before this release is 4.47.1.
+
+## Run-8 verdict 6: the miracles paragraph ends on the settings (4.47.3)
+
+What changed: in Part two, step 8, the paragraph that begins "Under the axiom it looks different" now ends "Healing, walking on water and floating are the doing setting." The sentence "Step 7 also says why any of it would happen: more of the whole flows through a part that holds less wall." is gone (your "6. cut it" of 18 October, run-8 verdict 6.a). It was the one strike Dan, the skeptic, took in run 8: two paragraphs earlier the powers are something the axiom only leaves room for, and that sentence gave them a cause, which he read next to Part three as "do the practice, and the settings that include floating go up." Step 7 still says the same about energy in general.
+
+To take it out, ask for "revert run-8 verdict 6". The text as it was before this release is 4.47.2.
+
+## Run-8 verdict 7.1: the physics paragraph says what it shows (4.47.4)
+
+What changed: in Part two, the physics paragraph in step 1 now says "the best physics we have says the picture of tiny separate balls is wrong at the bottom", where it said "the picture of many separate things". In run 8 Dan pointed out that quantum field theory has a couple dozen separate fields, so "many separate things" claimed more than the physics does. What the paragraph actually shows is that the picture of tiny separate balls gave way to fields, and the new words pick up its own earlier sentence ("For a few centuries the picture was tiny separate balls"). Your "7. fix it" of 18 October.
+
+To take it out, ask for "revert run-8 verdict 7.1".
+
+## Run-8 verdict 7.2: no early rebirth in step 2 (4.47.5)
+
+What changed: in Part two, step 2, "you can ignore it for a whole life, or for several" now ends at "for a whole life". In run 8 Mara caught rebirth slipping in two steps before step 5 makes the case for it. Your "7. fix it" of 18 October.
+
+To take it out, ask for "revert run-8 verdict 7.2".
+
+## Run-8 verdict 7.3: step 4 opens on the third clause (4.47.6)
+
+What changed: in Part two, step 4 now opens "The third clause says the separation ends..." The recap sentence before it, "So far that was the second clause, the separation, what holds it up and what it feels like from inside.", is gone. In run 8 Mara skimmed it as a textbook recap. The logic that ties step 4 to the axiom is all in the sentence that now opens the step. Your "7. fix it" of 18 October.
+
+To take it out, ask for "revert run-8 verdict 7.3".
+
+## Run-8 verdict 7.4: the why without the question (4.47.7)
+
+What changed: in Part two, step 1, the paragraph after the fold "But why would it do that?" now opens "The traditions give answers to why a whole would do this, and they rhyme." It used to open with the question "Why would a whole do this at all?", which Mara read in two runs as the fold's question asked a second time. Your "7. fix it" of 18 October.
+
+To take it out, ask for "revert run-8 verdict 7.4".
+
+## Run-8 verdict 7.5: step 7 points at Part one instead of retelling it (4.47.8)
+
+What changed: in Part two, step 7, the paragraph that begins "That also answers an obvious objection" now ends "Everybody has tasted it at least once, at the far corner of Part one's chart." The closing sentence that listed the flow, the zone and being in love is gone. In run 8 Mara skimmed the paragraph as Part one walked again ("I can predict them"). The flow, the zone and being in love stay in Part one, where they are explained. Your "7. fix it" of 18 October.
+
+To take it out, ask for "revert run-8 verdict 7.5".
+
+## Run-8 verdict 4: the team's shared goal (4.47.9)
+
+What changed: in section 5, the conditions paragraph now reads "The people have to be aimed at the same thing, because a group of people who simply like each other can have a lovely time and still go nowhere. Each of us came with our own way of saying what we want, and underneath it is one goal for all of us, to awaken more deeply." It used to say only "aimed at something" (your message of 06:55 on 18 October, run-8 verdict 4). In run 8 Ruth read "aimed at something" and asked "Aimed by whom?", because in the group she left the aim was always the teacher's project. Now the sentence says what the aim is and that each person brought it themselves.
+
+To take it out, ask for "revert run-8 verdict 4". The text as it was before this release is 4.47.8.
+
+## Run-8 verdict 4: on the hard days (4.47.10)
+
+What changed: in section 6, the paragraph on what he does has a new sentence after "give you something to try on Monday": "On the hard days he helps you remember what you came for in the first place, as a good coach stands by an athlete through a bad stretch." It says "as a good coach" because the next sentence already has "the way a calm, experienced guide". It is the second half of your message of 06:55 on 18 October (Genadiy helps us not forget what we came for on tough days, like a trainer with an athlete in a bad period). It says "a bad stretch" because section 5 already has "a bad season".
+
+To take it out, ask for "revert hard days". The text as it was before this release is 4.47.9.
+
+## Part two, step 8: the Reiki story cut (4.47.11)
+
+What changed: the two paragraphs telling the Reiki night ("My own road started with something I could not explain." and "That night I lay in bed...") are gone, so step 8 now opens "Every tradition keeps a list of things that look impossible, and the lists are remarkably alike." The sceptic paragraph loses its last two sentences ("It is exactly where I was, lying in bed that night..."), and Nietzsche leaves the Sources list. Why: in run 8 every reader explained the sensation as expectation, and one evening changing a worldview read as thin (your 07:17 message, "remove it then"). To undo: "revert 4.47.11".
+
+## Part two: the section One more idea is cut (4.48.0)
+
+What changed: the whole section "One more idea: how far the road goes" is gone, with its two figures (the four rooms under one assumption and the arrow of space travel) and its fold "Second births and staged maps". Part two now goes from step 8 straight to "Why the paths differ", whose first paragraph loses "which is where the map of the road ended". The Sources list loses the section and Quran 2:156; the reading pack marks the eleven entries it no longer cites. Part one still ends on the zoom out, and "Why I want this" still speaks of everything past the corner of the chart. What went with it: the line Josh scored +2, "a reason about you can not carry you out, because the reason is the thing you are trying to leave", and the sentence Mara liked, "the whole that comes back at the end knows more than the whole that set out". Why: your 07:18 comment ("lets remove it ... its not needed anymore"). To undo: "revert 4.48.0".
+
+## Part two, Why the paths differ: the last sentences (4.48.1)
+
+What changed: the end of the section was "Every tradition has met a moment like this before, with its reformers, its new schools and its new translations ... The modern world asks it once more, and there are many answers to it. Part three describes the one I chose." It is now "So the same road gets walked in many ways today, inside the old traditions and outside them, and Part three describes the one I walk." Why: Josh read "its new schools" with "the one I chose" as the history of religion framed as leading up to one school, and his guard went back up (your 07:19 comment, "ok lets correct it then"). The new sentence puts the old traditions and today's ways side by side and keeps the non-exclusive "the one I walk" that Dan credited. To undo: "revert 4.48.1".
+
+## Next page: the space port becomes an international center of human development (4.48.2)
+
+What changed: the first paragraph of the dream was "Part two used space travel to picture how far a person can go in one life ... so I call the place I dream about a space port." It is now "What I am working toward now is a dream, so please read it as one. I call it an international center of human development." The second paragraph adds "from many countries" to the people who would live there, and the last sentence reads "That international center is the next step I hope we get to take, and I would love to help build it." Why: with the space-travel section cut from Part two (4.48.0), the space port had nothing to stand on (your 07:18 comment). To undo: "revert 4.48.2".
+
+## Part two, step 5: what a life gathers is kept (4.49.0)
+
+What changed (your picks 5.1.a to 5.5.a): step 5 now opens on "You have forgotten almost every day you have lived", the events went and what they taught you stayed. The reasoning goes from the point of separation (each point of view brings back something no other could) to something that keeps the essence of a life, which the traditions call the soul. The circle readers saw ("one human life is usually not enough", Lessing in the main text) is gone. How it carries on is one short paragraph with both families of answer, afterlife and rebirth, and the axiom does not choose. Lessing, moksha and "As I read it, a soul goes deeper into separation over many lives" moved into the fold, and so did a short version of the Advaita answer to "who carries over" (the processes and processor paragraph is out of the main text). "So the soul follows from the axioms" is cut. The lamp, the browser history joke, level five and forty, dying and the fear of death stay. The lives figure has a new caption, and "Why the paths differ" now says "as step 5 says". To undo: "revert 4.49.0".
+
+## Part two, step 7: thinned (4.49.1)
+
+What changed (your pick 7.2.c): the everyday sayings ("This place has good energy..."), prana and qi in the main text, the Part one callback "Step 2 says the wall is held in the body as tension, and Part one called tension a tax", the whole paragraph on the Driven room and burnout, and "Everybody has tasted it at least once, at the far corner of Part one's chart" are gone. The step now has the definition, the tank, the mill and the line on letting go, and opens "Everybody talks about energy, and hardly anybody says what they mean by it, so here is what I mean." The Mencius item in the fold now says what qi is. The new opening (7.1) waits for your pick. To undo: "revert 4.49.1".
+
+## Part two, step 8: opens on levels of knowledge (4.49.2)
+
+What changed (your picks 8.1.a and 8.2.a, and your note that the fold list is not needed): step 8 opens "Think of something you do every day that once looked like magic to you", with reading and a phone, then the Antarova line (moved up, with the grandma joke), then "Every tradition keeps a list". The catalogue of powers ("Healing, by touch and at a distance. Reading minds. ...") is cut, and the one sentence with the traditions' own examples stays. "A miracle is a setting turned up by someone who knows where the settings are" now closes the settings paragraph, with the hacking reality line. The fold "Powers on the way, and warnings about them" is cut; the main text keeps the examples from the Buddhist discourses, the Gospels, Patanjali and Teresa, so the Sources list is unchanged. To undo: "revert 4.49.2".
+
+## Part three, sections 1 and 2: the lines that did not click are cut (4.49.3)
+
+What changed (your 07:34 comment, "remove these then"): section 1 loses "This comes first and matters most...", "to commit to the journey and to keep to it", the hard road paragraph (narrow gate, razor's edge, hero) and "with your eyes open about how hard the way is". It now says "The decision can be quiet. What it needs is that you mean it", keeps the bargaining line and ends "Many traditions call this the greatest victory there is, the one over yourself." The fold is now "The greatest victory", with the five verses on winning over yourself; the Katha Upanishad and Matthew 7:13 to 14 left the fold, the Sources list and the reading pack. Section 2 loses "a teacher can try to wake it and pass it on", the long list of reasons (now one paragraph), "You can see it from the outside, and quickly" with the project that never gets built, "Plenty of people take a few steps and stop", "real work for other people, done with your hands" and "partly by the people around you helping each other". The two sections are still separate; the merge waits for your picks in decision-and-wish-options-2026-10-18.md. To undo: "revert 4.49.3".
+
+## Part two, step 7: a new opening (4.49.4)
+
+What changed (your 08:04 "good" on 7.1.a): step 7 now opens "Spend two hours with someone you have to keep your guard up around, and you come out flat. Spend the same two hours with an old friend and you come out lighter, though you talked just as much. The talking did not use up the energy. The guarding did." It leads into the tank paragraph, which ends "a good part of the tank goes on guarding the tank". To undo: "revert 4.49.4".
+
+## Part three: sections 1 and 2 merged into Your wish, and your yes (4.50.0)
+
+What changed (your 08:07 "yes", picks 1.a 2.a 3.a 4.a 5.a of decision-and-wish-options-2026-10-18.md): "Making the decision" and "Your own wish" are one section, "1. Your wish, and your yes". It opens "Think of a time you really decided something: a move, a new job, a person. Before it, every day was a small debate. After it, the days started to line up." The yes is told as freedom: "You no longer have to bargain with yourself every morning about whether today counts", and it "often feels like putting down something heavy you had been carrying for years". The fold "The greatest victory" sits right after that paragraph. It ends "Whatever it says, nothing is wrong with you. Do something concrete, and say yes again tomorrow." Sections 3 to 10 are now 2 to 9, and the three cross-references (stillness in section 7, the wishes in section 1, twice) and the Sources headings follow. The line before the sections now says "Your own wish, and the yes that goes with it, come first for everyone." To undo: "revert 4.50.0".
+
+## Part three, section 2: the reason is the reader's, and the repeats are gone (4.50.1)
+
+What changed (your 08:21 "lets do a + lets remove repetitions from previous parts"): the reason paragraph no longer repeats your own point of support from Part two. It now reads "Behind each goal sits a reason, and the reason is what keeps you going after the first excitement wears off. The goal can be small as long as the reason is bigger than you. You plan the family trip because you want your kids to grow up feeling that home is a warm place. You finish the draft because someone out there may need what is in it." The opening recap of Part one's chart is now one line, "In this method you set outer goals, and you judge the inner growth by them." The paragraph "Inner work is real work..." is folded into the goal paragraph as two sentences, keeping "A calm sit feels like progress whether or not anything has changed", and the compass callback is gone. The caution loses its pointer to section 1 and keeps "you have rebuilt the Driven room with better vocabulary". To undo: "revert 4.50.1".
+
+## Part three: fewer of in this method (4.50.2)
+
+What changed (your 08:25 "too much in this method"): section 2 now opens "You set outer goals, and you judge the inner growth by them." and the next paragraph begins "A good goal has three properties." In section 8 the second "In this method" goes too: "Discipline grows from the outside in." Part three now says "this method" twice, in sections 6 and 8, a few pages apart. To undo: "revert 4.50.2".
+
+## The teacher section: lineage lines shortened and the fold 'My teacher and I' (item 1.a of the remaining low points, and your 09:56 message) (4.51.0)
+
+Josh and Ruth both read 'people who, as he tells it, had woken up' and the line of teachers as the lineage story every group tells, and Ruth never learned why you trust Genadiy. Paragraph 2 now says 'In his teens he met people who had something he wanted', and the lineage paragraph opens with one sentence: 'The method came to him through a line of teachers, and he adapted it to life in the 21st century.' A new fold under paragraph 2, 'My teacher and I', tells your own story from your 09:56 message: Arun's book, the workshop in Israel, Sochi, the fever dream and the click. The book is in the Sources list and the reading pack (03-non-religious-thinkers.md). To undo: "revert 4.51.0".
+
+## Part three: fewer section endings that point at other people (item 2.a of the remaining low points) (4.51.1)
+
+Josh started counting how many sections end by pointing at other people. The last paragraph of Discipline ('Other people make all of this easier...') is cut, and Mirror work now ends 'you can't see which hooks you have until someone leans on them, and the people already in your life do that every day.' Attention keeps 'If you already sit'. To undo: "revert 4.51.1".
+
+## Part three: the energy paragraph in 'Two things a life needs' cut (item 3.a of the remaining low points) (4.51.2)
+
+The paragraph recapping Part two's step on energy is cut (Ruth control read it as a recap, and Josh's guard went up at the people who share it). Giving and The team say it later. The next paragraph opens 'Direction is the other supply.' To undo: "revert 4.51.2".
+
+## Part three, the team: the accountability paragraph and the cable cut, 'your own village' (item 4.a of the remaining low points) (4.51.3)
+
+Josh skimmed the accountability paragraph as standard productivity advice, 'reignite each other's passion' is the line that took his colleague to weekly sessions, and Ruth gave the village line a -1. The 'second thing' paragraph and the cable image are cut, the first paragraph opens 'A team holds you up in the hard moments', the meeting line reads 'So friends who want the same thing remind each other what they came for', and the section ends 'You have to build your own village on purpose.' To undo: "revert 4.51.3".
+
+## Part three, mentorship: one sentence cut and two paragraphs merged (item 5.a of the remaining low points) (4.51.4)
+
+Josh read 'it took me a while to see that most of it had been right' as a hint to stop trusting your own judgement, and he skimmed the third paragraph making the same point. The sentence is cut, and 'The biggest effect...' and the osmosis paragraph are one paragraph now, keeping 'sit across from someone for whom it is ordinary' and the roommate accent. To undo: "revert 4.51.4".
+
+## Part three, discipline: the instrument line and the gym comparison cut (item 6.a of the remaining low points) (4.51.5)
+
+Josh called the gym comparison the most generic thing in the part, and both Ruths skimmed it. It is cut, and so is 'Nobody learned an instrument or a sport on inspiration alone.' To undo: "revert 4.51.5".
+
+## Part three, attention: meeting with others made optional (item 7.a of the remaining low points) (4.51.6)
+
+Josh: 'assumes I'm meeting others, which I'm not.' It now reads 'If you meet with others, how often depends on where you live'. To undo: "revert 4.51.6".
+
+## Part three, what you can check: one question for the road (item 8.a of the remaining low points) (4.51.7)
+
+Josh read the energy question twice and found it puzzling, and the second question hit both target readers. It is one question now: 'who in your life could tell you honestly how you have changed?' To undo: "revert 4.51.7".
+
+## Part three: the first sentence opened to anyone who wants to begin (item 9.a of the remaining low points) (4.51.8)
+
+Josh read the first sentence as a gate ('Have I?'). It now opens to anyone who wants to begin, and most of all to those who feel they have crossed the turn. To undo: "revert 4.51.8".
+
+## Part two, why I want this: the institutes sentence cut (item 10.a of the remaining low points) (4.51.9)
+
+Josh, Ruth and Ruth control all flagged 'build systems and institutes' as founder voice. The Next page now tells the dream, so the sentence is cut here too, and Part two no longer names it. To undo: "revert 4.51.9".
+
+## Part two, step 8: the paragraph on seeing the future cut (item 11.c of the remaining low points) (4.51.10)
+
+Josh read it as a teaser for a workshop. The whole paragraph is cut, so step 8 ends on the printer joke. To undo: "revert 4.51.10".
+
+## Part two, step 8: the examples of each setting cut (item 12.a of the remaining low points) (4.51.11)
+
+Ruth tuned out at 'walking on water' as a setting. The two sentences that sort the powers into settings are cut; the paragraph goes from 'one of those settings turned up a little' to the hacking line. To undo: "revert 4.51.11".
+
+## Part two, step 2: the NPC paragraph shortened (item 13.a of the remaining low points) (4.51.12)
+
+Both Ruths lost the thread at the NPC paragraph ('too many machines'). It keeps the NPC and the player's character, and the code sentence and the line about compatibilists are cut. To undo: "revert 4.51.12".
+
+## Part two, step 1: the physics paragraph cut to about half (item 14.a of the remaining low points) (4.51.13)
+
+Ruth gave it a -1 and Ruth control's guard went up. It keeps the warning-label joke, the fields and the ripples and the cousin line; the entangled particles, Bell, the 2022 prize and 'I'm not claiming any of this proves' are cut. The Sources list drops Bell and the prize, and the reading pack marks the Bell entry no longer cited. To undo: "revert 4.51.13".
+
+## Part two, the axiom and the machine: Meltdown and Spectre cut (item 15.a of the remaining low points) (4.51.14)
+
+Both Ruths skimmed it. The clause and its line in the Sources list are cut, and the reading pack marks the entry no longer cited. One machine detail fewer, as you asked on 10-17. To undo: "revert 4.51.14".
+
+## Part two, step 6: 'something bigger than yourself evens it out' cut (item 16.a of the remaining low points) (4.51.15)
+
+Ruth: 'that's how a cause starts.' The sentence is cut, and the paragraph ends on 'a useful name for the pull of what you haven't mended.' To undo: "revert 4.51.15".
 
 ## Where Part three leans on Part two
 

@@ -8,6 +8,226 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.51.15 (2026-10-18)
+
+- Part two, step 6: 'something bigger than yourself evens it out' cut (item 16.a, your 10:02 message)
+
+
+## 4.51.14 (2026-10-18)
+
+- Part two, the axiom and the machine: Meltdown and Spectre cut (item 15.a, your 10:02 message)
+
+
+## 4.51.13 (2026-10-18)
+
+- Part two, step 1: the physics paragraph cut to about half (item 14.a, your 10:02 message)
+
+
+## 4.51.12 (2026-10-18)
+
+- Part two, step 2: the NPC paragraph shortened (item 13.a, your 10:02 message)
+
+
+## 4.51.11 (2026-10-18)
+
+- Part two, step 8: the examples of each setting cut (item 12.a, your 10:02 message)
+
+
+## 4.51.10 (2026-10-18)
+
+- Part two, step 8: the paragraph on seeing the future cut (item 11.c, your 10:02 message)
+
+
+## 4.51.9 (2026-10-18)
+
+- Part two, why I want this: the institutes sentence cut (item 10.a, your 10:02 message)
+
+
+## 4.51.8 (2026-10-18)
+
+- Part three: the first sentence opened to anyone who wants to begin (item 9.a, your 10:02 message)
+
+
+## 4.51.7 (2026-10-18)
+
+- Part three, what you can check: one question for the road (item 8.a, your 10:02 message)
+
+
+## 4.51.6 (2026-10-18)
+
+- Part three, attention: meeting with others made optional (item 7.a, your 10:02 message)
+
+
+## 4.51.5 (2026-10-18)
+
+- Part three, discipline: the instrument line and the gym comparison cut (item 6.a, your 10:02 message)
+
+
+## 4.51.4 (2026-10-18)
+
+- Part three, mentorship: one sentence cut and two paragraphs merged (item 5.a, your 10:02 message)
+
+
+## 4.51.3 (2026-10-18)
+
+- Part three, the team: the accountability paragraph and the cable cut, 'your own village' (item 4.a, your 10:02 message)
+
+
+## 4.51.2 (2026-10-18)
+
+- Part three: the energy paragraph in 'Two things a life needs' cut (item 3.a, your 10:02 message)
+
+
+## 4.51.1 (2026-10-18)
+
+- Part three: fewer section endings that point at other people (item 2.a, your 10:02 message)
+
+
+## 4.51.0 (2026-10-18)
+
+- Part three: the teacher section's lineage lines shortened, and the fold 'My teacher and I' with Alex's own story of why he follows Genadiy
+
+
+## 4.50.2 (2026-10-18)
+
+- Part three: 'in this method' cut from sections 2 and 8 (your 08:25 message)
+
+
+## 4.50.1 (2026-10-18)
+
+- Part three, section 2: the reason behind a goal is told with the reader's own examples; recaps of Parts one and two cut (your 08:21 message)
+
+
+## 4.50.0 (2026-10-18)
+
+- Part three: 'Making the decision' and 'Your own wish' merged into one shorter section, '1. Your wish, and your yes', opening on a time you really decided something; sections renumbered 1 to 9 (your 08:07 yes)
+
+
+## 4.49.4 (2026-10-18)
+
+- Part two, step 7: opens on two hours guarded against two hours with an old friend (your pick 7.1.a)
+
+
+## 4.49.3 (2026-10-18)
+
+- Part three, sections 1 and 2: the lines that did not click with Josh and Ruth are cut; the fold is now 'The greatest victory' with five verses (your 07:34 comment)
+
+
+## 4.49.2 (2026-10-18)
+
+- Part two, step 8: opens on levels of knowledge from the reader's own life, Antarova moved up, the catalogue of powers and the powers fold cut (your picks 8.1.a, 8.2.a)
+
+
+## 4.49.1 (2026-10-18)
+
+- Part two, step 7: thinned; the sayings, prana and qi, the Part one callbacks and the Driven-room paragraph are cut (your pick 7.2.c)
+
+
+## 4.49.0 (2026-10-18)
+
+- Part two, step 5: opens on the forgotten days whose lessons stayed; something keeps the essence of a life (the soul); afterlife and rebirth side by side; Lessing, moksha and the Advaita answer move to the fold (your picks 5.1.a to 5.5.a)
+
+
+## 4.48.2 (2026-10-18)
+
+- Next page: the space port is renamed an international center of human development, since Part two no longer has the space-travel picture (your 07:18 comment)
+
+
+## 4.48.1 (2026-10-18)
+
+- Part two, Why the paths differ: the history-of-schools sentences become 'So the same road gets walked in many ways today, inside the old traditions and outside them, and Part three describes the one I walk.' (your 07:19 comment)
+
+
+## 4.48.0 (2026-10-18)
+
+- Part two: the section 'One more idea: how far the road goes' is cut, with its figures and fold (your 07:18 comment). Why the paths differ no longer points back to it; Sources list and reading pack updated
+
+
+## 4.47.11 (2026-10-18)
+
+- Part two, step 8: the Reiki story is cut; the step opens on the traditions' lists (your 07:17 message). Nietzsche leaves the Sources list and the reading pack marks him no longer cited
+
+
+## 4.47.10 (2026-10-18)
+
+- Part three, section 6: new sentence "On the hard days he helps you remember what you came for in the first place, as a good coach stands by an athlete through a bad stretch." (your 06:55 message). Notes for Alex updated
+
+
+## 4.47.9 (2026-10-18)
+
+- Part three, section 5: "aimed at something" becomes "aimed at the same thing", and a new sentence says each of us came with our own way of saying what we want, and underneath it is one goal for all of us, to awaken more deeply (run-8 verdict 4, your 06:55 message). Notes for Alex updated
+
+
+## 4.47.8 (2026-10-18)
+
+- Part two, step 7: the objection paragraph ends "Everybody has tasted it at least once, at the far corner of Part one's chart."; the list of flow, the zone and being in love is gone (run-8 verdict 7.5). Notes for Alex updated
+
+
+## 4.47.7 (2026-10-18)
+
+- Part two, step 1: "Why would a whole do this at all? The traditions give answers, and they rhyme." becomes "The traditions give answers to why a whole would do this, and they rhyme." (run-8 verdict 7.4). Notes for Alex updated
+
+
+## 4.47.6 (2026-10-18)
+
+- Part two, step 4: the recap sentence "So far that was the second clause..." is gone; the step opens "The third clause says the separation ends..." (run-8 verdict 7.3). Notes for Alex updated
+
+
+## 4.47.5 (2026-10-18)
+
+- Part two, step 2: "you can ignore it for a whole life, or for several" ends at "for a whole life" (run-8 verdict 7.2). Notes for Alex updated
+
+
+## 4.47.4 (2026-10-18)
+
+- Part two, step 1, physics: "the picture of many separate things is wrong at the bottom" becomes "the picture of tiny separate balls is wrong at the bottom" (run-8 verdict 7.1, an accuracy fix). Notes for Alex updated
+
+
+## 4.47.3 (2026-10-18)
+
+- Part two, step 8: the miracles paragraph ends on "...are the doing setting."; "Step 7 also says why any of it would happen: more of the whole flows through a part that holds less wall." is gone (run-8 verdict 6.a). The text without this release is 4.47.2. Notes for Alex updated
+
+
+## 4.47.2 (2026-10-18)
+
+- Part three, section 3: "Building systems and institutes that help others do the same in the best way possible is part of it." is gone; it stays in Part two (run-8 verdict 5.b). The text without this release is 4.47.1. Notes for Alex updated
+
+
+## 4.47.1 (2026-10-18)
+
+- Next page: "The online sessions I have in mind are in English, and each takes one subject..." (your message, "its in english obviously"). The text without this release is 4.47.0. Notes for Alex updated
+
+
+## 4.47.0 (2026-10-18)
+
+- Next page: two sentences say what the online sessions are, one subject each with practical elements and answers to interesting questions, about an hour and a half and longer when the discussion is good (run-8 verdict 2.3, your answer to F1). The text without this release is 4.46.7. Notes for Alex updated
+
+
+## 4.46.7 (2026-10-18)
+
+- Next page: the invitation ends "Your details come straight to me, and I will answer you myself and try to keep you updated." (run-8 verdict 2.4.c, your yes to F4). The text without this release is 4.46.6. Notes for Alex updated
+
+
+## 4.46.6 (2026-10-18)
+
+- Part zero: "Part three says more about him, and about why I trust him." becomes "Part three says more about him." (run-8 verdict 3.a). The text without this release is 4.46.5. Notes for Alex updated
+
+
+## 4.46.5 (2026-10-18)
+
+- Next page: the invitation ends "...leave your details below. They come straight to me, and I will try to keep you updated." The words "They come straight to me, and" are new (run-8 verdict 2.4.b). The text without this release is 4.46.4. Notes for Alex updated
+
+
+## 4.46.4 (2026-10-18)
+
+- Next page: the invitation and the form come first, and the three paragraphs on the space port follow them. No words changed (run-8 verdict 2.1.b, your "implement all changes for 1-3"). The text without this release is 4.46.3. CLAUDE.md and the notes for Alex updated
+
+
+## 4.46.3 (2026-10-18)
+
+- Part three, section 6: "He says what he sees to the whole team, and each person..." becomes "He says what he sees, and each person..." (run-8 verdict 1.b, your "implement all changes for 1-3"). "When one person is simply wrong, that gets said too." stays. The text without this release is 4.46.2. Notes for Alex updated
+
+
 ## 4.46.2 (2026-10-17)
 
 - Part one, "The reason bigger than you": the Anokhin entry in the fold "What the studies say" is reworded to sit in the fold like the entries after it (your 22:12 message). "...you search for another way." now ends "...you search for another way (Anokhin, 1973)." and the last three sentences, "Anokhin never asked whether the goal is about you or about somebody else. His theory is about what a goal does. The next ones ask which kind.", become one: "The theory is about what a goal does, and it doesn't ask whether the goal is about you or about somebody else." The first three sentences and the figure are as they were. The text without this release is 4.46.1. Notes for Alex updated
