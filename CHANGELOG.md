@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.51.0 (2026-10-18)
+
+- Part three: the teacher section's lineage lines shortened, and the fold 'My teacher and I' with Alex's own story of why he follows Genadiy
+
+
 ## 4.50.2 (2026-10-18)
 
 - Part three: 'in this method' cut from sections 2 and 8 (your 08:25 message)
