@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.47.9 (2026-10-18)
+
+- Part three, section 5: "aimed at something" becomes "aimed at the same thing", and a new sentence says each of us came with our own way of saying what we want, and underneath it is one goal for all of us, to awaken more deeply (run-8 verdict 4, your 06:55 message). Notes for Alex updated
+
+
 ## 4.47.8 (2026-10-18)
 
 - Part two, step 7: the objection paragraph ends "Everybody has tasted it at least once, at the far corner of Part one's chart."; the list of flow, the zone and being in love is gone (run-8 verdict 7.5). Notes for Alex updated

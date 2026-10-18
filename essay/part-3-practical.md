@@ -111,7 +111,7 @@ The first thing a team does is hold you up in the hard moments. When your mood f
 
 The second thing is the one everybody expects: a team gets more done than the same people working alone. People keep a promise made to another person more reliably than one made to themselves, and effort is contagious, so it is harder to coast next to someone who is really trying.
 
-It comes with conditions. The people have to be aimed at something, because a group of people who simply like each other can have a lovely time and still go nowhere. The group also has to settle its conflicts quickly, by talking them through. A quarrel reverses the effect: the same closeness that lifts a team weighs it down when there is a wall between two of its members.
+It comes with conditions. The people have to be aimed at the same thing, because a group of people who simply like each other can have a lovely time and still go nowhere. Each of us came with our own way of saying what we want, and underneath it is one goal for all of us, to awaken more deeply. The group also has to settle its conflicts quickly, by talking them through. A quarrel reverses the effect: the same closeness that lifts a team weighs it down when there is a wall between two of its members.
 
 The people also have to want it, and this is where the team meets the wish from section 2. A team multiplies whatever is put into it, and anything times nothing is still nothing, a fact your math teacher and your guru would both confirm. A good team that doesn't want to play is a good roster with a bad season. A group of people who each really want to move gives everyone in it much more than any of them could find alone, like a cable made of many strands.
 
