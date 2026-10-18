@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.48.1 (2026-10-18)
+
+- Part two, Why the paths differ: the history-of-schools sentences become 'So the same road gets walked in many ways today, inside the old traditions and outside them, and Part three describes the one I walk.' (your 07:19 comment)
+
+
 ## 4.48.0 (2026-10-18)
 
 - Part two: the section 'One more idea: how far the road goes' is cut, with its figures and fold (your 07:18 comment). Why the paths differ no longer points back to it; Sources list and reading pack updated
