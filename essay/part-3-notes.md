@@ -391,6 +391,12 @@ What changed: in Part one, the Anokhin entry at the top of the fold "What the st
 
 To take it out, ask for "revert anokhin wording". That is a release that puts the old ending back, without the citation. The text as it was before this release is 4.46.1, commit 9f2ccba.
 
+## Run-8 verdict 1: "to the whole team" out (4.46.3)
+
+What changed: in section 6, the sentence in the paragraph that begins "A teacher does one more job." now reads "He says what he sees, and each person goes looking for their own part in the conflict." The words "to the whole team" are gone (your "implement all changes for 1-3" on the run-8 verdict, item 1.b). In run 8 every reader who stopped there pictured a verdict said in front of the group: Josh's lowest point in the essay, the line Ruth said weighed most, and a -1 from Dan. "When one person is simply wrong, that gets said too." stays, because Dan named it as the sentence that answered his question from the karma step. Nothing else in the paragraph changed.
+
+To take it out, ask for "revert run-8 verdict 1". That is a release that puts the three words back. The text as it was before this release is 4.46.2, commit d5a6487.
+
 ## Where Part three leans on Part two
 
 Each pointer is one clause, and none restates the step it points at. Names, not step numbers: Part two gained a step in 4.32.0 and its steps 3 to 7 became 4 to 8, which moved nothing here.

@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.46.3 (2026-10-18)
+
+- Part three, section 6: "He says what he sees to the whole team, and each person..." becomes "He says what he sees, and each person..." (run-8 verdict 1.b, your "implement all changes for 1-3"). "When one person is simply wrong, that gets said too." stays. The text without this release is 4.46.2. Notes for Alex updated
+
+
 ## 4.46.2 (2026-10-17)
 
 - Part one, "The reason bigger than you": the Anokhin entry in the fold "What the studies say" is reworded to sit in the fold like the entries after it (your 22:12 message). "...you search for another way." now ends "...you search for another way (Anokhin, 1973)." and the last three sentences, "Anokhin never asked whether the goal is about you or about somebody else. His theory is about what a goal does. The next ones ask which kind.", become one: "The theory is about what a goal does, and it doesn't ask whether the goal is about you or about somebody else." The first three sentences and the figure are as they were. The text without this release is 4.46.1. Notes for Alex updated
