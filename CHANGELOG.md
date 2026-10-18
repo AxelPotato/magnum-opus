@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.55.0 (2026-10-18)
+
+- Part two, step 4: two sentences for readers whose emptiness is a depression (item 4.a)
+
+
 ## 4.54.2 (2026-10-18)
 
 - Next: "You're welcome to come to just one and see how it feels." (item 3.a, F1)
