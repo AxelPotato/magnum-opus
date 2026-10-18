@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.51.3 (2026-10-18)
+
+- Part three, the team: the accountability paragraph and the cable cut, 'your own village' (item 4.a, your 10:02 message)
+
+
 ## 4.51.2 (2026-10-18)
 
 - Part three: the energy paragraph in 'Two things a life needs' cut (item 3.a, your 10:02 message)
