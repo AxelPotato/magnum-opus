@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.57.0 (2026-10-18)
+
+- Part three, opening: what a reader can do alone, and where other people come in (item 6.a)
+
+
 ## 4.56.0 (2026-10-18)
 
 - Part three, Giving: what something bigger can be, and Part one's two questions (item 5.a)
