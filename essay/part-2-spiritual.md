@@ -285,8 +285,6 @@ Under the axiom it looks different, and step 2 has already done most of the work
 
 There is a catch, and the traditions agree about it more than about almost anything else. Nearly every one that describes these powers also warns against chasing them. Patanjali lists them and then says that, however much they look like achievements to a mind still facing outward, they are obstacles to samadhi, the deepest absorption. The Buddha said that displays of psychic power horrified him, and that the miracle he valued was instruction. Jesus refused to give a sign on demand. Teresa of Avila, who was seen lifted off the ground, begged God to stop giving her favors that other people could see. My teacher says exactly the same: the powers are side effects of an inner state, and getting carried away by them ends badly. Chasing them is the separate self wanting more for itself, which is the tank from step 7 again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
 
-One thing is missing from this list on purpose: seeing the future. It is also connected to the knowledge dial but has a catch to it. The short version is that there is no future to see, only now. That one needs a longer conversation than this part has room for.
-
 ## Why the paths differ
 
 If one structure sits behind all this, a fair question follows. Why do the religions look so different from one another, and why do they keep changing?
