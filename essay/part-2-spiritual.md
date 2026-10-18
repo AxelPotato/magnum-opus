@@ -269,21 +269,15 @@ Letting go is how the wheel opens, which is why so many traditions describe the 
 * A prayer attributed to Rabia of Basra, the early Sufi woman saint, asks that if she worships God for fear of hell, God should burn her in it, if for hope of paradise, shut her out of it, and if for God's own sake, not withhold his beauty from her.
 * Buddhism and Jainism have no creator God to pray to, and both keep devotion toward those who have fully woken up, the buddhas and the Jinas, mostly as examples of where the road leads.
 
-## 8. Miracles, the levels of knowledge
+#### Miracles, and the warning against them
 
-Think of something you do every day that once looked like magic to you. Before you could read, a grown-up could look at marks on a page and know a whole story, and you had no idea how. Your phone would look like a miracle to anyone from a few centuries ago. Nothing about the world changed in between. What changed is how much the person in front of it knows.
+* Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge. Under the axiom a miracle would be one of the settings from step 2 turned up a little, by someone who knows where the settings are. My grandma already thinks I'm a black magician every time I fix the computer, so I'm halfway there.
+* Nearly every tradition that describes such powers also warns against chasing them. Patanjali lists them in the Yoga Sutras and then says that, however much they look like achievements to a mind still facing outward, they are obstacles to samadhi, the deepest absorption (3.37).
+* The Buddha said that displays of psychic power horrified him, and that the miracle he valued was instruction (Digha Nikaya 11).
+* Jesus refused to give a sign on demand (Matthew 12:38-39).
+* Teresa of Avila, who was seen lifted off the ground, begged God to stop giving her favors that other people could see (The Life, chapter 20).
 
-Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge. That is this whole step in one sentence. My grandma already thinks I'm a black magician every time I fix the computer, so I'm halfway there.
-
-Every tradition keeps a list of things that look impossible, and the lists are remarkably alike. Let me be clear about what I'm doing here, because this is the most controversial step in the essay. I'm not trying to prove that any of these things happen or are real. To be honest I don't personally care. My claim is smaller and, I think, more interesting: the axiom leaves room for them, and the materialist view of separation leaves none.
-
-The Buddhist discourses list walking on water as if it were earth and flying cross-legged through the sky, the Gospels have Jesus walking on the sea, Patanjali's Yoga Sutras have reading the thoughts of others and rising above water and mire, and Teresa of Avila wrote that her body was sometimes lifted up from the ground.
-
-If the world is made of separate things and a mind is something a brain does, then knowing what is in another head without being told, or moving something without touching it, breaks the rules the view is built on. So every report has to be filed under something else before anybody looks at it: illness, lying, luck, a bad memory, Photoshop. A careful sceptic says something fairer, that they don't rule it out and just want evidence as strong as the claim. I agree with that sceptic.
-
-Under the axiom it looks different, and step 2 has already done most of the work. The whole turned down four settings for each point of view: what it can know, what it can do, its clock and its need. In this picture a miracle is one of those settings turned up a little. A miracle is a setting turned up by someone who knows where the settings are, and to everyone else it looks like hacking reality, which might explain my choice of career.
-
-There is a catch, and the traditions agree about it more than about almost anything else. Nearly every one that describes these powers also warns against chasing them. Patanjali lists them and then says that, however much they look like achievements to a mind still facing outward, they are obstacles to samadhi, the deepest absorption. The Buddha said that displays of psychic power horrified him, and that the miracle he valued was instruction. Jesus refused to give a sign on demand. Teresa of Avila, who was seen lifted off the ground, begged God to stop giving her favors that other people could see. My teacher says exactly the same: the powers are side effects of an inner state, and getting carried away by them ends badly. Chasing them is the separate self wanting more for itself, which is the tank from step 7 again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
+  Chasing them is the separate self wanting more for itself, which is the tank from this step again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
 
 ## Why the paths differ
 
@@ -388,13 +382,10 @@ The axiom and the machine
 - Mencius 2A:2, translated by Legge, J., The Works of Mencius (The Chinese Classics, vol. II).
 - The Baal Shem Tov on Psalm 16, and bittul, in the Hasidic tradition. Philippians 2:5-8. Eckhart, German sermons (Walshe's translation, revised by McGinn). Majjhima Nikaya 118.
 - Shankara on Brahman and Ishvara. Quran 50:16. Psalm 16:8. Buber, M. (1923). I and Thou (Ich und Du). Ephesians 2:8. The prayer attributed to Rabia of Basra in the Sufi tradition (retold in later sources).
-
-8. Miracles, the levels of knowledge
-
 - Antarova, K. E. Two Lives (Две жизни), Part I: «нет чудес, а есть та или иная степень знания». The English is the author's own translation.
-- Digha Nikaya 2 (the Samannaphala Sutta) and Digha Nikaya 11 (the Kevaddha Sutta), Sujato's translations (SuttaCentral).
-- Patanjali, Yoga Sutras 3.19, 3.37 and 3.39, numbered as in Johnston, C. (1912), The Yoga Sutras of Patanjali: The Book of the Spiritual Man.
-- Matthew 14:25-29 and 12:38-39.
+- Patanjali, Yoga Sutras 3.37, numbered as in Johnston, C. (1912), The Yoga Sutras of Patanjali: The Book of the Spiritual Man.
+- Digha Nikaya 11, the Kevaddha Sutta (Sujato's translation, SuttaCentral).
+- Matthew 12:38-39.
 - Teresa of Avila, The Life of St. Teresa of Jesus, chapter 20 (Lewis, D., trans., 1904).
 
 Why the paths differ

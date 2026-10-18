@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.52.0 (2026-10-18)
+
+- Part two: step 8 (Miracles) becomes the fold "Miracles, and the warning against them" at the end of step 7; chain figure has seven steps; Sources and reading pack updated (Josh and Ruth joint read, option a)
+
+
 ## 4.51.15 (2026-10-18)
 
 - Part two, step 6: 'something bigger than yourself evens it out' cut (item 16.a, your 10:02 message)
