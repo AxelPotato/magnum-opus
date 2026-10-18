@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.47.2 (2026-10-18)
+
+- Part three, section 3: "Building systems and institutes that help others do the same in the best way possible is part of it." is gone; it stays in Part two (run-8 verdict 5.b). The text without this release is 4.47.1. Notes for Alex updated
+
+
 ## 4.47.1 (2026-10-18)
 
 - Next page: "The online sessions I have in mind are in English, and each takes one subject..." (your message, "its in english obviously"). The text without this release is 4.47.0. Notes for Alex updated

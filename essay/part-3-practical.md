@@ -89,7 +89,7 @@ A goal in this method has three properties. It's short, meaning weeks or months.
 
 Inner work is real work, and from the inside it can be hard to tell whether it's working. A calm sit feels like progress whether or not anything has changed. The compass will tell you, but it reads over months. A goal turns the calm into something you can test sooner. It also gets your energy moving, which is its second job. A goal you care about pulls effort out of you that plain willpower never would.
 
-Then there's the reason behind the goal. Part two called mine a point of support, the thing I live for that is bigger than me: to know who I am and what it means to exist, and to share it so that other people's lives get better and happier. Building systems and institutes that help others do the same in the best way possible is part of it. The goal can be small as long as the reason is bigger than you, and Part one made the case for that. The reason keeps a person going after the first excitement has worn off.
+Then there's the reason behind the goal. Part two called mine a point of support, the thing I live for that is bigger than me: to know who I am and what it means to exist, and to share it so that other people's lives get better and happier. The goal can be small as long as the reason is bigger than you, and Part one made the case for that. The reason keeps a person going after the first excitement has worn off.
 
 One caution, since the outer goals can turn on you. Doing more with your life is one of the wishes in section 2, and results are how you check the work. They are an indicator and never the aim. If you start chasing them for their own sake, you've rebuilt the Driven room with better vocabulary.
 
