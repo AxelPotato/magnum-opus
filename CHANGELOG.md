@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.59.12 (2026-10-18)
+
+- Part two, Why I want this: "That is what I stand on" (item 21.3.a)
+
+
 ## 4.59.11 (2026-10-18)
 
 - Part one, the line: the fixed budget paragraph cut (item 21.2.a)
