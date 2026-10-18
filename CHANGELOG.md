@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.51.12 (2026-10-18)
+
+- Part two, step 2: the NPC paragraph shortened (item 13.a, your 10:02 message)
+
+
 ## 4.51.11 (2026-10-18)
 
 - Part two, step 8: the examples of each setting cut (item 12.a, your 10:02 message)
