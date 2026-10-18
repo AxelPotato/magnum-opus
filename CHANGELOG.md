@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.51.15 (2026-10-18)
+
+- Part two, step 6: 'something bigger than yourself evens it out' cut (item 16.a, your 10:02 message)
+
+
 ## 4.51.14 (2026-10-18)
 
 - Part two, the axiom and the machine: Meltdown and Spectre cut (item 15.a, your 10:02 message)
