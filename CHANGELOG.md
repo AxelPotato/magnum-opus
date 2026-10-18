@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.59.7 (2026-10-18)
+
+- Part zero: the handed-it-to-you sentence moves to the end of the Part one paragraph (item 20.1.a)
+
+
 ## 4.59.6 (2026-10-18)
 
 - Part three, the team: "a fact your math teacher would confirm" (item 19.a)
