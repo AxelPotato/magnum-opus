@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.46.5 (2026-10-18)
+
+- Next page: the invitation ends "...leave your details below. They come straight to me, and I will try to keep you updated." The words "They come straight to me, and" are new (run-8 verdict 2.4.b). The text without this release is 4.46.4. Notes for Alex updated
+
+
 ## 4.46.4 (2026-10-18)
 
 - Next page: the invitation and the form come first, and the three paragraphs on the space port follow them. No words changed (run-8 verdict 2.1.b, your "implement all changes for 1-3"). The text without this release is 4.46.3. CLAUDE.md and the notes for Alex updated

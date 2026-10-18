@@ -403,6 +403,12 @@ What changed: the Next page now opens with the invitation ("If you've read the f
 
 To take it out, ask for "revert run-8 verdict 2.1". That is a release that puts the space port back above the invitation. The text as it was before this release is 4.46.3.
 
+## Run-8 verdict 2.4: who reads the message (4.46.5)
+
+What changed: on the Next page, the invitation now ends "...you're welcome to leave your details below. They come straight to me, and I'll try to keep you updated." The words "They come straight to me, and" are new (your "implement all changes for 1-3" on the run-8 verdict, item 2.4.b). It is already true, since the form sends a card to your own Telegram. Dan, the skeptic, said that with this on the page he would have typed a line and pressed Send, and in run 7 Ruth's control read sent the form because the person who answers is the one who wrote. The stronger version, "and I'll write back myself" (2.4.c), waits for your yes, since it is a promise only you can make.
+
+To take it out, ask for "revert run-8 verdict 2.4". The text as it was before this release is 4.46.4.
+
 ## Where Part three leans on Part two
 
 Each pointer is one clause, and none restates the step it points at. Names, not step numbers: Part two gained a step in 4.32.0 and its steps 3 to 7 became 4 to 8, which moved nothing here.
