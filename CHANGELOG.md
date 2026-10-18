@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.51.11 (2026-10-18)
+
+- Part two, step 8: the examples of each setting cut (item 12.a, your 10:02 message)
+
+
 ## 4.51.10 (2026-10-18)
 
 - Part two, step 8: the paragraph on seeing the future cut (item 11.c, your 10:02 message)
