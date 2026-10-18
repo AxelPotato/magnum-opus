@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.47.7 (2026-10-18)
+
+- Part two, step 1: "Why would a whole do this at all? The traditions give answers, and they rhyme." becomes "The traditions give answers to why a whole would do this, and they rhyme." (run-8 verdict 7.4). Notes for Alex updated
+
+
 ## 4.47.6 (2026-10-18)
 
 - Part two, step 4: the recap sentence "So far that was the second clause..." is gone; the step opens "The third clause says the separation ends..." (run-8 verdict 7.3). Notes for Alex updated
