@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.47.4 (2026-10-18)
+
+- Part two, step 1, physics: "the picture of many separate things is wrong at the bottom" becomes "the picture of tiny separate balls is wrong at the bottom" (run-8 verdict 7.1, an accuracy fix). Notes for Alex updated
+
+
 ## 4.47.3 (2026-10-18)
 
 - Part two, step 8: the miracles paragraph ends on "...are the doing setting."; "Step 7 also says why any of it would happen: more of the whole flows through a part that holds less wall." is gone (run-8 verdict 6.a). The text without this release is 4.47.2. Notes for Alex updated
