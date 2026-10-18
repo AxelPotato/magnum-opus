@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.59.6 (2026-10-18)
+
+- Part three, the team: "a fact your math teacher would confirm" (item 19.a)
+
+
 ## 4.59.5 (2026-10-18)
 
 - Part three, mirror work: "my teammate" in two places (item 18.a)
