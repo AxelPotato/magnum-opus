@@ -158,8 +158,6 @@ Discipline grows from the outside in. A fixed time for the sit and a meeting tha
 
 Keep it light, and keep it yours: a demand you make on yourself, in a friendly tone. Gritting your teeth through a sit adds tension, which is the thing the sit is there to remove, so keep the frame small enough to hold without a fight. Five minutes every day is a frame you can keep, and a frame you keep teaches your mind that you can trust your own word. When a day slips, pick it up the next day without a speech about it.
 
-Other people make all of this easier. A pair who notices a missed day and a team that meets at a set time carry some of it for you.
-
 ## 9. Mirror work and ego work
 
 Part two said that what happens to you works like a mirror. A colleague's tone, a partner's silence, a stranger in traffic: whatever hooks me points at something in me that still needs work. This section takes that seriously as a working rule: I take responsibility for what happens around me. That never means letting people hurt you.
@@ -178,7 +176,7 @@ I went to find the team member to apologize. Calming down quickly after a fight 
 
 That is also what repair looks like: quick and light. A person who has hurt someone and leaves it for a week has added a clamp. A person who says "I'm sorry, that was me" the same afternoon, without an essay, has removed one. The usual suspects behind the hook are pride, offense and the habit of judging, and the work on them has a name, ego work, which is a grand title for noticing them every time they show up.
 
-It's much harder alone, which is why it comes late in the list: you can't see which hooks you have until someone else leans on them.
+It's much harder alone, which is why it comes late in the list: you can't see which hooks you have until someone leans on them, and the people already in your life do that every day.
 
 ## What you can check
 
