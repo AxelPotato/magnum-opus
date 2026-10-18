@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.47.1 (2026-10-18)
+
+- Next page: "The online sessions I have in mind are in English, and each takes one subject..." (your message, "its in english obviously"). The text without this release is 4.47.0. Notes for Alex updated
+
+
 ## 4.47.0 (2026-10-18)
 
 - Next page: two sentences say what the online sessions are, one subject each with practical elements and answers to interesting questions, about an hour and a half and longer when the discussion is good (run-8 verdict 2.3, your answer to F1). The text without this release is 4.46.7. Notes for Alex updated
