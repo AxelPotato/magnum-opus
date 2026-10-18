@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.59.14 (2026-10-18)
+
+- Next: the dream's working-together sentence becomes Alex's core idea, talents people didn't know they had (F6.a)
+
+
 ## 4.59.13 (2026-10-18)
 
 - Part one: how the drive increased, in Alex's words (F5)
