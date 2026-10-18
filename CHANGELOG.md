@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.49.2 (2026-10-18)
+
+- Part two, step 8: opens on levels of knowledge from the reader's own life, Antarova moved up, the catalogue of powers and the powers fold cut (your picks 8.1.a, 8.2.a)
+
+
 ## 4.49.1 (2026-10-18)
 
 - Part two, step 7: thinned; the sayings, prana and qi, the Part one callbacks and the Driven-room paragraph are cut (your pick 7.2.c)
