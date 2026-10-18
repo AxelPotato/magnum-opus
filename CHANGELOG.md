@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.47.5 (2026-10-18)
+
+- Part two, step 2: "you can ignore it for a whole life, or for several" ends at "for a whole life" (run-8 verdict 7.2). Notes for Alex updated
+
+
 ## 4.47.4 (2026-10-18)
 
 - Part two, step 1, physics: "the picture of many separate things is wrong at the bottom" becomes "the picture of tiny separate balls is wrong at the bottom" (run-8 verdict 7.1, an accuracy fix). Notes for Alex updated
