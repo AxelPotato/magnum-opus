@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.50.1 (2026-10-18)
+
+- Part three, section 2: the reason behind a goal is told with the reader's own examples; recaps of Parts one and two cut (your 08:21 message)
+
+
 ## 4.50.0 (2026-10-18)
 
 - Part three: 'Making the decision' and 'Your own wish' merged into one shorter section, '1. Your wish, and your yes', opening on a time you really decided something; sections renumbered 1 to 9 (your 08:07 yes)

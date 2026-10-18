@@ -59,15 +59,13 @@ So ask yourself, quietly, how much you want this, and take the answer as informa
 
 ## 2. A goal, and a reason
 
-Part one's chart put DO and BE on two axes and said you need both. This section makes that practical: you set outer goals, and you judge the inner growth by them.
+In this method you set outer goals, and you judge the inner growth by them.
 
-A goal in this method has three properties. It's short, meaning weeks or months. It's measurable, so at the end you can say yes or no. And it's tied to reality, so it lives in the world and not in your head. Plan the family trip for the summer. Finish a draft of an essay. The outer result is the check on the inner work, because it's very easy to feel like you're growing when nothing around you has moved.
+A goal in this method has three properties. It's short, meaning weeks or months. It's measurable, so at the end you can say yes or no. And it's tied to reality, so it lives in the world and not in your head. Plan the family trip for the summer. Finish a draft of an essay. The outer result is the check on the inner work, because it's very easy to feel like you're growing when nothing around you has moved. A calm sit feels like progress whether or not anything has changed, and a goal lets you test it. It also gets your energy moving: a goal you care about pulls effort out of you that plain willpower never would.
 
-Inner work is real work, and from the inside it can be hard to tell whether it's working. A calm sit feels like progress whether or not anything has changed. The compass will tell you, but it reads over months. A goal turns the calm into something you can test sooner. It also gets your energy moving, which is its second job. A goal you care about pulls effort out of you that plain willpower never would.
+Behind each goal sits a reason, and the reason is what keeps you going after the first excitement wears off. The goal can be small as long as the reason is bigger than you. You plan the family trip because you want your kids to grow up feeling that home is a warm place. You finish the draft because someone out there may need what is in it.
 
-Then there's the reason behind the goal. Part two called mine a point of support, the thing I live for that is bigger than me: to know who I am and what it means to exist, and to share it so that other people's lives get better and happier. The goal can be small as long as the reason is bigger than you, and Part one made the case for that. The reason keeps a person going after the first excitement has worn off.
-
-One caution, since the outer goals can turn on you. Doing more with your life is one of the wishes in section 1, and results are how you check the work. They are an indicator and never the aim. If you start chasing them for their own sake, you've rebuilt the Driven room with better vocabulary.
+One caution, since the outer goals can turn on you. Results are how you check the work. They are an indicator and never the aim. If you start chasing them for their own sake, you've rebuilt the Driven room with better vocabulary.
 
 ## 3. Giving
 
