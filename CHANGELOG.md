@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.58.2 (2026-10-18)
+
+- Part two, step 2: "the determinist reading of the view" for the NPC (item 11.a)
+
+
 ## 4.58.1 (2026-10-18)
 
 - Part two, steps 4 and 5: the level numbers replaced (item 9.a)
