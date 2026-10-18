@@ -150,7 +150,7 @@ So pain and love are one signal, read in two directions. The more wall you hold,
 
 ## 4. The turn
 
-So far that was the second clause, the separation, what holds it up and what it feels like from inside. The third clause says the separation ends, step 2 says the drift only goes one way, and step 3 says the wall keeps reporting what it costs. So the whole needs something built in that turns a point of view around once it has gone far enough, and I think that is exactly what we find.
+The third clause says the separation ends, step 2 says the drift only goes one way, and step 3 says the wall keeps reporting what it costs. So the whole needs something built in that turns a point of view around once it has gone far enough, and I think that is exactly what we find.
 
 Picture the run in two halves. In the first half separation is new, and it is the thing being learned. Getting more separate feels good here: my own room, my own money, my own name on the door, winning. Nobody is doing it wrong here. This is the half of the game you came for, and the happiness you get from it is real.
 

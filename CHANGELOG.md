@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.47.6 (2026-10-18)
+
+- Part two, step 4: the recap sentence "So far that was the second clause..." is gone; the step opens "The third clause says the separation ends..." (run-8 verdict 7.3). Notes for Alex updated
+
+
 ## 4.47.5 (2026-10-18)
 
 - Part two, step 2: "you can ignore it for a whole life, or for several" ends at "for a whole life" (run-8 verdict 7.2). Notes for Alex updated
