@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.47.3 (2026-10-18)
+
+- Part two, step 8: the miracles paragraph ends on "...are the doing setting."; "Step 7 also says why any of it would happen: more of the whole flows through a part that holds less wall." is gone (run-8 verdict 6.a). The text without this release is 4.47.2. Notes for Alex updated
+
+
 ## 4.47.2 (2026-10-18)
 
 - Part three, section 3: "Building systems and institutes that help others do the same in the best way possible is part of it." is gone; it stays in Part two (run-8 verdict 5.b). The text without this release is 4.47.1. Notes for Alex updated
