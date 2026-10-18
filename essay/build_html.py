@@ -343,16 +343,19 @@ CSS = r"""
 :root{
   --paper:#F4F6FA; --ink:#131C33; --muted:#5A6480; --rule:#D5DBE8; --grid:#E4E9F2; --card:#FFFFFF;
   --default:#6B7A99; --driven:#D2502F; --drifting:#4A66D6; --high:#0C8A6A;
+  --k-trad:#3E5CC0; --k-study:#0C8A6A; --k-look:#5F6E8E; --k-life:#B5602A; --k-story:#8A4BAE;
   --display:'Bricolage Grotesque','Segoe UI',system-ui,sans-serif;
   --body:'Literata',Georgia,'Times New Roman',serif;
   --mono:'IBM Plex Mono',ui-monospace,Consolas,monospace;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --paper:#0E1424; --ink:#E7EBF5; --muted:#9AA5C0; --rule:#27314D; --grid:#161E35; --card:#151D33;
-  --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F; color-scheme:dark}}
+  --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
+  --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; color-scheme:dark}}
 :root[data-theme="dark"]{
   --paper:#0E1424; --ink:#E7EBF5; --muted:#9AA5C0; --rule:#27314D; --grid:#161E35; --card:#151D33;
-  --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F; color-scheme:dark}
+  --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
+  --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; color-scheme:dark}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:1.125rem;line-height:1.68;overflow-x:clip}
@@ -481,16 +484,25 @@ figure{margin:0}
 .say{padding-left:1.15rem;margin:0 0 1.4rem}
 .slot{font-family:var(--mono);font-size:.82rem;line-height:1.5;color:var(--muted);border-left:3px solid var(--driven);padding:.5rem .8rem;margin:1.2rem 0;background:var(--card)}
 details.say-fold{margin:1.4rem 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:.15rem 0}
-details.say-fold summary{cursor:pointer;list-style:none;font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding:.7rem 0;display:flex;align-items:center;gap:.6rem}
+details.say-fold.k-trad{--kc:var(--k-trad)}details.say-fold.k-study{--kc:var(--k-study)}details.say-fold.k-look{--kc:var(--k-look)}details.say-fold.k-life{--kc:var(--k-life)}details.say-fold.k-story{--kc:var(--k-story)}
+details.say-fold summary{cursor:pointer;list-style:none;display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:start;gap:.85rem;padding:.95rem 0;font-size:1rem;color:var(--ink)}
 details.say-fold summary::-webkit-details-marker{display:none}
-details.say-fold summary::before{content:"+";display:inline-block;width:1rem;text-align:center;font-size:1rem;line-height:1}
-details.say-fold[open] summary::before{content:"\2212"}
-details.say-fold summary:hover{color:var(--ink)}
-details.say-fold .say{margin-top:.4rem}
+details.say-fold summary:focus-visible{outline:2px solid var(--kc);outline-offset:3px;border-radius:4px}
+details.say-fold .ki{width:1.35rem;height:1.35rem;color:var(--kc);margin-top:.15rem}
+details.say-fold .kt{min-width:0;display:flex;flex-direction:column;gap:.15rem}
+details.say-fold .kk{font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--kc)}
+details.say-fold .tt{font-family:var(--display);font-weight:600;font-size:1.08rem;line-height:1.3}
+details.say-fold .tz{color:var(--muted);font-size:.95rem;line-height:1.5;margin-top:.25rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;-webkit-mask-image:linear-gradient(90deg,#000 70%,transparent);mask-image:linear-gradient(90deg,#000 70%,transparent)}
+details.say-fold[open] .tz{display:none}
+details.say-fold .pm::before{content:"+";font-family:var(--mono);font-size:1.15rem;line-height:1.3;color:var(--muted)}
+details.say-fold[open]>summary .pm::before{content:"\2212"}
+details.say-fold summary:hover .pm::before{color:var(--kc)}
+details.say-fold .kb{border-left:2px solid var(--kc);padding-left:.9rem;margin-bottom:.8rem}
+details.say-fold .say{margin-top:0}
 .say li.grp{list-style:none;margin:1.3rem 0 .6rem -1.15rem;padding-left:0;font-family:var(--mono);font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
 .say li.grp:first-child{margin-top:.3rem}
 details.say-fold .say-close{margin:1.2rem 0 .6rem}
-@media print{details.say-fold>*{display:block}}
+@media print{details.say-fold>*{display:block}details.say-fold .tz{display:none}}
 .say li{margin-bottom:.7rem;padding-left:.2rem}
 .say li::marker{color:var(--muted)}
 .sources li{margin-bottom:.7rem;overflow-wrap:anywhere}
@@ -572,6 +584,47 @@ def contact_html(intro=''):
             f'<script>{CONTACT_JS}</script>')
 
 
+# Every fold says what kind of thing is inside (Josh and Ruth joint read, 2026-10-18, design 2):
+# an icon, a colored kind line with the count, the title, and the first entry fading out.
+# Folds are from the traditions unless listed here by title.
+FOLD_KINDS = {
+    'What the studies say': 'study',
+    'What the studies say about sticking with it': 'study',
+    'But why would it do that?': 'look',
+    'A post-mortem, the way we do it at work': 'look',
+    "What if I'm not sure?": 'life',
+    'My teacher and I': 'story',
+}
+KIND_LABEL = {'trad': ('From the traditions', 'passage', 'passages'), 'study': ('From the studies', 'study', 'studies'),
+              'look': ('A closer look', None, None), 'life': ("From people's lives", 'example', 'examples'),
+              'story': ('My own story', None, None)}
+KIND_ICON = {
+    'trad': '<path d="M3 5.5c3-1.2 6-1 9 1v13c-3-2-6-2.2-9-1z"/><path d="M21 5.5c-3-1.2-6-1-9 1v13c3-2 6-2.2 9-1z"/>',
+    'study': '<path d="M9 3h6"/><path d="M10 3v6l-5.5 9.5A1.6 1.6 0 0 0 5.9 21h12.2a1.6 1.6 0 0 0 1.4-2.5L14 9V3"/><path d="M7.5 15h9"/>',
+    'look': '<circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/>',
+    'life': '<circle cx="8" cy="7" r="3"/><circle cx="16.5" cy="8.5" r="2.5"/><path d="M2.5 20c.6-4 2.8-6.5 5.5-6.5s4.9 2.5 5.5 6.5"/><path d="M14 14.2c.8-.5 1.6-.7 2.5-.7 2.4 0 4.2 2.2 4.8 5.5"/>',
+    'story': '<path d="M4 5h16v11H9l-5 4z"/><path d="M8 9.5h8M8 12.5h5"/>',
+}
+FOLD_KINDS_SEEN = set()
+
+
+def fold_html(title, block, lis):
+    kind = FOLD_KINDS.get(title, 'trad')
+    FOLD_KINDS_SEEN.add(title)
+    entries = [l[2:] for l in block.split('\n') if l.startswith('* ') and not l.endswith(':')]
+    label, one, many = KIND_LABEL[kind]
+    if one:
+        label += f' · {len(entries)} {one if len(entries) == 1 else many}'
+    first = html.unescape(re.sub(r'<[^>]+>', '', smart(entries[0]))).strip() if entries else ''
+    if len(first) > 120:
+        first = first[:120].rsplit(' ', 1)[0] + '…'
+    icon = (f'<svg class="ki" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" '
+            f'stroke-linecap="round" stroke-linejoin="round">{KIND_ICON[kind]}</svg>')
+    return (f'<details class="say-fold k-{kind}"><summary>{icon}<span class="kt"><span class="kk">{html.escape(label)}</span>'
+            f'<span class="tt">{smart(title)}</span><span class="tz" aria-hidden="true">{html.escape(first)}</span></span>'
+            f'<span class="pm" aria-hidden="true"></span></summary><div class="kb"><ul class="say">{lis}</ul></div></details>')
+
+
 def convert(md, R):
     blocks = [b for b in re.split(r'\n\s*\n', md.strip()) if b.strip()]
     out = []
@@ -593,8 +646,8 @@ def convert(md, R):
             room = {'Default': 'default', 'Driven': 'driven', 'Drifting': 'drifting', 'High agency': 'high'}.get(t, 'default')
             out.append(f'<h3 class="room {room}"><span class="dot"></span>{smart(t)}</h3>')
             continue
-        if b.startswith('  ') and out and out[-1].endswith('</ul></details>'):  # an indented paragraph closes the fold above it
-            out[-1] = out[-1][:-len('</details>')] + f'<p class="say-close">{smart(b.strip())}</p></details>'
+        if b.startswith('  ') and out and out[-1].endswith('</ul></div></details>'):  # an indented paragraph closes the fold above it
+            out[-1] = out[-1][:-len('</div></details>')] + f'<p class="say-close">{smart(b.strip())}</p></div></details>'
             continue
         if fold_title and not b.startswith('* '):  # a heading with no list under it stays a heading
             out.append(f'<h4>{smart(fold_title)}</h4>')
@@ -603,7 +656,6 @@ def convert(md, R):
             fold_title = b[5:].strip()  # every #### heading folds the list under it
             continue
         if b.startswith('* '):
-            n = sum(1 for l in b.split('\n') if l.startswith('* '))
             def li(l):
                 t = l[2:]
                 if t.endswith(':'):  # a bullet ending in a colon labels the ones after it
@@ -612,13 +664,7 @@ def convert(md, R):
                 return f'<li>{smart(t)}{rule["li_after"] if rule else ""}</li>'
             lis = ''.join(li(l) for l in b.split('\n') if l.startswith('* '))
             if fold_title:
-                if fold_title.startswith('What the studies'):
-                    label = f'{fold_title} ({n} {"study" if n == 1 else "studies"})'
-                elif fold_title.startswith('What the'):
-                    label = f'{fold_title} ({n} {"example" if n == 1 else "examples"})'
-                else:
-                    label = fold_title
-                out.append(f'<details class="say-fold"><summary>{smart(label)}</summary><ul class="say">{lis}</ul></details>')
+                out.append(fold_html(fold_title, b, lis))
                 fold_title = None
             else:
                 out.append(f'<ul class="say">{lis}</ul>')
@@ -814,3 +860,7 @@ if __name__ == '__main__':
         text = page(n, frag)
         open(out, 'w', encoding='utf-8').write(text)
         print(out, round(len(text) / 1024), 'KB')
+    if not only:
+        stale = [k for k in FOLD_KINDS if k not in FOLD_KINDS_SEEN]
+        if stale:
+            print('  note: fold kinds that matched no fold title:', *stale, sep='\n    ')

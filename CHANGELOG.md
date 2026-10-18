@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.60.0 (2026-10-18)
+
+- Folds say what kind of thing is inside: an icon, a colored kind line with the count, the title, and the first entry fading out (traditions, studies, a closer look, people's lives, my own story; design 2 from the Josh and Ruth joint read)
+
+
 ## 4.59.14 (2026-10-18)
 
 - Next: the dream's working-together sentence becomes Alex's core idea, talents people didn't know they had (F6.a)

@@ -1,17 +1,20 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Next</title><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="version" content="4.59.14"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=IBM+Plex+Mono:wght@400;500&family=Literata:opsz,wght@7..72,400..700&family=Comic+Neue:wght@700&display=swap"><style>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Next</title><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="version" content="4.60.0"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=IBM+Plex+Mono:wght@400;500&family=Literata:opsz,wght@7..72,400..700&family=Comic+Neue:wght@700&display=swap"><style>
 :root{
   --paper:#F4F6FA; --ink:#131C33; --muted:#5A6480; --rule:#D5DBE8; --grid:#E4E9F2; --card:#FFFFFF;
   --default:#6B7A99; --driven:#D2502F; --drifting:#4A66D6; --high:#0C8A6A;
+  --k-trad:#3E5CC0; --k-study:#0C8A6A; --k-look:#5F6E8E; --k-life:#B5602A; --k-story:#8A4BAE;
   --display:'Bricolage Grotesque','Segoe UI',system-ui,sans-serif;
   --body:'Literata',Georgia,'Times New Roman',serif;
   --mono:'IBM Plex Mono',ui-monospace,Consolas,monospace;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --paper:#0E1424; --ink:#E7EBF5; --muted:#9AA5C0; --rule:#27314D; --grid:#161E35; --card:#151D33;
-  --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F; color-scheme:dark}}
+  --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
+  --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; color-scheme:dark}}
 :root[data-theme="dark"]{
   --paper:#0E1424; --ink:#E7EBF5; --muted:#9AA5C0; --rule:#27314D; --grid:#161E35; --card:#151D33;
-  --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F; color-scheme:dark}
+  --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
+  --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; color-scheme:dark}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:1.125rem;line-height:1.68;overflow-x:clip}
@@ -140,16 +143,25 @@ figure{margin:0}
 .say{padding-left:1.15rem;margin:0 0 1.4rem}
 .slot{font-family:var(--mono);font-size:.82rem;line-height:1.5;color:var(--muted);border-left:3px solid var(--driven);padding:.5rem .8rem;margin:1.2rem 0;background:var(--card)}
 details.say-fold{margin:1.4rem 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:.15rem 0}
-details.say-fold summary{cursor:pointer;list-style:none;font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);padding:.7rem 0;display:flex;align-items:center;gap:.6rem}
+details.say-fold.k-trad{--kc:var(--k-trad)}details.say-fold.k-study{--kc:var(--k-study)}details.say-fold.k-look{--kc:var(--k-look)}details.say-fold.k-life{--kc:var(--k-life)}details.say-fold.k-story{--kc:var(--k-story)}
+details.say-fold summary{cursor:pointer;list-style:none;display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:start;gap:.85rem;padding:.95rem 0;font-size:1rem;color:var(--ink)}
 details.say-fold summary::-webkit-details-marker{display:none}
-details.say-fold summary::before{content:"+";display:inline-block;width:1rem;text-align:center;font-size:1rem;line-height:1}
-details.say-fold[open] summary::before{content:"\2212"}
-details.say-fold summary:hover{color:var(--ink)}
-details.say-fold .say{margin-top:.4rem}
+details.say-fold summary:focus-visible{outline:2px solid var(--kc);outline-offset:3px;border-radius:4px}
+details.say-fold .ki{width:1.35rem;height:1.35rem;color:var(--kc);margin-top:.15rem}
+details.say-fold .kt{min-width:0;display:flex;flex-direction:column;gap:.15rem}
+details.say-fold .kk{font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--kc)}
+details.say-fold .tt{font-family:var(--display);font-weight:600;font-size:1.08rem;line-height:1.3}
+details.say-fold .tz{color:var(--muted);font-size:.95rem;line-height:1.5;margin-top:.25rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;-webkit-mask-image:linear-gradient(90deg,#000 70%,transparent);mask-image:linear-gradient(90deg,#000 70%,transparent)}
+details.say-fold[open] .tz{display:none}
+details.say-fold .pm::before{content:"+";font-family:var(--mono);font-size:1.15rem;line-height:1.3;color:var(--muted)}
+details.say-fold[open]>summary .pm::before{content:"\2212"}
+details.say-fold summary:hover .pm::before{color:var(--kc)}
+details.say-fold .kb{border-left:2px solid var(--kc);padding-left:.9rem;margin-bottom:.8rem}
+details.say-fold .say{margin-top:0}
 .say li.grp{list-style:none;margin:1.3rem 0 .6rem -1.15rem;padding-left:0;font-family:var(--mono);font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
 .say li.grp:first-child{margin-top:.3rem}
 details.say-fold .say-close{margin:1.2rem 0 .6rem}
-@media print{details.say-fold>*{display:block}}
+@media print{details.say-fold>*{display:block}details.say-fold .tz{display:none}}
 .say li{margin-bottom:.7rem;padding-left:.2rem}
 .say li::marker{color:var(--muted)}
 .sources li{margin-bottom:.7rem;overflow-wrap:anywhere}
@@ -221,4 +233,4 @@ document.querySelectorAll('.contact-form').forEach(function (f) {
 </script>
 <p>What I’m working toward now is a dream, so please read it as one. I call it an international center of human development.</p>
 <p>I picture a group of people from many countries living and working in the same place who want to remember who they really are, the thing Part two says we forget, and to give that back to the world while they keep growing. A big part of the dream is what people make together once they become much more conscious, because they often find talents they never knew they had, and very interesting things can come into the world from that. Everything in Part three would happen there every day as ordinary life. The place would be built around the people who live there. They would come because this has become what they want to do with their life, and some would stay for years while others moved on when life took them elsewhere.</p>
-<p>It doesn’t exist yet. It’s the next step I hope we get to take, and I’d love to help build it.</p></div><footer>Version 4.59.14. Built from next.md. A draft.</footer></main></body></html>
+<p>It doesn’t exist yet. It’s the next step I hope we get to take, and I’d love to help build it.</p></div><footer>Version 4.60.0. Built from next.md. A draft.</footer></main></body></html>
