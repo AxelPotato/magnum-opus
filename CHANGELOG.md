@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.48.2 (2026-10-18)
+
+- Next page: the space port is renamed an international center of human development, since Part two no longer has the space-travel picture (your 07:18 comment)
+
+
 ## 4.48.1 (2026-10-18)
 
 - Part two, Why the paths differ: the history-of-schools sentences become 'So the same road gets walked in many ways today, inside the old traditions and outside them, and Part three describes the one I walk.' (your 07:19 comment)
