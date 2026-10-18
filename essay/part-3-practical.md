@@ -176,7 +176,7 @@ It's much harder alone, which is why it comes late in the list: you can't see wh
 
 After a few months of practice, alone, in a pair or in a team, ask: do you produce the thing you said you would? Does anything outside you change, and if it doesn't, why not? How fast do you say sorry first now? Over the last year, are you more fulfilled, or more bleak? Put the answers on the chart from Part one, and ask again a month later.
 
-And one question for the road: if you had the energy of a whole team and no direction, what would you do with it? Then ask who in your life could tell you.
+And one question for the road: who in your life could tell you honestly how you have changed?
 
 ## Sources
 

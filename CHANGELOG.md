@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.51.7 (2026-10-18)
+
+- Part three, what you can check: one question for the road (item 8.a, your 10:02 message)
+
+
 ## 4.51.6 (2026-10-18)
 
 - Part three, attention: meeting with others made optional (item 7.a, your 10:02 message)
