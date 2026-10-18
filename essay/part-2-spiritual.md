@@ -66,7 +66,7 @@ If everything is one, and the whole experiences separation, then being separate 
 
 The traditions give answers to why a whole would do this, and they rhyme. Hindu texts call creation lila, play, an activity with no need behind it. Which makes the universe the biggest hobby project ever, and like every hobby project, nobody can explain why it took this long. A whole that looks at itself needs positions to look from, and a position is a separation. Knowing needs a gap.
 
-Physics is a fun place to look here, though it comes with a warning label. Mostly the label says not to let a guy from cyber security explain quantum physics to you. I'm going to do it anyway. For a few centuries the picture was tiny separate balls, atoms and electrons and so on, each one a little thing with its own properties. Quantum field theory, the framework behind the Standard Model of particle physics, starts somewhere else. There are fields that fill all of space, a bit like the ocean fills a bay, and what we call an electron is a ripple in the electron field. A wave is the water doing something. That is also why every electron in the universe is exactly like every other one, since they are all ripples in the same field. And two particles prepared together and sent far apart behave as one thing with a joint state. John Bell showed how to test that, and the people who ran the tests got the Nobel Prize in 2022. It carries no message, so please don't use it to explain your cousin's premonition. I'm not claiming any of this proves that we are one. What I take from it is that the best physics we have says the picture of tiny separate balls is wrong at the bottom, and that is the shape of the axiom, turning up in physics without anyone asking it to.
+Physics is a fun place to look here, though it comes with a warning label. Mostly the label says not to let a guy from cyber security explain quantum physics to you. I'm going to do it anyway. For a few centuries the picture was tiny separate balls, each one a little thing with its own properties. Quantum field theory, the framework behind the Standard Model of particle physics, starts somewhere else. There are fields that fill all of space, a bit like the ocean fills a bay, and what we call an electron is a ripple in the electron field, which is why every electron in the universe is exactly like every other one. None of it carries messages, so please don't use it to explain your cousin's premonition. The best physics we have says the picture of tiny separate balls is wrong at the bottom, and that is the shape of the axiom, turning up in physics without anyone asking it to.
 
 #### Real as an experience, misleading as the last word
 
@@ -340,7 +340,7 @@ The axiom and the machine
 
 1. Separation is a way of looking
 
-- Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. Physics, 1(3), 195-200. The Nobel Prize in Physics 2022, press release (Aspect, Clauser, Zeilinger). Stanford Encyclopedia of Philosophy, Quantum Field Theory.
+- Stanford Encyclopedia of Philosophy, Quantum Field Theory.
 - Plato, Republic VII (the cave). The Heart Sutra (Conze's translation, in Buddhist Wisdom Books, 1958, is the usual one). Brahma Sutra 2.1.33.
 - Chittick, W. C. (1998). The Self-Disclosure of God. SUNY Press (on the hidden treasure saying).
 - Emerson, R. W. (1841). The Over-Soul, in Essays: First Series.

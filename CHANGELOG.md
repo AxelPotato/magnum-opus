@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.51.13 (2026-10-18)
+
+- Part two, step 1: the physics paragraph cut to about half (item 14.a, your 10:02 message)
+
+
 ## 4.51.12 (2026-10-18)
 
 - Part two, step 2: the NPC paragraph shortened (item 13.a, your 10:02 message)
