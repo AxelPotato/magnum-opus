@@ -649,3 +649,35 @@ Part three has no figure or portrait rules in `build_html.py` (`rules=lambda: {}
 ## Part two, step 8 becomes a fold in step 7 (Josh and Ruth joint read, option a) (4.52.0)
 
 Both readers asked why the step was there after "To be honest I don't personally care", Josh heard the hacking reality line as a hint, and Ruth was uneasy that the teacher's one appearance besides karma was about powers; they valued the Antarova line and the traditions' warnings. Step 8 is gone, and step 7 ends with a fold, "Miracles, and the warning against them": the Antarova line with the settings sentence and the grandma joke, Patanjali (3.37), the Buddha (Digha Nikaya 11), Jesus (Matthew 12:38-39) and Teresa (The Life, chapter 20) on not chasing powers, and a closing paragraph with the tank and the printer joke. Cut with the step: the phone opening, "this is the most controversial step" and "I don't personally care", the list of powers, the materialist and careful sceptic paragraph, the hacking reality line and "My teacher says exactly the same". The chain figure has seven steps. Sources: Digha Nikaya 2, Yoga Sutras 3.19 and 3.39 and Matthew 14:25-29 are no longer cited, the rest moved under 7. Energy, and the reading pack says so. To undo: "revert 4.52.0".
+
+## Josh and Ruth joint read: Alex's picks of 11:11 on 10-18 (4.53.0 to 4.59.13)
+
+Each pick is its own release, so each can be undone alone with "revert" and its version. Facts from the same message: he can attend just one online session (F1), Genadiy lives at the Sochi center (F3), and how the drive shows now (F5, his words). F2 (how the centers work) was left out at his word. F4 (the people who fixed his silly ideas were his Reiki teacher) and F6 are open questions in the thread.
+
+- 4.53.0: Next: the two centers (Riga and Sochi, over 120 people) stated above the form; the dream ends on the next step (item 1.a).
+- 4.54.0: Part three, section 5: the two centers named after "The way we have arranged ourselves around it is ours" (item 2, with F3: he lives in Sochi).
+- 4.54.1: Part three, "My teacher and I" fold: "where he lived" becomes "where he lives" (F3).
+- 4.54.2: Next: "You're welcome to come to just one and see how it feels." (item 3.a, F1).
+- 4.55.0: Part two, step 4: two sentences for readers whose emptiness is a depression (item 4.a).
+- 4.56.0: Part three, Giving: what something bigger can be, and Part one's two questions (item 5.a).
+- 4.57.0: Part three, opening: what a reader can do alone, and where other people come in (item 6.a).
+- 4.57.1: Part two, opening: "without exceptions" cut (item 7.a).
+- 4.58.0: Part two, step 1: the quantum fields paragraph cut, with its source (item 8.a).
+- 4.58.1: Part two, steps 4 and 5: the level numbers replaced (item 9.a).
+- 4.58.2: Part two, step 2: "the determinist reading of the view" for the NPC (item 11.a).
+- 4.58.3: Part one, BE: meditation first, "and it helps a lot", in place of breathing apps and long baths (item 12.a).
+- 4.59.0: Part one, Driven: two rooms in the same week (item 13.a).
+- 4.59.1: Part one, Phelps: going into London he wanted nothing to do with the sport (item 14.a).
+- 4.59.2: Part one, opening: "When both are high, I call it high agency" (item 15.a).
+- 4.59.3: Part three, What you can check: look at the people a few steps ahead (item 16.a).
+- 4.59.4: Part three, mirror work: "I could see the team member was already in a completely different state" (item 17.a).
+- 4.59.5: Part three, mirror work: "my teammate" in two places (item 18.a).
+- 4.59.6: Part three, the team: "a fact your math teacher would confirm" (item 19.a).
+- 4.59.7: Part zero: the handed-it-to-you sentence moves to the end of the Part one paragraph (item 20.1.a).
+- 4.59.8: Part zero: "Where the reading is mine, I say so." cut from the teacher paragraph (item 20.2.a).
+- 4.59.9: Parts zero and two: "witnesses" for the traditions cut (item 20.3.a).
+- 4.59.10: Part one: "Congratulations." cut (item 21.1.a).
+- 4.59.11: Part one, the line: the fixed budget paragraph cut (item 21.2.a).
+- 4.59.12: Part two, Why I want this: "That is what I stand on" (item 21.3.a).
+- 4.59.13: Part one: how the drive increased, in Alex's words (F5).
+
