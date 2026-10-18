@@ -710,7 +710,7 @@ If someone pushes back:
 
 Kind: text. Status: checked (ESV read on Bible Gateway, 2026-10-16).
 
-In the essay: Part two, step 8, 'Miracles, the levels of knowledge': Jesus walks on the sea and Peter walks on the water for a moment; when the scribes and Pharisees ask for a sign, he answers that an evil and adulterous generation seeks for a sign.
+In the essay: Part two, step 7, the fold 'Miracles, and the warning against them': Matthew 12:38-39 only, when the scribes and Pharisees ask for a sign, he answers that an evil and adulterous generation seeks for a sign. Matthew 14:25-29 (Jesus walks on the sea and Peter walks on the water for a moment) is no longer cited; step 8 used it until 4.52.0.
 
 The passage (ESV): 'And in the fourth watch of the night he came to them, walking on the sea.' ... 'So Peter got out of the boat and walked on the water and came to Jesus.' (14:25-29) 'An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah.' (12:39)
 
@@ -723,7 +723,7 @@ Background: The gospels tell of many signs and also show Jesus refusing to perfo
 
 Kind: text. Status: checked (David Lewis's translation read on Project Gutenberg, 2026-10-16).
 
-In the essay: Part two, step 8, 'Miracles, the levels of knowledge': Teresa, who was seen lifted off the ground, begged God to stop giving her favors that other people could see; in the fold, that she ordered her nuns never to speak of it.
+In the essay: Part two, step 7, the fold 'Miracles, and the warning against them' (step 8 until 4.52.0): Teresa, who was seen lifted off the ground, begged God to stop giving her favors that other people could see.
 
 The passage (Lewis, public domain): '...and now and then the whole body as well, so that it was lifted up from the ground.' 'I commanded the nuns ... never to speak of it.' 'I made many supplications to our Lord, that He would be pleased to give me no more of those graces which were outwardly visible.'
 

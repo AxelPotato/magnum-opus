@@ -409,7 +409,7 @@ Kind: text. Status: checked (the line located in an online copy of Part I, 2026-
 
 Who: A Russian singer and writer. Two Lives is a long mystical novel about a young man, Levushka, and the teachers he travels with.
 
-In the essay: Part two, step 8, 'Miracles, the levels of knowledge': 'Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge.' The English is Alex's own.
+In the essay: Part two, step 7, the fold 'Miracles, and the warning against them' (step 8 until 4.52.0): 'Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge.' The English is Alex's own.
 
 Where it sits: Part I, the train journey, after the Florentine comforts the conductor: «Право же, на свете нет чудес. Все объясняется очень просто», and a few lines later «...нет чудес, а есть та или иная степень знания».
 
