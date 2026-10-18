@@ -652,7 +652,7 @@ Both readers asked why the step was there after "To be honest I don't personally
 
 ## Josh and Ruth joint read: Alex's picks of 11:11 on 10-18 (4.53.0 to 4.59.13)
 
-Each pick is its own release, so each can be undone alone with "revert" and its version. Facts from the same message: he can attend just one online session (F1), Genadiy lives at the Sochi center (F3), and how the drive shows now (F5, his words). F2 (how the centers work) was left out at his word. F4 (the people who fixed his silly ideas were his Reiki teacher) and F6 are open questions in the thread.
+Each pick is its own release, so each can be undone alone with "revert" and its version. Facts from the same message: he can attend just one online session (F1), Genadiy lives at the Sochi center (F3), and how the drive shows now (F5, his words). F2 (how the centers work) was left out at his word. F4 (the people who fixed his silly ideas were his Reiki teacher): kept as it is (F4.b, 11:36), so Part one's line stays. F6: the dream's working-together sentence on the Next page became his core idea, that people who become much more conscious find talents they never knew they had (F6.a, 4.59.14).
 
 - 4.53.0: Next: the two centers (Riga and Sochi, over 120 people) stated above the form; the dream ends on the next step (item 1.a).
 - 4.54.0: Part three, section 5: the two centers named after "The way we have arranged ourselves around it is ours" (item 2, with F3: he lives in Sochi).
