@@ -25,7 +25,7 @@ Anything that moves needs two things: energy and direction. A car with plenty of
 
 Most of us know both failures from the inside. Energy without direction is the Driven room from Part one: plenty of drive, pointed at whatever was loudest, until the old way stopped working. Direction without energy is the person who knows perfectly well they shouldn't shout at their kids. They've read the book. They can explain why it's a bad idea. And then they shout, because knowing what to do and being able to do it turn out to be two separate supplies.
 
-You can start tonight, alone. Close your eyes and give your attention to the sensations in your body. If thoughts come, don't push them away, come back to the sensations, and learn to enjoy it. Start with five minutes. You can sit for as long as you like, and you can do it several times a day. That's stillness, and section 8 says more about it. It's also a good way to start on the question Part two ended with, where the border of you sits. Tomorrow, add three small choices: go first instead of waiting for the other person, say the sentence now instead of carrying it, and don't rehearse the argument in the shower. Each of them keeps a little new tension from building up. The rest of this part is about what keeps it going.
+You can start tonight, alone. Close your eyes and give your attention to the sensations in your body. If thoughts come, don't push them away, come back to the sensations, and learn to enjoy it. Start with five minutes. You can sit for as long as you like, and you can do it several times a day. That's stillness, and section 7 says more about it. It's also a good way to start on the question Part two ended with, where the border of you sits. Tomorrow, add three small choices: go first instead of waiting for the other person, say the sentence now instead of carrying it, and don't rehearse the argument in the shower. Each of them keeps a little new tension from building up. The rest of this part is about what keeps it going.
 
 Part two's step on energy says where more energy comes from, and there are two places. One is letting go: the wall that holds us apart sits in the body as tension, and tension is a tax on energy, so some of it comes back as the grip loosens. The other is access to more than one person could hold alone, and the practical way I know to widen it is a reason bigger than you, together with people who share it. A team can be as small as two friends.
 
@@ -33,13 +33,17 @@ Direction has its own problem. Part two gave you two instruments for it, and the
 
 Life nudges a person toward this work on its own, through the mirror, when the same lesson keeps coming back, and through the turn, when everything works and it still feels flat. It is patient about it. If your life is going well and feels well, you have no need of a method. A method is a way to do on purpose, and faster, what life does slowly, which comes down to acting as one in the spots where you still act as two.
 
-Turn up the energy before you have a direction and you get a louder version of the wrong thing. The sections below go in an order that suits most people. The decision comes first for everyone. After that the order changes from person to person, because people arrive from different places.
+Turn up the energy before you have a direction and you get a louder version of the wrong thing. The sections below go in an order that suits most people. Your own wish, and the yes that goes with it, come first for everyone. After that the order changes from person to person, because people arrive from different places.
 
-## 1. Making the decision
+## 1. Your wish, and your yes
 
-By the decision I mean something plain. A wish is the wanting, and a decision is the yes that goes with it, the point where the wanting turns into a direction you are going to follow.
+Think of a time you really decided something: a move, a new job, a person. Before it, every day was a small debate. After it, the days started to line up, and things you had been putting off began to happen almost on their own.
 
-The decision can be quiet. What it needs is that you mean it. A decision like that gives you something the rest of this part depends on: you no longer have to bargain with yourself every morning, and the energy that took goes into the work. Many traditions call this the greatest victory there is, the one over yourself.
+That yes stands on a wish, and the wish is the one thing in this part nobody else can supply. A mentor can point, and a team can lift you, and none of them can want it for you. As Part two put it, the controller was put in your hands on purpose.
+
+People come for all kinds of reasons, and the reasons often change along the way. Some come with questions, such as why we exist and whether this is all there is. Some want to stay calm when the inbox explodes, and to stop replaying the same old conversation on the drive home. Some simply can't sleep, or are worn out, and want to feel better, which is reason enough to start. And some want to do more with their lives and be someone the people closest to them can lean on. These are the reasons people give, and they are not promises the method makes. Which one is yours matters less than that it is really yours.
+
+A wish is the wanting, and a decision is the yes that goes with it, the moment the wanting becomes a direction. It can be quiet, a sentence you say to yourself on an ordinary evening. What it gives you is a kind of freedom. You no longer have to bargain with yourself every morning about whether today counts, and the energy that bargaining took goes into living. Many traditions call this the greatest victory there is, the one over yourself, and it often feels like putting down something heavy you had been carrying for years.
 
 #### The greatest victory
 
@@ -49,21 +53,11 @@ The decision can be quiet. What it needs is that you mean it. A decision like th
 * The Daodejing says that whoever overcomes others is strong, and whoever overcomes himself is mighty (33).
 * A hadith in Sahih al-Bukhari reports the Prophet saying that the strong one is the one who controls himself while in anger, which he sets against overcoming people by strength (6114).
 
-## 2. Your own wish
+The wish has its days. Nearly everyone has days with a lift and days with a slump, and a low day is no ranking of who is better or worse. It's a day, and days change. The wish also grows. A goal you love, sitting in the background of everything, feeds it, and a bigger wish crowds out smaller ones, so you don't have to fight the small ones one at a time. What drains it fastest is feeling sorry for yourself, which everyone does, and a half-wish that changes its mind every Tuesday about how much it's willing to give.
 
-A decision needs something to stand on, and that is the wish. It's the one thing in this part nobody else can supply. A mentor can point and a team can lift, and none of them can want it for you. It gets made inside each person, and as Part two put it, the controller was put in your hands on purpose.
+So ask yourself, quietly, how much you want this, and take the answer as information. Whatever it says, nothing is wrong with you. Do something concrete, and say yes again tomorrow.
 
-People come for all kinds of reasons, and the reasons often change along the way. Some come with questions, such as why we exist and whether this is all there is. Some want to stay calm when the inbox explodes, and to stop replaying the same old conversation on the drive home. Some simply can't sleep, or are worn out, and want to feel better, which is reason enough to start. And some want to do more with their lives and be someone the people closest to them can lean on. These are the reasons people give, and they are not promises the method makes. Which one is yours matters less than that it is really yours.
-
-The wish has its days. Nearly everyone has days with a lift and days with a slump, and the wish needs feeding to survive them. A low wish is no ranking of who is better or worse. It's a day, and days change.
-
-The wish can be grown. It isn't equally strong in everyone from birth, and it can be brought up. A goal you love, sitting in the background of everything even when you never mention it, feeds it. Underneath it sits the decision, made on purpose and made again when it slips. A bigger wish also crowds out smaller ones, so you don't have to fight the small ones one at a time.
-
-Two things quietly drain it. One is feeling sorry for yourself, which everyone does and which takes more from the wish than almost anything else. The other is a half-wish that changes its mind every Tuesday about how much it's willing to give.
-
-So ask yourself, quietly, how much you want this, and take the answer as information. If the answer is low, nothing is wrong with you. Do something concrete, and decide again.
-
-## 3. A goal, and a reason
+## 2. A goal, and a reason
 
 Part one's chart put DO and BE on two axes and said you need both. This section makes that practical: you set outer goals, and you judge the inner growth by them.
 
@@ -73,9 +67,9 @@ Inner work is real work, and from the inside it can be hard to tell whether it's
 
 Then there's the reason behind the goal. Part two called mine a point of support, the thing I live for that is bigger than me: to know who I am and what it means to exist, and to share it so that other people's lives get better and happier. The goal can be small as long as the reason is bigger than you, and Part one made the case for that. The reason keeps a person going after the first excitement has worn off.
 
-One caution, since the outer goals can turn on you. Doing more with your life is one of the wishes in section 2, and results are how you check the work. They are an indicator and never the aim. If you start chasing them for their own sake, you've rebuilt the Driven room with better vocabulary.
+One caution, since the outer goals can turn on you. Doing more with your life is one of the wishes in section 1, and results are how you check the work. They are an indicator and never the aim. If you start chasing them for their own sake, you've rebuilt the Driven room with better vocabulary.
 
-## 4. Giving
+## 3. Giving
 
 Giving here means putting effort into the good of other people, or of something bigger than you, and not counting what comes back. An hour of real attention counts. So does using your skills on someone else's problem. This is where the reason bigger than you from the last section turns into something you do.
 
@@ -85,7 +79,7 @@ It has two rules. The first is to give without conditions: don't demand thanks, 
 
 Inner work done only for yourself can go in a circle. You improve your own state, then you improve it more. That has real value, and it can turn into polishing the same stone. Giving sends the energy somewhere, the way a mill lets the river through, and it is also where the work gets tested, because other people can tell you whether it helped.
 
-## 5. The team
+## 4. The team
 
 A pair is two people doing this together, and a team grows from there. It combines the other parts of the method: you work on your attention, you build discipline, you meet your mirror, you pursue a goal and you give, all at once and with other people around.
 
@@ -95,13 +89,13 @@ The second thing is the one everybody expects: a team gets more done than the sa
 
 It comes with conditions. The people have to be aimed at the same thing, because a group of people who simply like each other can have a lovely time and still go nowhere. Each of us came with our own way of saying what we want, and underneath it is one goal for all of us, to awaken more deeply. The group also has to settle its conflicts quickly, by talking them through. A quarrel reverses the effect: the same closeness that lifts a team weighs it down when there is a wall between two of its members.
 
-The people also have to want it, and this is where the team meets the wish from section 2. A team multiplies whatever is put into it, and anything times nothing is still nothing, a fact your math teacher and your guru would both confirm. A good team that doesn't want to play is a good roster with a bad season. A group of people who each really want to move gives everyone in it much more than any of them could find alone, like a cable made of many strands.
+The people also have to want it, and this is where the team meets the wish from section 1. A team multiplies whatever is put into it, and anything times nothing is still nothing, a fact your math teacher and your guru would both confirm. A good team that doesn't want to play is a good roster with a bad season. A group of people who each really want to move gives everyone in it much more than any of them could find alone, like a cable made of many strands.
 
 The team does something for the wish itself, too. On your own it dies down faster. So people meet to reignite each other's passion and to remind each other, and when your own spark drops, lighting up a partner gets some of it back. The company of people who want the same thing is one of the best things to feed it. Ananda, the Buddha's attendant, once said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it.
 
 The modern world makes this harder. In an earlier age the other people came with the village. Now you can order food, learn skills and find company from a phone without anyone seeing you need anything. That is convenient, and it also removes the one thing that did the work. You have to build the village on purpose.
 
-## 6. The teacher and the method
+## 5. The teacher and the method
 
 A team has energy, and a team can still be going in a circle. Someone who is much further along can see where the team is growing and where it is stuck, which is hard to see from inside.
 
@@ -113,7 +107,7 @@ A teacher does one more job. In any group, people carry private opinions of who 
 
 The knowledge behind the method is older than he is. It came to him through a line of teachers, and what he did was adapt it to the realities of life in the 21st century. The way we have arranged ourselves around it is ours. Other teachers and methods help people too. This is the one I chose, and the one I know from the inside.
 
-## 7. Mentorship
+## 6. Mentorship
 
 Think of how someone becomes a blacksmith. There is no syllabus. The apprentice stands next to the smith for years, doing small jobs and watching how long the iron stays in the fire and what the smith does when a piece comes out wrong. After a few years the apprentice can do things nobody ever explained, and if you ask how, they shrug.
 
@@ -127,7 +121,7 @@ You could call it osmosis. Nobody sets out to copy anything, and after a while y
 
 A few steps is the useful distance, close enough that you can see how they got there and far enough that you want what they have. It might be someone in your team who started a few years before you, or someone outside it who has had more time with what you want. You have probably felt a small version of this already: an afternoon with the calmest person you know, and you leave a little calmer without having done anything. Look for that on purpose, and do your own practice in between visits.
 
-## 8. Work with attention
+## 7. Work with attention
 
 This is the work you can start today, alone, with no equipment, and it has three jobs.
 
@@ -147,7 +141,7 @@ Regularity starts with the daily sit, every day, even when it's a short one, bec
 
 If you already sit, you know the sitting. What this adds is what surrounds it: a pair who notices when your attention has wandered, a mirror that shows you the hooks you can't feel on a cushion, and a mentor who can see what you can't.
 
-## 9. Discipline
+## 8. Discipline
 
 Every other part of this method leans on discipline, and so does anything else that matters in life. The decision is the yes, and discipline keeps it true on the days when the wanting is quiet. Nobody learned an instrument or a sport on inspiration alone.
 
@@ -159,7 +153,7 @@ Keep it light, and keep it yours: a demand you make on yourself, in a friendly t
 
 Other people make all of this easier. A pair who notices a missed day and a team that meets at a set time carry some of it for you.
 
-## 10. Mirror work and ego work
+## 9. Mirror work and ego work
 
 Part two said that what happens to you works like a mirror. A colleague's tone, a partner's silence, a stranger in traffic: whatever hooks me points at something in me that still needs work. This section takes that seriously as a working rule: I take responsibility for what happens around me. That never means letting people hurt you.
 
@@ -187,7 +181,7 @@ And one question for the road: if you had the energy of a whole team and no dire
 
 ## Sources
 
-1. Making the decision
+1. Your wish, and your yes
 
 - Dhammapada 103 to 105 (Sujato's translation, SuttaCentral).
 - Pirkei Avot 4:1 (Kulp's translation, Sefaria), quoting Proverbs 16:32 (Jewish Publication Society translation).
@@ -195,6 +189,6 @@ And one question for the road: if you had the energy of a whole team and no dire
 - Daodejing 33 (Legge's translation).
 - Sahih al-Bukhari 6114.
 
-5. The team
+4. The team
 
 - Samyutta Nikaya 45.2, the Upaddha Sutta (Sujato's translation, SuttaCentral).

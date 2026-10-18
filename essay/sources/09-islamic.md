@@ -773,7 +773,7 @@ Kind: text. Status: checked (the Arabic and the English read on ihadis.com on 20
 
 Who: Sahih al-Bukhari is the collection of reports of the Prophet Muhammad's words and deeds that Sunni Muslims count as the most reliable after the Quran. This hadith is in the Book of Good Manners (Al-Adab), in the chapter on being careful about anger, whose heading quotes two Quran verses, one on forgiving when angry and one on restraining anger (42:37 and 3:134, as I remember the references; not opened).
 
-In the essay (v4.35.0): Part three, section 1, 'Making the decision', seventh and last item of the fold 'A narrow way, and the greatest victory': a hadith in Sahih al-Bukhari reports the Prophet saying that the strong one is the one who controls himself while in anger, which he sets against overcoming people by strength (6114). Sources list (Part three): Sahih al-Bukhari 6114.
+In the essay (v4.35.0): Part three, section 1, 'Your wish, and your yes' (called 'Making the decision' until 4.50.0), seventh and last item of the fold 'The greatest victory': a hadith in Sahih al-Bukhari reports the Prophet saying that the strong one is the one who controls himself while in anger, which he sets against overcoming people by strength (6114). Sources list (Part three): Sahih al-Bukhari 6114.
 
 Where it sits: Sahih al-Bukhari 6114; in ihadis.com's own references, Book 78, Hadith 141 within the book, chapter 'To be cautious from being angry', and Vol. 8, Book 73, Hadith 135 in the USC-MSA numbering.
 

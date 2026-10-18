@@ -619,7 +619,7 @@ Kind: text. Status: checked (the Pali and Sujato's English read on SuttaCentral 
 
 Who: The Dhammapada is the best known collection of short verses in the Pali canon and a main text of Theravada Buddhism. Chapter 8 is built on the word 'thousand': each verse puts a thousand of something beside one better thing. Verses 103 to 105 are the stretch about conquering.
 
-In the essay (v4.35.0): Part three, section 1, 'Making the decision', third item of the fold 'A narrow way, and the greatest victory': the supreme conqueror is the one who conquers a single person, himself, and the verse sets that above winning a battle against a million; another verse says no god, and not even Mara, the tempter of the Buddhist stories, can undo the victory of someone who has tamed themselves (103 to 105). Sources list (Part three): Dhammapada 103 to 105 (Sujato's translation, SuttaCentral).
+In the essay (v4.35.0): Part three, section 1, 'Your wish, and your yes' (called 'Making the decision' until 4.50.0), third item of the fold 'The greatest victory': the supreme conqueror is the one who conquers a single person, himself, and the verse sets that above winning a battle against a million; another verse says no god, and not even Mara, the tempter of the Buddhist stories, can undo the victory of someone who has tamed themselves (103 to 105). Sources list (Part three): Dhammapada 103 to 105 (Sujato's translation, SuttaCentral).
 
 Where it sits: Dhp 103, 104 and 105 (the range Dhp 100-115 on SuttaCentral). Verse 103 sets one victory over oneself beside a thousand times a thousand in battle; 104 says it is better to conquer oneself than all those other folk; 105 says that for a person who has tamed themselves no god, no Mara and no divinity can undo the victory.
 

@@ -733,7 +733,7 @@ Kind: text. Status: checked (Kulp's English and the Hebrew of Avot 4:1 read on S
 
 Who: Ben Zoma is one of the sages of the Mishnah. Pirkei Avot is the tractate that collects the sages' sayings on how to live. In 4:1 he asks four short questions and answers each with a verse: who is wise, who is mighty, who is rich, who is honored.
 
-In the essay (v4.35.0): Part three, section 1, 'Making the decision', fourth item of the fold 'A narrow way, and the greatest victory': in Pirkei Avot Ben Zoma asks who is mighty, a word that can also mean hero, and answers: the one who subdues his inclination; he backs it with Proverbs, which says it is better to have self-control than to conquer a city (4:1, quoting Proverbs 16:32). Only the second of his four answers is used. Sources list (Part three): Pirkei Avot 4:1 (Kulp's translation, Sefaria), quoting Proverbs 16:32 (Jewish Publication Society translation).
+In the essay (v4.35.0): Part three, section 1, 'Your wish, and your yes' (called 'Making the decision' until 4.50.0), fourth item of the fold 'The greatest victory': in Pirkei Avot Ben Zoma asks who is mighty, a word that can also mean hero, and answers: the one who subdues his inclination; he backs it with Proverbs, which says it is better to have self-control than to conquer a city (4:1, quoting Proverbs 16:32). Only the second of his four answers is used. Sources list (Part three): Pirkei Avot 4:1 (Kulp's translation, Sefaria), quoting Proverbs 16:32 (Jewish Publication Society translation).
 
 Where it sits: Pirkei Avot 4:1 (the first mishnah of chapter 4). Proverbs 16:32 in the Writings of the Hebrew Bible.
 

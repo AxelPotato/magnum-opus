@@ -433,7 +433,7 @@ Kind: text. Status: checked (Jacobi's English read on Wisdom Library on 2026-10-
 
 Who: The Uttaradhyayana Sutra is a Jain text of 36 chapters on doctrine and discipline, counted among the Mulasutras of the Svetambara canon (Wisdom Library's summary of Jacobi's edition). Chapter 9 tells how King Nami remembers a former birth, gives his throne to his son and goes to a lonely place. Shakra, which is Indra, king of the gods, comes in the guise of a brahmin and tests him with arguments for going back to a king's duties. Nami answers each.
 
-In the essay (v4.35.0): Part three, section 1, 'Making the decision', fifth item of the fold 'A narrow way, and the greatest victory': King Nami has given up his throne, and Indra, in the guise of a brahmin, tells him that a true warrior would bring every prince who does not acknowledge him into subjection; Nami answers that a man may conquer thousands and thousands of valiant foes, and greater will be his victory if he conquers nobody but himself (chapter 9). Sources list (Part three): Uttaradhyayana Sutra, chapter 9 (Jacobi's translation, Sacred Books of the East, vol. 45).
+In the essay (v4.35.0): Part three, section 1, 'Your wish, and your yes' (called 'Making the decision' until 4.50.0), fifth item of the fold 'The greatest victory': King Nami has given up his throne, and Indra, in the guise of a brahmin, tells him that a true warrior would bring every prince who does not acknowledge him into subjection; Nami answers that a man may conquer thousands and thousands of valiant foes, and greater will be his victory if he conquers nobody but himself (chapter 9). Sources list (Part three): Uttaradhyayana Sutra, chapter 9 (Jacobi's translation, Sacred Books of the East, vol. 45).
 
 Where it sits: Chapter 9, 'The Pravragya of King Nami' (pravrajya means going forth into renunciation). Verses 31 to 35 in Jacobi's numbering: Indra's challenge is 31, Nami's answer 33 to 35. Pages that give the Prakrit number the same line 9.34.
 
@@ -457,7 +457,7 @@ Kind: text. Status: checked (Legge's English read on Project Gutenberg on 2026-1
 
 Who: As for Daodejing 42 above: the foundational text of Daoism, 81 short chapters, attributed to Laozi. Chapter 33 is a run of paired lines: knowing others and knowing yourself, overcoming others and overcoming yourself, being content and keeping on.
 
-In the essay (v4.35.0): Part three, section 1, 'Making the decision', sixth item of the fold 'A narrow way, and the greatest victory': the Daodejing says that whoever overcomes others is strong, and whoever overcomes himself is mighty (33). Sources list (Part three): Daodejing 33 (Legge's translation).
+In the essay (v4.35.0): Part three, section 1, 'Your wish, and your yes' (called 'Making the decision' until 4.50.0), sixth item of the fold 'The greatest victory': the Daodejing says that whoever overcomes others is strong, and whoever overcomes himself is mighty (33). Sources list (Part three): Daodejing 33 (Legge's translation).
 
 Where it sits: Daodejing 33 in the standard (Wang Bi) numbering. In Legge's edition it has two numbered paragraphs.
 

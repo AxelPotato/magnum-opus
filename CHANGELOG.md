@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.50.0 (2026-10-18)
+
+- Part three: 'Making the decision' and 'Your own wish' merged into one shorter section, '1. Your wish, and your yes', opening on a time you really decided something; sections renumbered 1 to 9 (your 08:07 yes)
+
+
 ## 4.49.4 (2026-10-18)
 
 - Part two, step 7: opens on two hours guarded against two hours with an old friend (your pick 7.1.a)

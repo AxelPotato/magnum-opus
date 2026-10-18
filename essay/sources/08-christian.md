@@ -874,7 +874,7 @@ Kind: text. Status: checked (the ESV read on Bible Gateway on 2026-10-17, with t
 
 Who: The close of the Sermon on the Mount (Matthew 5 to 7), a few lines after the golden rule (7:12; see the entry above). Jesus is the speaker.
 
-In the essay: no longer cited. Cut from Part three, section 1, with the hard-road wording in 4.49.3 (2026-10-18). Before that: Part three, section 1, 'Making the decision', second item of the fold 'A narrow way, and the greatest victory': in the Sermon on the Mount Jesus says to enter by the narrow gate, because the way that leads to life is hard and few find it (Matthew 7:13 to 14). Only 'narrow', 'hard' and 'few find it' are used; the wide gate and what it leads to are left out. Sources list (Part three): Matthew 7:13 to 14 (English Standard Version).
+In the essay: no longer cited. Cut from Part three, section 1, with the hard-road wording in 4.49.3 (2026-10-18). Before that: Part three, section 1, 'Your wish, and your yes' (called 'Making the decision' until 4.50.0), second item of the fold 'The greatest victory': in the Sermon on the Mount Jesus says to enter by the narrow gate, because the way that leads to life is hard and few find it (Matthew 7:13 to 14). Only 'narrow', 'hard' and 'few find it' are used; the wide gate and what it leads to are left out. Sources list (Part three): Matthew 7:13 to 14 (English Standard Version).
 
 Where it sits: Matthew 7:13-14. Luke 13:22-24 has a parallel in a different setting.
 

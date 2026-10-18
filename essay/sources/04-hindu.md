@@ -502,7 +502,7 @@ Kind: text. Status: checked (the Sanskrit, Sastri's English and Shankara's comme
 
 Who: The same Katha Upanishad as the entry on 1.2.18 above. The verse sits in the first chapter's third section, which Wisdom Library titles 'The parable of the chariot'. Death, the speaker throughout, has told the boy Nachiketa how the self is reached, and here he turns to the listener.
 
-In the essay: no longer cited. Cut from Part three, section 1, with the hard-road wording in 4.49.3 (2026-10-18). Before that: Part three, section 1, 'Making the decision', first item of the fold 'A narrow way, and the greatest victory': the Katha Upanishad tells the listener to arise and awake, and says the wise call the path hard to go by, as hard as the sharp edge of a razor (1.3.14). Sources list (Part three): Katha Upanishad 1.3.14 (Sastri's translation, with Shankara's commentary).
+In the essay: no longer cited. Cut from Part three, section 1, with the hard-road wording in 4.49.3 (2026-10-18). Before that: Part three, section 1, 'Your wish, and your yes' (called 'Making the decision' until 4.50.0), first item of the fold 'The greatest victory': the Katha Upanishad tells the listener to arise and awake, and says the wise call the path hard to go by, as hard as the sharp edge of a razor (1.3.14). Sources list (Part three): Katha Upanishad 1.3.14 (Sastri's translation, with Shankara's commentary).
 
 Where it sits: Katha 1.3.14: chapter 1, third section (valli), verse 14.
 
