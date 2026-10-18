@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.59.1 (2026-10-18)
+
+- Part one, Phelps: going into London he wanted nothing to do with the sport (item 14.a)
+
+
 ## 4.59.0 (2026-10-18)
 
 - Part one, Driven: two rooms in the same week (item 13.a)
