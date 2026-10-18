@@ -723,7 +723,7 @@ Background: The gospels tell of many signs and also show Jesus refusing to perfo
 
 Kind: text. Status: checked (David Lewis's translation read on Project Gutenberg, 2026-10-16).
 
-In the essay: Part two, step 7, the fold 'Miracles, and the warning against them' (step 8 until 4.52.0): Teresa, who was seen lifted off the ground, begged God to stop giving her favors that other people could see; in the fold, that she ordered her nuns never to speak of it.
+In the essay: Part two, step 7, the fold 'Miracles, and the warning against them' (step 8 until 4.52.0): Teresa, who was seen lifted off the ground, begged God to stop giving her favors that other people could see.
 
 The passage (Lewis, public domain): '...and now and then the whole body as well, so that it was lifted up from the ground.' 'I commanded the nuns ... never to speak of it.' 'I made many supplications to our Lord, that He would be pleased to give me no more of those graces which were outwardly visible.'
 
