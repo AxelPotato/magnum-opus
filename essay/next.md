@@ -1,6 +1,6 @@
 # Next
 
-If you've read the full essay and feel like taking part in any workshop or online session, you're welcome to leave your details below. The online sessions I have in mind are in English, and each takes one subject, with some practical elements and answers to interesting questions. One lasts about an hour and a half, and anyone can stay longer when the discussion is good. Your details come straight to me, and I'll answer you myself and try to keep you updated.
+If you've read the full essay and feel like taking part in any workshop or online session, you're welcome to leave your details below. The online sessions I have in mind are in English, and each takes one subject, with some practical elements and answers to interesting questions. One lasts about an hour and a half, and anyone can stay longer when the discussion is good. You're welcome to come to just one and see how it feels. Your details come straight to me, and I'll answer you myself and try to keep you updated.
 
 We, the students of Genadiy, practice together in two centers, one in Riga, Latvia, and one in Sochi, Russia, with over 120 people between them.
 

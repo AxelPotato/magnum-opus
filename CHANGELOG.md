@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.54.2 (2026-10-18)
+
+- Next: "You're welcome to come to just one and see how it feels." (item 3.a, F1)
+
+
 ## 4.54.1 (2026-10-18)
 
 - Part three, "My teacher and I" fold: "where he lived" becomes "where he lives" (F3)
