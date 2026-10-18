@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.51.9 (2026-10-18)
+
+- Part two, why I want this: the institutes sentence cut (item 10.a, your 10:02 message)
+
+
 ## 4.51.8 (2026-10-18)
 
 - Part three: the first sentence opened to anyone who wants to begin (item 9.a, your 10:02 message)
