@@ -419,11 +419,25 @@ Read it free:
 
 Background: The book is popular in Russian-speaking spiritual circles; the essay cites only the line and the novel, as a favorite book of the author's.
 
+## Swami Anand Arun, In Wonder with Osho (2017) (Arun, a Nepali student of Osho since 1969 and founder of Osho Tapoban near Kathmandu)
+
+Kind: text. Status: partly checked (title, author, publisher and year confirmed from listings and Osho News on 2026-10-18; the book itself was not opened).
+
+Who: A Nepali disciple of Osho. The book is a memoir of his years as Osho's student, the first of two autobiographical volumes (Lone Seeker, Many Masters came in 2015, Mystics and Miracles in 2023). It was written in Nepali and has been translated into English, Hindi, Chinese and Russian.
+
+In the essay: Part three, section 5, 'The teacher and the method', fold 'My teacher and I': 'During COVID I stumbled on In Wonder with Osho, Swami Anand Arun's memoir of life as a student of Osho... Reading it, I realized that this was what I was looking for.' It describes the author's own road, and nothing is quoted from it. Sources list (Part three): Swami Anand Arun, In Wonder with Osho (Osho Tapoban, 2017).
+
+Find it:
+- Osho News on the book: https://www.oshonews.com/?p=86314
+- A paperback listing (ISBN 9789937686396): https://exoticindiaart.com/book/details/in-wonder-with-osho-hbh513
+
+If someone pushes back: the essay doesn't recommend Osho or his movement. It says only that reading about one person's life with a teacher showed the author what to look for.
+
 ## Friedrich Nietzsche, the Übermensch (Thus Spoke Zarathustra, 1883-1885)
 
 Kind: concept. Status: unchecked (biographical mention only).
 
-In the essay: Part two, step 8, 'Miracles, the levels of knowledge': in 2012 the author's 'philosophy of choice was Nietzsche's idea of the Übermensch, the closest thing I had found to an answer to the question of why bother living.' It describes the author, not an argument.
+In the essay: no longer cited. The story of the Reiki night, the only place that named Nietzsche, was cut from step 8 in 4.47.11 (2026-10-18). Before that: Part two, step 8, 'Miracles, the levels of knowledge': in 2012 the author's 'philosophy of choice was Nietzsche's idea of the Übermensch, the closest thing I had found to an answer to the question of why bother living.' It describes the author, not an argument.
 
 Read it in a book: Nietzsche, Thus Spoke Zarathustra, translated by Graham Parkes (Oxford World's Classics, 2005).
 

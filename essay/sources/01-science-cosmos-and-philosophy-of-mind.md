@@ -331,7 +331,7 @@ Kind: study. Status: checked.
 
 Who: Two families of hardware flaws, found independently by several teams, that exploit speculative execution in modern processors to leak data across the boundaries that operating systems rely on. Meltdown is the one that reads kernel memory from an ordinary program. Spectre tricks a program into speculatively leaking its own secrets, and it works across process and sandbox boundaries.
 
-In the essay: 'The axiom and the machine': 'The walls are real... though they are an arrangement and not a law: in 2018 the Meltdown and Spectre flaws showed that information could leak across them.'
+In the essay: no longer cited. The clause was cut from 'The axiom and the machine' in 4.51.14 (2026-10-18; both Ruths skimmed it in run 8, and Alex wanted fewer machine details). Before that: 'The walls are real... though they are an arrangement and not a law: in 2018 the Meltdown and Spectre flaws showed that information could leak across them.'
 
 Where it sits: Lipp et al., 'Meltdown: Reading Kernel Memory from User Space', USENIX Security 2018 (arXiv 1801.01207). Kocher et al., 'Spectre Attacks: Exploiting Speculative Execution' (arXiv 1801.01203; IEEE S and P 2019). Note that 1801.01203 is the Spectre paper.
 
@@ -588,7 +588,7 @@ Kind: study. Status: partly checked (the 2015 paper and the prize citation seen 
 
 Who: John Stewart Bell, a physicist from Belfast who worked at CERN. In 1964 he showed that if each particle carried its own pre-set answers and no influence traveled faster than light, the correlations between measurements on two distant particles would have to stay under a limit (a Bell inequality), and that quantum mechanics predicts correlations above it. Alain Aspect, John Clauser and Anton Zeilinger ran the experiments that showed the limit is broken.
 
-In the essay (v4.32.0): Part two, step 1, 'Separation is a way of looking', the physics paragraph: two particles prepared together and sent far apart behave as one thing with a joint state; John Bell showed how to test that, and the people who ran the tests got the Nobel Prize in 2022; it carries no message. The Sources list keeps Bell (1964) and the 2022 press release. Hensen et al. (2015) was cited until v4.31.0, for 'the loopholes were closed by 2015', and is now private context.
+In the essay: no longer cited. The sentences on entangled particles and the 2022 prize were cut from step 1 in 4.51.13 (2026-10-18, Ruth's -1 in run 8), and the Sources list keeps only the Stanford entry on quantum field theory. Before that (v4.32.0): Part two, step 1, 'Separation is a way of looking', the physics paragraph: two particles prepared together and sent far apart behave as one thing with a joint state; John Bell showed how to test that, and the people who ran the tests got the Nobel Prize in 2022; it carries no message. The Sources list keeps Bell (1964) and the 2022 press release. Hensen et al. (2015) was cited until v4.31.0, for 'the loopholes were closed by 2015', and is now private context.
 
 Where it sits: Bell, J. S. (1964), On the Einstein Podolsky Rosen paradox, Physics 1(3), 195-200. The Nobel Prize in Physics 2022, shared equally by Aspect, Clauser and Zeilinger 'for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science'. Hensen, B., et al. (2015), Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres, Nature 526, 682-686, doi 10.1038/nature15759 (Ronald Hanson's group at Delft).
 

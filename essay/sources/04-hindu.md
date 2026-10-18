@@ -341,7 +341,7 @@ Kind: concept. Status: checked.
 
 Who: Dvija means 'twice-born' (dvi, two; ja, born). In the law books of ancient India it names a male member of the three upper classes (brahmin, kshatriya, vaishya) who has been initiated through the upanayana, the thread ceremony. It is also a Sanskrit word for birds, snakes and teeth.
 
-In the essay: Part two, 'The arrow': 'In the Hindu tradition the twice-born are those who have received the initiation that counts as a second birth.' The essay then says the traditions use the image for different things and that using it for the stage after plus four is the school's own extension.
+In the essay: no longer cited. The section 'One more idea: how far the road goes' and its fold 'Second births and staged maps' were cut in 4.48.0 (2026-10-18). Before that: Part two, 'The arrow': 'In the Hindu tradition the twice-born are those who have received the initiation that counts as a second birth.' The essay then says the traditions use the image for different things and that using it for the stage after plus four is the school's own extension.
 
 Where it sits: Manusmriti 2.169 (the three births of a dvija), with 2.170 on Savitri and the teacher as mother and father. Also the concept of upanayana in the Dharmasutras (Apastamba, Gautama, Baudhayana).
 
@@ -502,7 +502,7 @@ Kind: text. Status: checked (the Sanskrit, Sastri's English and Shankara's comme
 
 Who: The same Katha Upanishad as the entry on 1.2.18 above. The verse sits in the first chapter's third section, which Wisdom Library titles 'The parable of the chariot'. Death, the speaker throughout, has told the boy Nachiketa how the self is reached, and here he turns to the listener.
 
-In the essay (v4.35.0): Part three, section 1, 'Making the decision', first item of the fold 'A narrow way, and the greatest victory': the Katha Upanishad tells the listener to arise and awake, and says the wise call the path hard to go by, as hard as the sharp edge of a razor (1.3.14). Sources list (Part three): Katha Upanishad 1.3.14 (Sastri's translation, with Shankara's commentary).
+In the essay: no longer cited. Cut from Part three, section 1, with the hard-road wording in 4.49.3 (2026-10-18). Before that: Part three, section 1, 'Your wish, and your yes' (called 'Making the decision' until 4.50.0), first item of the fold 'The greatest victory': the Katha Upanishad tells the listener to arise and awake, and says the wise call the path hard to go by, as hard as the sharp edge of a razor (1.3.14). Sources list (Part three): Katha Upanishad 1.3.14 (Sastri's translation, with Shankara's commentary).
 
 Where it sits: Katha 1.3.14: chapter 1, third section (valli), verse 14.
 

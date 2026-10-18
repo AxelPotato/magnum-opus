@@ -182,7 +182,7 @@ Kind: text. Status: checked.
 
 Who: The Fourth Gospel, whose author is traditionally John and is debated by scholars. Jesus speaks at night with Nicodemus, a Pharisee and a member of the Jewish council.
 
-In the essay: The arrow: 'In John's gospel Jesus says that one must be born again, or born from above, since the Greek word can mean either.' Sources list: John 3:3 and 3:7.
+In the essay: no longer cited. The section 'One more idea: how far the road goes' and its fold 'Second births and staged maps' were cut in 4.48.0 (2026-10-18). Before that: The arrow: 'In John's gospel Jesus says that one must be born again, or born from above, since the Greek word can mean either.' Sources list: John 3:3 and 3:7.
 
 Where it sits: John 3:3, 3:7 (Greek anothen); the conversation runs 3:1-21
 
@@ -276,7 +276,7 @@ Kind: person. Status: partly checked.
 
 Who: A Christian teacher in Alexandria and Caesarea, and the most productive scholar of the early church. His works include the Hexapla, hundreds of homilies, Contra Celsum and On First Principles. He was tortured under the emperor Decius and died not long after.
 
-In the essay: Three places. The axiom and the machine: Origen and Gregory of Nyssa read 1 Corinthians 15:28 as the restoration of all things. Not enough time in one life: 'Origen taught that souls exist before birth but rejected the transmigration of souls, and the sixth century condemnations of Origenism went after pre-existence and the final restoration of all, and not reincarnation as such.' Table, row 'The return' (Christianity).
+In the essay: no longer cited. The section 'One more idea: how far the road goes' and its fold 'Second births and staged maps' were cut in 4.48.0 (2026-10-18). Before that: Three places. The axiom and the machine: Origen and Gregory of Nyssa read 1 Corinthians 15:28 as the restoration of all things. Not enough time in one life: 'Origen taught that souls exist before birth but rejected the transmigration of souls, and the sixth century condemnations of Origenism went after pre-existence and the final restoration of all, and not reincarnation as such.' Table, row 'The return' (Christianity).
 
 Where it sits: On First Principles (Peri Archon) 1.6 (the end), 2.3.4-5 (pairs Acts 3:21 and 1 Cor 15:28, per the Harvard CHS essay), 3.6 (the end of the world, where 'all in all' recurs); on transmigration, Contra Celsum and the Commentary on Matthew (I did not locate the exact sections)
 
@@ -382,7 +382,7 @@ Kind: text. Status: partly checked.
 
 Who: Eckhart's central teaching: the eternal birth of the Son from the Father also takes place in the ground of the soul. The birth sermons are German Sermons 101-104.
 
-In the essay: The arrow: 'Meister Eckhart taught that God is born in the ground of the soul, among the teachings that led to an inquiry for heresy.' Sources list: Eckhart's German sermons on the birth of God in the soul.
+In the essay: no longer cited. The section 'One more idea: how far the road goes' and its fold 'Second births and staged maps' were cut in 4.48.0 (2026-10-18). Before that: The arrow: 'Meister Eckhart taught that God is born in the ground of the soul, among the teachings that led to an inquiry for heresy.' Sources list: Eckhart's German sermons on the birth of God in the soul.
 
 Where it sits: German Sermons 101-104 (Quint DW), especially Pr. 101 'Dum medium silentium' (Wisdom 18:14), which is Sermon 1 in the Pfeiffer and Evans numbering; the related Sermon 52 'Beati pauperes spiritu' for the breakthrough
 
@@ -462,7 +462,7 @@ Kind: text. Status: checked.
 
 Who: A Spanish Carmelite nun, reformer of her order, and writer on prayer in plain Castilian. Declared a Doctor of the Church in 1970. The Interior Castle (Las moradas) is her map of the soul as a castle of many rooms, written at her confessor's order.
 
-In the essay: The arrow: 'Teresa of Avila described seven mansions of the inner castle, the last of which is the spiritual marriage.' Sources list: Teresa of Avila, The Interior Castle.
+In the essay: no longer cited. The section 'One more idea: how far the road goes' and its fold 'Second births and staged maps' were cut in 4.48.0 (2026-10-18). Before that: The arrow: 'Teresa of Avila described seven mansions of the inner castle, the last of which is the spiritual marriage.' Sources list: Teresa of Avila, The Interior Castle.
 
 Where it sits: The Interior Castle, Seventh Mansions, chapters 1-4; the betrothal is earlier, in the Fifth and Sixth Mansions; the image of the castle is in the Prologue and First Mansions, chapter 1
 
@@ -589,7 +589,7 @@ Kind: text. Status: partly checked.
 
 Who: Dante Alighieri, Florentine poet, exiled from 1302. The Divine Comedy is a journey through Hell, Purgatory and Paradise. In Paradiso I, Dante begins the ascent through the heavens, and Beatrice explains why it is natural.
 
-In the essay: The arrow: 'In Dante's Paradiso the pilgrim rises through the heavens without noticing, and Beatrice tells him there is nothing to marvel at, since it would be stranger if he stayed low, like a flame sitting still on the ground.' Sources list: Dante, Paradiso, canto I.
+In the essay: no longer cited. The section 'One more idea: how far the road goes' and its fold 'Second births and staged maps' were cut in 4.48.0 (2026-10-18). Before that: The arrow: 'In Dante's Paradiso the pilgrim rises through the heavens without noticing, and Beatrice tells him there is nothing to marvel at, since it would be stranger if he stayed low, like a flame sitting still on the ground.' Sources list: Dante, Paradiso, canto I.
 
 Where it sits: Paradiso I, around lines 130-141 (the passage on the ascent, ending with the living fire); line numbers are from memory, check them in your edition
 
@@ -874,7 +874,7 @@ Kind: text. Status: checked (the ESV read on Bible Gateway on 2026-10-17, with t
 
 Who: The close of the Sermon on the Mount (Matthew 5 to 7), a few lines after the golden rule (7:12; see the entry above). Jesus is the speaker.
 
-In the essay (v4.35.0): Part three, section 1, 'Making the decision', second item of the fold 'A narrow way, and the greatest victory': in the Sermon on the Mount Jesus says to enter by the narrow gate, because the way that leads to life is hard and few find it (Matthew 7:13 to 14). Only 'narrow', 'hard' and 'few find it' are used; the wide gate and what it leads to are left out. Sources list (Part three): Matthew 7:13 to 14 (English Standard Version).
+In the essay: no longer cited. Cut from Part three, section 1, with the hard-road wording in 4.49.3 (2026-10-18). Before that: Part three, section 1, 'Your wish, and your yes' (called 'Making the decision' until 4.50.0), second item of the fold 'The greatest victory': in the Sermon on the Mount Jesus says to enter by the narrow gate, because the way that leads to life is hard and few find it (Matthew 7:13 to 14). Only 'narrow', 'hard' and 'few find it' are used; the wide gate and what it leads to are left out. Sources list (Part three): Matthew 7:13 to 14 (English Standard Version).
 
 Where it sits: Matthew 7:13-14. Luke 13:22-24 has a parallel in a different setting.
 
