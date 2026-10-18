@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.53.0 (2026-10-18)
+
+- Next: the two centers (Riga and Sochi, over 120 people) stated above the form; the dream ends on the next step (item 1.a)
+
+
 ## 4.52.0 (2026-10-18)
 
 - Part two: step 8 (Miracles) becomes the fold "Miracles, and the warning against them" at the end of step 7; chain figure has seven steps; Sources and reading pack updated (Josh and Ruth joint read, option a)
