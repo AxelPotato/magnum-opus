@@ -174,7 +174,7 @@ It's much harder alone, which is why it comes late in the list: you can't see wh
 
 ## What you can check
 
-After a few months of practice, alone, in a pair or in a team, ask: do you produce the thing you said you would? Does anything outside you change, and if it doesn't, why not? How fast do you say sorry first now? Over the last year, are you more fulfilled, or more bleak? Put the answers on the chart from Part one, and ask again a month later.
+After a few months of practice, alone, in a pair or in a team, ask: do you produce the thing you said you would? Does anything outside you change, and if it doesn't, why not? How fast do you say sorry first now? Over the last year, are you more fulfilled, or more bleak? Put the answers on the chart from Part one, and ask again a month later. Look at the people a few steps ahead of you, too: do they live the way they talk?
 
 And one question for the road: who in your life could tell you honestly how you have changed?
 

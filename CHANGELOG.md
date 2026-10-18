@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.59.3 (2026-10-18)
+
+- Part three, What you can check: look at the people a few steps ahead (item 16.a)
+
+
 ## 4.59.2 (2026-10-18)
 
 - Part one, opening: "When both are high, I call it high agency" (item 15.a)
