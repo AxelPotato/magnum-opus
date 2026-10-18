@@ -108,7 +108,7 @@ What he does is easy to describe. He doesn't walk the path for you, and he can't
 
 A teacher does one more job. In any group, people carry private opinions of who is wrong, and two people who are each sure they are right often stay stuck while each holds on. The first sorry is how one of them steps out, and that is the inner agency from Part one. A teacher can make that step easier. Genadiy almost never tells two people which of them was right. He says what he sees, and each person goes looking for their own part in the conflict. When one person is simply wrong, that gets said too. The sorry itself still has to come from one of the two.
 
-The method came to him through a line of teachers, and he adapted it to life in the 21st century. The way we have arranged ourselves around it is ours. Other teachers and methods help people too. This is the one I chose, and the one I know from the inside.
+The method came to him through a line of teachers, and he adapted it to life in the 21st century. The way we have arranged ourselves around it is ours. We, his students, practice together in two centers, one in Riga and one in Sochi, where he lives. Other teachers and methods help people too. This is the one I chose, and the one I know from the inside.
 
 ## 6. Mentorship
 

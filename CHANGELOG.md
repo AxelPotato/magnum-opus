@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.54.0 (2026-10-18)
+
+- Part three, section 5: the two centers named after "The way we have arranged ourselves around it is ours" (item 2, with F3: he lives in Sochi)
+
+
 ## 4.53.0 (2026-10-18)
 
 - Next: the two centers (Riga and Sochi, over 120 people) stated above the form; the dream ends on the next step (item 1.a)
