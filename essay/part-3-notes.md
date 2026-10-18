@@ -415,6 +415,12 @@ What changed: Part zero's last paragraph now ends "Part three says more about hi
 
 To take it out, ask for "revert run-8 verdict 3". The text as it was before this release is 4.46.5.
 
+## Run-8 verdict 2.4.c: you answer yourself (4.46.7)
+
+What changed: on the Next page, the invitation now ends "Your details come straight to me, and I'll answer you myself and try to keep you updated." It replaces 4.46.5's "They come straight to me, and I'll try to keep you updated." You said yes to F4 on 18 October ("Yes I will"), so the stronger version from item 2.4.c goes in. "They" became "Your details" so the sentence can't be read as being about the sessions described before it (4.46.8).
+
+To take it out, ask for "revert run-8 verdict 2.4.c". That puts back 4.46.5's sentence. The text as it was before this release is 4.46.6.
+
 ## Where Part three leans on Part two
 
 Each pointer is one clause, and none restates the step it points at. Names, not step numbers: Part two gained a step in 4.32.0 and its steps 3 to 7 became 4 to 8, which moved nothing here.
