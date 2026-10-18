@@ -681,3 +681,4 @@ Each pick is its own release, so each can be undone alone with "revert" and its 
 - 4.59.12: Part two, Why I want this: "That is what I stand on" (item 21.3.a).
 - 4.59.13: Part one: how the drive increased, in Alex's words (F5).
 
+4.60.0 (18 October): folds say what kind of thing is inside, from the small item in the joint read (Josh stopped opening folds after step 4, Ruth opened them all). Alex picked design 2 of three: an icon, a colored kind line with the count, the title, and the first entry fading out until the fold is opened. Five kinds: from the traditions (16), from the studies (2), a closer look (2: "But why would it do that?" and "A post-mortem"), from people's lives (1: "What if I'm not sure?") and my own story (1: "My teacher and I"). The old count in brackets after "What the studies say" moved into the kind line.
