@@ -493,7 +493,7 @@ Kind: text. Status: checked (Sujato's translations read on SuttaCentral, 2026-10
 
 Who: Two long discourses. In DN 2 the Buddha tells King Ajatasattu what a contemplative gains, step by step. In DN 11 a householder, Kevaddha, asks him to have a monk perform a miracle to win over the town.
 
-In the essay: Part two, step 8, 'Miracles, the levels of knowledge': the list of powers (walking on water as if it were earth, flying cross-legged through the sky) and the warning (the Buddha is horrified by displays of psychic power and of reading minds, and values instruction).
+In the essay: Part two, step 7, the fold 'Miracles, and the warning against them': DN 11 only, the warning (the Buddha is horrified by displays of psychic power and of reading minds, and values instruction). DN 2 is no longer cited: until 4.52.0, step 8 used its list of powers (walking on water as if it were earth, flying cross-legged through the sky).
 
 Where it sits: DN 2, the section on psychic powers among the fruits of the contemplative life. DN 11, the three demonstrations (psychic power, revealing, instruction).
 

@@ -441,7 +441,7 @@ Kind: text. Status: checked (Johnston's 1912 translation read on Project Gutenbe
 
 Who: The classical text of the yoga school. Book III, the Vibhuti Pada, describes the powers that come from concentration.
 
-In the essay: Part two, step 8, 'Miracles, the levels of knowledge': reading the thoughts of others (3.19), rising above water, mire and thorns (3.39), and the warning that these powers stand against the highest spiritual vision (3.37).
+In the essay: Part two, step 7, the fold 'Miracles, and the warning against them': the warning that these powers stand against the highest spiritual vision (3.37). Until 4.52.0, step 8 also cited reading the thoughts of others (3.19) and rising above water, mire and thorns (3.39).
 
 Where it sits: Johnston's numbering, which differs by one or two from some editions (in many editions the obstacles sutra is 3.38 and the upward-breath sutra 3.40).
 

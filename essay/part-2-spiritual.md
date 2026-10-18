@@ -4,9 +4,9 @@
 
 Part one was the polite part. Everything in it holds up whichever way you think the universe works. This part is where we part ways.
 
-One thing first, because it changes how you read everything after it. I'm not religious, and I'm not asking you to adopt anybody's religion. What I will do is quote a lot of traditions: Hindu, Buddhist, Jain, Jewish, Christian, Muslim, Daoist, Greek, and a few people with no religion at all. They use different words, and sometimes different gods, and they keep coming back to a few of the same ideas. I'm using them as witnesses.
+One thing first, because it changes how you read everything after it. I'm not religious, and I'm not asking you to adopt anybody's religion. What I will do is quote a lot of traditions: Hindu, Buddhist, Jain, Jewish, Christian, Muslim, Daoist, Greek, and a few people with no religion at all. They use different words, and sometimes different gods, and they keep coming back to a few of the same ideas.
 
-One more thing, about how I'll argue. A world, real or invented, has to be coherent within its own rules. The rules can be as odd as you like, and what makes the world believable is that everything that happens in it follows from them. This is the test I'll run on the picture of reality in this part. Take one assumption about how things are, and ask whether everything else follows from it without exceptions. You don't have to agree with the starting assumption for the test to work. Coherence is the first test, and your own life is the second, so the end of this part has a check and a prediction you can test on yourself.
+One more thing, about how I'll argue. A world, real or invented, has to be coherent within its own rules. The rules can be as odd as you like, and what makes the world believable is that everything that happens in it follows from them. This is the test I'll run on the picture of reality in this part. Take one assumption about how things are, and ask whether everything else follows from it. You don't have to agree with the starting assumption for the test to work. Coherence is the first test, and your own life is the second, so the end of this part has a check and a prediction you can test on yourself.
 
 Two ways of reading a life sit at opposite ends. Most people stand somewhere in between without noticing.
 
@@ -66,8 +66,6 @@ If everything is one, and the whole experiences separation, then being separate 
 
 The traditions give answers to why a whole would do this, and they rhyme. Hindu texts call creation lila, play, an activity with no need behind it. Which makes the universe the biggest hobby project ever, and like every hobby project, nobody can explain why it took this long. A whole that looks at itself needs positions to look from, and a position is a separation. Knowing needs a gap.
 
-Physics is a fun place to look here, though it comes with a warning label. Mostly the label says not to let a guy from cyber security explain quantum physics to you. I'm going to do it anyway. For a few centuries the picture was tiny separate balls, each one a little thing with its own properties. Quantum field theory, the framework behind the Standard Model of particle physics, starts somewhere else. There are fields that fill all of space, a bit like the ocean fills a bay, and what we call an electron is a ripple in the electron field, which is why every electron in the universe is exactly like every other one. None of it carries messages, so please don't use it to explain your cousin's premonition. The best physics we have says the picture of tiny separate balls is wrong at the bottom, and that is the shape of the axiom, turning up in physics without anyone asking it to.
-
 #### Real as an experience, misleading as the last word
 
 * Hinduism calls the appearance maya, and teachers of Advaita, the non-dual school of Hindu philosophy, warn that "illusion" translates the word badly: the world depends on something deeper for its being, so it is neither fully real nor simply unreal. Plato's prisoners in the cave take shadows for the world, and in the Heart Sutra, a short Buddhist text, form is emptiness and emptiness is form, which Buddhists read as saying that things have no fixed independent nature of their own.
@@ -88,7 +86,7 @@ Turning the settings down is half of it. The other half is the world the point o
 
 There is one more thing the whole has to do, and without it none of the rest would work. Picture a part with every setting turned down, inside the most convincing world you can imagine, and still running a script the whole wrote in advance. That part isn't separate at all. It is the whole reading a story to itself, a well-prepared plan that just executes. For the separation to be real, the whole has to hand over the steering, and that is free will, the biggest unknown it could give itself. Watts's dream, in the fold under the axiom, says the same thing: on the night you get tired of knowing how it goes, you dream something you don't control.
 
-A game makes the difference easy to see. Under the materialist view from the start of this part, a person is like an NPC, a character the game moves by itself, and nobody is holding the controller. Under the axiom you are a player's character. The game sets the rules, the board and what every move costs, and someone really is holding the controller: the whole, at your position, with the steering handed over on purpose.
+A game makes the difference easy to see. Under the determinist reading of the view from the start of this part, a person is like an NPC, a character the game moves by itself, and nobody is holding the controller. Under the axiom you are a player's character. The game sets the rules, the board and what every move costs, and someone really is holding the controller: the whole, at your position, with the steering handed over on purpose.
 
 Free inside the rules is still free. You don't choose the rules, the board or the price of a move, and you do choose the moves. The steps that follow put a lot of machinery around a person: a drift, a signal that flips, lessons that keep coming back. None of it forces anything. It makes one direction feel better and shows where the work is, and you can ignore it for a whole life. If the return were forced, the separation would never have been real in the first place. What stays open is the pace and the way. Spinoza, whom I quoted at the start as a witness for the one substance, disagrees here. He held that people think themselves free only because they know their own actions and not the causes behind them. On this point the axiom parts ways with him.
 
@@ -160,9 +158,9 @@ The turn doesn't belong to one room of Part one's chart. Any room can hit that b
 
 The switch is strange and hard, because everything in you was trained to move the other way. The old moves still look right, and they stop feeling right. That is why a driven person at this point often doubles down first, since more of the same is the only direction they know. It is like pressing the elevator button harder. Everybody knows it doesn't help, and still we all do it.
 
-I should say what I mean by happiness here, because it is easy to mishear. A moment of fun or pleasure comes and goes. The happiness I mean is the state you live in over months: fulfillment, steady good will toward people, wanting to get up in the morning. It can include a pleasure that lasts. The test is simple. Over the last year, have I become more fulfilled, or more bleak, with more negative thoughts and more emptiness? After the turn, that is how the direction gets reported. It is the signal from step 3, read over months instead of moments. So the sense of happiness, and the emptiness or depression on the other side of it, is about as close as we get to a compass. Each of us carries our own, nobody else can read it for us, and it works from wherever a person happens to be standing.
+I should say what I mean by happiness here, because it is easy to mishear. A moment of fun or pleasure comes and goes. The happiness I mean is the state you live in over months: fulfillment, steady good will toward people, wanting to get up in the morning. It can include a pleasure that lasts. The test is simple. Over the last year, have I become more fulfilled, or more bleak, with more negative thoughts and more emptiness? After the turn, that is how the direction gets reported. It is the signal from step 3, read over months instead of moments. So the sense of happiness, and the emptiness or depression on the other side of it, is about as close as we get to a compass. Each of us carries our own, nobody else can read it for us, and it works from wherever a person happens to be standing. If the emptiness has turned into a depression that weighs on every day, get real help first, from a doctor or a therapist. The compass will still be there afterwards.
 
-None of this makes anybody better. Before the turn and after it are two parts of the same game. Think of two players, one at level five and one at level forty. The one at forty has simply played longer. The one at five will get there too, in different circumstances, and will meet the same things on the way. Moving toward separation doesn't make someone bad, and moving toward unity doesn't make someone good. Each of us is playing the part of the lila we are in right now, and every part is needed, which is also why the paths look so different, as I explain near the end of this part.
+None of this makes anybody better. Before the turn and after it are two parts of the same game. Think of two players, one who has played for years and one who has just started. The first has simply played longer. The second will get there too, in different circumstances, and will meet the same things on the way. Moving toward separation doesn't make someone bad, and moving toward unity doesn't make someone good. Each of us is playing the part of the lila we are in right now, and every part is needed, which is also why the paths look so different, as I explain near the end of this part.
 
 #### Restless until it rests
 
@@ -187,7 +185,7 @@ You have forgotten almost every day you have lived. Try to remember an ordinary 
 
 Under the axiom the same has to hold on the largest scale. The whole goes into separation so that each point of view can bring back something no other could have brought. If everything a life gathered vanished when it ended, the whole would go through all that separation and come home with nothing to show for it. So something has to keep the essence of a life, what it learned and what it became, the way you keep what your forgotten days taught you. The traditions call it the soul.
 
-That something can't be the body, which stays behind, and it can't be one more separate thing, since there is nothing separate at the bottom. It is the part of you that was never really separate: the whole, at one position, going through the separation and keeping the record. Buddhism holds that there is no fixed soul and still says that something continues, and an old Buddhist dialogue has the image I like most for it: a lamp lit from another lamp, where nothing passes across and the second one still burns. In the machine it is the saved state. The program shuts down, the window closes, and most of the session is gone, while what was worth keeping is written to disk. The photos, the passwords and the browser history stay behind, which honestly is a relief. In the game picture from step 4 it is the level you have reached, which is how two people can walk into the same kind of life at level five and at level forty.
+That something can't be the body, which stays behind, and it can't be one more separate thing, since there is nothing separate at the bottom. It is the part of you that was never really separate: the whole, at one position, going through the separation and keeping the record. Buddhism holds that there is no fixed soul and still says that something continues, and an old Buddhist dialogue has the image I like most for it: a lamp lit from another lamp, where nothing passes across and the second one still burns. In the machine it is the saved state. The program shuts down, the window closes, and most of the session is gone, while what was worth keeping is written to disk. The photos, the passwords and the browser history stay behind, which honestly is a relief. In the game picture from step 4 it is the level you have reached, which is how two people can walk into the same kind of life at very different levels.
 
 How it carries on is where the traditions part, and the axiom doesn't need to settle it. In one family of answers it goes on after death in another form: the Catholic Church teaches purgatory, a purification after death, and the Quran puts a barrier, the barzakh, between death and the day of resurrection. In the other it comes back into this world, life after life, which Hindu texts call samsara, until it no longer needs to. Either way, what this life gathered is kept and taken further.
 
@@ -269,21 +267,15 @@ Letting go is how the wheel opens, which is why so many traditions describe the 
 * A prayer attributed to Rabia of Basra, the early Sufi woman saint, asks that if she worships God for fear of hell, God should burn her in it, if for hope of paradise, shut her out of it, and if for God's own sake, not withhold his beauty from her.
 * Buddhism and Jainism have no creator God to pray to, and both keep devotion toward those who have fully woken up, the buddhas and the Jinas, mostly as examples of where the road leads.
 
-## 8. Miracles, the levels of knowledge
+#### Miracles, and the warning against them
 
-Think of something you do every day that once looked like magic to you. Before you could read, a grown-up could look at marks on a page and know a whole story, and you had no idea how. Your phone would look like a miracle to anyone from a few centuries ago. Nothing about the world changed in between. What changed is how much the person in front of it knows.
+* Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge. Under the axiom a miracle would be one of the settings from step 2 turned up a little, by someone who knows where the settings are. My grandma already thinks I'm a black magician every time I fix the computer, so I'm halfway there.
+* Nearly every tradition that describes such powers also warns against chasing them. Patanjali lists them in the Yoga Sutras and then says that, however much they look like achievements to a mind still facing outward, they are obstacles to samadhi, the deepest absorption (3.37).
+* The Buddha said that displays of psychic power horrified him, and that the miracle he valued was instruction (Digha Nikaya 11).
+* Jesus refused to give a sign on demand (Matthew 12:38-39).
+* Teresa of Avila, who was seen lifted off the ground, begged God to stop giving her favors that other people could see (The Life, chapter 20).
 
-Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge. That is this whole step in one sentence. My grandma already thinks I'm a black magician every time I fix the computer, so I'm halfway there.
-
-Every tradition keeps a list of things that look impossible, and the lists are remarkably alike. Let me be clear about what I'm doing here, because this is the most controversial step in the essay. I'm not trying to prove that any of these things happen or are real. To be honest I don't personally care. My claim is smaller and, I think, more interesting: the axiom leaves room for them, and the materialist view of separation leaves none.
-
-The Buddhist discourses list walking on water as if it were earth and flying cross-legged through the sky, the Gospels have Jesus walking on the sea, Patanjali's Yoga Sutras have reading the thoughts of others and rising above water and mire, and Teresa of Avila wrote that her body was sometimes lifted up from the ground.
-
-If the world is made of separate things and a mind is something a brain does, then knowing what is in another head without being told, or moving something without touching it, breaks the rules the view is built on. So every report has to be filed under something else before anybody looks at it: illness, lying, luck, a bad memory, Photoshop. A careful sceptic says something fairer, that they don't rule it out and just want evidence as strong as the claim. I agree with that sceptic.
-
-Under the axiom it looks different, and step 2 has already done most of the work. The whole turned down four settings for each point of view: what it can know, what it can do, its clock and its need. In this picture a miracle is one of those settings turned up a little. A miracle is a setting turned up by someone who knows where the settings are, and to everyone else it looks like hacking reality, which might explain my choice of career.
-
-There is a catch, and the traditions agree about it more than about almost anything else. Nearly every one that describes these powers also warns against chasing them. Patanjali lists them and then says that, however much they look like achievements to a mind still facing outward, they are obstacles to samadhi, the deepest absorption. The Buddha said that displays of psychic power horrified him, and that the miracle he valued was instruction. Jesus refused to give a sign on demand. Teresa of Avila, who was seen lifted off the ground, begged God to stop giving her favors that other people could see. My teacher says exactly the same: the powers are side effects of an inner state, and getting carried away by them ends badly. Chasing them is the separate self wanting more for itself, which is the tank from step 7 again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
+  Chasing them is the separate self wanting more for itself, which is the tank from this step again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
 
 ## Why the paths differ
 
@@ -304,7 +296,7 @@ That holds for our own time too. A form made for a village that shared one story
 
 Part one's zoom out ended on full human potential, and that's what I'm after for this lifetime: the whole map, including everything past the corner of the chart. I don't want to believe it's there. I want to see it for myself, the way you see that a room is lit once you look up.
 
-It started with questions. Why am I alive? What is happening here? How do the universe and the world work? Why am I, me? As I took steps on that road, I started losing some of my walls, and I felt, and then realized, how connected we are. That changed the way I feel toward people and the world. I wish to obtain knowledge of who I am and what it means to exist. And my desire is to share it with other people in a way that is effective and understandable, so that it benefits their lives and makes them happier, because that is what makes me happy. That is my point of support, the thing I live for that is bigger than me.
+It started with questions. Why am I alive? What is happening here? How do the universe and the world work? Why am I, me? As I took steps on that road, I started losing some of my walls, and I felt, and then realized, how connected we are. That changed the way I feel toward people and the world. I wish to obtain knowledge of who I am and what it means to exist. And my desire is to share it with other people in a way that is effective and understandable, so that it benefits their lives and makes them happier, because that is what makes me happy. That is what I stand on, the thing I live for that is bigger than me.
 
 ## What you can check
 
@@ -339,7 +331,6 @@ The axiom and the machine
 
 1. Separation is a way of looking
 
-- Stanford Encyclopedia of Philosophy, Quantum Field Theory.
 - Plato, Republic VII (the cave). The Heart Sutra (Conze's translation, in Buddhist Wisdom Books, 1958, is the usual one). Brahma Sutra 2.1.33.
 - Chittick, W. C. (1998). The Self-Disclosure of God. SUNY Press (on the hidden treasure saying).
 - Emerson, R. W. (1841). The Over-Soul, in Essays: First Series.
@@ -388,13 +379,10 @@ The axiom and the machine
 - Mencius 2A:2, translated by Legge, J., The Works of Mencius (The Chinese Classics, vol. II).
 - The Baal Shem Tov on Psalm 16, and bittul, in the Hasidic tradition. Philippians 2:5-8. Eckhart, German sermons (Walshe's translation, revised by McGinn). Majjhima Nikaya 118.
 - Shankara on Brahman and Ishvara. Quran 50:16. Psalm 16:8. Buber, M. (1923). I and Thou (Ich und Du). Ephesians 2:8. The prayer attributed to Rabia of Basra in the Sufi tradition (retold in later sources).
-
-8. Miracles, the levels of knowledge
-
 - Antarova, K. E. Two Lives (Две жизни), Part I: «нет чудес, а есть та или иная степень знания». The English is the author's own translation.
-- Digha Nikaya 2 (the Samannaphala Sutta) and Digha Nikaya 11 (the Kevaddha Sutta), Sujato's translations (SuttaCentral).
-- Patanjali, Yoga Sutras 3.19, 3.37 and 3.39, numbered as in Johnston, C. (1912), The Yoga Sutras of Patanjali: The Book of the Spiritual Man.
-- Matthew 14:25-29 and 12:38-39.
+- Patanjali, Yoga Sutras 3.37, numbered as in Johnston, C. (1912), The Yoga Sutras of Patanjali: The Book of the Spiritual Man.
+- Digha Nikaya 11, the Kevaddha Sutta (Sujato's translation, SuttaCentral).
+- Matthew 12:38-39.
 - Teresa of Avila, The Life of St. Teresa of Jesus, chapter 20 (Lewis, D., trans., 1904).
 
 Why the paths differ

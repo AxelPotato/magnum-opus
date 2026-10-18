@@ -8,6 +8,151 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.60.0 (2026-10-18)
+
+- Folds say what kind of thing is inside: an icon, a colored kind line with the count, the title, and the first entry fading out (traditions, studies, a closer look, people's lives, my own story; design 2 from the Josh and Ruth joint read)
+
+
+## 4.59.14 (2026-10-18)
+
+- Next: the dream's working-together sentence becomes Alex's core idea, talents people didn't know they had (F6.a)
+
+
+## 4.59.13 (2026-10-18)
+
+- Part one: how the drive increased, in Alex's words (F5)
+
+
+## 4.59.12 (2026-10-18)
+
+- Part two, Why I want this: "That is what I stand on" (item 21.3.a)
+
+
+## 4.59.11 (2026-10-18)
+
+- Part one, the line: the fixed budget paragraph cut (item 21.2.a)
+
+
+## 4.59.10 (2026-10-18)
+
+- Part one: "Congratulations." cut (item 21.1.a)
+
+
+## 4.59.9 (2026-10-18)
+
+- Parts zero and two: "witnesses" for the traditions cut (item 20.3.a)
+
+
+## 4.59.8 (2026-10-18)
+
+- Part zero: "Where the reading is mine, I say so." cut from the teacher paragraph (item 20.2.a)
+
+
+## 4.59.7 (2026-10-18)
+
+- Part zero: the handed-it-to-you sentence moves to the end of the Part one paragraph (item 20.1.a)
+
+
+## 4.59.6 (2026-10-18)
+
+- Part three, the team: "a fact your math teacher would confirm" (item 19.a)
+
+
+## 4.59.5 (2026-10-18)
+
+- Part three, mirror work: "my teammate" in two places (item 18.a)
+
+
+## 4.59.4 (2026-10-18)
+
+- Part three, mirror work: "I could see the team member was already in a completely different state" (item 17.a)
+
+
+## 4.59.3 (2026-10-18)
+
+- Part three, What you can check: look at the people a few steps ahead (item 16.a)
+
+
+## 4.59.2 (2026-10-18)
+
+- Part one, opening: "When both are high, I call it high agency" (item 15.a)
+
+
+## 4.59.1 (2026-10-18)
+
+- Part one, Phelps: going into London he wanted nothing to do with the sport (item 14.a)
+
+
+## 4.59.0 (2026-10-18)
+
+- Part one, Driven: two rooms in the same week (item 13.a)
+
+
+## 4.58.3 (2026-10-18)
+
+- Part one, BE: meditation first, "and it helps a lot", in place of breathing apps and long baths (item 12.a)
+
+
+## 4.58.2 (2026-10-18)
+
+- Part two, step 2: "the determinist reading of the view" for the NPC (item 11.a)
+
+
+## 4.58.1 (2026-10-18)
+
+- Part two, steps 4 and 5: the level numbers replaced (item 9.a)
+
+
+## 4.58.0 (2026-10-18)
+
+- Part two, step 1: the quantum fields paragraph cut, with its source (item 8.a)
+
+
+## 4.57.1 (2026-10-18)
+
+- Part two, opening: "without exceptions" cut (item 7.a)
+
+
+## 4.57.0 (2026-10-18)
+
+- Part three, opening: what a reader can do alone, and where other people come in (item 6.a)
+
+
+## 4.56.0 (2026-10-18)
+
+- Part three, Giving: what something bigger can be, and Part one's two questions (item 5.a)
+
+
+## 4.55.0 (2026-10-18)
+
+- Part two, step 4: two sentences for readers whose emptiness is a depression (item 4.a)
+
+
+## 4.54.2 (2026-10-18)
+
+- Next: "You're welcome to come to just one and see how it feels." (item 3.a, F1)
+
+
+## 4.54.1 (2026-10-18)
+
+- Part three, "My teacher and I" fold: "where he lived" becomes "where he lives" (F3)
+
+
+## 4.54.0 (2026-10-18)
+
+- Part three, section 5: the two centers named after "The way we have arranged ourselves around it is ours" (item 2, with F3: he lives in Sochi)
+
+
+## 4.53.0 (2026-10-18)
+
+- Next: the two centers (Riga and Sochi, over 120 people) stated above the form; the dream ends on the next step (item 1.a)
+
+
+## 4.52.0 (2026-10-18)
+
+- Part two: step 8 (Miracles) becomes the fold "Miracles, and the warning against them" at the end of step 7; chain figure has seven steps; Sources and reading pack updated (Josh and Ruth joint read, option a)
+
+
 ## 4.51.15 (2026-10-18)
 
 - Part two, step 6: 'something bigger than yourself evens it out' cut (item 16.a, your 10:02 message)
