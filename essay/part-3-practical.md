@@ -144,11 +144,11 @@ If you already sit, you know the sitting. What this adds is what surrounds it: a
 
 ## 8. Discipline
 
-Every other part of this method leans on discipline, and so does anything else that matters in life. The decision is the yes, and discipline keeps it true on the days when the wanting is quiet. Nobody learned an instrument or a sport on inspiration alone.
+Every other part of this method leans on discipline, and so does anything else that matters in life. The decision is the yes, and discipline keeps it true on the days when the wanting is quiet.
 
 By discipline I mean something plain: doing what you decided to do after the mood for it has passed. Part one gave a boring test for DO, how well you follow up on your words, and discipline is the same test applied to the words you give yourself. The method works on habits of mind and body, and habits were built by repetition, so repetition is also how they change. The daily sit is a good place to meet it: five minutes that happen because they were planned.
 
-Discipline grows from the outside in. A fixed time for the sit and a meeting that is on the calendar are the outside, and keeping them is something you can do even on a day when you don't feel like it. After a while you see what they give you, and the keeping starts to come from you. That is inner discipline, the strength to carry out what you decided, and it is built the way a muscle is, by use, every day and in small things. It works like going to the gym: some mornings you'd rather stay in bed, and you go anyway, because of the body you want a year from now.
+Discipline grows from the outside in. A fixed time for the sit and a meeting that is on the calendar are the outside, and keeping them is something you can do even on a day when you don't feel like it. After a while you see what they give you, and the keeping starts to come from you. That is inner discipline, the strength to carry out what you decided, and it is built the way a muscle is, by use, every day and in small things.
 
 Keep it light, and keep it yours: a demand you make on yourself, in a friendly tone. Gritting your teeth through a sit adds tension, which is the thing the sit is there to remove, so keep the frame small enough to hold without a fight. Five minutes every day is a frame you can keep, and a frame you keep teaches your mind that you can trust your own word. When a day slips, pick it up the next day without a speech about it.
 

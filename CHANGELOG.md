@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.51.5 (2026-10-18)
+
+- Part three, discipline: the instrument line and the gym comparison cut (item 6.a, your 10:02 message)
+
+
 ## 4.51.4 (2026-10-18)
 
 - Part three, mentorship: one sentence cut and two paragraphs merged (item 5.a, your 10:02 message)
