@@ -170,8 +170,6 @@ On the line, what you're free to want and see on the inside is in step with what
 
 Below the line, in Driven, the outside runs ahead of the inside. You can do far more than you've allowed yourself to want, so the doing often points at something that was never really yours: a point to prove, someone to impress. The results arrive and nothing inside says thank you. Above the line, in Drifting, it goes the other way. Plenty of freedom inside, not much to show for it outside, and a very comfortable gap between the wishes and the doing.
 
-The made-up math has one more thing to say about the line. If you have a fixed amount to split between the two, say 100 points, the product is biggest when you split it evenly. 50 and 50 gives 2,500, 90 and 10 gives 900, and 99 and 1 gives 99. So the line is where whatever you currently have does the most. That's a snapshot of one moment, though. Over time the two legs feed each other, as I said earlier, and the amount you have to split keeps growing. Harmony turns out to be efficient, which I did not expect to be able to say about harmony.
-
 ## Why almost nobody stays
 
 If the corner is so good, why isn't everybody there? Because you can't steer to it from an extreme.
