@@ -242,6 +242,8 @@ One warning. The easy version of karma is blame: she had it coming, he reaped wh
 
 ## 7. Energy
 
+Spend two hours with someone you have to keep your guard up around, and you come out flat. Spend the same two hours with an old friend and you come out lighter, though you talked just as much. The talking didn't use up the energy. The guarding did.
+
 Everybody talks about energy, and hardly anybody says what they mean by it, so here is what I mean. In this step energy is your capacity to act and to be present, the fuel behind DO and BE from Part one: how much you can make happen, and how much of what is happening you can actually take in.
 
 The separate self treats it like a tank. I have this much, I spend it, I run out, and I guard what is left. That's what you'd expect from a point of view with lowered settings, in a world built to say that you are in here and the rest is out there. And holding the wall costs, so a good part of the tank goes on guarding the tank.

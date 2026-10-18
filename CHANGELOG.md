@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.49.4 (2026-10-18)
+
+- Part two, step 7: opens on two hours guarded against two hours with an old friend (your pick 7.1.a)
+
+
 ## 4.49.3 (2026-10-18)
 
 - Part three, sections 1 and 2: the lines that did not click with Josh and Ruth are cut; the fold is now 'The greatest victory' with five verses (your 07:34 comment)
