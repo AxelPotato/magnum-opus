@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.46.6 (2026-10-18)
+
+- Part zero: "Part three says more about him, and about why I trust him." becomes "Part three says more about him." (run-8 verdict 3.a). The text without this release is 4.46.5. Notes for Alex updated
+
+
 ## 4.46.5 (2026-10-18)
 
 - Next page: the invitation ends "...leave your details below. They come straight to me, and I will try to keep you updated." The words "They come straight to me, and" are new (run-8 verdict 2.4.b). The text without this release is 4.46.4. Notes for Alex updated

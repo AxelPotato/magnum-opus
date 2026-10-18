@@ -14,4 +14,4 @@ You can stop after any part, and each one makes the next easier to judge.
 
 I'm Alex. In my teens I had a lot of questions: why things are the way they are, and why I am the way I am. Over time those questions led to a spiritual search. I have worked with computers for about ten years, eight of them in cyber security, which I still do. My spiritual journey is much longer, more than fourteen years.
 
-Everything in this essay rests on what I learned from my teacher, Genadiy Givin, and the method in Part three is the one he teaches. Where the reading is mine, I say so. Part three says more about him, and about why I trust him.
+Everything in this essay rests on what I learned from my teacher, Genadiy Givin, and the method in Part three is the one he teaches. Where the reading is mine, I say so. Part three says more about him.
