@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.59.13 (2026-10-18)
+
+- Part one: how the drive increased, in Alex's words (F5)
+
+
 ## 4.59.12 (2026-10-18)
 
 - Part two, Why I want this: "That is what I stand on" (item 21.3.a)
