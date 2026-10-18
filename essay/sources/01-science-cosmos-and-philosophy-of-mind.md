@@ -331,7 +331,7 @@ Kind: study. Status: checked.
 
 Who: Two families of hardware flaws, found independently by several teams, that exploit speculative execution in modern processors to leak data across the boundaries that operating systems rely on. Meltdown is the one that reads kernel memory from an ordinary program. Spectre tricks a program into speculatively leaking its own secrets, and it works across process and sandbox boundaries.
 
-In the essay: 'The axiom and the machine': 'The walls are real... though they are an arrangement and not a law: in 2018 the Meltdown and Spectre flaws showed that information could leak across them.'
+In the essay: no longer cited. The clause was cut from 'The axiom and the machine' in 4.51.15 (2026-10-18; both Ruths skimmed it in run 8, and Alex wanted fewer machine details). Before that: 'The walls are real... though they are an arrangement and not a law: in 2018 the Meltdown and Spectre flaws showed that information could leak across them.'
 
 Where it sits: Lipp et al., 'Meltdown: Reading Kernel Memory from User Space', USENIX Security 2018 (arXiv 1801.01207). Kocher et al., 'Spectre Attacks: Exploiting Speculative Execution' (arXiv 1801.01203; IEEE S and P 2019). Note that 1801.01203 is the Spectre paper.
 
