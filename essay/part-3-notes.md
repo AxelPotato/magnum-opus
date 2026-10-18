@@ -397,6 +397,12 @@ What changed: in section 6, the sentence in the paragraph that begins "A teacher
 
 To take it out, ask for "revert run-8 verdict 1". That is a release that puts the three words back. The text as it was before this release is 4.46.2, commit d5a6487.
 
+## Run-8 verdict 2.1: the form first on the Next page (4.46.4)
+
+What changed: the Next page now opens with the invitation ("If you've read the full essay and feel like taking part in any workshop or online session...") and the form, and the three paragraphs on the space port follow them. No words changed (your "implement all changes for 1-3" on the run-8 verdict, item 2.1.b). In run 8 every reader went down at "I picture a group of people living and working in the same place...", and then met the form right under it. Josh read the form through it ("the intake question... right under a paragraph about a community that lives together"), and Mara said that with the form first she would have filled it in with less hesitation. Now the form stands on Part three's ending, and a reader who wants to know what you are working toward reads on. Item 2.2 of the verdict (the first sentence of the space port) stays as it is, since the form no longer sits under it.
+
+To take it out, ask for "revert run-8 verdict 2.1". That is a release that puts the space port back above the invitation. The text as it was before this release is 4.46.3.
+
 ## Where Part three leans on Part two
 
 Each pointer is one clause, and none restates the step it points at. Names, not step numbers: Part two gained a step in 4.32.0 and its steps 3 to 7 became 4 to 8, which moved nothing here.

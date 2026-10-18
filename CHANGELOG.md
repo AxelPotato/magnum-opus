@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.46.4 (2026-10-18)
+
+- Next page: the invitation and the form come first, and the three paragraphs on the space port follow them. No words changed (run-8 verdict 2.1.b, your "implement all changes for 1-3"). The text without this release is 4.46.3. CLAUDE.md and the notes for Alex updated
+
+
 ## 4.46.3 (2026-10-18)
 
 - Part three, section 6: "He says what he sees to the whole team, and each person..." becomes "He says what he sees, and each person..." (run-8 verdict 1.b, your "implement all changes for 1-3"). "When one person is simply wrong, that gets said too." stays. The text without this release is 4.46.2. Notes for Alex updated
