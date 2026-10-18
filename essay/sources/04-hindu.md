@@ -341,7 +341,7 @@ Kind: concept. Status: checked.
 
 Who: Dvija means 'twice-born' (dvi, two; ja, born). In the law books of ancient India it names a male member of the three upper classes (brahmin, kshatriya, vaishya) who has been initiated through the upanayana, the thread ceremony. It is also a Sanskrit word for birds, snakes and teeth.
 
-In the essay: Part two, 'The arrow': 'In the Hindu tradition the twice-born are those who have received the initiation that counts as a second birth.' The essay then says the traditions use the image for different things and that using it for the stage after plus four is the school's own extension.
+In the essay: no longer cited. The section 'One more idea: how far the road goes' and its fold 'Second births and staged maps' were cut in 4.48.0 (2026-10-18). Before that: Part two, 'The arrow': 'In the Hindu tradition the twice-born are those who have received the initiation that counts as a second birth.' The essay then says the traditions use the image for different things and that using it for the stage after plus four is the school's own extension.
 
 Where it sits: Manusmriti 2.169 (the three births of a dvija), with 2.170 on Savitri and the teacher as mother and father. Also the concept of upanayana in the Dharmasutras (Apastamba, Gautama, Baudhayana).
 

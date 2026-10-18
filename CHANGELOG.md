@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.48.0 (2026-10-18)
+
+- Part two: the section 'One more idea: how far the road goes' is cut, with its figures and fold (your 07:18 comment). Why the paths differ no longer points back to it; Sources list and reading pack updated
+
+
 ## 4.47.11 (2026-10-18)
 
 - Part two, step 8: the Reiki story is cut; the step opens on the traditions' lists (your 07:17 message). Nietzsche leaves the Sources list and the reading pack marks him no longer cited

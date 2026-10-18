@@ -290,41 +290,11 @@ There is a catch, and the traditions agree about it more than about almost anyth
 
 One thing is missing from this list on purpose: seeing the future. It is also connected to the knowledge dial but has a catch to it. The short version is that there is no future to see, only now. That one needs a longer conversation than this part has room for.
 
-## One more idea: how far the road goes
-
-That is the end of the chain. One more idea sits next to it, and it is a different kind of thing: a map of how far the road goes. It doesn't follow from the axiom the way the steps do. It comes from experience, mine and that of people further along, and from the staged maps the traditions drew long ago, a few of which are at the end of this section. Part one's chart reads differently from here.
-
-Every room on the chart is a separate program trying to run well. Default protects itself. Driven goes out and takes, from the outside, what it can't feel on the inside. Drifting steps away from whatever pokes it and calls the stepping away peace. High agency runs well: it acts with honesty and kindness, and fear no longer makes the decisions. That is the small square, the area available to a separate self when it gets as good as it can get at being separate, which is a full life by any human measure. At the top of the small square the strain is mostly gone. What is left is the assumption that there is a wall to be behind, and nobody has questioned that yet.
-
-The big square, the zoomed-out map from the end of Part one, is something else. It begins when the separation itself stops being assumed. You can optimize a program for years and it stays a program, behind its own wall. At some point the question stops being how to run better and becomes whether the wall is real. In my field, cyber security, that move is called a sandbox escape, a program breaking out of the walled-off space it was locked into. It makes a researcher famous for a week and ruins the vendor's afternoon. It also explains why Part one asked for a reason bigger than you: a reason about you can't carry you out, because the reason is the thing you're trying to leave. What carries you out is a point of support, the thing you live for that is bigger than you.
-
-Part one's chart can make the top right corner look like the finish. There is a longer scale behind it. It's the same diagonal you've been looking at since Part one: the bottom left of the small square is the low end, the middle of the chart sits halfway along it, and the top right corner is where the line leaves the small square. Everything past that corner lives in the zoomed-out map. It shows the direction of your own life, and it ranks nobody.
-
-The picture I use is space travel, and it's about speed. Nobody here is literally going anywhere. The picture is there to show how different each step is from the one before it, and how big the jumps get. The measure is how freely you can move, and gravity holds you back. Under the axiom, speed is how much of the whole you can take in at once, which is the river from step 7 measured as a speed, and gravity is the pull of the one point of view you started with.
-
-At the low end, in Default, you can run, ride a bike and drive a car, and the ground decides where you go. Most of us live there, on the ground or just above it. As you let go, people learn to fly, and roads stop mattering. Then comes orbit. Astronauts in orbit are free of the ground, and the Earth still has them: they float because they are falling around the planet and missing it. In Part one's terms, this is about the middle of the line.
-
-The top right corner of the small square is escape velocity, the speed at which you leave the Earth behind. Orbit and escape are not far apart in speed, and the difference in outcome is total: one circles forever and the other leaves.
-
-Past the corner the picture keeps going, and each level is the speed that frees you from the next, bigger pull. The first leaves the Earth. The next leaves the Sun behind, and the one after that leaves the galaxy. The last has no pull left to leave, and every point in the universe is a place you can be at home, so the word every is doing some work.
-
-That is the distance I want to convey. A life on the ground and a life among the stars are about as far apart as an ordinary human life and the whole map, and I believe a person can cross much of that distance in one lifetime, even though the whole return from step 5 takes longer. It is hard to feel this from the ground, which is why I use the picture.
-
-Every step up shows you more of the whole, and that includes more of what still needs fixing, so the higher you go, the more there is to do. And the whole that comes back at the end knows more than the whole that set out, because in between it has been each one of us.
-
-After the last of these comes something like a birth. The whole universe on this scale is still the inside of something, like a womb or an egg. To whatever grows inside, that is the whole world until the moment it is born, and what comes after can't be drawn from in here. Many traditions have an image of a second birth for a decisive change in a person, and the old maps were scale maps as well.
-
-#### Second births and staged maps
-
-* Several traditions tell the end of the story. Origen, a third-century theologian, and Gregory of Nyssa read Paul's line that God may be all in all (1 Corinthians 15:28) as the restoration of all things. Zechariah has it that on that day the LORD will be one and his name one (14:9). The Quran has "indeed to Him we will return" (2:156). Buddhism calls the ending of greed, hatred and delusion nirvana, a word that means a flame going out.
-* In John's gospel Jesus says that one must be born again, or born from above, since the Greek word can mean either. In the Hindu tradition the twice-born are those who received the initiation that counts as a second birth, and Meister Eckhart taught that God is born in the ground of the soul. The traditions use the image for different things, and I use it for the stage after the top of the scale.
-* Other traditions draw staged maps too, so a scale like this isn't new. Early Buddhism has four stages of awakening, the Jains have fourteen steps of spiritual growth, and Teresa of Avila, the sixteenth-century Spanish mystic, described seven mansions of the inner castle. In Dante's Paradiso the pilgrim rises through the heavens without noticing, and Beatrice tells him it would be stranger if, freed of what held him back, he stayed below, like a flame sitting still on the ground.
-
 ## Why the paths differ
 
 If one structure sits behind all this, a fair question follows. Why do the religions look so different from one another, and why do they keep changing?
 
-The axiom answers both. The whole goes into separation through countless points of view, and the point of going is that each one comes back with something no other could have brought, which is where the map of the road ended. No two points of view are alike, so no two people meet the wall in the same way. What holds it up, and what loosens it, depends on temperament, on culture, on the century, and on what the person has already learned. A path is a way back, drawn for particular people at a particular time. One drawn for herders crossing a desert will sound different from one drawn for monks on a mountain or merchants on a trade road, and it still describes the same thing: a whole that lost track of itself, and a way home. The core stays because it comes from the structure. The forms change because the people do.
+The axiom answers both. The whole goes into separation through countless points of view, and the point of going is that each one comes back with something no other could have brought. No two points of view are alike, so no two people meet the wall in the same way. What holds it up, and what loosens it, depends on temperament, on culture, on the century, and on what the person has already learned. A path is a way back, drawn for particular people at a particular time. One drawn for herders crossing a desert will sound different from one drawn for monks on a mountain or merchants on a trade road, and it still describes the same thing: a whole that lost track of itself, and a way home. The core stays because it comes from the structure. The forms change because the people do.
 
 That holds for our own time too. A form made for a village that shared one story and one calendar fits poorly in a city of strangers, where the day is cut into pieces by a phone, a job and an inbox. People are more educated and more skeptical than they used to be, they have less spare time, and they are used to checking things for themselves. Every tradition has met a moment like this before, with its reformers, its new schools and its new translations, each asking how to say the same thing to people who no longer hear it. The modern world asks it once more, and there are many answers to it. Part three describes the one I chose.
 
@@ -355,7 +325,7 @@ Until then, one question that needs no equipment. Where, right now, does the bor
 
 ## Sources
 
-Translations: Bible verses quoted word for word follow the English Standard Version (ESV). Quran 2:115 and 7:172 follow Arberry, A. J. (1955), The Koran Interpreted, and Quran 17:7, 2:156 and 23:100 follow the Sahih International translation. Other translators are named next to their texts below.
+Translations: Bible verses quoted word for word follow the English Standard Version (ESV). Quran 2:115 and 7:172 follow Arberry, A. J. (1955), The Koran Interpreted, and Quran 17:7 and 23:100 follow the Sahih International translation. Other translators are named next to their texts below.
 
 Where we part ways, and why the idea is worth a look
 
@@ -432,11 +402,6 @@ The axiom and the machine
 - Patanjali, Yoga Sutras 3.19, 3.37 and 3.39, numbered as in Johnston, C. (1912), The Yoga Sutras of Patanjali: The Book of the Spiritual Man.
 - Matthew 14:25-29 and 12:38-39.
 - Teresa of Avila, The Life of St. Teresa of Jesus, chapter 20 (Lewis, D., trans., 1904).
-
-One more idea: how far the road goes
-
-- Origen, On First Principles, and Gregory of Nyssa on 1 Corinthians 15:28. Zechariah 14:9. Quran 2:156.
-- John 3:3 and 3:7. Eckhart's German sermons on the birth of God in the soul. Dante Alighieri, Paradiso, canto I. The Jain fourteen gunasthanas. Teresa of Avila, The Interior Castle.
 
 Why the paths differ
 

@@ -114,7 +114,7 @@ Kind: text. Status: partly checked.
 
 Who: The last verse of the prophet's vision of the day of the LORD, recited at the end of the Aleinu prayer that closes every Jewish service.
 
-In the essay: In the table, row 'The return', Judaism column: 'On that day the LORD will be one and his name one' (Zech 14:9, ESV).
+In the essay: no longer cited. The section 'One more idea: how far the road goes' and its fold 'Second births and staged maps' were cut in 4.48.0 (2026-10-18). Before that: In the table, row 'The return', Judaism column: 'On that day the LORD will be one and his name one' (Zech 14:9, ESV).
 
 Where it sits: Zechariah 14:9.
 

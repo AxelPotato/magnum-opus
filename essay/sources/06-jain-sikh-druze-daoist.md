@@ -193,7 +193,7 @@ Kind: concept. Status: checked.
 
 Who: The gunasthanas ('stages of quality') are the Jain map of the soul's progress from the lowest state to liberation, in fourteen steps. They describe the soul's state of belief, conduct and karmic purity.
 
-In the essay: 'The arrow': 'The Jain tradition has fourteen, the gunasthanas, a path said to take many lifetimes, on which a soul can also fall back.' Also the table (Jainism, 'What continues': 'Fourteen stages of growth'). The Sources section has no entry for them.
+In the essay: no longer cited. The section 'One more idea: how far the road goes' and its fold 'Second births and staged maps' were cut in 4.48.0 (2026-10-18). Before that: 'The arrow': 'The Jain tradition has fourteen, the gunasthanas, a path said to take many lifetimes, on which a soul can also fall back.' Also the table (Jainism, 'What continues': 'Fourteen stages of growth'). The Sources section has no entry for them.
 
 Where it sits: The fourteen stages, in order; early lists as 'jivasthanas' (Svetambara Samavayanga, Digambara Shatkhandagama, from memory); full account in Nemichandra's Gommatasara Jivakanda; modern account in Jaini, The Jaina Path of Purification (1979).
 

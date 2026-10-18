@@ -84,7 +84,7 @@ Kind: text. Status: checked.
 
 Who: Verse 156 of Surat al-Baqara. It describes the patient, who say when disaster strikes that they belong to God and to Him they return. In Arabic: inna lillahi wa inna ilayhi raji'un.
 
-In the essay: Table, Islam column, row 'The return': '"To Him we return" (2:156)'. Also in the Sources list.
+In the essay: no longer cited. The section 'One more idea: how far the road goes' and its fold 'Second births and staged maps' were cut in 4.48.0 (2026-10-18). Before that: Table, Islam column, row 'The return': '"To Him we return" (2:156)'. Also in the Sources list.
 
 Where it sits: Quran 2:155 to 157, centred on 2:156
 
