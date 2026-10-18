@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.50.2 (2026-10-18)
+
+- Part three: 'in this method' cut from sections 2 and 8 (your 08:25 message)
+
+
 ## 4.50.1 (2026-10-18)
 
 - Part three, section 2: the reason behind a goal is told with the reader's own examples; recaps of Parts one and two cut (your 08:21 message)

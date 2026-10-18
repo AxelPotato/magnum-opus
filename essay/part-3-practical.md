@@ -59,9 +59,9 @@ So ask yourself, quietly, how much you want this, and take the answer as informa
 
 ## 2. A goal, and a reason
 
-In this method you set outer goals, and you judge the inner growth by them.
+You set outer goals, and you judge the inner growth by them.
 
-A goal in this method has three properties. It's short, meaning weeks or months. It's measurable, so at the end you can say yes or no. And it's tied to reality, so it lives in the world and not in your head. Plan the family trip for the summer. Finish a draft of an essay. The outer result is the check on the inner work, because it's very easy to feel like you're growing when nothing around you has moved. A calm sit feels like progress whether or not anything has changed, and a goal lets you test it. It also gets your energy moving: a goal you care about pulls effort out of you that plain willpower never would.
+A good goal has three properties. It's short, meaning weeks or months. It's measurable, so at the end you can say yes or no. And it's tied to reality, so it lives in the world and not in your head. Plan the family trip for the summer. Finish a draft of an essay. The outer result is the check on the inner work, because it's very easy to feel like you're growing when nothing around you has moved. A calm sit feels like progress whether or not anything has changed, and a goal lets you test it. It also gets your energy moving: a goal you care about pulls effort out of you that plain willpower never would.
 
 Behind each goal sits a reason, and the reason is what keeps you going after the first excitement wears off. The goal can be small as long as the reason is bigger than you. You plan the family trip because you want your kids to grow up feeling that home is a warm place. You finish the draft because someone out there may need what is in it.
 
@@ -145,7 +145,7 @@ Every other part of this method leans on discipline, and so does anything else t
 
 By discipline I mean something plain: doing what you decided to do after the mood for it has passed. Part one gave a boring test for DO, how well you follow up on your words, and discipline is the same test applied to the words you give yourself. The method works on habits of mind and body, and habits were built by repetition, so repetition is also how they change. The daily sit is a good place to meet it: five minutes that happen because they were planned.
 
-In this method discipline grows from the outside in. A fixed time for the sit and a meeting that is on the calendar are the outside, and keeping them is something you can do even on a day when you don't feel like it. After a while you see what they give you, and the keeping starts to come from you. That is inner discipline, the strength to carry out what you decided, and it is built the way a muscle is, by use, every day and in small things. It works like going to the gym: some mornings you'd rather stay in bed, and you go anyway, because of the body you want a year from now.
+Discipline grows from the outside in. A fixed time for the sit and a meeting that is on the calendar are the outside, and keeping them is something you can do even on a day when you don't feel like it. After a while you see what they give you, and the keeping starts to come from you. That is inner discipline, the strength to carry out what you decided, and it is built the way a muscle is, by use, every day and in small things. It works like going to the gym: some mornings you'd rather stay in bed, and you go anyway, because of the body you want a year from now.
 
 Keep it light, and keep it yours: a demand you make on yourself, in a friendly tone. Gritting your teeth through a sit adds tension, which is the thing the sit is there to remove, so keep the frame small enough to hold without a fight. Five minutes every day is a frame you can keep, and a frame you keep teaches your mind that you can trust your own word. When a day slips, pick it up the next day without a speech about it.
 
