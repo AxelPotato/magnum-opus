@@ -42,7 +42,7 @@ Here is the connection to being here. Tension drags your attention away from the
 
 A word on the word. I don't mean relaxed, because you can be relaxed and asleep. I mean released: free from your own internal limitations. Relaxed describes how you feel. Released describes what is holding you, and when it lets go you end up more here, not less.
 
-So how do you move up BE? People assume breathing apps and long baths. Those do something. What moves it most is the thing nobody wants to do: admit you were wrong in a situation and take the first step toward fixing it. Say sorry, and mean it. Have the hard conversation with someone you care about, or with someone you don't care about but still don't want to hurt, feel the "oh no, I really don't want to" go through you, notice it while it's happening, and do it anyway.
+So how do you move up BE? People usually think of meditation first, and it helps a lot. What moves it most is the thing nobody wants to do: admit you were wrong in a situation and take the first step toward fixing it. Say sorry, and mean it. Have the hard conversation with someone you care about, or with someone you don't care about but still don't want to hurt, feel the "oh no, I really don't want to" go through you, notice it while it's happening, and do it anyway.
 
 That is an act, and it goes against your own resistance. I call it inner agency. Outer agency is how you move along DO, and it gets things done. Inner agency is how you move up BE, and it gets you unstuck. Both are ways of expressing yourself in the world effectively. That's all the word agency means here: the ability to express who you are, effectively, in two ways.
 
