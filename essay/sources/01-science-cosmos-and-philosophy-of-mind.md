@@ -84,7 +84,7 @@ Kind: concept. Status: partly checked.
 
 Who: Background physics for two sentences in the essay: that the exact physicist's answer to 'what is the world made of' is quantum fields, with particles as their excitations, and that standard quantum mechanics adds chance to the Laplace picture while some interpretations keep the whole picture deterministic.
 
-In the essay: 'Where the room splits': 'underneath them particles, or quantum fields if you want the exact physicist's answer', and 'In its standard form quantum mechanics adds some dice to this, which gives you randomness and not freedom, though some interpretations keep the whole picture deterministic.'
+In the essay: 'Where the room splits': 'underneath them particles, or quantum fields if you want the exact physicist's answer', and 'In its standard form quantum mechanics adds some dice to this, which gives you randomness and not freedom, though some interpretations keep the whole picture deterministic.' Step 1's paragraph on quantum fields (fields that fill all of space, an electron as a ripple, 'tiny separate balls') was cut on 2026-10-18 (Josh and Ruth joint read, item 8.a), with the Stanford Encyclopedia entry on quantum field theory from Part two's Sources list.
 
 Where it sits: Stanford Encyclopedia of Philosophy entries on Bohmian mechanics, the many-worlds interpretation, collapse theories, quantum field theory and causal determinism (the section on quantum mechanics). Bohm, Physical Review 85 (1952). Everett, Reviews of Modern Physics 29 (1957).
 
