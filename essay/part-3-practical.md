@@ -37,18 +37,12 @@ Turn up the energy before you have a direction and you get a louder version of t
 
 ## 1. Making the decision
 
-This comes first and matters most, because the rest of Part three has nothing to work with until someone has decided.
+By the decision I mean something plain. A wish is the wanting, and a decision is the yes that goes with it, the point where the wanting turns into a direction you are going to follow.
 
-By the decision I mean something plain: to commit to the journey and to keep to it. A wish is the wanting. A decision is the yes that goes with it, the point where the wanting turns into a direction you are going to follow.
+The decision can be quiet. What it needs is that you mean it. A decision like that gives you something the rest of this part depends on: you no longer have to bargain with yourself every morning, and the energy that took goes into the work. Many traditions call this the greatest victory there is, the one over yourself.
 
-Teachings from very different places call this road hard, and they say the greatest victory on it is the one over yourself. They speak of a narrow gate and a razor's edge. The opponent in those pictures is the one you carry with you: the old habits that keep pulling toward the way things were. Several of these traditions give the title of hero, or of the truly strong, to the person who conquers themselves.
+#### The greatest victory
 
-That is why it matters to make this decision seriously. It can be quiet. What it needs is that you mean it, with your eyes open about how hard the way is. A decision like that gives you something the rest of this part depends on: you no longer have to bargain with yourself every morning, and the energy that took goes into the work.
-
-#### A narrow way, and the greatest victory
-
-* The Katha Upanishad tells the listener to arise and awake, and says the wise call the path hard to go by, as hard as the sharp edge of a razor (1.3.14).
-* In the Sermon on the Mount Jesus says to enter by the narrow gate, because the way that leads to life is hard and few find it (Matthew 7:13 to 14).
 * In the Dhammapada the supreme conqueror is the one who conquers a single person, himself, and the verse sets that above winning a battle against a million. Another verse says no god, and not even Mara, the tempter of the Buddhist stories, can undo the victory of someone who has tamed themselves (103 to 105).
 * In Pirkei Avot Ben Zoma asks who is mighty, a word that can also mean hero, and answers: the one who subdues his inclination. He backs it with Proverbs, which says it is better to have self-control than to conquer a city (4:1, quoting Proverbs 16:32).
 * The Jain Uttaradhyayana has almost the same verse as the Dhammapada. King Nami has given up his throne, and Indra, king of the gods, in the guise of a brahmin, tells him that a true warrior would bring every prince who does not acknowledge him into subjection. Nami answers that a man may conquer thousands and thousands of valiant foes, and greater will be his victory if he conquers nobody but himself (chapter 9).
@@ -57,25 +51,13 @@ That is why it matters to make this decision seriously. It can be quiet. What it
 
 ## 2. Your own wish
 
-A decision needs something to stand on, and that is the wish. It's the one thing in this part nobody else can supply. A mentor can point, a team can lift, a teacher can try to wake it and pass it on, but none of them can want it for you. It gets made inside each person, and as Part two put it, the controller was put in your hands on purpose.
+A decision needs something to stand on, and that is the wish. It's the one thing in this part nobody else can supply. A mentor can point and a team can lift, and none of them can want it for you. It gets made inside each person, and as Part two put it, the controller was put in your hands on purpose.
 
-What is the wish for? These are the reasons people give for starting, and they are not promises the method makes. Life pushes people toward this kind of work in very different ways, and the reasons often change along the way. Most of them fall into a few groups.
+People come for all kinds of reasons, and the reasons often change along the way. Some come with questions, such as why we exist and whether this is all there is. Some want to stay calm when the inbox explodes, and to stop replaying the same old conversation on the drive home. Some simply can't sleep, or are worn out, and want to feel better, which is reason enough to start. And some want to do more with their lives and be someone the people closest to them can lean on. These are the reasons people give, and they are not promises the method makes. Which one is yours matters less than that it is really yours.
 
-Some come with questions: why we exist, how the world works and why it is the way it is, and whether this is all there is. That is where mine started, with the questions from Part two.
+The wish has its days. Nearly everyone has days with a lift and days with a slump, and the wish needs feeding to survive them. A low wish is no ranking of who is better or worse. It's a day, and days change.
 
-Others come for steadiness. They want to stay calm when the inbox explodes or a family dinner goes sideways, and to stop replaying the same old conversation on the drive home. They want to stop being run by old habits of mind and painful memories, and to see life as it is, without the mind getting in the way.
-
-Some start with something much more ordinary and pressing. They can't sleep, or the stress has gotten too high, or they are simply worn out. They aren't looking for anything spiritual. They want to feel better, and that is reason enough to start.
-
-And others come because they want to do more with their lives and be better to the people around them: to finally start the thing they keep talking about, or to be someone their family can lean on. They want to take their life into their own hands, starting with the people closest to them, and for that they work on understanding people and on their own emotions, which is what opening your heart looks like day to day.
-
-Most people recognize themselves in a few of these, and which one is yours matters less than that it is really yours.
-
-You can see it from the outside, and quickly. A project that never gets built, a plan that stays a plan: the wish behind it was probably weaker than it felt. It shows in what you build with your hands far more than in what you say about it.
-
-It also fades. Nearly everyone has days with a lift and days with a slump, and the wish needs feeding to survive them. Plenty of people take a few steps and stop, for all kinds of reasons. A low wish is no ranking of who is better or worse. It's a day, and days change.
-
-The wish can be grown. It isn't equally strong in everyone from birth, and it gets brought up, partly by the people around you helping each other. A goal you love, sitting in the background of everything even when you never mention it, feeds it. So does real work for other people, done with your hands. Underneath those sits the decision, made on purpose and made again when it slips. A bigger wish also crowds out smaller ones, so you don't have to fight the small ones one at a time.
+The wish can be grown. It isn't equally strong in everyone from birth, and it can be brought up. A goal you love, sitting in the background of everything even when you never mention it, feeds it. Underneath it sits the decision, made on purpose and made again when it slips. A bigger wish also crowds out smaller ones, so you don't have to fight the small ones one at a time.
 
 Two things quietly drain it. One is feeling sorry for yourself, which everyone does and which takes more from the wish than almost anything else. The other is a half-wish that changes its mind every Tuesday about how much it's willing to give.
 
@@ -207,8 +189,6 @@ And one question for the road: if you had the energy of a whole team and no dire
 
 1. Making the decision
 
-- Katha Upanishad 1.3.14 (Sastri's translation, with Shankara's commentary).
-- Matthew 7:13 to 14 (English Standard Version).
 - Dhammapada 103 to 105 (Sujato's translation, SuttaCentral).
 - Pirkei Avot 4:1 (Kulp's translation, Sefaria), quoting Proverbs 16:32 (Jewish Publication Society translation).
 - Uttaradhyayana Sutra, chapter 9 (Jacobi's translation, Sacred Books of the East, vol. 45).
