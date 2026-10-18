@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.49.1 (2026-10-18)
+
+- Part two, step 7: thinned; the sayings, prana and qi, the Part one callbacks and the Driven-room paragraph are cut (your pick 7.2.c)
+
+
 ## 4.49.0 (2026-10-18)
 
 - Part two, step 5: opens on the forgotten days whose lessons stayed; something keeps the essence of a life (the soul); afterlife and rebirth side by side; Lessing, moksha and the Advaita answer move to the fold (your picks 5.1.a to 5.5.a)
