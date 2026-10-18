@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.59.4 (2026-10-18)
+
+- Part three, mirror work: "I could see the team member was already in a completely different state" (item 17.a)
+
+
 ## 4.59.3 (2026-10-18)
 
 - Part three, What you can check: look at the people a few steps ahead (item 16.a)
