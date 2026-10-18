@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.47.11 (2026-10-18)
+
+- Part two, step 8: the Reiki story is cut; the step opens on the traditions' lists (your 07:17 message). Nietzsche leaves the Sources list and the reading pack marks him no longer cited
+
+
 ## 4.47.10 (2026-10-18)
 
 - Part three, section 6: new sentence "On the hard days he helps you remember what you came for in the first place, as a good coach stands by an athlete through a bad stretch." (your 06:55 message). Notes for Alex updated

@@ -423,7 +423,7 @@ Background: The book is popular in Russian-speaking spiritual circles; the essay
 
 Kind: concept. Status: unchecked (biographical mention only).
 
-In the essay: Part two, step 8, 'Miracles, the levels of knowledge': in 2012 the author's 'philosophy of choice was Nietzsche's idea of the Übermensch, the closest thing I had found to an answer to the question of why bother living.' It describes the author, not an argument.
+In the essay: no longer cited. The story of the Reiki night, the only place that named Nietzsche, was cut from step 8 in 4.47.11 (2026-10-18). Before that: Part two, step 8, 'Miracles, the levels of knowledge': in 2012 the author's 'philosophy of choice was Nietzsche's idea of the Übermensch, the closest thing I had found to an answer to the question of why bother living.' It describes the author, not an argument.
 
 Read it in a book: Nietzsche, Thus Spoke Zarathustra, translated by Graham Parkes (Oxford World's Classics, 2005).
 

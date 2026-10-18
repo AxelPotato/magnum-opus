@@ -269,15 +269,11 @@ Letting go is how the wheel opens, which is why so many traditions describe the 
 
 ## 8. Miracles, the levels of knowledge
 
-My own road started with something I couldn't explain. I was still a teenager, and a convinced materialist. I read psychology and physics, I believed that the physical world was all there is, and my philosophy of choice was Nietzsche's idea of the Übermensch, the closest thing I had found to an answer to the question of why bother living. My mom had just received the second level of Reiki, the Japanese practice of healing by touch or at a distance, and asked whether I would take a session from a distance. I said I didn't believe in any of it, which was no news at home, and agreed anyway, because I wanted to be a nice son who lets his mom practice. My mom was in the kitchen and I was in my room. During the session I started to feel things in my body that I had never felt before, a kind of squishing in my head and a heaviness in my chest. I didn't feel better afterwards, so I can't say it healed anything. I just had no way to explain it.
-
-That night I lay in bed and tried to explain it anyway. The longer I lay there, the clearer it got that my worldview wasn't missing a piece. Its basic assumptions said that this couldn't happen at all, and it had just happened. That was enough to send me looking. The next morning I asked my mom to take me to the Reiki teacher, because I had some questions. That was the beginning of my road.
-
-Every tradition keeps a list of things like that, and the lists are remarkably alike. Let me be clear about what I'm doing here, because this is the most controversial step in the essay. I'm not trying to prove that any of these things happen or are real. To be honest I don't personally care. My claim is smaller and, I think, more interesting: the axiom leaves room for them, and the materialist view of separation leaves none.
+Every tradition keeps a list of things that look impossible, and the lists are remarkably alike. Let me be clear about what I'm doing here, because this is the most controversial step in the essay. I'm not trying to prove that any of these things happen or are real. To be honest I don't personally care. My claim is smaller and, I think, more interesting: the axiom leaves room for them, and the materialist view of separation leaves none.
 
 Healing, by touch and at a distance. Reading minds. Seeing and hearing what is far away. Remembering past lives. Walking on water. Floating, or flying outright. Walking through walls. Being in two places at once. Feeding a crowd from a basket. Calming a storm. Going without food or sleep, and staying warm in freezing cold. The Buddhist discourses list walking on water as if it were earth and flying cross-legged through the sky, the Gospels have Jesus walking on the sea, Patanjali's Yoga Sutras have reading the thoughts of others and rising above water and mire, and Teresa of Avila wrote that her body was sometimes lifted up from the ground.
 
-If the world is made of separate things and a mind is something a brain does, then knowing what is in another head without being told, or moving something without touching it, breaks the rules the view is built on. So every report has to be filed under something else before anybody looks at it: illness, lying, luck, a bad memory, Photoshop. A careful sceptic says something fairer, that they don't rule it out and just want evidence as strong as the claim. I agree with that sceptic. It is exactly where I was, lying in bed that night, and the honest conclusion I came to wasn't that Reiki is proven. It was that my assumptions were wrong.
+If the world is made of separate things and a mind is something a brain does, then knowing what is in another head without being told, or moving something without touching it, breaks the rules the view is built on. So every report has to be filed under something else before anybody looks at it: illness, lying, luck, a bad memory, Photoshop. A careful sceptic says something fairer, that they don't rule it out and just want evidence as strong as the claim. I agree with that sceptic.
 
 Under the axiom it looks different, and step 2 has already done most of the work. The whole turned down four settings for each point of view: what it can know, what it can do, its clock and its need. In this picture a miracle is one of those settings turned up a little. Reading minds and seeing at a distance are the knowing setting. Healing, walking on water and floating are the doing setting.
 
@@ -432,7 +428,6 @@ The axiom and the machine
 8. Miracles, the levels of knowledge
 
 - Antarova, K. E. Two Lives (Две жизни), Part I: «нет чудес, а есть та или иная степень знания». The English is the author's own translation.
-- Nietzsche, F. (1883-1885). Thus Spoke Zarathustra (the Übermensch).
 - Digha Nikaya 2 (the Samannaphala Sutta) and Digha Nikaya 11 (the Kevaddha Sutta), Sujato's translations (SuttaCentral).
 - Patanjali, Yoga Sutras 3.19, 3.37 and 3.39, numbered as in Johnston, C. (1912), The Yoga Sutras of Patanjali: The Book of the Spiritual Man.
 - Matthew 14:25-29 and 12:38-39.
