@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.56.0 (2026-10-18)
+
+- Part three, Giving: what something bigger can be, and Part one's two questions (item 5.a)
+
+
 ## 4.55.0 (2026-10-18)
 
 - Part two, step 4: two sentences for readers whose emptiness is a depression (item 4.a)
