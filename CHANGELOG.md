@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.47.8 (2026-10-18)
+
+- Part two, step 7: the objection paragraph ends "Everybody has tasted it at least once, at the far corner of Part one's chart."; the list of flow, the zone and being in love is gone (run-8 verdict 7.5). Notes for Alex updated
+
+
 ## 4.47.7 (2026-10-18)
 
 - Part two, step 1: "Why would a whole do this at all? The traditions give answers, and they rhyme." becomes "The traditions give answers to why a whole would do this, and they rhyme." (run-8 verdict 7.4). Notes for Alex updated
