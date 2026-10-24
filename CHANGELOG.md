@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.62.0 (2026-10-24)
+
+- Next page becomes Stay in contact: one invitation and the form; the centers and the dream piece are cut; tab Contact
+
+
 ## 4.61.17 (2026-10-24)
 
 - Part three, note on community and the teacher: the fear and five-years lines and the closing line cut, a pointer to the My teacher and I fold instead

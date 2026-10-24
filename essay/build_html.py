@@ -706,14 +706,14 @@ def convert(md, R):
     return out, toc
 
 
-NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Next']  # the tabs, in order; Next is the page after the essay
+NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Contact']  # the tabs, in order; Contact is the page after the essay (next.md)
 
 
 def hero_html(part):
     backup = part == '2a'
     if backup:
         part = 2
-    heads = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Next']
+    heads = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in contact']
     nums = ['one', 'two', 'three']
     lede = {
         0: 'What each part is for, who is talking, and who taught me.',
@@ -809,7 +809,7 @@ PARTS = {
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=True, css_extra='', foot=PART1_FOOT),
     2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA, foot=PART2_FOOT),
     3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=lambda: {}, cast=False, css_extra='', foot=PART3_FOOT),
-    4: dict(md='next.md', out='next.html', title='Next', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
+    4: dict(md='next.md', out='next.html', title='Stay in contact', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
     # kept for reference, not part of the default build: python build_html.py --part 2a
     '2a': dict(md='backup/part-2-variant-a-psychological.md', out='backup/part-2-variant-a-psychological.html', title='Part Two, backup: Spiritual', rules=lambda: rules2a(),
                cast=False, css_extra=F3.CSS_EXTRA, foot=PART2_FOOT + ' This is the first version of part two, kept as a backup.', fixed_ver='1.0.0', backup=True),
