@@ -586,7 +586,7 @@ Kind: text. Status: checked (read on 2026-10-17 in four English translations; th
 
 Who: A very short discourse. Ananda tells the Buddha that good friendship is half of the holy life, and the Buddha corrects him: it is the whole of it. The sutta calls him only 'Venerable Ananda'. That he was the Buddha's attendant is said elsewhere in the canon: in AN 1.223 the Buddha names Ananda the foremost of his monk disciples 'as a personal attendant' (Sujato's translation; the Pali is upatthakanam yadidam anando; read on SuttaCentral on 2026-10-17). That he was also the Buddha's cousin comes from the commentaries (Dictionary of Pali Proper Names), and the essay does not say it. The essay calls him the attendant since 4.41.14.
 
-In the essay (v4.33.2; section 4 until v4.35.0): Part three, section 5, 'The team', end of the paragraph on feeding the wish: Ananda, the Buddha's attendant, said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it. Only that exchange is used, not the two reasons that follow. Sources list (Part three): Samyutta Nikaya 45.2, the Upaddha Sutta (Sujato's translation, SuttaCentral).
+In the essay (v4.33.2; section 4 until v4.35.0, section 5 'The team' until v4.61.0): Part three, section 7, 'Friends on the path', end of the paragraph on feeding the wish: Ananda, the Buddha's attendant, said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it. Only that exchange is used, not the two reasons that follow. Sources list (Part three): Samyutta Nikaya 45.2, the Upaddha Sutta (Sujato's translation, SuttaCentral).
 
 Where it sits: SN 45.2 on SuttaCentral ('SN 45:2' in Bodhi's and Thanissaro's style). Pali Text Society edition S v 2 to 3. The Buddha retells it to King Pasenadi at SN 3.18, and in SN 45.3 Sariputta says the same line and is praised.
 
@@ -635,3 +635,43 @@ Background: Sujato renders the last word of 103, sangamajuttamo, as 'supreme con
 If someone pushes back:
 - 'Sun Tzu said the one who conquers himself wins every battle.' It is not in the Art of War. Giles's translation (Project Gutenberg, number 132, read on 2026-10-17) has no such line, and the nearest one is in chapter 3: 'If you know the enemy and know yourself, you need not fear the result of a hundred battles.' The saying that victory over yourself outweighs victory in battle is this verse and its Jain twin, with the Daodejing 33 pair (overcoming others, overcoming oneself) beside them.
 - 'Buddhists teach there is no self, so who conquers whom?' The Pali word atta serves as the plain reflexive, 'oneself', as well as 'self'. The verse speaks of the person you are working with and says nothing about a lasting self.
+
+## Khuddakapatha 1, the Three Refuges (Pali canon, Khuddaka Nikaya; the refuge formula itself is among the oldest Buddhist liturgy)
+
+Kind: text. Status: checked (Sujato's English read on SuttaCentral on 2026-10-24).
+
+Who: The Khuddakapatha, 'short passages', opens the Khuddaka Nikaya with the texts a new monk or lay follower learns first. Its first passage is the refuge formula recited at almost every Buddhist ceremony.
+
+In the essay (v4.61.0): Part three, section 7, 'Friends on the path', first item of the fold 'Built long before us': the refuges are three, the Buddha, the Teaching and the Sangha, the community. Sources list (Part three): Khuddakapatha 1, the Three Refuges (Sujato's translation, SuttaCentral).
+
+The passage: Sujato: 'I take refuge in the Buddha, I take refuge in the Teaching, I take refuge in the Saṅgha.' It is repeated a second and a third time.
+
+Read it free:
+- SuttaCentral, Kp 1 (Sujato): https://suttacentral.net/kp1/en/sujato (read on 2026-10-24 through the site's text API)
+
+Read it in a book: Bhikkhu Ñāṇamoli, The Minor Readings (Pali Text Society, 1960), with Buddhaghosa's commentary.
+
+Background: The three are called the Three Jewels. In most schools the Sangha in the strict sense is the community of the ordained, or of those who have reached the paths of awakening, and in everyday use it means the community of practitioners. The essay reads the three as teacher, teaching and community, which is how the formula is commonly explained to newcomers.
+
+If someone pushes back:
+- 'Sangha means monks, not your friends.' In the strict sense it does; the wider sense of the community of practitioners is common in modern Buddhism, and the essay only uses the formula as an old example of the three conditions together.
+
+## Majjhima Nikaya 10, the Satipatthana Sutta (seven years down to seven days) (Pali canon; the sutta is one of the most studied in the Theravada)
+
+Kind: text. Status: checked (Sujato's English read on SuttaCentral on 2026-10-24).
+
+Who: The discourse on the four establishments of mindfulness (body, feelings, mind, principles), the base text of much modern vipassana.
+
+In the essay (v4.61.0): Part two, step 5, 'Something carries over', first item of the fold 'In this very life': anyone who develops the four kinds of mindfulness for seven years can expect one of two results, enlightenment in this very life or, if something is left over, non-return; then the time is shortened step by step down to seven days. Sources list (Part two, step 5).
+
+The passage: Sujato: 'Anyone who develops these four kinds of mindfulness meditation in this way for seven years can expect one of two results: enlightenment in this very life, or if there's residue left behind, non-return.' It then runs six years, five, down to one year, seven months down to a fortnight, and ends 'Let alone a fortnight, anyone who develops these four kinds of mindfulness meditation in this way for seven days can expect one of two results'.
+
+Read it free:
+- SuttaCentral, MN 10 (Sujato): https://suttacentral.net/mn10/en/sujato (read on 2026-10-24 through the site's text API)
+
+Read it in a book: Bhikkhu Ñāṇamoli and Bhikkhu Bodhi, The Middle Length Discourses of the Buddha (Wisdom, 1995), sutta 10. Anālayo, Satipaṭṭhāna: The Direct Path to Realization (Windhorse, 2003).
+
+Background: 'Non-return' is the third of the four stages: one who will not be reborn in this world and finishes the road in a higher realm. The same passage closes DN 22. Commentators read the shortening of the time as depending on the practitioner's faculties.
+
+If someone pushes back:
+- 'It's a promise about monks in full-time practice.' The sutta is addressed to the monks, yes; the essay uses it only for the claim that the end can be reached in this life.

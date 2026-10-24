@@ -518,3 +518,42 @@ Background: Shankara reads 'the great' as excellent teachers: 'Having approached
 If someone pushes back:
 - 'The verse tells you to go to a teacher, and the essay leaves that out.' Shankara reads it that way, and Part three has a section on the teacher. This fold uses the verse for the difficulty of the road and for the call to wake.
 - 'Is the razor's edge about danger?' In Shankara's commentary it is about subtlety: the road is hard to cross because the thing to be known is so subtle. The essay says only 'hard to go by'.
+
+## Vivekachudamani, verse 3 (three rare things: a human birth, the longing for liberation, the shelter of a great soul) (traditionally attributed to Shankara, eighth century; many scholars date it later)
+
+Kind: text. Status: partly checked (the Sanskrit and two English renderings seen in search results on 2026-10-24; Madhavananda's exact English not seen).
+
+Who: An Advaita Vedanta teaching poem in about 580 verses, a dialogue between a teacher and a student. Tradition gives it to Adi Shankara; several modern scholars doubt that.
+
+In the essay (v4.61.0): Part three, section 7, 'Friends on the path', third item of the fold 'Built long before us', which says 'traditionally attributed to Shankara': three things that are rare and come only by grace, a human birth, the longing for liberation, and the shelter of a great soul. Sources list (Part three): Vivekachudamani, verse 3 (Sanskrit text with Madhavananda's translation, Advaita Ashrama).
+
+The passage: Sanskrit: durlabhaṃ trayam evaitad daivānugrahahetukam, manuṣyatvaṃ mumukṣutvaṃ mahāpuruṣasaṃśrayaḥ. The essay's English is a paraphrase from the Sanskrit; saṃśraya is refuge or shelter. Sundaram's version (seen on the advaita-l list): to be born as a man, to have the longing for release, and the association with great souls.
+
+Read it free:
+- shlokam.org, Vivekachudamani verses 4 to 7 (Sanskrit with English): https://shlokam.org/texts/vivekachudamani-4-7 (seen in a search result; numbering differs by edition, check which verse it shows)
+- advaita-l archive, Sundaram's translation: https://advaita-vedanta.org/archives/advaita-l/1998-June/008967.html (seen in a search result)
+
+Read it in a book: Swami Madhavananda, Vivekachudamani of Sri Sankaracharya (Advaita Ashrama), Sanskrit with English. Open it to confirm the wording and the verse number before quoting.
+
+Background: Verse numbering varies slightly between editions. The three are a standard teaching: the body that can practice, the wish, and the teacher.
+
+If someone pushes back:
+- 'Shankara didn't write it.' The essay says 'traditionally attributed'.
+
+## Bhagavad Gita 5.19 and 5.23 (the world overcome even here; mastering desire and anger while still in the body) (the Gita is usually dated between the second century BCE and the second century CE)
+
+Kind: text. Status: checked (Arnold's translation, The Song Celestial, read on Project Gutenberg on 2026-10-24).
+
+In the essay (v4.61.0): Part two, step 5, 'Something carries over', second item of the fold 'In this very life': the world is overcome even here by those whose minds are settled in sameness, and whoever learns while still in the body to master desire and anger is a yogi and is happy; the tradition calls one freed while alive a jivanmukta. Sources list (Part two, step 5): Bhagavad Gita 5.19 and 5.23 (Arnold).
+
+The passage: Arnold (public domain): 'The world is overcome, aye! even here! By such as fix their faith on Unity.' And: 'But if a man shall learn, Even while he lives and bears his body's chain, To master lust and anger, he is blest! He is the Yukta.' Sanskrit 5.19 begins ihaiva tair jitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ ('here itself creation is conquered by those whose mind rests in sameness').
+
+Read it free:
+- Project Gutenberg, The Song Celestial (Arnold): https://www.gutenberg.org/ebooks/2388 (read on 2026-10-24)
+
+Read it in a book: Winthrop Sargeant, The Bhagavad Gita (SUNY, 2009), word by word.
+
+Background: Jivanmukti, liberation while living, is a central Advaita idea (Shankara's commentaries, the Jivanmuktiviveka of Vidyaranya). The Gita itself does not use the word; the essay attributes the word to the tradition.
+
+If someone pushes back:
+- 'Sameness is not oneness.' The essay says sameness; Arnold says Unity.

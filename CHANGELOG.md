@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.61.0 (2026-10-24)
+
+- Part three rebuilt as eight conditions for walking the whole road in one life, each tied to Parts one and two; 'friends on the path' instead of the team; new note on community and the teacher with the fold 'My teacher and I' after it; Genadiy's biography moved to Part zero; Part two gains the need setting and limits seen from outside in step 2 and the fold 'In this very life' in step 5; seven reading-pack entries
+
+
 ## 4.60.0 (2026-10-18)
 
 - Folds say what kind of thing is inside: an icon, a colored kind line with the count, the title, and the first entry fading out (traditions, studies, a closer look, people's lives, my own story; design 2 from the Josh and Ruth joint read)

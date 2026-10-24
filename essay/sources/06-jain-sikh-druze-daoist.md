@@ -473,3 +473,21 @@ Background: 'Strong' and 'mighty' are Legge's two English words for two differen
 If someone pushes back:
 - 'Isn't the Daodejing about yielding, not struggling?' The chapter says overcoming oneself, and the text elsewhere prefers softness to force. The essay cites only the line it quotes.
 - 'Is this the same idea as the Dhammapada verse?' The same turn from outer to inner victory, in a different form: a pair of lines in a run of pairs, where the Dhammapada and the Jain verse set it against a battle.
+
+## Kalpa Sutra, the Life of Mahavira (kevala reached in his lifetime) (Kalpa Sutra traditionally attributed to Bhadrabahu; Mahavira, sixth or fifth century BCE)
+
+Kind: text. Status: partly checked (the event, place and year confirmed in several translations and Jain histories seen in search results on 2026-10-24; Jacobi's paragraph number not seen; the sacred-texts copy refused the connection).
+
+In the essay (v4.61.0): Part two, step 5, 'Something carries over', third item of the fold 'In this very life': in the thirteenth year of his life as a wandering ascetic Mahavira reached kevala, complete knowledge, sitting under a sal tree near the river Rijupalika, and then taught for about thirty more years. Sources list (Part two, step 5): Kalpa Sutra, the Life of Mahavira (Jacobi).
+
+The passage: In Jacobi's rendering the event is placed in the thirteenth year, outside the town of Jrimbhikagrama, on the bank of the Rijupalika, in the field of the householder Samaga, under a sal tree; the knowledge is described as infinite, supreme, unobstructed, unimpeded, complete and full. Mahavira then lived some thirty years as a Kevalin (open the book to confirm the figure and the paragraph).
+
+Read it free:
+- Sacred Books of the East vol. 22 (Jacobi): https://sacred-texts.com/jai/sbe22/index.htm (seen in a search result; refused on 2026-10-24)
+
+Read it in a book: Hermann Jacobi (trans.), Jaina Sutras, Part I, Sacred Books of the East 22 (1884).
+
+Background: Svetambara and Digambara accounts differ in details (his age at kevala is given as 42 or 43). Kevala jnana is reached in life; final liberation, moksha, comes at death.
+
+If someone pushes back:
+- 'That's Mahavira, a Tirthankara, not an ordinary person.' Jain teaching holds that any soul can reach kevala; Mahavira is the model case.
