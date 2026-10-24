@@ -14,7 +14,7 @@ Think of a time you really decided something: a move, a new job, a person. Befor
 
 That yes stands on a wish, and the wish is the one condition in this part nobody else can supply. Part two said the whole handed the steering to each point of view, and if you accept that, then nobody can start the return for you. A mentor can point, and friends can lift you, and none of them can want it for you.
 
-People come for all kinds of reasons, and the reasons often change along the way. Some come with questions, such as why we exist and whether this is all there is. Some want to stay calm when the inbox explodes, and to stop replaying the same old conversation on the drive home. Some simply can't sleep, or are worn out, and want to feel better, which is reason enough to start. And some want to do more with their lives and be someone the people closest to them can lean on. These are the reasons people give, and they are not promises the method makes. Which one is yours matters less than that it is really yours.
+People come for all kinds of reasons, and the reasons often change along the way. Some come with questions, such as why we exist and whether this is all there is. Some want to stay calm when the inbox explodes, and to stop replaying the same old conversation on the drive home. Some simply can't sleep, or are worn out, and want to feel better, which is reason enough to start. And some want to do more with their lives and be someone the people closest to them can lean on. Which one is yours matters less than that it is really yours.
 
 #### What if I'm not sure?
 

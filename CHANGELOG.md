@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.61.3 (2026-10-24)
+
+- Part three, section 1: cut 'These are the reasons people give, and they are not promises the method makes.'
+
+
 ## 4.61.2 (2026-10-24)
 
 - Part two, step 2: 'very little of it was ever really decided by us'
