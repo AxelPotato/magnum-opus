@@ -133,7 +133,7 @@ This condition matters more now than it used to, and the 21st century turned the
 
 * The Buddhist refuges are three: I take refuge in the Buddha, I take refuge in the Teaching, I take refuge in the Sangha, the community (Khuddakapatha 1).
 * In Pirkei Avot Joshua ben Perahiah says: appoint for yourself a teacher, and acquire for yourself a companion (1:6).
-* The Vivekachudamani, traditionally attributed to Shankara, names three things that are rare and come only by grace: a human birth, the longing for liberation, and the shelter of a great soul (3).
+* The Vivekachudamani, traditionally attributed to Shankara, names three things that are rare and come by the grace of God: a human birth, the longing for liberation, and the shelter of a great soul (3).
 * The Rule of Benedict says that the first kind of monks live in monasteries and serve under a rule and an abbot. A hermit goes out alone only after long probation in a monastery, having learned with the help of many brethren. And of the monks who live without a shepherd it says that their law is the desire for self-gratification: whatever enters their mind or appeals to them, that they call holy (chapter 1).
 
 Two friends doing this together are the smallest community, and it grows from there. Being among people who want the same thing brings everything above together: you work on your attention, you build discipline, you meet your mirror, you pursue a goal and you give, all at once and with other people around.

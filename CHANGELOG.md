@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.61.1 (2026-10-24)
+
+- Vivekachudamani line says 'come by the grace of God' (Madhavananda's wording); Kalpa Sutra locators §120 and §147 in Part two's Sources; both reading-pack entries checked
+
+
 ## 4.61.0 (2026-10-24)
 
 - Part three rebuilt as eight conditions for walking the whole road in one life, each tied to Parts one and two; 'friends on the path' instead of the team; new note on community and the teacher with the fold 'My teacher and I' after it; Genadiy's biography moved to Part zero; Part two gains the need setting and limits seen from outside in step 2 and the fold 'In this very life' in step 5; seven reading-pack entries

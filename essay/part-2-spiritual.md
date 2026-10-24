@@ -368,7 +368,7 @@ The axiom and the machine
 5. Something carries over
 
 - Lessing, G. E. (1780). The Education of the Human Race, section 98 in the usual numbering.
-- Majjhima Nikaya 10, the Satipatthana Sutta (Sujato's translation, SuttaCentral). Bhagavad Gita 5.19 and 5.23 (Arnold, E., The Song Celestial, 1885). Kalpa Sutra, the Life of Mahavira (Jacobi's translation, Sacred Books of the East, vol. 22).
+- Majjhima Nikaya 10, the Satipatthana Sutta (Sujato's translation, SuttaCentral). Bhagavad Gita 5.19 and 5.23 (Arnold, E., The Song Celestial, 1885). Kalpa Sutra, Life of Mahavira §120 and §147 (Jacobi's translation, Sacred Books of the East, vol. 22, pp. 263 and 269).
 - Bhagavad Gita 6.45 and 2.22. Samyutta Nikaya 15. Guru Granth Sahib, the Japji (rebirth and grace). Catechism of the Catholic Church, 1030-1031. Gregory of Nyssa, The Life of Moses. Mishnah, Eduyot 2:10. Quran 23:100.
 - Plato, Republic X (the Myth of Er). Brihadaranyaka Upanishad 3.7.23.
 - Milindapanha, translated by T. W. Rhys Davids, The Questions of King Milinda, Sacred Books of the East, vols. 35 and 36.

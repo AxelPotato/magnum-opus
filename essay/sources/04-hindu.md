@@ -521,13 +521,13 @@ If someone pushes back:
 
 ## Vivekachudamani, verse 3 (three rare things: a human birth, the longing for liberation, the shelter of a great soul) (traditionally attributed to Shankara, eighth century; many scholars date it later)
 
-Kind: text. Status: partly checked (the Sanskrit and two English renderings seen in search results on 2026-10-24; Madhavananda's exact English not seen).
+Kind: text. Status: checked (the Sanskrit and two English renderings seen in search results on 2026-10-24; Madhavananda's English confirmed by the citation check the same day).
 
 Who: An Advaita Vedanta teaching poem in about 580 verses, a dialogue between a teacher and a student. Tradition gives it to Adi Shankara; several modern scholars doubt that.
 
-In the essay (v4.61.0): Part three, section 7, 'Friends on the path', third item of the fold 'Built long before us', which says 'traditionally attributed to Shankara': three things that are rare and come only by grace, a human birth, the longing for liberation, and the shelter of a great soul. Sources list (Part three): Vivekachudamani, verse 3 (Sanskrit text with Madhavananda's translation, Advaita Ashrama).
+In the essay (v4.61.0): Part three, section 7, 'Friends on the path', third item of the fold 'Built long before us', which says 'traditionally attributed to Shankara': three things that are rare and come by the grace of God, a human birth, the longing for liberation, and the shelter of a great soul. Sources list (Part three): Vivekachudamani, verse 3 (Sanskrit text with Madhavananda's translation, Advaita Ashrama).
 
-The passage: Sanskrit: durlabhaṃ trayam evaitad daivānugrahahetukam, manuṣyatvaṃ mumukṣutvaṃ mahāpuruṣasaṃśrayaḥ. The essay's English is a paraphrase from the Sanskrit; saṃśraya is refuge or shelter. Sundaram's version (seen on the advaita-l list): to be born as a man, to have the longing for release, and the association with great souls.
+The passage: Sanskrit: durlabhaṃ trayam evaitad daivānugrahahetukam, manuṣyatvaṃ mumukṣutvaṃ mahāpuruṣasaṃśrayaḥ. Madhavananda: 'These are three things which are rare indeed and are due to the grace of God, namely, a human birth, the longing for Liberation, and the protecting care of a perfected sage.' The essay follows the Sanskrit for the third item: saṃśraya is refuge or shelter, so 'the shelter of a great soul'. Sundaram's version (seen on the advaita-l list): to be born as a man, to have the longing for release, and the association with great souls.
 
 Read it free:
 - shlokam.org, Vivekachudamani verses 4 to 7 (Sanskrit with English): https://shlokam.org/texts/vivekachudamani-4-7 (seen in a search result; numbering differs by edition, check which verse it shows)

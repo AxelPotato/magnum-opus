@@ -476,11 +476,11 @@ If someone pushes back:
 
 ## Kalpa Sutra, the Life of Mahavira (kevala reached in his lifetime) (Kalpa Sutra traditionally attributed to Bhadrabahu; Mahavira, sixth or fifth century BCE)
 
-Kind: text. Status: partly checked (the event, place and year confirmed in several translations and Jain histories seen in search results on 2026-10-24; Jacobi's paragraph number not seen; the sacred-texts copy refused the connection).
+Kind: text. Status: checked (Jacobi, SBE 22: §120, p. 263, and §147, p. 269, confirmed by the citation check on 2026-10-24).
 
-In the essay (v4.61.0): Part two, step 5, 'Something carries over', third item of the fold 'In this very life': in the thirteenth year of his life as a wandering ascetic Mahavira reached kevala, complete knowledge, sitting under a sal tree near the river Rijupalika, and then taught for about thirty more years. Sources list (Part two, step 5): Kalpa Sutra, the Life of Mahavira (Jacobi).
+In the essay (v4.61.0): Part two, step 5, 'Something carries over', third item of the fold 'In this very life': in the thirteenth year of his life as a wandering ascetic Mahavira reached kevala, complete knowledge, sitting under a sal tree near the river Rijupalika, and then taught for about thirty more years. Sources list (Part two, step 5): Kalpa Sutra, Life of Mahavira §120 and §147 (Jacobi's translation, SBE 22, pp. 263 and 269).
 
-The passage: In Jacobi's rendering the event is placed in the thirteenth year, outside the town of Jrimbhikagrama, on the bank of the Rijupalika, in the field of the householder Samaga, under a sal tree; the knowledge is described as infinite, supreme, unobstructed, unimpeded, complete and full. Mahavira then lived some thirty years as a Kevalin (open the book to confirm the figure and the paragraph).
+The passage: In Jacobi's rendering the event is placed in the thirteenth year, outside the town of Jrimbhikagrama, on the bank of the Rijupalika, in the field of the householder Samaga, under a sal tree; the knowledge is described as infinite, supreme, unobstructed, unimpeded, complete and full. Mahavira then lived some thirty years as a Kevalin (§147, p. 269). The kevala passage is §120, p. 263.
 
 Read it free:
 - Sacred Books of the East vol. 22 (Jacobi): https://sacred-texts.com/jai/sbe22/index.htm (seen in a search result; refused on 2026-10-24)
