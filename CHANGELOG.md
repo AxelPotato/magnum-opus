@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.61.17 (2026-10-24)
+
+- Part three, note on community and the teacher: the fear and five-years lines and the closing line cut, a pointer to the My teacher and I fold instead
+
+
 ## 4.61.16 (2026-10-24)
 
 - Part three, Someone further along: the conflict paragraph and the method paragraph cut; Part zero says he adapted it to the 21st century
