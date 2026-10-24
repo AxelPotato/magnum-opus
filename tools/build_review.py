@@ -47,7 +47,7 @@ REVIEW_JS = """
   var clearMark = function () {};
 
   // The open part's contents list: a left sidebar on wide screens, a hamburger drawer on narrow
-  // ones, as on the essay pages. Parts without one (Next) get neither.
+  // ones, as on the essay pages. Parts without one (Contact) get neither.
   var b = document.body, btn = document.querySelector('.toc-btn'), nav = null, links = [], heads = [], last = -2;
   function setOpen(o) { b.classList.toggle('toc-open', o); btn.setAttribute('aria-expanded', o ? 'true' : 'false'); }
   function spy() {
