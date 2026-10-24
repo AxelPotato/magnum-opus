@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.61.7 (2026-10-24)
+
+- Part three, attention: prayer paragraph rephrased to follow stillness ('the same attention pointed somewhere else')
+
+
 ## 4.61.6 (2026-10-24)
 
 - Part three, attention: cut the paragraph listing the other inner practices; the prayer paragraph now opens 'Prayer belongs here too.'
