@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.0 (2026-10-24)
+
+- Stay in contact page: thank-you line, reply within a few days, and the page moves from next to contact (URL /contact)
+
+
 ## 4.62.0 (2026-10-24)
 
 - Next page becomes Stay in contact: one invitation and the form; the centers and the dream piece are cut; tab Contact
