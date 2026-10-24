@@ -776,7 +776,7 @@ body.has-toc .hero{padding-top:4.5rem}
   body.has-toc .toc{width:16rem;transform:none;visibility:visible;transition:none}
   body.has-toc .toc-btn,body.has-toc.toc-open .toc-scrim{display:none}
   body.has-toc .hero{padding-top:clamp(2.5rem,7vw,5rem)}
-  body.has-toc .fig{width:min(54rem,calc(100vw - 20rem))}
+  body.has-toc .fig:not(.plain):not(.photo){width:min(54rem,calc(100vw - 20rem))}
 }
 """
 
