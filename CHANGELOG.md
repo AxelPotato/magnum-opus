@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.61.16 (2026-10-24)
+
+- Part three, Someone further along: the conflict paragraph and the method paragraph cut; Part zero says he adapted it to the 21st century
+
+
 ## 4.61.15 (2026-10-24)
 
 - Part three, Friends on the path: very hard on myself instead of despair
