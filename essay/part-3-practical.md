@@ -89,7 +89,7 @@ Underneath all three there's a plain skill: seeing your own mind at work. Most o
 
 Regularity starts with daily practice, every day, even when it's a short one, because the drift from Part two takes no days off. What matters is that it happens, that you keep wanting to grow, and that you carry the work into the rest of your day, at the checkout and in the argument, so that the daily sit is the smallest part of it.
 
-If you already sit, you know the sitting. What the other conditions add is what surrounds it: a friend on the path who notices when your attention has wandered, the mirror that shows you the hooks you can't feel on a cushion, and someone further along who can see what you can't. Without the work with attention, you clear the clamps in the morning and build new ones all day, and the drift does the rest.
+Without the work with attention, you clear the clamps in the morning and build new ones all day, and the drift does the rest.
 
 ## 5. Giving
 
