@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.61.5 (2026-10-24)
+
+- Part three, stillness: 'learn to receive pleasure from it'
+
+
 ## 4.61.4 (2026-10-24)
 
 - Part three: 'the sit' becomes 'practice' in four places (discipline and attention sections)
