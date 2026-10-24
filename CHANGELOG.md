@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.61.14 (2026-10-24)
+
+- Part three, Friends on the path: Giving School moved to where the community grows, the hard moments are about my own goals
+
+
 ## 4.61.13 (2026-10-24)
 
 - Part three, Friends on the path: cave sentence joined with but
