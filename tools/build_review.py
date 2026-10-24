@@ -19,7 +19,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, 'essay'))
 import build_html as B  # noqa: E402
 
-TABS = ['intro', 'rational', 'spiritual', 'practical', 'next']
+TABS = ['intro', 'rational', 'spiritual', 'practical', 'contact']
 NEXT = ['Part one: Rational', 'Part two: Spiritual', 'Part three: Practical', 'leave your details']
 
 REVIEW_CSS = """

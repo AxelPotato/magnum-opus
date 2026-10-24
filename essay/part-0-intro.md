@@ -6,7 +6,7 @@ Part one is the rational part, and I've kept it deliberately earthly. It uses no
 
 Part two is the spiritual part, and it has its own role: it says where all of this comes from and where it leads. It starts from a view of reality that I call an assumption, it quotes many traditions, and it says plainly where the reading is mine. You can disagree with it and still use the rest.
 
-Part three is the practical side: what the method of conscious development I share looks like in the reality of the 21st century. It starts with one thing you can try alone tonight and goes on to what needs other people, a team and a guide.
+Part three is the practical side: the conditions that make it realistic to walk the whole road in one life, in the reality of the 21st century, from the ones you can start alone tonight to the ones that need other people.
 
 You can stop after any part, and each one makes the next easier to judge.
 
@@ -14,4 +14,4 @@ You can stop after any part, and each one makes the next easier to judge.
 
 I'm Alex. In my teens I had a lot of questions: why things are the way they are, and why I am the way I am. Over time those questions led to a spiritual search. I have worked with computers for about ten years, eight of them in cyber security, which I still do. My spiritual journey is much longer, more than fourteen years.
 
-Everything in this essay rests on what I learned from my teacher, Genadiy Givin, and the method in Part three is the one he teaches. Part three says more about him.
+Everything in this essay rests on what I learned from my teacher, Genadiy Givin. He was born in Riga and studied at Riga Technical University. In his teens he met people who had something he wanted, and what he saw in them gave him a huge wish to know what they knew. That wish led him to the man who became his teacher. He describes the people who handed this on to him, himself included, as ordinary people without titles. He adapted what they handed on to life in the 21st century. For him the knowledge is what matters.
