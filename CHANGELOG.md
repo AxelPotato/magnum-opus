@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.60.1 (2026-10-24)
+
+- Part one: the two balance scales tilted the wrong way (the lighter pan hung low); now the heavier side sinks on both
+
+
 ## 4.60.0 (2026-10-18)
 
 - Folds say what kind of thing is inside: an icon, a colored kind line with the count, the title, and the first entry fading out (traditions, studies, a closer look, people's lives, my own story; design 2 from the Josh and Ruth joint read)
