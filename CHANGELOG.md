@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.61.4 (2026-10-24)
+
+- Part three: 'the sit' becomes 'practice' in four places (discipline and attention sections)
+
+
 ## 4.61.3 (2026-10-24)
 
 - Part three, section 1: cut 'These are the reasons people give, and they are not promises the method makes.'
