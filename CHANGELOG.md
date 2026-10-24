@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.61.9 (2026-10-24)
+
+- Part three, attention: cut the sentence on how often to meet with others
+
+
 ## 4.61.8 (2026-10-24)
 
 - Part three, attention: 'go first' made clear as taking the first step toward peace in a conflict
