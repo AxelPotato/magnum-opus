@@ -891,3 +891,23 @@ Background: The picture of two ways, one easy and one hard, is an old teaching f
 If someone pushes back:
 - 'The verse says most people are lost.' The verse sets many against few and speaks of destruction and life. The essay uses it only for the difficulty of the way, and Luke's version answers a question about numbers with a call to effort.
 - 'Some manuscripts of Matthew 7:13 differ.' They do, in the first clause (the ESV footnote). The sense of the two verses is the same either way.
+
+## The Rule of Benedict, chapter 1 (the kinds of monks) (Benedict of Nursia, about 480 to 547; the Rule about 530)
+
+Kind: text. Status: checked (Doyle's translation read on Project Gutenberg on 2026-10-24).
+
+Who: The rule Benedict wrote for his monks, the base of Western monasticism.
+
+In the essay (v4.61.0): Part three, section 7, 'Friends on the path', fourth item of the fold 'Built long before us': the first kind of monks live in monasteries and serve under a rule and an abbot; a hermit goes out alone only after long probation in a monastery, having learned with the help of many brethren; of the monks without a shepherd, their law is the desire for self-gratification, whatever enters their mind or appeals to them they call holy. Sources list (Part three): The Rule of Benedict, chapter 1 (Doyle's translation).
+
+The passage: Doyle: 'The first kind are the Cenobites: those who live in monasteries and serve under a rule and an Abbot. The second kind are the Anchorites or Hermits: those who... after long probation in a monastery, having learned by the help of many brethren how to fight against the devil, go out well armed from the ranks of the community to the solitary combat of the desert.' Of the Sarabaites: 'They live in twos or threes, or even singly, without a shepherd... Their law is the desire for self-gratification: whatever enters their mind or appeals to them, that they call holy; what they dislike, they regard as unlawful.'
+
+Read it free:
+- Project Gutenberg, St. Benedict's Rule for Monasteries (Doyle): https://www.gutenberg.org/ebooks/50040 (read on 2026-10-24)
+
+Read it in a book: Timothy Fry (ed.), RB 1980: The Rule of St. Benedict in English (Liturgical Press).
+
+Background: The fourth kind, the Gyrovagues, wander from monastery to monastery. Benedict writes his rule for the first kind. The essay leaves out the devil and the vices to keep the entry short.
+
+If someone pushes back:
+- 'Benedict praises hermits.' He does, after the monastery has trained them, which is the point the essay uses.

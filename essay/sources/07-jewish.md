@@ -750,3 +750,23 @@ Background: In Kulp's English the word 'evil' sits in brackets, because the Hebr
 If someone pushes back:
 - 'The mishnah says evil inclination, so it is about suppressing desire.' The Hebrew says 'his inclination', and the essay says 'inclination'. The verse in Proverbs is about anger and ruling the spirit, and Ben Zoma widens it.
 - 'Proverbs is about being slow to anger, and nothing more.' Its second line, 'he that rules his spirit than he that takes a city', is the line Ben Zoma uses, and it is wider than anger.
+
+## Mishnah Avot 1:6 (Joshua ben Perahiah: appoint for yourself a teacher, acquire for yourself a companion) (Mishnah edited around 200 CE; Joshua ben Perahiah, second century BCE)
+
+Kind: text. Status: checked (Kulp's English and the Hebrew read on Sefaria on 2026-10-24).
+
+Who: Joshua ben Perahiah is one of the 'pairs' (zugot) through whom, in Avot chapter 1, the tradition is handed down from Sinai to the Mishnah's sages.
+
+In the essay (v4.61.0): Part three, section 7, 'Friends on the path', second item of the fold 'Built long before us': appoint for yourself a teacher, and acquire for yourself a companion. Only the first two of his three clauses are used. Sources list (Part three): Pirkei Avot 1:6 (Kulp's translation, Sefaria).
+
+The passage: Kulp (Mishnah Yomit): 'Joshua ben Perahiah used to say: appoint for thyself a teacher, and acquire for thyself a companion and judge all men with the scale weighted in his favor.' Hebrew: aseh lekha rav, u-qneh lekha haver.
+
+Read it free:
+- Sefaria, Pirkei Avot 1:6: https://www.sefaria.org/Pirkei_Avot.1.6 (read on 2026-10-24 through the site's text API)
+
+Read it in a book: any prayer book that prints Pirkei Avot; Kulp's commentary is free on Sefaria.
+
+Background: Commentators note the two verbs: a teacher you 'make' or appoint, a friend you 'acquire', which many read as 'even at a cost'. The haver here is a study companion. The third clause, judging everyone favorably, is often read as the condition for keeping both.
+
+If someone pushes back:
+- 'This is about Torah study, not meditation.' It is; the essay cites it as an old statement that the road needs a teacher and a companion.

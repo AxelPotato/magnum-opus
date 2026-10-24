@@ -8,6 +8,106 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.0 (2026-10-24)
+
+- Stay in contact page: thank-you line, reply within a few days, and the page moves from next to contact (URL /contact)
+
+
+## 4.62.0 (2026-10-24)
+
+- Next page becomes Stay in contact: one invitation and the form; the centers and the dream piece are cut; tab Contact
+
+
+## 4.61.17 (2026-10-24)
+
+- Part three, note on community and the teacher: the fear and five-years lines and the closing line cut, a pointer to the My teacher and I fold instead
+
+
+## 4.61.16 (2026-10-24)
+
+- Part three, Someone further along: the conflict paragraph and the method paragraph cut; Part zero says he adapted it to the 21st century
+
+
+## 4.61.15 (2026-10-24)
+
+- Part three, Friends on the path: very hard on myself instead of despair
+
+
+## 4.61.14 (2026-10-24)
+
+- Part three, Friends on the path: Giving School moved to where the community grows, the hard moments are about my own goals
+
+
+## 4.61.13 (2026-10-24)
+
+- Part three, Friends on the path: cave sentence joined with but
+
+
+## 4.61.12 (2026-10-24)
+
+- Part three, Giving: shorter get over yourself line (option b)
+
+
+## 4.61.11 (2026-10-24)
+
+- Part three, Giving: the whole journey as a joke, get over yourself
+
+
+## 4.61.10 (2026-10-24)
+
+- Part three, attention: cut the preview of the later conditions ('If you already sit...')
+
+
+## 4.61.9 (2026-10-24)
+
+- Part three, attention: cut the sentence on how often to meet with others
+
+
+## 4.61.8 (2026-10-24)
+
+- Part three, attention: 'go first' made clear as taking the first step toward peace in a conflict
+
+
+## 4.61.7 (2026-10-24)
+
+- Part three, attention: prayer paragraph rephrased to follow stillness ('the same attention pointed somewhere else')
+
+
+## 4.61.6 (2026-10-24)
+
+- Part three, attention: cut the paragraph listing the other inner practices; the prayer paragraph now opens 'Prayer belongs here too.'
+
+
+## 4.61.5 (2026-10-24)
+
+- Part three, stillness: 'learn to receive pleasure from it'
+
+
+## 4.61.4 (2026-10-24)
+
+- Part three: 'the sit' becomes 'practice' in four places (discipline and attention sections)
+
+
+## 4.61.3 (2026-10-24)
+
+- Part three, section 1: cut 'These are the reasons people give, and they are not promises the method makes.'
+
+
+## 4.61.2 (2026-10-24)
+
+- Part two, step 2: 'very little of it was ever really decided by us'
+
+
+## 4.61.1 (2026-10-24)
+
+- Vivekachudamani line says 'come by the grace of God' (Madhavananda's wording); Kalpa Sutra locators §120 and §147 in Part two's Sources; both reading-pack entries checked
+
+
+## 4.61.0 (2026-10-24)
+
+- Part three rebuilt as eight conditions for walking the whole road in one life, each tied to Parts one and two; 'friends on the path' instead of the team; new note on community and the teacher with the fold 'My teacher and I' after it; Genadiy's biography moved to Part zero; Part two gains the need setting and limits seen from outside in step 2 and the fold 'In this very life' in step 5; seven reading-pack entries
+
+
 ## 4.60.0 (2026-10-18)
 
 - Folds say what kind of thing is inside: an icon, a colored kind line with the count, the title, and the first entry fading out (traditions, studies, a closer look, people's lives, my own story; design 2 from the Josh and Ruth joint read)

@@ -94,7 +94,7 @@ def main():
     if push:
         run('git', 'push', 'origin', 'HEAD', '--follow-tags')
         if shutil.which('gh'):
-            pages = sorted(p for p in glob.glob(os.path.join(ROOT, 'essay', 'part-*-*.html')) + glob.glob(os.path.join(ROOT, 'essay', 'next.html')) if '.fragment.' not in p)
+            pages = sorted(p for p in glob.glob(os.path.join(ROOT, 'essay', 'part-*-*.html')) + glob.glob(os.path.join(ROOT, 'essay', 'contact.html')) if '.fragment.' not in p)
             run('gh', 'release', 'create', f'v{new}', *pages, '--title', f'v{new}', '--notes', msg)
 
 
