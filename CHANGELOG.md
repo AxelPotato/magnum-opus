@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.61.12 (2026-10-24)
+
+- Part three, Giving: shorter get over yourself line (option b)
+
+
 ## 4.61.11 (2026-10-24)
 
 - Part three, Giving: the whole journey as a joke, get over yourself
