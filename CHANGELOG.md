@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.61.2 (2026-10-24)
+
+- Part two, step 2: 'very little of it was ever really decided by us'
+
+
 ## 4.61.1 (2026-10-24)
 
 - Vivekachudamani line says 'come by the grace of God' (Madhavananda's wording); Kalpa Sutra locators §120 and §147 in Part two's Sources; both reading-pack entries checked
