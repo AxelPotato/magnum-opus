@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.17 (2026-10-25)
+
+- Part three fold 'My teacher and I' in four entries: Osho and the memoir merged, with a plain condemnation of the poisonings in Oregon; the course ladder, the Sochi details and the illness cut
+
+
 ## 4.63.16 (2026-10-25)
 
 - Part three note: the emotion test made clearer (decide nothing while the emotion is there, then look again with a clear head; what stays is taken seriously)
