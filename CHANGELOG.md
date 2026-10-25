@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.19 (2026-10-25)
+
+- Part two: NPC game paragraph cut (free will now 'free inside the rules'); first tradition fold in plain words, verse numbers left to Sources; no two folds side by side: Cloaks, Foreseen, post-mortem, Halves, Restless, Lives, Miracles and God folds moved next to the paragraphs they belong to
+
+
 ## 4.63.18 (2026-10-25)
 
 - Part three fold 'My teacher and I': Osho removed; the entry now starts from Alex's plateau and his wish for a real teacher, the memoir read a few months before COVID (unnamed in the text, still in Sources); reading pack updated
