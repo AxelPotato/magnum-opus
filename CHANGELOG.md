@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.6 (2026-10-25)
+
+- Part three fold 'My teacher and I': opens with what anyone can see (students, two written accounts of change), the warning line cut, a new entry on what Osho meant to Alex and how he sees what happened around him, 'a big fan' cut
+
+
 ## 4.63.5 (2026-10-25)
 
 - Part three note: 'live among' to 'spend your time among', plus the no-cursing guideline as an example (Alex 4.c)
