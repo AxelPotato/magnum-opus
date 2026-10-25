@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.10 (2026-10-25)
+
+- Part three note: disagreements told through Alex's emotion test instead of 'my wish to do things my way'
+
+
 ## 4.63.9 (2026-10-25)
 
 - Part three note: opening drops the Western individualism clause; Alex's own line instead (wanting to do what I want, against the school system in high school)
