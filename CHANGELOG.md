@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.8 (2026-10-25)
+
+- Part three fold 'My teacher and I': Osho entry drops the Wild Wild Country sentence and 'not sure how much of it was up to him'
+
+
 ## 4.63.7 (2026-10-25)
 
 - Part three: the fold 'My teacher and I' moves to the end of section 8, before the note; the note's pointer updated
