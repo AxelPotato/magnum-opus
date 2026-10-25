@@ -478,7 +478,7 @@ If someone pushes back:
 
 Kind: text. Status: checked (Jacobi, SBE 22: §120, p. 263, and §147, p. 269, confirmed by the citation check on 2026-10-24).
 
-In the essay (v4.61.0): Part two, step 5, 'Something carries over', third item of the fold 'In this very life': in the thirteenth year of his life as a wandering ascetic Mahavira reached kevala, complete knowledge, sitting under a sal tree near the river Rijupalika, and then taught for about thirty more years. Sources list (Part two, step 5): Kalpa Sutra, Life of Mahavira §120 and §147 (Jacobi's translation, SBE 22, pp. 263 and 269).
+In the essay (v4.63.20): Part two, step 5, 'Something carries over', eleventh item of the fold 'Lives, afterlives, and the one who goes through them': in the thirteenth year of his life as a wandering ascetic Mahavira reached kevala, complete knowledge, sitting under a sal tree near the river Rijupalika, and then taught for about thirty more years. Sources list (Part two, step 5): Kalpa Sutra, Life of Mahavira §120 and §147 (Jacobi's translation, SBE 22, pp. 263 and 269).
 
 The passage: In Jacobi's rendering the event is placed in the thirteenth year, outside the town of Jrimbhikagrama, on the bank of the Rijupalika, in the field of the householder Samaga, under a sal tree; the knowledge is described as infinite, supreme, unobstructed, unimpeded, complete and full. Mahavira then lived some thirty years as a Kevalin (§147, p. 269). The kevala passage is §120, p. 263.
 
