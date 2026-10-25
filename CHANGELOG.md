@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.11 (2026-10-25)
+
+- Part three note: checklist sentence cut; 'Do I feel better around these people' becomes 'Can I say I disagree and still be welcome'
+
+
 ## 4.63.10 (2026-10-25)
 
 - Part three note: disagreements told through Alex's emotion test instead of 'my wish to do things my way'
