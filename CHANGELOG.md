@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.9 (2026-10-25)
+
+- Part three note: opening drops the Western individualism clause; Alex's own line instead (wanting to do what I want, against the school system in high school)
+
+
 ## 4.63.8 (2026-10-25)
 
 - Part three fold 'My teacher and I': Osho entry drops the Wild Wild Country sentence and 'not sure how much of it was up to him'

@@ -172,7 +172,7 @@ A community has energy, and it can still be going in a circle. A teacher, someon
 
 ## A note on community and the teacher
 
-This essay is written for people living in the 21st century, and most of us grew up inside Western culture, with a very individualistic view of life and a strong sense that I should get to do what I want. So I know that of everything in this part, community and the teacher get the most criticism. I've met it with almost every person I've talked to about this. And still, in my experience, these two are the ones whose importance changes the most once a person sees what they give.
+Of everything in this part, community and the teacher get the most criticism. I've met it with almost every person I've talked to about this, and I understand it. I grew up with a strong sense that I should get to do what I want, and in high school I was very much against the whole school system. And still, in my experience, these two are the ones whose importance changes the most once a person sees what they give.
 
 Most of the fears about a community and a teacher come down to one: I won't be able to do what I want, because someone will keep telling me what to do. Part of that is true. When you spend your time among people whose lives are arranged around inner growth, some of what you feel like doing will change, because there are guidelines, and there is the discipline from earlier in this part. A simple one in our community is that we don't curse. When I get very angry I sometimes feel like it, and I know that we decided together not to.
 
