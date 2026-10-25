@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.13 (2026-10-25)
+
+- Part three fold 'My teacher and I': the fever dream and the student's book are cut; the click stays, compared to falling in love (Alex a2)
+
+
 ## 4.63.12 (2026-10-25)
 
 - Part three note: the checklist sentence comes back (Alex 7.c); the new question stays
