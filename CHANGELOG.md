@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.18 (2026-10-25)
+
+- Part three fold 'My teacher and I': Osho removed; the entry now starts from Alex's plateau and his wish for a real teacher, the memoir read a few months before COVID (unnamed in the text, still in Sources); reading pack updated
+
+
 ## 4.63.17 (2026-10-25)
 
 - Part three fold 'My teacher and I' in four entries: Osho and the memoir merged, with a plain condemnation of the poisonings in Oregon; the course ladder, the Sochi details and the illness cut
