@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.2 (2026-10-25)
+
+- Part three note: cut the 'whose fear that is' paragraph and the 'flinch' paragraph after it (Alex 1.a)
+
+
 ## 4.63.1 (2026-10-24)
 
 - Figures that stay in the text column (such as Five quiet kinds of DO and the Intro photo) were pushed to the right on wide screens by the sidebar layout; they are centred again
