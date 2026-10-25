@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.14 (2026-10-25)
+
+- Part three: shorter Osho entry in the fold (no 'activity around him', no blame on followers); the note's pointer to the fold cut
+
+
 ## 4.63.13 (2026-10-25)
 
 - Part three fold 'My teacher and I': the fever dream and the student's book are cut; the click stays, compared to falling in love (Alex a2)
