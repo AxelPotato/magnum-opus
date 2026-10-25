@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.5 (2026-10-25)
+
+- Part three note: 'live among' to 'spend your time among', plus the no-cursing guideline as an example (Alex 4.c)
+
+
 ## 4.63.4 (2026-10-25)
 
 - Part three note: 'to a skeptical Western reader' and 'more than my own' cut (Alex 3.b)
