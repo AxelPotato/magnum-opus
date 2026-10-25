@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.3 (2026-10-25)
+
+- Part three note: discomfort paragraph drops 'going against what the mind wants' and 'always find reasons', adds Alex's own test, emotion first (Alex 2.c)
+
+
 ## 4.63.2 (2026-10-25)
 
 - Part three note: cut the 'whose fear that is' paragraph and the 'flinch' paragraph after it (Alex 1.a)
