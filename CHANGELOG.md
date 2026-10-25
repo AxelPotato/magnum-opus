@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.12 (2026-10-25)
+
+- Part three note: the checklist sentence comes back (Alex 7.c); the new question stays
+
+
 ## 4.63.11 (2026-10-25)
 
 - Part three note: checklist sentence cut; 'Do I feel better around these people' becomes 'Can I say I disagree and still be welcome'
