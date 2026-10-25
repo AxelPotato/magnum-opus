@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.7 (2026-10-25)
+
+- Part three: the fold 'My teacher and I' moves to the end of section 8, before the note; the note's pointer updated
+
+
 ## 4.63.6 (2026-10-25)
 
 - Part three fold 'My teacher and I': opens with what anyone can see (students, two written accounts of change), the warning line cut, a new entry on what Osho meant to Alex and how he sees what happened around him, 'a big fan' cut
