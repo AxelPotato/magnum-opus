@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.16 (2026-10-25)
+
+- Part three note: the emotion test made clearer (decide nothing while the emotion is there, then look again with a clear head; what stays is taken seriously)
+
+
 ## 4.63.15 (2026-10-25)
 
 - Part three section 7: after the Giving School example, a line that there are many communities and the one to look for is the one that resonates with you
