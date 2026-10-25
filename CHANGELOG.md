@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.4 (2026-10-25)
+
+- Part three note: 'to a skeptical Western reader' and 'more than my own' cut (Alex 3.b)
+
+
 ## 4.63.3 (2026-10-25)
 
 - Part three note: discomfort paragraph drops 'going against what the mind wants' and 'always find reasons', adds Alex's own test, emotion first (Alex 2.c)

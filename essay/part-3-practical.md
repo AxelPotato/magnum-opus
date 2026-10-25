@@ -172,7 +172,7 @@ There will be moments, plenty of them, when what you think is very different fro
 
 What I can tell you is what happened to me. Once I sincerely knew that this was the person I wanted to learn from, the question was settled. There were still moments when I disagreed or saw things differently. Over time it became obvious to me that when I disagreed, it was usually my wish to do things my way, which oddly enough didn't help me see the bigger picture. Many times I disagreed and in the end it changed, because the emotional reaction of disagreeing had gone. Other times I saw something that could work better, said so, and people took it up. I once suggested to my teacher a few terms to stop using when he explains things, because they confused people. He thanked me, said it was probably a good idea, and stopped using them. Nothing clever there, it's common sense, and common sense works a little differently in this context.
 
-The hardest thing to convey to a skeptical Western reader is the inner decision that this is a person whose view of me I trust more than my own. How I came to that decision is a very personal story, and if you'd like to read it, it's in the fold at the end of this note.
+The hardest thing to convey is the inner decision that this is a person whose view of me I trust. How I came to that decision is a very personal story, and if you'd like to read it, it's in the fold at the end of this note.
 
 So how can you make sure? Only through your own experience, I'm afraid, and that part I can't do for you. It comes down to the people you meet and how they affect you. And you don't have to have a teacher at all. You can think it through for yourself.
 
