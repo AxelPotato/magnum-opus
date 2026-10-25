@@ -152,14 +152,14 @@ Picture the run in two halves. In the first half separation is new, and it is th
 
 Somewhere there is a bottom point, the most separate a point of view gets, and past it the signal flips. The same moves stop paying. A step toward unity starts to feel good in a way that lasts, and standing still, or taking more for yourself, starts to feel empty. Nobody announces it. It shows up as a flatness that no new result can touch, and a quiet question of whether this is all there is. I call it the turn, and it is the moment the third clause starts working on a particular person.
 
-The turn doesn't belong to one room of Part one's chart. Any room can hit that bottom point. In Driven it usually looks like the crash after reaching the goal. In Drifting it looks like the plateau, years of calm and then the sudden sense that the whole thing is a waste of time. In Default it can come with no drama at all, as an emptiness in a perfectly ordinary life. For me it was the weekends I mentioned in Part one, when every free hour felt empty and none of my results could reach it. Some people go through the turn after a successful run, in this life. Others seem to be born after it. They never quite fit a society that still runs on separation, and they start searching young, which from the outside can look a lot like being a difficult teenager.
-
 #### Restless until it rests
 
 * The Buddha tells his own version in the Anguttara Nikaya (3.39). He describes a delicate life in his father's house, with lotus ponds made just for him, a house for each of the three seasons and musicians for the four months of the rains. Amid all of it he reflected that he too would grow old, get sick and die, and the vanity of youth, of health and of life fell away from him. Later biographies tell the same moment as the four sights: an old man, a sick man, a corpse and a wandering monk.
 * The Teacher of Ecclesiastes made himself great works, built houses, planted vineyards, gathered silver and gold and kept nothing from his eyes that they wanted. Then he looked at everything his hands had done, and all was vanity and a striving after wind (2:4 to 11).
 * Augustine opens his Confessions by telling God that he made us for himself, and that our heart is restless until it rests in him (1.1).
 * Rumi opens his Masnavi with a reed flute that cries because it was parted from the reed bed, and says that everyone who is left far from their source wishes back the time when they were united with it (Book I, 1 to 4).
+
+The turn doesn't belong to one room of Part one's chart. Any room can hit that bottom point. In Driven it usually looks like the crash after reaching the goal. In Drifting it looks like the plateau, years of calm and then the sudden sense that the whole thing is a waste of time. In Default it can come with no drama at all, as an emptiness in a perfectly ordinary life. For me it was the weekends I mentioned in Part one, when every free hour felt empty and none of my results could reach it. Some people go through the turn after a successful run, in this life. Others seem to be born after it. They never quite fit a society that still runs on separation, and they start searching young, which from the outside can look a lot like being a difficult teenager.
 
 The switch is strange and hard, because everything in you was trained to move the other way. The old moves still look right, and they stop feeling right. That is why a driven person at this point often doubles down first, since more of the same is the only direction they know. It is like pressing the elevator button harder. Everybody knows it doesn't help, and still we all do it.
 
@@ -185,6 +185,8 @@ Under the axiom the same has to hold on the largest scale. The whole goes into s
 
 That something can't be the body, which stays behind, and it can't be one more separate thing, since there is nothing separate at the bottom. It is the part of you that was never really separate: the whole, at one position, going through the separation and keeping the record. Buddhism holds that there is no fixed soul and still says that something continues, and an old Buddhist dialogue has the image I like most for it: a lamp lit from another lamp, where nothing passes across and the second one still burns. In the machine it is the saved state. The program shuts down, the window closes, and most of the session is gone, while what was worth keeping is written to disk. The photos, the passwords and the browser history stay behind, which honestly is a relief. In the game picture from step 4 it is the level you have reached, which is how two people can walk into the same kind of life at very different levels.
 
+How it carries on is where the traditions part, and the axiom doesn't need to settle it. In one family of answers it goes on after death in another form: the Catholic Church teaches purgatory, a purification after death, and the Quran puts a barrier, the barzakh, between death and the day of resurrection. In the other it comes back into this world, life after life, which Hindu texts call samsara, until it no longer needs to. Either way, what this life gathered is kept and taken further. That leaves the pace open. One life can move a little or a long way, and several traditions hold that the whole road can be walked within a single life.
+
 #### Lives, afterlives, and the one who goes through them
 
 * In the Bhagavad Gita, the Hindu scripture in which the god Krishna advises the warrior Arjuna, he says that the yogi who keeps striving is perfected through many births and then reaches the highest goal (6.45), and he compares the self to a person putting on new clothes and discarding worn ones (2.22). The Buddha says that samsara, the cycle of birth, death and rebirth, has no discoverable beginning and that it is not easy to find a being who has not at some time been your mother (Samyutta Nikaya 15, in one of the oldest collections of his talks).
@@ -195,11 +197,6 @@ That something can't be the body, which stays behind, and it can't be one more s
 * In the Myth of Er that closes Plato's Republic, souls choose their next lives and then drink from the river of forgetfulness before they are born, which is one old answer to why you don't remember the last one, and the best explanation I've heard for Monday mornings.
 * On the question of who carries over, if there is only one mind, Advaita points the other way. Individuality belongs to the level of appearance, and the witness underneath is the same in everyone. In the Brihadaranyaka Upanishad the Self is the witness in every being, and there is no other witness but him (3.7.23).
 * The lamp comes from the Milindapanha, a dialogue between King Milinda and the monk Nagasena, where the one who is reborn is neither the same nor another, like a lamp that burns all night without being the same flame from one hour to the next.
-
-How it carries on is where the traditions part, and the axiom doesn't need to settle it. In one family of answers it goes on after death in another form: the Catholic Church teaches purgatory, a purification after death, and the Quran puts a barrier, the barzakh, between death and the day of resurrection. In the other it comes back into this world, life after life, which Hindu texts call samsara, until it no longer needs to. Either way, what this life gathered is kept and taken further. That leaves the pace open. One life can move a little or a long way, and several traditions hold that the whole road can be walked within a single life.
-
-#### In this very life
-
 * The Satipatthana Sutta ends with the Buddha saying that anyone who develops the four kinds of mindfulness for seven years can expect one of two results, enlightenment in this very life or, if something is left over, non-return. Then he shortens the time step by step, down to seven days (Majjhima Nikaya 10).
 * In the Bhagavad Gita Krishna says that the world is overcome even here by those whose minds are settled in sameness, and that whoever learns, while still in the body, to master desire and anger is a yogi and is happy (5.19 and 5.23). The Hindu tradition calls a person freed while still alive a jivanmukta.
 * The Jain Kalpa Sutra tells how Mahavira, in the thirteenth year of his life as a wandering ascetic, reached kevala, complete knowledge, sitting under a sal tree near the river Rijupalika, and then taught for about thirty more years.
@@ -250,16 +247,6 @@ Everybody talks about energy, and hardly anybody says what they mean by it, so h
 
 The separate self treats it like a tank. I have this much, I spend it, I run out, and I guard what is left. That's what you'd expect from a point of view with lowered settings, in a world built to say that you are in here and the rest is out there. And holding the wall costs, so a good part of the tank goes on guarding the tank.
 
-#### Miracles, and the warning against them
-
-* Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge. Under the axiom a miracle would be one of the settings from step 2 turned up a little, by someone who knows where the settings are. My grandma already thinks I'm a black magician every time I fix the computer, so I'm halfway there.
-* Nearly every tradition that describes such powers also warns against chasing them. Patanjali lists them in the Yoga Sutras and then says that, however much they look like achievements to a mind still facing outward, they are obstacles to samadhi, the deepest absorption (3.37).
-* The Buddha said that displays of psychic power horrified him, and that the miracle he valued was instruction (Digha Nikaya 11).
-* Jesus refused to give a sign on demand (Matthew 12:38-39).
-* Teresa of Avila, who was seen lifted off the ground, begged God to stop giving her favors that other people could see (The Life, chapter 20).
-
-  Chasing them is the separate self wanting more for itself, which is the tank from this step again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
-
 Under the axiom it can't really work that way, because there is nothing outside the whole to take energy from and nowhere for it to leak to. A part that starts remembering the whole works more like a mill on a river. The mill doesn't drink the river. The water turns the wheel, does real work and flows on to the next mill downstream, and the mill's job is to let it through. A mill that clamps its wheel tight gets less flow. So the extra energy comes from two places, and neither one takes from anybody. Some of it is what you stop spending on the wall. The rest is access: from the point of view of one person, the river is the size of the whole, far more than any part could hold.
 
 #### God, asking, and grace
@@ -280,6 +267,18 @@ Letting go is how the wheel opens, which is why so many traditions describe the 
 * Christians have kenosis, Greek for emptying, their name for the emptying Paul writes about in his letter to the Philippians (2:5-8). There he says that Jesus, though he was in the form of God, did not treat equality with God as something to hold on to, and emptied himself, taking the form of a servant. Paul offers this as the attitude his readers should share. The medieval German preacher Meister Eckhart's word for letting go was gelazenheit.
 * In the Buddha's instructions on breathing, one step is to breathe in and out contemplating relinquishment (Majjhima Nikaya 118).
 * Mencius, the Chinese philosopher Wang Yangming took the child at the well from, told a student that he himself was good at nourishing his vast, flowing qi, the Chinese word for the life force. It is exceedingly great and strong, he said, and when it is nourished by rightness and left unharmed, it fills everything between heaven and earth. It grows out of a long run of right deeds, and when the heart is not at ease with what you do, it starves (Mencius 2A:2).
+
+Once more starts coming through, the temptation is to do something impressive with it.
+
+#### Miracles, and the warning against them
+
+* Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge. Under the axiom a miracle would be one of the settings from step 2 turned up a little, by someone who knows where the settings are. My grandma already thinks I'm a black magician every time I fix the computer, so I'm halfway there.
+* Nearly every tradition that describes such powers also warns against chasing them. Patanjali lists them in the Yoga Sutras and then says that, however much they look like achievements to a mind still facing outward, they are obstacles to samadhi, the deepest absorption (3.37).
+* The Buddha said that displays of psychic power horrified him, and that the miracle he valued was instruction (Digha Nikaya 11).
+* Jesus refused to give a sign on demand (Matthew 12:38-39).
+* Teresa of Avila, who was seen lifted off the ground, begged God to stop giving her favors that other people could see (The Life, chapter 20).
+
+  Chasing them is the separate self wanting more for itself, which is the tank from this step again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
 
 ## Why the paths differ
 

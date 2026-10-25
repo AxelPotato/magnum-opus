@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.20 (2026-10-25)
+
+- Part two fold layout: step 7 Miracles fold back at the end after a new line ('Once more starts coming through...'); step 5 'In this very life' merged into the lives fold after the purgatory paragraph; step 4 'Restless until it rests' moved up after the bottom-point paragraph
+
+
 ## 4.63.19 (2026-10-25)
 
 - Part two: NPC game paragraph cut (free will now 'free inside the rules'); first tradition fold in plain words, verse numbers left to Sources; no two folds side by side: Cloaks, Foreseen, post-mortem, Halves, Restless, Lives, Miracles and God folds moved next to the paragraphs they belong to
