@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.15 (2026-10-25)
+
+- Part three section 7: after the Giving School example, a line that there are many communities and the one to look for is the one that resonates with you
+
+
 ## 4.63.14 (2026-10-25)
 
 - Part three: shorter Osho entry in the fold (no 'activity around him', no blame on followers); the note's pointer to the fold cut
