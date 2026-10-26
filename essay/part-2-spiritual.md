@@ -282,18 +282,11 @@ Once more starts coming through, people around you notice. Things work out more 
 
 ## Why the paths differ
 
-If one structure sits behind all this, a fair question follows. Why do the religions look so different from one another, and why do they keep changing?
+The Buddha told of a king who had men born blind each touch one part of an elephant (Udana 6.4). The one at the ear said an elephant is just like a winnowing basket, the one at the tusk said a plowshare, the one holding the tuft of the tail said a broom, and they ended up hitting each other with their fists. He told it against one-sided views, and I borrow the picture: each of them is holding a real part of something larger.
 
-The axiom answers both. The whole goes into separation through countless points of view, and, as step 5 says, the point of going is that each one comes back with something no other could have brought. No two points of view are alike, so no two people meet the wall in the same way. What holds it up, and what loosens it, depends on temperament, on culture, on the century, and on what the person has already learned. A path is a way back, drawn for particular people at a particular time. One drawn for herders crossing a desert will sound different from one drawn for monks on a mountain or merchants on a trade road, and it still describes the same thing: a whole that lost track of itself, and a way home. The core stays because it comes from the structure. The forms change because the people do.
+That is why the religions look so different. The whole goes into separation through countless points of view, no two of them meet the wall in the same way, and so a path is a way back drawn for particular people at a particular time. The core stays because it comes from the structure. The forms change because the people do.
 
-That holds for our own time too. A form made for a village that shared one story and one calendar fits poorly in a city of strangers, where the day is cut into pieces by a phone, a job and an inbox. People are more educated and more skeptical than they used to be, they have less spare time, and they are used to checking things for themselves.
-
-#### Many names for one thing
-
-* A hymn of the Rigveda, among the oldest religious texts we have, says that to what is One, sages give many a title (1.164.46).
-* In the Bhagavad Gita Krishna says that whenever dharma declines he takes birth again, age after age (4.7 to 8). The Hindu tradition reads this as the divine returning to every age, and I take it as a teaching that returns for each one.
-* The Quran says that God gave each community its own law and way, and had God willed would have made them one community, and it tells them to race toward what is good (5:48). The verse also presents the Quran as the measure of the earlier books, so it speaks of many ways under one God without saying every way is equal.
-* In the Buddhist Udana (6.4), a king has men born blind each touch a different part of an elephant, and each describes a different animal. The Buddha aims the story at rival sects, as a warning against one-sided views, and I borrow the picture: each one holds a real part of something larger.
+You can see it in something as ordinary as a guest at the door. Abraham runs out of his tent to feed three strangers, and the story says it was God who came to him (Genesis 18). An Upanishad tells the student to treat the guest as a god (Taittiriya 1.11.2). The Prophet said that whoever believes in God and the Last Day should honor his guest (Sahih al-Bukhari 6018). Jesus says that whoever welcomed a stranger welcomed him (Matthew 25:35 to 40), and a Sikh temple kitchen, the langar, feeds anyone who walks in. A tent, a house and a temple kitchen look nothing alike, and the instruction is the same: open the door. Under the axiom that is no surprise, since whoever is at the door is another part of the same whole.
 
 ## Why I want this
 
@@ -391,7 +384,7 @@ The axiom and the machine
 
 Why the paths differ
 
-- Rigveda 1.164.46 (Griffith's translation, 1896). Bhagavad Gita 4.7 and 4.8. Quran 5:48. Udana 6.4, the Tittha Sutta.
+- Udana 6.4, the Tittha Sutta (Thanissaro's translation, dhammatalks.org). Genesis 18:1-8. Taittiriya Upanishad 1.11.2. Sahih al-Bukhari 6018. Matthew 25:35-40. The langar, the free kitchen of the Sikh gurdwara.
 
 What you can check
 

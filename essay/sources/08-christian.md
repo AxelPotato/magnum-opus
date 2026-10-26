@@ -911,3 +911,23 @@ Background: The fourth kind, the Gyrovagues, wander from monastery to monastery.
 
 If someone pushes back:
 - 'Benedict praises hermits.' He does, after the monastery has trained them, which is the point the essay uses.
+
+## Matthew 25:35-40 (I was a stranger and you welcomed me) (Matthew is usually dated to about 80 to 90 CE)
+
+Kind: text. Status: checked.
+
+Who: The parable of the sheep and the goats, the last of Jesus's teachings before the Passion in Matthew.
+
+In the essay: Part two, 'Why the paths differ' (since 5.0.3): 'Jesus says that whoever welcomed a stranger welcomed him (Matthew 25:35 to 40).'
+
+Where it sits: 25:35 'I was a stranger and you welcomed me'; 25:40 'just as you did it to one of the least of these brothers and sisters of mine, you did it to me' (NRSVUE, read on Bible Gateway on 2026-10-26).
+
+Read it free:
+- Matthew 25 on Bible Gateway: https://www.biblegateway.com/passage/?search=Matthew+25%3A31-46&version=NRSVUE (read on 2026-10-26)
+
+Read it in a book: any study Bible; for the debate, Ulrich Luz's Hermeneia commentary on Matthew.
+
+Background: scholars debate who 'the least of these' are: everyone in need (the common modern reading) or Jesus's disciples and missionaries (a reading many commentators hold for Matthew's own setting). The essay's use, welcoming a stranger, is in the text either way.
+
+If someone pushes back:
+- 'The least of these means Christians.' That is one scholarly reading. The verse still says that welcoming the stranger was welcoming him.

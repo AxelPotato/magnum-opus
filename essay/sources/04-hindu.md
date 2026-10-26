@@ -260,7 +260,7 @@ Kind: text. Status: checked.
 
 Who: The Rigveda is the oldest Sanskrit text, a collection of 1,028 hymns in ten books. Hymn 1.164 is attributed to the poet Dirghatamas and is known as the riddle hymn. It is addressed to the Vishvedevas, 'all the gods'.
 
-In the essay: Part two, 'The same things in different words': 'A verse in the Rigveda (1.164.46) says that what is real is one and that the poets give it many names, Indra, Mitra, Varuna, Agni.' The essay then says the verse is a riddle about gods and that it is borrowing the picture.
+In the essay: Part two, 'The same things in different words': 'A verse in the Rigveda (1.164.46) says that what is real is one and that the poets give it many names, Indra, Mitra, Varuna, Agni.' The essay then says the verse is a riddle about gods and that it is borrowing the picture. Its later use, in the fold 'Many names for one thing' under 'Why the paths differ', was cut in 5.0.3 (2026-10-26); check whether any other place still cites it before treating it as current.
 
 Where it sits: Rigveda 1.164.46 (book 1, hymn 164, verse 46). The line is ekam sad vipra bahudha vadanti.
 
@@ -395,7 +395,7 @@ Kind: text. Status: unchecked beyond the standard verse numbers; from memory and
 
 Who: The Bhagavad Gita, as in the Gita 2.13 and 2.22 entry above. In chapter 4 Krishna tells Arjuna about the teaching he gave long ago and says why he comes again.
 
-In the essay: Part two, 'Why the paths differ': 'Krishna says that whenever dharma declines he takes birth again, age after age (4.7 to 8). The Hindu tradition reads this as the divine returning to every age, and I take it as a teaching that returns for each one.' Sources list: Bhagavad Gita 4.7 and 4.8.
+In the essay: Part two, 'Why the paths differ': 'Krishna says that whenever dharma declines he takes birth again, age after age (4.7 to 8). The Hindu tradition reads this as the divine returning to every age, and I take it as a teaching that returns for each one.' Sources list: Bhagavad Gita 4.7 and 4.8. Since 5.0.3 (2026-10-26) 'Why the paths differ' no longer cites it: private context for discussion.
 
 Where it sits: Gita 4.7 (whenever dharma declines and its opposite rises, I send myself forth) and 4.8 (to protect the good, destroy the wrongdoers and establish dharma, I come into being age after age, yuge yuge).
 
@@ -557,3 +557,24 @@ Background: Jivanmukti, liberation while living, is a central Advaita idea (Shan
 
 If someone pushes back:
 - 'Sameness is not oneness.' The essay says sameness; Arnold says Unity.
+
+## Taittiriya Upanishad 1.11.2 (treat the guest as a god) (the Taittiriya is one of the older prose Upanishads, usually placed before or around the Buddha, with wide uncertainty)
+
+Kind: text. Status: partly checked.
+
+Who: The Taittiriya Upanishad belongs to the Black Yajurveda. Its first section, the Shiksha Valli, ends with the teacher's charge to the student leaving his school (1.11), the passage often called the convocation address.
+
+In the essay: Part two, 'Why the paths differ' (since 5.0.3): 'An Upanishad tells the student to treat the guest as a god (Taittiriya 1.11.2).' One of five examples of the guest at the door.
+
+Where it sits: Taittiriya Upanishad 1.11.2. The line is atithidevo bhava, in a list that also names mother, father and teacher (some versions add others).
+
+Read it free:
+- Wikipedia, 'Atithi Devo Bhava' (the line, its place in Shiksha Valli 1.11.2, the grammar of the compound): https://en.wikipedia.org/wiki/Atithi_Devo_Bhava (seen in a search result, 2026-10-26)
+- Wikipedia, 'Taittiriya Upanishad': https://en.wikipedia.org/wiki/Taittiriya_Upanishad (seen in a search result)
+
+Read it in a book: Patrick Olivelle, The Early Upanishads: Annotated Text and Translation (Oxford University Press, 1998).
+
+Background: the popular slogan 'Atithi Devo Bhava' is used by India's tourism ministry. Deva comes from a root meaning to shine, and some readers take it as 'one worthy of honor' rather than a literal claim that the guest is divine. The essay's wording, 'treat the guest as a god', is the usual rendering.
+
+If someone pushes back:
+- 'It doesn't say the guest is God.' It says to treat the guest as one, in a list with mother, father and teacher. The essay says exactly that.

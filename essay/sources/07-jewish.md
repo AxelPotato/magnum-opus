@@ -770,3 +770,24 @@ Background: Commentators note the two verbs: a teacher you 'make' or appoint, a 
 
 If someone pushes back:
 - 'This is about Torah study, not meditation.' It is; the essay cites it as an old statement that the road needs a teacher and a companion.
+
+## Genesis 18:1-8 (Abraham and the three strangers at Mamre) (the Torah's final form is usually dated to the Persian period, with older material)
+
+Kind: text. Status: checked.
+
+Who: The story of Abraham's hospitality at the oaks of Mamre, the founding text of hachnasat orchim, welcoming guests, in Jewish tradition.
+
+In the essay: Part two, 'Why the paths differ' (since 5.0.3): 'Abraham runs out of his tent to feed three strangers, and the story says it was God who came to him (Genesis 18).'
+
+Where it sits: Genesis 18:1 'The Lord appeared to Abraham by the oaks of Mamre'; 18:2 he sees three men and runs from the tent entrance to meet them; 18:4-5 water for their feet and bread; 18:6-8 the meal. Read on Bible Gateway (NRSVUE) on 2026-10-26.
+
+Read it free:
+- Genesis 18 on Bible Gateway: https://www.biblegateway.com/passage/?search=Genesis+18&version=NRSVUE (read on 2026-10-26)
+- Genesis 18 on Sefaria, with the rabbinic commentaries: https://www.sefaria.org/Genesis.18 (not checked)
+
+Read it in a book: Robert Alter, The Hebrew Bible (Norton, 2018).
+
+Background: Jewish and Christian readers differ on who the three are: the Lord and two angels (the plain sequel in 18:22 and 19:1), three angels (much of the rabbinic reading), or, for many Christian readers, a figure of the Trinity (Rublev's icon). The Talmud (Shabbat 127a) draws from it that welcoming guests is greater than receiving the Divine Presence. Hebrews 13:2 alludes to it: some have entertained angels without knowing it.
+
+If someone pushes back:
+- 'The three were angels, not God.' Verse 1 says the Lord appeared to him, and the reading differs by tradition. The essay says only what the story says.

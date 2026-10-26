@@ -620,7 +620,7 @@ Kind: text. Status: partly checked (the wording of the Clear Quran translation w
 
 Who: Verse 48 of Surat al-Ma'ida (the Table Spread), in the passage on the Torah, the Gospel and the Quran. It says God gave each community a code of law and a way of life, and had God willed He would have made them one community.
 
-In the essay: Part two, 'Why the paths differ': 'The Quran says that God gave each community its own law and way, and had God willed would have made them one community, and it tells them to race toward what is good (5:48).' Sources list: Quran 5:48. The essay paraphrases and does not quote, and adds that the verse presents the Quran as the measure of the earlier books.
+In the essay: Part two, 'Why the paths differ': 'The Quran says that God gave each community its own law and way, and had God willed would have made them one community, and it tells them to race toward what is good (5:48).' Sources list: Quran 5:48. The essay paraphrases and does not quote, and adds that the verse presents the Quran as the measure of the earlier books. Since 5.0.3 (2026-10-26) 'Why the paths differ' no longer cites it: private context for discussion.
 
 Where it sits: Quran 5:48.
 
@@ -790,3 +790,20 @@ If someone pushes back:
 - 'It is only a hadith, not the Quran.' True, and the essay says what it is. Sunni Muslims accept the Bukhari collection as sound; the Quran itself praises those who 'control their anger' (3:134, as I remember; not opened).
 - 'Isn't there a saying that the struggle against yourself is the greater jihad?' Yes, it circulates widely. It is not in the Bukhari or Muslim collections, and as I remember hadith scholars generally do not accept it as authentic (not checked), which is why the essay uses 6114.
 - 'It only talks about anger.' The hadith names anger as the test of self-control. The essay quotes it as it stands.
+
+## Sahih al-Bukhari 6018 (whoever believes in God and the Last Day should honor his guest) (al-Bukhari died in 870 CE)
+
+Kind: text. Status: partly checked.
+
+Who: A hadith narrated by Abu Hurayra in al-Bukhari's Sahih, in the Book of Good Manners (Kitab al-Adab).
+
+In the essay: Part two, 'Why the paths differ' (since 5.0.3): 'The Prophet said that whoever believes in God and the Last Day should honor his guest (Sahih al-Bukhari 6018).'
+
+Where it sits: Sahih al-Bukhari 6018 (sunnah.com numbering). The hadith has three clauses: do not harm your neighbor, honor your guest, speak good or keep silent. The guest clause is the middle one. Hadith 6019 (Abu Shurayh) adds a day and a night of special hospitality and three days in all.
+
+Read it free:
+- sunnah.com, Bukhari 6018: https://sunnah.com/bukhari:6018 (seen in a search result, 2026-10-26; the page refused a direct fetch)
+
+Read it in a book: The Translation of the Meanings of Sahih al-Bukhari, trans. Muhammad Muhsin Khan (Darussalam).
+
+Background: the same three-clause saying is in Muslim's Sahih too (book of faith). Hadith scholars accept it as sound, so the essay needs no note on its status.
