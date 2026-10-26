@@ -20,6 +20,7 @@ from PIL import Image
 import figs2 as F
 import figs3 as F3
 import figs4 as F4
+import figs5 as F5
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 IMG = os.path.join(HERE, 'img')
@@ -44,7 +45,7 @@ def uri(key, size=240):
     p = find_img(key)
     im = Image.open(p)
     has_alpha = im.mode == 'RGBA' and im.getextrema()[3][0] < 250
-    if key in ('scooby', 'teacher'):  # keep the picture's own proportions
+    if key in ('scooby', 'teacher', 'garden', 'stillness'):  # keep the picture's own proportions
         im = im.convert('RGB')
     else:
         im = im.resize((size, size), Image.LANCZOS)
@@ -335,6 +336,41 @@ def rules2():
         'The body holds the limits in place.': dict(after=figure(F4.fig_wall(), 'The wall, as it shows in the body. Hold less of it and you sit higher on BE.')),
         'How it carries on is where the traditions part': dict(after=figure(F4.fig_lives(), 'What a life gathers is kept and carried on, whichever form the traditions give it.')),
         'If we are one, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
+        'My answer is that it takes doing less.': dict(after=figure(F5.fig_settings(), 'Four settings for one point of view. Nothing is taken away, it is only turned down.')),
+        'Your own body does it too.': dict(after=figure(F5.fig_cell(), 'Every cell carries the whole plan and uses a small part of it. The rest is switched off and kept.')),
+        'That gives suffering a job.': dict(after=figure(F5.fig_warning(), 'Suffering as the warning light on the dashboard. The tape is also an option.')),
+        "That's also why love is strongest": dict(after=figure(F5.fig_needlove(), 'Need says, I need you so that I feel whole. Love says, you are part of what I am.')),
+        'Somewhere there is a bottom point': dict(after=figure(F5.fig_turn(), 'Two halves of one game. Past the bottom point the same moves stop paying, and a step toward unity starts to.')),
+        "That something can't be the body": dict(after=figure(F5.fig_lamps(), 'A lamp lit from another lamp.')),
+        'Spend two hours with someone': dict(after=figure(F5.fig_hours(), 'The same two hours, on guard and with an old friend.')),
+        "Under the axiom it can't really work that way": dict(after=figure(F5.fig_mill(), 'A tank, and a mill on a river. The mill does not drink the river. Its job is to let the water through.')),
+        'The axiom answers both.': dict(after=figure(F5.fig_paths(), 'A path is drawn for particular people at a particular time, and the paths meet at the same place.')),
+        'Until then, one question': dict(after=figure(F5.fig_border(), 'Where, right now, does the border of you sit?')),
+    }
+
+
+def photo(key, alt, caption):
+    return figure(f'<img class="pic" src="{uri(key)}" width="800" height="800" loading="lazy" alt="{alt}">', caption, 'photo')
+
+
+def rules3():
+    return {
+        'The order goes from what only you': dict(after=figure(F5.fig_eight(), 'Eight conditions, in the order of this part.')),
+        'Think of a time you really decided': dict(after=figure(F5.fig_yes(), 'Before the yes, every day is a small debate. After it, the days line up.')),
+        'Anything that moves needs two things': dict(after=figure(F5.fig_cars(), 'The wish is the fuel, and a goal is the steering.')),
+        'Behind each goal sits a reason': dict(after=figure(F5.fig_goalreason(), 'The goal can be small as long as the reason is bigger than you.')),
+        'Keep it light, and keep it yours': dict(after=figure(F5.fig_streak(), 'A frame you can keep. When a day slips, pick it up the next day.')),
+        'The second job is letting go': dict(after=figure(F5.fig_clamps(), 'Attention held on a clamp like a flashlight on one spot, with no pushing.')),
+        "Part two said the belief that I'm separate": dict(after=figure(F5.fig_jobs(), 'The three jobs of attention.')),
+        "Underneath all three there's a plain skill": dict(after=figure(F5.fig_apart(), 'What usually arrives glued together starts to come apart.')),
+        'Prayer is the same attention': dict(after=figure(F5.fig_ditch(), "Prayers alone don't bring rain, and someone has to dig the ditches for it.")),
+        'It starts with the people closest to you.': dict(after=figure(F5.fig_circles(), 'It starts with the people closest to you, and the circle widens from there.')),
+        'Then we had an enormous fight.': dict(after=figure(F5.fig_lever(), 'The lever was so rusty it barely moved. After about ten minutes it moved.')),
+        'When someone harms you, you react': dict(after=figure(F5.fig_samestep(), 'The same step away can be a clear choice or a flinch.')),
+        'This condition matters more now': dict(after=figure(F5.fig_weekend(), 'A strong weekend, on your own and with people you see every week. An illustration, not data.')),
+        'There will be moments, plenty of them': dict(after=figure(F5.fig_emotion(), 'Decide nothing while the emotion is there. Look again with a clear head, and take seriously what is still there.')),
+        'Giving here means putting effort': dict(after=photo('garden', 'The author watering a lawn with a garden hose', 'Cyber security by day. At the center, junior hose operator.')),
+        'Stillness is the simplest form of this': dict(after=photo('stillness', 'The author sitting cross-legged with eyes closed, with his team meditating around him', 'Most days I sit like this two or three times. The beard is not part of the method.')),
     }
 
 
@@ -755,7 +791,7 @@ PART1_FOOT = ('Character and portrait images are used as illustration in a perso
 PART2_FOOT = 'A draft. The pictures in this part are drawn for it.'
 
 PART0_FOOT = 'A draft.'
-PART3_FOOT = 'A draft.'
+PART3_FOOT = 'A draft. The drawings in this part are drawn for it, and the two photos are of me.'
 NEXT_FOOT = 'A draft.'
 
 # The part's contents list: a left sidebar on wide screens, a hamburger drawer on narrow ones.
@@ -807,8 +843,8 @@ TOC_JS = r"""
 PARTS = {
     0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: rules0(), cast=False, css_extra=PART0_CSS, foot=PART0_FOOT),
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=True, css_extra='', foot=PART1_FOOT),
-    2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA, foot=PART2_FOOT),
-    3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=lambda: {}, cast=False, css_extra='', foot=PART3_FOOT),
+    2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA, foot=PART2_FOOT),
+    3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=rules3, cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + PART0_CSS, foot=PART3_FOOT),
     4: dict(md='contact.md', out='contact.html', title='Stay in contact', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
     # kept for reference, not part of the default build: python build_html.py --part 2a
     '2a': dict(md='backup/part-2-variant-a-psychological.md', out='backup/part-2-variant-a-psychological.html', title='Part Two, backup: Spiritual', rules=lambda: rules2a(),

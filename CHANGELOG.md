@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.65.0 (2026-10-26)
+
+- Pictures for Parts two and three: ten new drawings in Part two and fourteen in Part three, drawn in Part one's hand, plus two photos of Alex in Part three (garden duty in Giving, stillness after the stillness instruction)
+
+
 ## 4.64.1 (2026-10-26)
 
 - Part three: the stillness instruction adds 'feel the life in your body' (Alex)
