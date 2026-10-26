@@ -425,7 +425,7 @@ Kind: text. Status: partly checked (title, author, publisher and year confirmed 
 
 Who: A Nepali disciple of Osho. The book is a memoir of his years as Osho's student, the first of two autobiographical volumes (Lone Seeker, Many Masters came in 2015, Mystics and Miracles in 2023). It was written in Nepali and has been translated into English, Hindi, Chinese and Russian.
 
-In the essay: Part three, fold 'My teacher and I' (in section 5, 'The teacher and the method', until v4.61.0; since then right after 'A note on community and the teacher'): 'During COVID I stumbled on In Wonder with Osho, Swami Anand Arun's memoir of life as a student of Osho... Reading it, I realized that this was what I was looking for.' It describes the author's own road, and nothing is quoted from it. Sources list (Part three): Swami Anand Arun, In Wonder with Osho (Osho Tapoban, 2017).
+In the essay: Part three, fold 'My teacher and I' (in section 5, 'The teacher and the method', until v4.61.0; after 'A note on community and the teacher' until 4.63.6; since 4.63.7 at the end of section 8, before the note): 'A few months before COVID I read a memoir by a student about life with his teacher, and it put words to something I wanted before I even understood that I wanted it.' Since 4.63.18 the essay names neither the book nor Osho in the text, only in the Sources list. It describes the author's own road, and nothing is quoted from it. Sources list (Part three): Swami Anand Arun, In Wonder with Osho (Osho Tapoban, 2017).
 
 Find it:
 - Osho News on the book: https://www.oshonews.com/?p=86314

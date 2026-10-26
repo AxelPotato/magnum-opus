@@ -81,7 +81,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Alan Watts, "The Dream of Life", the dreamer who hides the dream from himself [talk, partly checked]
 - Mencius (Mengzi) 2A:2, the vast, flowing qi [text, checked]
 - Konkordia Antarova, Two Lives: no miracles, only levels of knowledge [text, checked]
-- Swami Anand Arun, In Wonder with Osho (Part three, fold 'My teacher and I', after the note on community and the teacher) [text, partly checked]
+- Swami Anand Arun, In Wonder with Osho (Part three, fold 'My teacher and I', end of section 8) [text, partly checked]
 - Friedrich Nietzsche, the Übermensch [concept, unchecked]
 - Pico della Mirandola, Oration on the Dignity of Man: no fixed seat [text, checked]
 - Plato, Symposium: Aristophanes' halves and Diotima's ladder [text, partly checked]
@@ -109,7 +109,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Katha Upanishad 1.2.18 (Nachiketa and Death) and Bhagavad Gita 2.20 [text, partly checked]
 - Katha Upanishad 1.3.14 ('Arise, awake': the path is as hard as a razor's edge) [text, checked]
 - Vivekachudamani, verse 3 (three rare things; Part three, 'Friends on the path') [text, checked]
-- Bhagavad Gita 5.19 and 5.23 (Part two, step 5, 'In this very life') [text, checked]
+- Bhagavad Gita 5.19 and 5.23 (Part two, step 5, fold 'Lives, afterlives, and the one who goes through them') [text, checked]
 
 ### Buddhist sources (`05-buddhist.md`)
 
@@ -138,7 +138,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Samyutta Nikaya 45.2, the Upaddha Sutta (good friends are the whole of the holy life) [text, checked]
 - Dhammapada 103 to 105 (the supreme conqueror is the one who conquers himself) [text, checked]
 - Khuddakapatha 1, the Three Refuges (Part three, 'Friends on the path') [text, checked]
-- Majjhima Nikaya 10, seven years down to seven days (Part two, step 5, 'In this very life') [text, checked]
+- Majjhima Nikaya 10, seven years down to seven days (Part two, step 5, fold 'Lives, afterlives, and the one who goes through them') [text, checked]
 
 ### Jain, Sikh, Druze and Daoist sources (`06-jain-sikh-druze-daoist.md`)
 
@@ -159,7 +159,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Zhuangzi, chapter 2: the butterfly dream [text, checked]
 - Uttaradhyayana Sutra, chapter 9 (King Nami answers Indra: the greater victory is over oneself) [text, checked]
 - Daodejing 33 ('he who overcomes himself is mighty') [text, checked]
-- Kalpa Sutra, Mahavira reaching kevala (Part two, step 5, 'In this very life') [text, checked]
+- Kalpa Sutra, Mahavira reaching kevala (Part two, step 5, fold 'Lives, afterlives, and the one who goes through them') [text, checked]
 
 ### Jewish sources (`07-jewish.md`)
 

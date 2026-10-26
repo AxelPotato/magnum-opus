@@ -544,7 +544,7 @@ If someone pushes back:
 
 Kind: text. Status: checked (Arnold's translation, The Song Celestial, read on Project Gutenberg on 2026-10-24).
 
-In the essay (v4.61.0): Part two, step 5, 'Something carries over', second item of the fold 'In this very life': the world is overcome even here by those whose minds are settled in sameness, and whoever learns while still in the body to master desire and anger is a yogi and is happy; the tradition calls one freed while alive a jivanmukta. Sources list (Part two, step 5): Bhagavad Gita 5.19 and 5.23 (Arnold).
+In the essay (v4.63.20): Part two, step 5, 'Something carries over', tenth item of the fold 'Lives, afterlives, and the one who goes through them': the world is overcome even here by those whose minds are settled in sameness, and whoever learns while still in the body to master desire and anger is a yogi and is happy; the tradition calls one freed while alive a jivanmukta. Sources list (Part two, step 5): Bhagavad Gita 5.19 and 5.23 (Arnold).
 
 The passage: Arnold (public domain): 'The world is overcome, aye! even here! By such as fix their faith on Unity.' And: 'But if a man shall learn, Even while he lives and bears his body's chain, To master lust and anger, he is blest! He is the Yukta.' Sanskrit 5.19 begins ihaiva tair jitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ ('here itself creation is conquered by those whose mind rests in sameness').
 
