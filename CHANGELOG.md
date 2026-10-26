@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.23 (2026-10-26)
+
+- Part three: the dropped-terms story moves from the note into the fold 'My teacher and I' as its last entry, right after the click; the note drops 'the question was settled' and 'common sense works a little differently'
+
+
 ## 4.63.22 (2026-10-26)
 
 - Part three note: the first fear paragraph (doing what I want, guidelines, no cursing) is cut; the teacher fear now opens 'The fear behind it is natural.'
