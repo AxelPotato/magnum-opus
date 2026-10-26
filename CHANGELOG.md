@@ -8,6 +8,16 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.64.1 (2026-10-26)
+
+- Part three: the stillness instruction adds 'feel the life in your body' (Alex)
+
+
+## 4.64.0 (2026-10-26)
+
+- Part three: ideas from the Paradanta booklet (fact and story, danger and fear, own wish and expectations; family, work and health as where practice shows; inner work gives freedom and giving turns it into something for others; why a strong weekend fades; conflict without attacking and keeping agreements; clearer, steadier, more honest, easier to work with; try stillness without agreeing first); stillness instruction is now Alex's two commands, attention on the sensation of life in the body and learn to gain pleasure from it
+
+
 ## 4.63.24 (2026-10-26)
 
 - Step 7 bridges become short paragraphs (Part two); Part three note adds 'could I leave without a fight' and Alex's line on people who leave; section 8 opening says the outside view through the accent picture instead of 'at a glance' and 'can see the circle'
