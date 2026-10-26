@@ -621,3 +621,38 @@ def fig_emotion():
 
 PART2 = [fig_settings, fig_cell, fig_warning, fig_needlove, fig_turn, fig_lamps, fig_hours, fig_mill, fig_paths, fig_border]
 PART3 = [fig_eight, fig_yes, fig_cars, fig_goalreason, fig_streak, fig_clamps, fig_jobs, fig_apart, fig_ditch, fig_circles, fig_lever, fig_samestep, fig_weekend, fig_smith, fig_emotion]
+
+
+# ------------------------------------------------------------------ jokes: extra lines drawn over a figure, in the comic hand Part one uses
+def _joke(fig, extra, dh=0):
+    s = fig()
+    if dh:
+        import re
+        s = re.sub(r'viewBox="0 0 (\d+) (\d+)"', lambda m: f'viewBox="0 0 {m.group(1)} {int(m.group(2)) + dh}"', s, count=1)
+    return s.replace('</svg>', extra + '</svg>')
+
+
+def J(x, y, s, c='c2', anchor='start'):
+    return T(x, y, s, f'dg2 {c}', anchor)
+
+
+JOKES = {
+    'fig_settings': lambda: _joke(fig_settings, J(668, 30, 'someone keeps', 'c2', 'end') + J(668, 48, 'turning this one up', 'c2', 'end')
+                                  + '<path class="sdo2" d="M600 56 L578 78" marker-end="url(#asedo)"/>'),
+    'fig_cell': lambda: _joke(fig_cell, J(478, 40, 'I could have been an eye.', 'c3') + J(478, 60, 'I chose the liver.', 'c3')),
+    'fig_needlove': lambda: _joke(fig_needlove, J(170, 286, '"you complete me"', 'c2', 'middle') + J(510, 286, '"we\'re good"', 'c3', 'middle'), 30),
+    'fig_turn': lambda: _joke(fig_turn, J(120, 282, 'meanwhile: pressing the', 'c2', 'middle') + J(120, 300, 'elevator button harder', 'c2', 'middle')),
+    'fig_hours': lambda: _joke(fig_hours, '<rect class="card" x="30" y="266" width="290" height="34" rx="10"/>' + J(175, 288, 'Low battery: guarding used 70%', 'c2', 'middle')
+                               + '<rect class="card" x="360" y="266" width="290" height="34" rx="10"/>' + J(505, 288, 'Battery: somehow fuller', 'c3', 'middle'), 44),
+    'fig_mill': lambda: _joke(fig_mill, J(130, 120, 'MINE', 'c2', 'middle') + J(670, 104, "to the next mill: you're welcome", 'c3', 'end')),
+    'fig_border': lambda: _joke(fig_border, J(384, 24, "(don't quote me)", 'c1')),
+    'fig_yes': lambda: _joke(fig_yes, J(640, 46, '"maybe Tuesday?"', 'c2', 'end')),
+    'fig_streak': lambda: _joke(fig_streak, J(126 + 3 * 62 + 24, 64 + 3 * 52 + 26, 'oops', 'c2', 'middle')),
+    'fig_clamps': lambda: _joke(fig_clamps, J(124, 218, '(answering email)', 'c2', 'end')),
+    'fig_jobs': lambda: _joke(fig_jobs, J(565, 66, '"and ANOTHER thing"', 'c2', 'middle') + '<path class="sdo2" d="M490 61 H640"/>'),
+    'fig_ditch': lambda: _joke(fig_ditch, J(490, 40, '"I did my part"', 'c1')),
+    'fig_circles': lambda: _joke(fig_circles, J(448, 84, '(yes, them too)', 'c2')),
+    'fig_lever': lambda: _joke(fig_lever, J(344, 100, 'WD-40 not included', 'c2')),
+    'fig_weekend': lambda: _joke(fig_weekend, J(262, 150, 'hello, inbox', 'c2')),
+    'fig_emotion': lambda: _joke(fig_emotion, J(160, 118, 'write the angry', 'c2', 'middle') + J(160, 138, 'email? not now', 'c2', 'middle')),
+}

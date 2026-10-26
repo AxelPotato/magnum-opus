@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.65.1 (2026-10-26)
+
+- Jokes on seven of the new pictures (the liver cell in Part two; the yes, five minutes a day, the three jobs of attention, the ditch, the circle of giving and a strong weekend in Part three), at Alex's pick
+
+
 ## 4.65.0 (2026-10-26)
 
 - Pictures for Parts two and three: ten new drawings in Part two and fourteen in Part three, drawn in Part one's hand, plus two photos of Alex in Part three (garden duty in Giving, stillness after the stillness instruction)
