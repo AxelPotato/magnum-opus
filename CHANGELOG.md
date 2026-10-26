@@ -8,6 +8,21 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.0.0 (2026-10-26)
+
+- Version 5.0.0 at Alex's call: the essay with pictures in every part (Part two's sixteen, Part three's fourteen drawings and two photos)
+
+
+## 4.65.1 (2026-10-26)
+
+- Jokes on seven of the new pictures (the liver cell in Part two; the yes, five minutes a day, the three jobs of attention, the ditch, the circle of giving and a strong weekend in Part three), at Alex's pick
+
+
+## 4.65.0 (2026-10-26)
+
+- Pictures for Parts two and three: ten new drawings in Part two and fourteen in Part three, drawn in Part one's hand, plus two photos of Alex in Part three (garden duty in Giving, stillness after the stillness instruction)
+
+
 ## 4.64.1 (2026-10-26)
 
 - Part three: the stillness instruction adds 'feel the life in your body' (Alex)
