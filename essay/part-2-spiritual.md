@@ -259,7 +259,7 @@ Under the axiom it can't really work that way, because there is nothing outside 
 * A prayer attributed to Rabia of Basra, the early Sufi woman saint, asks that if she worships God for fear of hell, God should burn her in it, if for hope of paradise, shut her out of it, and if for God's own sake, not withhold his beauty from her.
 * Buddhism and Jainism have no creator God to pray to, and both keep devotion toward those who have fully woken up, the buddhas and the Jinas, mostly as examples of where the road leads.
 
-Letting go is how the wheel opens, which is why so many traditions describe the way in as a kind of emptying.
+Letting go is how the wheel opens. You can't push more water through a mill by gripping the wheel harder, and every bit of guarding you drop is flow you get back. That is why so many traditions describe the way in as a kind of emptying.
 
 #### Empty, and let it through
 
@@ -268,7 +268,7 @@ Letting go is how the wheel opens, which is why so many traditions describe the 
 * In the Buddha's instructions on breathing, one step is to breathe in and out contemplating relinquishment (Majjhima Nikaya 118).
 * Mencius, the Chinese philosopher Wang Yangming took the child at the well from, told a student that he himself was good at nourishing his vast, flowing qi, the Chinese word for the life force. It is exceedingly great and strong, he said, and when it is nourished by rightness and left unharmed, it fills everything between heaven and earth. It grows out of a long run of right deeds, and when the heart is not at ease with what you do, it starves (Mencius 2A:2).
 
-Once more starts coming through, the temptation is to do something impressive with it.
+Once more starts coming through, people around you notice. Things work out more often, you get more done with less effort, and now and then something happens that is hard to explain. The temptation then is to do something impressive with it.
 
 #### Miracles, and the warning against them
 
