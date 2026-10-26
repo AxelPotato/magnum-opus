@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.0.1 (2026-10-26)
+
+- Part one: the math section is shorter (two paragraphs and the squares picture; the 50/50 and 80/80 numbers and the 'numbers are made up' paragraph are cut), after run 11 readers skimmed it
+
+
 ## 5.0.0 (2026-10-26)
 
 - Version 5.0.0 at Alex's call: the essay with pictures in every part (Part two's sixteen, Part three's fourteen drawings and two photos)
