@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.22 (2026-10-26)
+
+- Part three note: the first fear paragraph (doing what I want, guidelines, no cursing) is cut; the teacher fear now opens 'The fear behind it is natural.'
+
+
 ## 4.63.21 (2026-10-26)
 
 - Part three note: opener drops 'these two are the ones whose importance changes the most once a person sees what they give'; first fear no longer 'Most of the fears ... come down to one'
