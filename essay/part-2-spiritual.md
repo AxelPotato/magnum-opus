@@ -277,9 +277,7 @@ Once more starts coming through, people around you notice. Things work out more 
 
 ## Why the paths differ
 
-The Buddha told of a king who had men born blind each touch one part of an elephant (Udana 6.4). The one at the ear said an elephant is just like a winnowing basket, the one at the tusk said a plowshare, the one holding the tuft of the tail said a broom, and they ended up hitting each other with their fists. He told it against one-sided views, and I borrow the picture: each of them is holding a real part of something larger.
-
-That is why the religions look so different. The whole goes into separation through countless points of view, no two of them meet the wall in the same way, and so a path is a way back drawn for particular people at a particular time. The core stays because it comes from the structure. The forms change because the people do.
+If one structure sits behind all this, why do the religions look so different? The whole goes into separation through countless points of view, no two of them meet the wall in the same way, and so a path is a way back drawn for particular people at a particular time. The core stays because it comes from the structure. The forms change because the people do.
 
 You can see it in something as ordinary as a guest at the door. Abraham runs out of his tent to feed three strangers, and the story says it was God who came to him (Genesis 18). An Upanishad tells the student to treat the guest as a god (Taittiriya 1.11.2). The Prophet said that whoever believes in God and the Last Day should honor his guest (Sahih al-Bukhari 6018). Jesus says that whoever welcomed a stranger welcomed him (Matthew 25:35 to 40), and a Sikh temple kitchen, the langar, feeds anyone who walks in. A tent, a house and a temple kitchen look nothing alike, and the instruction is the same: open the door. Under the axiom that is no surprise, since whoever is at the door is another part of the same whole.
 
@@ -378,7 +376,7 @@ The axiom and the machine
 
 Why the paths differ
 
-- Udana 6.4, the Tittha Sutta (Thanissaro's translation, dhammatalks.org). Genesis 18:1-8. Taittiriya Upanishad 1.11.2. Sahih al-Bukhari 6018. Matthew 25:35-40. The langar, the free kitchen of the Sikh gurdwara.
+- Genesis 18:1-8. Taittiriya Upanishad 1.11.2. Sahih al-Bukhari 6018. Matthew 25:35-40. The langar, the free kitchen of the Sikh gurdwara.
 
 What you can check
 

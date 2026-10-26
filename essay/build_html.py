@@ -343,7 +343,7 @@ def rules2():
         "That something can't be the body": dict(after=figure(F5.fig_lamps(), 'A lamp lit from another lamp.')),
         'Spend two hours with someone': dict(after=figure(F5.fig_hours(), 'The same two hours, on guard and with an old friend.')),
         "Under the axiom it can't really work that way": dict(after=figure(F5.fig_mill(), 'A tank, and a mill on a river. The mill does not drink the river. Its job is to let the water through.')),
-        'That is why the religions look so different.': dict(after=figure(F5.fig_paths(), 'A path is drawn for particular people at a particular time, and the paths meet at the same place.')),
+        'If one structure sits behind all this, why': dict(after=figure(F5.fig_paths(), 'A path is drawn for particular people at a particular time, and the paths meet at the same place.')),
         'Until then, one question': dict(after=figure(F5.fig_border(), 'Where, right now, does the border of you sit?')),
     }
 
