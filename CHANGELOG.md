@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 4.63.24 (2026-10-26)
+
+- Step 7 bridges become short paragraphs (Part two); Part three note adds 'could I leave without a fight' and Alex's line on people who leave; section 8 opening says the outside view through the accent picture instead of 'at a glance' and 'can see the circle'
+
+
 ## 4.63.23 (2026-10-26)
 
 - Part three: the dropped-terms story moves from the note into the fold 'My teacher and I' as its last entry, right after the click; the note drops 'the question was settled' and 'common sense works a little differently'
