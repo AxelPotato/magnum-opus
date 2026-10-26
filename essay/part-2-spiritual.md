@@ -247,7 +247,9 @@ Everybody talks about energy, and hardly anybody says what they mean by it, so h
 
 The separate self treats it like a tank. I have this much, I spend it, I run out, and I guard what is left. That's what you'd expect from a point of view with lowered settings, in a world built to say that you are in here and the rest is out there. And holding the wall costs, so a good part of the tank goes on guarding the tank.
 
-Under the axiom it can't really work that way, because there is nothing outside the whole to take energy from and nowhere for it to leak to. A part that starts remembering the whole works more like a mill on a river. The mill doesn't drink the river. The water turns the wheel, does real work and flows on to the next mill downstream, and the mill's job is to let it through. A mill that clamps its wheel tight gets less flow. So the extra energy comes from two places, and neither one takes from anybody. Some of it is what you stop spending on the wall. The rest is access: from the point of view of one person, the river is the size of the whole, far more than any part could hold.
+Under the axiom it can't really work that way, because there is nothing outside the whole to take energy from and nowhere for it to leak to. A part that starts remembering the whole works more like a mill on a river. The mill doesn't drink the river. The water turns the wheel, does real work and flows on to the next mill downstream, and the mill's job is to let it through. A mill that clamps its wheel tight gets less flow. So the extra energy comes from two places, and neither one takes from anybody. Some of it is what you stop spending on the wall. The rest is what flows through once the wheel turns freely, and you have probably felt it: a night spent helping someone you love, or finishing work you care about, when you were tired by the end and somehow not empty. That is a little of the river.
+
+You can check the first half this week. The next time you come home flat, ask which it was, the talking or the guarding.
 
 #### God, asking, and grace
 
@@ -259,14 +261,7 @@ Under the axiom it can't really work that way, because there is nothing outside 
 * A prayer attributed to Rabia of Basra, the early Sufi woman saint, asks that if she worships God for fear of hell, God should burn her in it, if for hope of paradise, shut her out of it, and if for God's own sake, not withhold his beauty from her.
 * Buddhism and Jainism have no creator God to pray to, and both keep devotion toward those who have fully woken up, the buddhas and the Jinas, mostly as examples of where the road leads.
 
-Letting go is how the wheel opens. You can't push more water through a mill by gripping the wheel harder, and every bit of guarding you drop is flow you get back. That is why so many traditions describe the way in as a kind of emptying.
-
-#### Empty, and let it through
-
-* Hasidism calls it bittul, the nullification of the self, and the Baal Shem Tov read the verse from Psalm 16 in the fold above as teaching equanimity, so that praise and insult feel the same. The Sufis speak of fana, the passing away of the self in God, followed by baqa, living on in God.
-* Christians have kenosis, Greek for emptying, their name for the emptying Paul writes about in his letter to the Philippians (2:5-8). There he says that Jesus, though he was in the form of God, did not treat equality with God as something to hold on to, and emptied himself, taking the form of a servant. Paul offers this as the attitude his readers should share. The medieval German preacher Meister Eckhart's word for letting go was gelazenheit.
-* In the Buddha's instructions on breathing, one step is to breathe in and out contemplating relinquishment (Majjhima Nikaya 118).
-* Mencius, the Chinese philosopher Wang Yangming took the child at the well from, told a student that he himself was good at nourishing his vast, flowing qi, the Chinese word for the life force. It is exceedingly great and strong, he said, and when it is nourished by rightness and left unharmed, it fills everything between heaven and earth. It grows out of a long run of right deeds, and when the heart is not at ease with what you do, it starves (Mencius 2A:2).
+Letting go is how the wheel opens. You can't push more water through a mill by gripping the wheel harder, and every bit of guarding you drop is flow you get back. That is why so many traditions describe the way in as a kind of emptying. Hasidim call it bittul, the Sufis fana, Christians kenosis, after Paul's line that Jesus emptied himself, and one of the Buddha's breathing instructions is to breathe while contemplating letting go.
 
 Once more starts coming through, people around you notice. Things work out more often, you get more done with less effort, and now and then something happens that is hard to explain. The temptation then is to do something impressive with it.
 
@@ -373,8 +368,7 @@ The axiom and the machine
 
 7. Energy
 
-- Mencius 2A:2, translated by Legge, J., The Works of Mencius (The Chinese Classics, vol. II).
-- The Baal Shem Tov on Psalm 16, and bittul, in the Hasidic tradition. Philippians 2:5-8. Eckhart, German sermons (Walshe's translation, revised by McGinn). Majjhima Nikaya 118.
+- The Baal Shem Tov on Psalm 16, and bittul, in the Hasidic tradition. Fana in the Sufi tradition. Philippians 2:5-8. Majjhima Nikaya 118.
 - Shankara on Brahman and Ishvara. Quran 50:16. Psalm 16:8. Buber, M. (1923). I and Thou (Ich und Du). Ephesians 2:8. The prayer attributed to Rabia of Basra in the Sufi tradition (retold in later sources).
 - Antarova, K. E. Two Lives (Две жизни), Part I: «нет чудес, а есть та или иная степень знания». The English is the author's own translation.
 - Patanjali, Yoga Sutras 3.37, numbered as in Johnston, C. (1912), The Yoga Sutras of Patanjali: The Book of the Spiritual Man.

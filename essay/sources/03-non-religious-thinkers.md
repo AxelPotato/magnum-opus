@@ -385,7 +385,7 @@ Kind: text. Status: checked (Legge's translation read in the archive.org scan of
 
 Who: Mencius, the most important Confucian thinker after Confucius. The same book holds the child at the well (2A:6), which Wang Yangming took up and which the essay uses in step 5.
 
-In the essay: Part two, step 7, 'Energy', fourth item of 'Empty, and let it through': he was good at nourishing his vast, flowing qi; it is exceedingly great and strong; nourished by rightness and left unharmed, it fills everything between heaven and earth; it grows out of a long run of right deeds, and when the heart is not at ease with what you do, it starves.
+In the essay: Part two, step 7, 'Energy', fourth item of 'Empty, and let it through': he was good at nourishing his vast, flowing qi; it is exceedingly great and strong; nourished by rightness and left unharmed, it fills everything between heaven and earth; it grows out of a long run of right deeds, and when the heart is not at ease with what you do, it starves. Since 5.0.4 (2026-10-26) the fold 'Empty, and let it through' is one sentence in the text and no longer cites it: private context for discussion.
 
 Where it sits: Mencius, Book II, Part A (Gongsun Chou I), chapter 2, the conversation with Gongsun Chou about the unmoved heart. Legge numbers the lines 11 to 15.
 

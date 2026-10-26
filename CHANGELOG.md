@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.0.4 (2026-10-26)
+
+- Part two, step 7: the river lands in something felt (tired and not empty), a test for this week (the talking or the guarding), and the fold 'Empty, and let it through' becomes one sentence in the text; Mencius and Eckhart drop from the Sources list
+
+
 ## 5.0.3 (2026-10-26)
 
 - Part two: 'Why the paths differ' rewritten short: the blind men and the elephant open it, the guest at the door (Genesis 18, Taittiriya 1.11.2, Bukhari 6018, Matthew 25, the langar) is the example; the 21st-century paragraph and the fold 'Many names for one thing' are cut; reading pack updated
