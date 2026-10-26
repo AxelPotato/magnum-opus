@@ -64,3 +64,15 @@ From: the live talk transcript (58 min), the 2026-09-20 dictation, the reel tran
 ## Numbers used
 
 Effectiveness is about release times action (100 x 1 = 100; 95 x 2 = 190). Squares: whole 10,000; Default 10 x 10 = 100; Driven at the wall 100 x 10 = 1,000; Drifting 10 x 100 = 1,000; middle 50 x 50 = 2,500; 80 x 80 = 6,400; zoom out 1,000 x 1,000 = 1,000,000. New in the essay, from plain arithmetic: with a fixed total of 100, 50 x 50 = 2,500 beats 90 x 10 = 900 and 99 x 1 = 99. That is why the line is where your current potential pays the most.
+
+## Kept for a video: "One hose" (cut from Part one in 5.0.2, 2026-10-26)
+
+Alex: "the hose example can be removed, it doesn't add anything too good. Leave it as a note ... so i can use it in the future for a video." The section sat between "Harmony as the road" and "Zoom out". Its drawing is still in `figs2.py` as `fig_hose()` (a garden hose in four steps: plug the holes, open the nozzle, focus the spray, something worth watering), with the caption "A garden hose. Plug the holes (BE), open the nozzle (DO), focus the spray (attention), pick something worth watering (a reason bigger than you)." The text as it stood at 5.0.1:
+
+> ## One hose
+>
+> The sections so far can read like a list, so here is one picture that puts the pieces in order. Imagine a person is a garden hose, and the water running through it is their energy: the drive, the attention, the amount of life you have available on a given day. A hose has four things to get right, and they lean on each other.
+>
+> The holes are every fear, insecurity and doubt you carry, and water leaves through each of them all day. Plugging them is inner work, the sorry and the first step in a conflict, and every hole you plug sends more water down the line. The nozzle is DO: somebody has to open it, and that somebody is you. Attention turns the spray into a jet, and wherever it points, the water goes. And something worth watering comes first, even though it comes last in the telling. With nothing to water there is no reason to plug a hole, open the nozzle or aim.
+>
+> Taken in order, each one makes the next one work. Plugged holes give you water to open the nozzle on, an open nozzle gives your attention something to aim, a steady jet makes a target reachable, and a target worth the trouble is a good reason to go back and plug the next hole.
