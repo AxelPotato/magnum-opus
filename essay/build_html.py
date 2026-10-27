@@ -21,6 +21,7 @@ import figs2 as F
 import figs3 as F3
 import figs4 as F4
 import figs5 as F5
+import figs6 as F6
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 IMG = os.path.join(HERE, 'img')
@@ -336,7 +337,7 @@ def rules2():
         'The body holds the limits in place.': dict(after=figure(F4.fig_wall(), 'The wall, as it shows in the body. Hold less of it and you sit higher on BE.')),
         'How it carries on is where the traditions part': dict(after=figure(F4.fig_lives(), 'What a life gathers is kept and carried on, whichever form the traditions give it.')),
         'If we are one, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
-        'My answer is that it takes doing less.': dict(after=figure(F5.fig_settings(), 'Four settings for one point of view. Nothing is taken away, it is only turned down.')),
+        'My answer is that it takes doing less.': dict(after=F6.widget()),
         'Your own body does it too.': dict(after=figure(F5.JOKES['fig_cell'](), 'Every cell carries the whole plan and uses a small part of it. The rest is switched off and kept.')),
         'That gives suffering a job.': dict(after=figure(F5.fig_warning(), 'Suffering as the warning light on the dashboard. The tape is also an option.')),
         "That's also why love is strongest": dict(after=figure(F5.fig_needlove(), 'Need says, I need you so that I feel whole. Love says, you are part of what I am.')),
@@ -843,7 +844,7 @@ TOC_JS = r"""
 PARTS = {
     0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: rules0(), cast=False, css_extra=PART0_CSS, foot=PART0_FOOT),
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=True, css_extra='', foot=PART1_FOOT),
-    2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA, foot=PART2_FOOT),
+    2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + F6.CSS_EXTRA, foot=PART2_FOOT),
     3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=rules3, cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + PART0_CSS, foot=PART3_FOOT),
     4: dict(md='contact.md', out='contact.html', title='Stay in contact', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
     # kept for reference, not part of the default build: python build_html.py --part 2a
