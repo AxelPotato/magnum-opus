@@ -228,14 +228,6 @@ Put it together. The road to the top right corner is a road to harmony between w
 
 You can check which way you're moving at any time. How many options do you see right now, compared with a year ago? When did you last do something nobody asked you to do, for somebody else's good? Ask again in two weeks.
 
-## One hose
-
-The sections so far can read like a list, so here is one picture that puts the pieces in order. Imagine a person is a garden hose, and the water running through it is their energy: the drive, the attention, the amount of life you have available on a given day. A hose has four things to get right, and they lean on each other.
-
-The holes are every fear, insecurity and doubt you carry, and water leaves through each of them all day. Plugging them is inner work, the sorry and the first step in a conflict, and every hole you plug sends more water down the line. The nozzle is DO: somebody has to open it, and that somebody is you. Attention turns the spray into a jet, and wherever it points, the water goes. And something worth watering comes first, even though it comes last in the telling. With nothing to water there is no reason to plug a hole, open the nozzle or aim.
-
-Taken in order, each one makes the next one work. Plugged holes give you water to open the nozzle on, an open nozzle gives your attention something to aim, a steady jet makes a target reachable, and a target worth the trouble is a good reason to go back and plug the next hole.
-
 ## Zoom out
 
 One correction before this part ends. I told you the top right corner is the peak, 100 and 100. It is the peak of this chart, and I believe this chart is a small part of a much bigger map.

@@ -299,7 +299,6 @@ def rules1():
         'Take Stoicism, because the internet version is so popular.': dict(after=figure(F.fig_stoic(), 'Stoicism, misread and as practiced.')),
         "For a drifter I've noticed three things.": dict(after=figure(F.fig_stops(), 'What stops each room, and where it points: the middle.')),
         'At the far corner of the chart is the peak': dict(after=figure(F.icons_flow_html(), 'Different rooms, same visit.', 'plain')),
-        'Taken in order, each one makes the next one work.': dict(after=figure(F.fig_hose(), 'A garden hose. Plug the holes (BE), open the nozzle (DO), focus the spray (attention), pick something worth watering (a reason bigger than you).')),
         'Put it together.': dict(after=figure(F.fig_footsteps(), 'Walking in step: the lazy leg catches up, again and again.')),
         'The reason is inertia.': dict(after=figure(F.fig_inertia(), 'Inertia.')),
         'There\'s a name for what Carrey and Phelps ran into': dict(who=[('benshahar', 'Tal Ben-Shahar', 'neutral')]),
