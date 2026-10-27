@@ -270,7 +270,7 @@ def rules1():
         'Malala Yousafzai kept going': dict(who=[('malala', 'Malala Yousafzai', 'high')]),
         'Marcus Aurelius ran the Roman Empire': dict(who=[('aurelius', 'Marcus Aurelius', 'high')]),
         'Rosa Parks is a good one': dict(who=[('parks', 'Rosa Parks', 'high')]),
-        'Somewhere around the middle, 50 and 50': dict(after=figure(squares(), 'The same square, six ways. Width is DO, height is BE, the shaded part is the area a person takes up.', 'plain')),
+        'Picture the whole chart as a square, 10,000': dict(after=figure(squares(), 'The same square, six ways. Width is DO, height is BE, the shaded part is the area a person takes up.', 'plain')),
         'On the line, what you\'re free to want': dict(after=figure(svg_line(), 'The line of harmony. Position along it says how far you have come. Distance from it says how much is leaking.')),
         'Learning to walk on two legs': dict(after=figure(svg_swing(), 'A swing that narrows, then the climb, which stays wavy until the peak. Illustration, not data.')),
         'Zoom out by ten': dict(after=figure(svg_zoom(), 'Zoom out by ten. The whole square we have been using is the small box in the corner.')),
@@ -281,7 +281,7 @@ def rules1():
         'The turbulence comes from walking on two legs.': dict(after=figure(F.fig_legs(), 'Three ways to move. The DO leg is vermilion, the BE leg is blue.')),
         'Here is why the turbulence is worth it': dict(after=figure(F.fig_loop(), 'The two legs feed each other.')),
         'A quick way to find your own examples': dict(after=figure(F.fig_jail(), 'The jail-cell test.')),
-        'Say each line runs from 0 to 100.': dict(after=figure(F.fig_bars(), 'Effectiveness is roughly BE times DO. Do not quote me.')),
+        'This is the part where I get to pretend': dict(after=figure(F.fig_bars(), 'Effectiveness is roughly BE times DO. Do not quote me.')),
         'The Soviet physiologist Pyotr Anokhin': dict(li_after=figure(F.fig_anokhin(), 'Anokhin\'s functional system, simplified: a goal is a model of the result, and the result is compared with it.')),
         'Viktor Frankl, a psychiatrist': dict(who=[('frankl', 'Viktor Frankl', 'neutral')]),
         'The lab has looked at this too': dict(after=figure(F.fig_studies(), 'Left: a randomized field experiment. Right: a review of ten long-term studies, which shows an association, not a cause. Read both as a direction.')),
@@ -299,7 +299,6 @@ def rules1():
         'Take Stoicism, because the internet version is so popular.': dict(after=figure(F.fig_stoic(), 'Stoicism, misread and as practiced.')),
         "For a drifter I've noticed three things.": dict(after=figure(F.fig_stops(), 'What stops each room, and where it points: the middle.')),
         'At the far corner of the chart is the peak': dict(after=figure(F.icons_flow_html(), 'Different rooms, same visit.', 'plain')),
-        'Taken in order, each one makes the next one work.': dict(after=figure(F.fig_hose(), 'A garden hose. Plug the holes (BE), open the nozzle (DO), focus the spray (attention), pick something worth watering (a reason bigger than you).')),
         'Put it together.': dict(after=figure(F.fig_footsteps(), 'Walking in step: the lazy leg catches up, again and again.')),
         'The reason is inertia.': dict(after=figure(F.fig_inertia(), 'Inertia.')),
         'There\'s a name for what Carrey and Phelps ran into': dict(who=[('benshahar', 'Tal Ben-Shahar', 'neutral')]),
@@ -345,7 +344,7 @@ def rules2():
         "That something can't be the body": dict(after=figure(F5.fig_lamps(), 'A lamp lit from another lamp.')),
         'Spend two hours with someone': dict(after=figure(F5.fig_hours(), 'The same two hours, on guard and with an old friend.')),
         "Under the axiom it can't really work that way": dict(after=figure(F5.fig_mill(), 'A tank, and a mill on a river. The mill does not drink the river. Its job is to let the water through.')),
-        'The axiom answers both.': dict(after=figure(F5.fig_paths(), 'A path is drawn for particular people at a particular time, and the paths meet at the same place.')),
+        'If one structure sits behind all this, why': dict(after=figure(F5.fig_paths(), 'A path is drawn for particular people at a particular time, and the paths meet at the same place.')),
         'Until then, one question': dict(after=figure(F5.fig_border(), 'Where, right now, does the border of you sit?')),
     }
 
@@ -370,7 +369,6 @@ def rules3():
         'When someone harms you, you react': dict(after=figure(F5.fig_samestep(), 'The same step away can be a clear choice or a flinch.')),
         'This condition matters more now': dict(after=figure(F5.JOKES['fig_weekend'](), 'A strong weekend, on your own and with people you see every week. An illustration, not data.')),
         'There will be moments, plenty of them': dict(after=figure(F5.fig_emotion(), 'Decide nothing while the emotion is there. Look again with a clear head, and take seriously what is still there.')),
-        'Giving here means putting effort': dict(after=photo('garden', 'The author watering a lawn with a garden hose', 'Cyber security by day. At the center, junior hose operator.')),
         'Stillness is the simplest form of this': dict(after=photo('stillness', 'The author sitting cross-legged with eyes closed, with his team meditating around him', 'Most days I sit like this two or three times. The beard is not part of the method.')),
     }
 

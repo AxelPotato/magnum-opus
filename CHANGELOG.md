@@ -8,6 +8,41 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.1.8 (2026-10-27)
+
+- Part three sections 7 and 8: Dan's dips reworded (help instead of counterweight, positive closing lines, new section 8 opening)
+
+
+## 5.1.7 (2026-10-27)
+
+- Part three: hose photo removed, In Wonder with Osho out of Sources
+
+
+## 5.1.6 (2026-10-27)
+
+- Part two: the elephant is cut from 'Why the paths differ' (Alex); the section opens on the question and goes to the guest at the door
+
+
+## 5.1.5 (2026-10-27)
+
+- Part two, step 7: the river lands in something felt (tired and not empty), a test for this week (the talking or the guarding), and the fold 'Empty, and let it through' becomes one sentence in the text; Mencius and Eckhart drop from the Sources list
+
+
+## 5.1.4 (2026-10-27)
+
+- Part two: 'Why the paths differ' rewritten short: the blind men and the elephant open it, the guest at the door (Genesis 18, Taittiriya 1.11.2, Bukhari 6018, Matthew 25, the langar) is the example; the 21st-century paragraph and the fold 'Many names for one thing' are cut; reading pack updated
+
+
+## 5.1.3 (2026-10-27)
+
+- Part one: the section 'One hose' is cut (Alex: kept in part-1-notes.md for a future video; the drawing stays in figs2.py)
+
+
+## 5.1.2 (2026-10-27)
+
+- Part one: the math section is shorter (two paragraphs and the squares picture; the 50/50 and 80/80 numbers and the 'numbers are made up' paragraph are cut), after run 11 readers skimmed it
+
+
 ## 5.1.1 (2026-10-27)
 
 - Settings toy: fresh start card (most days, one more candle) and the head chef in place of the founder

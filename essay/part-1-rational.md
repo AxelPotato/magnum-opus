@@ -148,17 +148,9 @@ At the far corner of the chart is the peak, where nothing really feels impossibl
 
 ## The math, with a warning
 
-This is the part where I get to pretend it's science. Don't quote me on this. It's just a good way I found to convey the idea.
+This is the part where I get to pretend it's science, so don't quote me. Say BE and DO each run from 0 to 100, and how much of your potential you use is roughly one times the other. They multiply because each works through the other: with no DO, all the freedom in the world changes nothing outside you, and with no BE, all the action goes down the few paths your fears allow. Someone at 100 on DO and 1 on BE is about 100 effective. Give up five points of DO, gain one of BE, and it's 95 times 2, which is 190, and you got there by being slightly less busy.
 
-Say each line runs from 0 to 100. Your effectiveness, meaning how much of your actual potential you use, is roughly your BE multiplied by your DO. I picture them multiplying because each one works through the other: with no DO, all the freedom in the world changes nothing outside you, and with no BE, all the action goes down the few paths your fears allow. If you're 100 on DO and 1 on BE, you're about 100 effective. Give up five points of DO, gain a little BE, and you're at 95 times 2, which is 190, and you got there by being slightly less busy. The number is only a picture. What it pictures is using more of your own life, and output is a small part of that.
-
-Now picture the whole chart as a square, 100 by 100, so 10,000 in total, and a person takes up whatever rectangle they reach.
-
-Default, around 10 and 10, takes up 100: a very small person in the geometric sense. A driven person who goes all the way to the wall, 100 on DO and 10 on BE, takes up 1,000, and it costs everything they have. The drifter at the mirror image, 10 and 100, also takes up 1,000: same size, different shape.
-
-Somewhere around the middle, 50 and 50, you get 2,500. At 80 and 80 it's 6,400. The corner is the whole 10,000.
-
-The numbers are made up, and I picked 100 because it's round. The shape is the part that seems right to me. Because the two multiply, neglecting either one costs you most of your potential.
+Picture the whole chart as a square, 10,000 in all. Default, around 10 and 10, takes up 100, a very small person in the geometric sense. Driven at the wall, or Drifting at the mirror image, takes up 1,000. The corner is the whole 10,000. Leave either side behind and you lose most of the square.
 
 It's also why I don't accept the objection I'd expect from driven people, which is that if they let go of the tension they'll lose their edge. The drive and the tension are two different things that most people happen to have glued together. You keep the drive and drop the brace. That's what the 95 times 2 was trying to picture. Phelps in Rio is the closest real example I have among famous people, and I'm a smaller one: a lot of the tension from my Driven years is gone, and the drive actually increased. I used to lose a lot of time to video games and shows, and now I want to work on my goals every day. Compared with my Driven years I get more done, it satisfies me much more, and the goals themselves got bigger.
 
@@ -235,14 +227,6 @@ It does have to be real, though. In the volunteering study the motive mattered m
 Put it together. The road to the top right corner is a road to harmony between what you want on the inside, what you can do on the outside, and what you currently have to work with. The way there is to keep catching up the lazy leg until the two walk in step. Pushing the strong one harder only gets you a faster hop.
 
 You can check which way you're moving at any time. How many options do you see right now, compared with a year ago? When did you last do something nobody asked you to do, for somebody else's good? Ask again in two weeks.
-
-## One hose
-
-The sections so far can read like a list, so here is one picture that puts the pieces in order. Imagine a person is a garden hose, and the water running through it is their energy: the drive, the attention, the amount of life you have available on a given day. A hose has four things to get right, and they lean on each other.
-
-The holes are every fear, insecurity and doubt you carry, and water leaves through each of them all day. Plugging them is inner work, the sorry and the first step in a conflict, and every hole you plug sends more water down the line. The nozzle is DO: somebody has to open it, and that somebody is you. Attention turns the spray into a jet, and wherever it points, the water goes. And something worth watering comes first, even though it comes last in the telling. With nothing to water there is no reason to plug a hole, open the nozzle or aim.
-
-Taken in order, each one makes the next one work. Plugged holes give you water to open the nozzle on, an open nozzle gives your attention something to aim, a steady jet makes a target reachable, and a target worth the trouble is a good reason to go back and plug the next hole.
 
 ## Zoom out
 

@@ -247,7 +247,9 @@ Everybody talks about energy, and hardly anybody says what they mean by it, so h
 
 The separate self treats it like a tank. I have this much, I spend it, I run out, and I guard what is left. That's what you'd expect from a point of view with lowered settings, in a world built to say that you are in here and the rest is out there. And holding the wall costs, so a good part of the tank goes on guarding the tank.
 
-Under the axiom it can't really work that way, because there is nothing outside the whole to take energy from and nowhere for it to leak to. A part that starts remembering the whole works more like a mill on a river. The mill doesn't drink the river. The water turns the wheel, does real work and flows on to the next mill downstream, and the mill's job is to let it through. A mill that clamps its wheel tight gets less flow. So the extra energy comes from two places, and neither one takes from anybody. Some of it is what you stop spending on the wall. The rest is access: from the point of view of one person, the river is the size of the whole, far more than any part could hold.
+Under the axiom it can't really work that way, because there is nothing outside the whole to take energy from and nowhere for it to leak to. A part that starts remembering the whole works more like a mill on a river. The mill doesn't drink the river. The water turns the wheel, does real work and flows on to the next mill downstream, and the mill's job is to let it through. A mill that clamps its wheel tight gets less flow. So the extra energy comes from two places, and neither one takes from anybody. Some of it is what you stop spending on the wall. The rest is what flows through once the wheel turns freely, and you have probably felt it: a night spent helping someone you love, or finishing work you care about, when you were tired by the end and somehow not empty. That is a little of the river.
+
+You can check the first half this week. The next time you come home flat, ask which it was, the talking or the guarding.
 
 #### God, asking, and grace
 
@@ -259,14 +261,7 @@ Under the axiom it can't really work that way, because there is nothing outside 
 * A prayer attributed to Rabia of Basra, the early Sufi woman saint, asks that if she worships God for fear of hell, God should burn her in it, if for hope of paradise, shut her out of it, and if for God's own sake, not withhold his beauty from her.
 * Buddhism and Jainism have no creator God to pray to, and both keep devotion toward those who have fully woken up, the buddhas and the Jinas, mostly as examples of where the road leads.
 
-Letting go is how the wheel opens. You can't push more water through a mill by gripping the wheel harder, and every bit of guarding you drop is flow you get back. That is why so many traditions describe the way in as a kind of emptying.
-
-#### Empty, and let it through
-
-* Hasidism calls it bittul, the nullification of the self, and the Baal Shem Tov read the verse from Psalm 16 in the fold above as teaching equanimity, so that praise and insult feel the same. The Sufis speak of fana, the passing away of the self in God, followed by baqa, living on in God.
-* Christians have kenosis, Greek for emptying, their name for the emptying Paul writes about in his letter to the Philippians (2:5-8). There he says that Jesus, though he was in the form of God, did not treat equality with God as something to hold on to, and emptied himself, taking the form of a servant. Paul offers this as the attitude his readers should share. The medieval German preacher Meister Eckhart's word for letting go was gelazenheit.
-* In the Buddha's instructions on breathing, one step is to breathe in and out contemplating relinquishment (Majjhima Nikaya 118).
-* Mencius, the Chinese philosopher Wang Yangming took the child at the well from, told a student that he himself was good at nourishing his vast, flowing qi, the Chinese word for the life force. It is exceedingly great and strong, he said, and when it is nourished by rightness and left unharmed, it fills everything between heaven and earth. It grows out of a long run of right deeds, and when the heart is not at ease with what you do, it starves (Mencius 2A:2).
+Letting go is how the wheel opens. You can't push more water through a mill by gripping the wheel harder, and every bit of guarding you drop is flow you get back. That is why so many traditions describe the way in as a kind of emptying. Hasidim call it bittul, the Sufis fana, Christians kenosis, after Paul's line that Jesus emptied himself, and one of the Buddha's breathing instructions is to breathe while contemplating letting go.
 
 Once more starts coming through, people around you notice. Things work out more often, you get more done with less effort, and now and then something happens that is hard to explain. The temptation then is to do something impressive with it.
 
@@ -282,18 +277,9 @@ Once more starts coming through, people around you notice. Things work out more 
 
 ## Why the paths differ
 
-If one structure sits behind all this, a fair question follows. Why do the religions look so different from one another, and why do they keep changing?
+If one structure sits behind all this, why do the religions look so different? The whole goes into separation through countless points of view, no two of them meet the wall in the same way, and so a path is a way back drawn for particular people at a particular time. The core stays because it comes from the structure. The forms change because the people do.
 
-The axiom answers both. The whole goes into separation through countless points of view, and, as step 5 says, the point of going is that each one comes back with something no other could have brought. No two points of view are alike, so no two people meet the wall in the same way. What holds it up, and what loosens it, depends on temperament, on culture, on the century, and on what the person has already learned. A path is a way back, drawn for particular people at a particular time. One drawn for herders crossing a desert will sound different from one drawn for monks on a mountain or merchants on a trade road, and it still describes the same thing: a whole that lost track of itself, and a way home. The core stays because it comes from the structure. The forms change because the people do.
-
-That holds for our own time too. A form made for a village that shared one story and one calendar fits poorly in a city of strangers, where the day is cut into pieces by a phone, a job and an inbox. People are more educated and more skeptical than they used to be, they have less spare time, and they are used to checking things for themselves.
-
-#### Many names for one thing
-
-* A hymn of the Rigveda, among the oldest religious texts we have, says that to what is One, sages give many a title (1.164.46).
-* In the Bhagavad Gita Krishna says that whenever dharma declines he takes birth again, age after age (4.7 to 8). The Hindu tradition reads this as the divine returning to every age, and I take it as a teaching that returns for each one.
-* The Quran says that God gave each community its own law and way, and had God willed would have made them one community, and it tells them to race toward what is good (5:48). The verse also presents the Quran as the measure of the earlier books, so it speaks of many ways under one God without saying every way is equal.
-* In the Buddhist Udana (6.4), a king has men born blind each touch a different part of an elephant, and each describes a different animal. The Buddha aims the story at rival sects, as a warning against one-sided views, and I borrow the picture: each one holds a real part of something larger.
+You can see it in something as ordinary as a guest at the door. Abraham runs out of his tent to feed three strangers, and the story says it was God who came to him (Genesis 18). An Upanishad tells the student to treat the guest as a god (Taittiriya 1.11.2). The Prophet said that whoever believes in God and the Last Day should honor his guest (Sahih al-Bukhari 6018). Jesus says that whoever welcomed a stranger welcomed him (Matthew 25:35 to 40), and a Sikh temple kitchen, the langar, feeds anyone who walks in. A tent, a house and a temple kitchen look nothing alike, and the instruction is the same: open the door. Under the axiom that is no surprise, since whoever is at the door is another part of the same whole.
 
 ## Why I want this
 
@@ -380,8 +366,7 @@ The axiom and the machine
 
 7. Energy
 
-- Mencius 2A:2, translated by Legge, J., The Works of Mencius (The Chinese Classics, vol. II).
-- The Baal Shem Tov on Psalm 16, and bittul, in the Hasidic tradition. Philippians 2:5-8. Eckhart, German sermons (Walshe's translation, revised by McGinn). Majjhima Nikaya 118.
+- The Baal Shem Tov on Psalm 16, and bittul, in the Hasidic tradition. Fana in the Sufi tradition. Philippians 2:5-8. Majjhima Nikaya 118.
 - Shankara on Brahman and Ishvara. Quran 50:16. Psalm 16:8. Buber, M. (1923). I and Thou (Ich und Du). Ephesians 2:8. The prayer attributed to Rabia of Basra in the Sufi tradition (retold in later sources).
 - Antarova, K. E. Two Lives (Две жизни), Part I: «нет чудес, а есть та или иная степень знания». The English is the author's own translation.
 - Patanjali, Yoga Sutras 3.37, numbered as in Johnston, C. (1912), The Yoga Sutras of Patanjali: The Book of the Spiritual Man.
@@ -391,7 +376,7 @@ The axiom and the machine
 
 Why the paths differ
 
-- Rigveda 1.164.46 (Griffith's translation, 1896). Bhagavad Gita 4.7 and 4.8. Quran 5:48. Udana 6.4, the Tittha Sutta.
+- Genesis 18:1-8. Taittiriya Upanishad 1.11.2. Sahih al-Bukhari 6018. Matthew 25:35-40. The langar, the free kitchen of the Sikh gurdwara.
 
 What you can check
 

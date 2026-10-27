@@ -385,7 +385,7 @@ Kind: text. Status: checked (Legge's translation read in the archive.org scan of
 
 Who: Mencius, the most important Confucian thinker after Confucius. The same book holds the child at the well (2A:6), which Wang Yangming took up and which the essay uses in step 5.
 
-In the essay: Part two, step 7, 'Energy', fourth item of 'Empty, and let it through': he was good at nourishing his vast, flowing qi; it is exceedingly great and strong; nourished by rightness and left unharmed, it fills everything between heaven and earth; it grows out of a long run of right deeds, and when the heart is not at ease with what you do, it starves.
+In the essay: Part two, step 7, 'Energy', fourth item of 'Empty, and let it through': he was good at nourishing his vast, flowing qi; it is exceedingly great and strong; nourished by rightness and left unharmed, it fills everything between heaven and earth; it grows out of a long run of right deeds, and when the heart is not at ease with what you do, it starves. Since 5.0.4 (2026-10-26) the fold 'Empty, and let it through' is one sentence in the text and no longer cites it: private context for discussion.
 
 Where it sits: Mencius, Book II, Part A (Gongsun Chou I), chapter 2, the conversation with Gongsun Chou about the unmoved heart. Legge numbers the lines 11 to 15.
 
@@ -425,7 +425,7 @@ Kind: text. Status: partly checked (title, author, publisher and year confirmed 
 
 Who: A Nepali disciple of Osho. The book is a memoir of his years as Osho's student, the first of two autobiographical volumes (Lone Seeker, Many Masters came in 2015, Mystics and Miracles in 2023). It was written in Nepali and has been translated into English, Hindi, Chinese and Russian.
 
-In the essay: Part three, fold 'My teacher and I' (in section 5, 'The teacher and the method', until v4.61.0; after 'A note on community and the teacher' until 4.63.6; since 4.63.7 at the end of section 8, before the note): 'A few months before COVID I read a memoir by a student about life with his teacher, and it put words to something I wanted before I even understood that I wanted it.' Since 4.63.18 the essay names neither the book nor Osho in the text, only in the Sources list. It describes the author's own road, and nothing is quoted from it. Sources list (Part three): Swami Anand Arun, In Wonder with Osho (Osho Tapoban, 2017).
+In the essay: Part three, fold 'My teacher and I' (in section 5, 'The teacher and the method', until v4.61.0; after 'A note on community and the teacher' until 4.63.6; since 4.63.7 at the end of section 8, before the note): 'A few months before COVID I read a memoir by a student about life with his teacher, and it put words to something I wanted before I even understood that I wanted it.' Since 4.63.18 the essay names neither the book nor Osho in the text, only in the Sources list. It describes the author's own road, and nothing is quoted from it. Sources list (Part three): Swami Anand Arun, In Wonder with Osho (Osho Tapoban, 2017). Since 5.0.6 (2026-10-27, Alex's call) the book is no longer in the Sources list either, so it is not cited anywhere in the essay; the entry stays as private context.
 
 Find it:
 - Osho News on the book: https://www.oshonews.com/?p=86314
