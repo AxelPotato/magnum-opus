@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.1.6 (2026-10-27)
+
+- Part two: the elephant is cut from 'Why the paths differ' (Alex); the section opens on the question and goes to the guest at the door
+
+
 ## 5.1.5 (2026-10-27)
 
 - Part two, step 7: the river lands in something felt (tired and not empty), a test for this week (the talking or the guarding), and the fold 'Empty, and let it through' becomes one sentence in the text; Mencius and Eckhart drop from the Sources list
