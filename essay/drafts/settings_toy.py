@@ -26,6 +26,7 @@ CSS_EXTRA = r"""
 .toy .bar{display:flex;justify-content:center;gap:.6rem;flex-wrap:wrap;margin:.4rem 0 .2rem}
 .toy .bar button{font-family:var(--mono);font-size:.75rem;color:var(--ink);background:var(--card);border:1.5px solid var(--rule);border-radius:999px;padding:.35rem .8rem;cursor:pointer}
 .toy .bar button:hover{border-color:var(--high)}
+.toy .lead{font-family:var(--mono);font-size:.78rem;line-height:1.5;color:var(--muted);text-align:center;margin:0 auto .2rem;max-width:34rem}
 .toy .hint{font-family:var(--mono);font-size:.72rem;color:var(--muted);text-align:center;margin:.2rem 0 0}
 .chart .catf{fill:var(--muted);fill-opacity:.35;stroke:var(--ink);stroke-width:2.2;stroke-linejoin:round}
 .chart .sky{fill:#F2C14E;fill-opacity:.16;stroke:none}
@@ -447,10 +448,10 @@ def widget(caption='Four settings for one point of view, and what each mix of th
         on = ' on' if k == START else ''
         scenes.append(f'<div class="scene{on}" data-k="{k}">{fn()}<div class="say"><h5>{title}</h5><p>{text}</p></div></div>')
     return (f'<figure class="fig toy" data-start="{START}">'
-            f'<p class="hint" hidden>Tap a slider to turn it up or down. Sixteen combinations.</p>'
+            f'<p class="lead">{caption}</p>'
+            f'<p class="hint" hidden>Tap a slider to turn it up or down.</p>'
             f'{sliders()}'
             f'<div class="bar" hidden><button type="button" class="reset">back to factory settings</button>'
             f'<button type="button" class="rand">surprise me</button></div>'
             f'{"".join(scenes)}'
-            f'<figcaption>{caption}</figcaption>'
             f'<script>{js}</script></figure>')
