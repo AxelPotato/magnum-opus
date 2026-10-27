@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.1.2 (2026-10-27)
+
+- Part one: the math section is shorter (two paragraphs and the squares picture; the 50/50 and 80/80 numbers and the 'numbers are made up' paragraph are cut), after run 11 readers skimmed it
+
+
 ## 5.1.1 (2026-10-27)
 
 - Settings toy: fresh start card (most days, one more candle) and the head chef in place of the founder
