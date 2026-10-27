@@ -1,6 +1,4 @@
-"""Draft, not in the build yet. Moves to essay/figs6.py when it joins Part two (run from essay/: sys.path must reach figs2).
-
-The four settings from Part two, step 2, as a toy: tap a slider to flip it between low and high,
+"""The four settings from Part two, step 2, as a toy: tap a slider to flip it between low and high,
 and the picture and the short text under it change. Sixteen combinations, one drawing and one text each.
 
 widget() returns the whole figure (sliders, sixteen scenes, sixteen texts and its script). Without

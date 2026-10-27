@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.1.0 (2026-10-27)
+
+- Part two, step 2: the settings picture is now a toy, four sliders with a drawing and a short text for each of the sixteen combinations
+
+
 ## 5.0.0 (2026-10-26)
 
 - Version 5.0.0 at Alex's call: the essay with pictures in every part (Part two's sixteen, Part three's fourteen drawings and two photos)
