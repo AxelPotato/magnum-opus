@@ -8,6 +8,161 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.1.1 (2026-10-27)
+
+- Settings toy: fresh start card (most days, one more candle) and the head chef in place of the founder
+
+
+## 5.1.0 (2026-10-27)
+
+- Part two, step 2: the settings picture is now a toy, four sliders with a drawing and a short text for each of the sixteen combinations
+
+
+## 5.0.0 (2026-10-26)
+
+- Version 5.0.0 at Alex's call: the essay with pictures in every part (Part two's sixteen, Part three's fourteen drawings and two photos)
+
+
+## 4.65.1 (2026-10-26)
+
+- Jokes on seven of the new pictures (the liver cell in Part two; the yes, five minutes a day, the three jobs of attention, the ditch, the circle of giving and a strong weekend in Part three), at Alex's pick
+
+
+## 4.65.0 (2026-10-26)
+
+- Pictures for Parts two and three: ten new drawings in Part two and fourteen in Part three, drawn in Part one's hand, plus two photos of Alex in Part three (garden duty in Giving, stillness after the stillness instruction)
+
+
+## 4.64.1 (2026-10-26)
+
+- Part three: the stillness instruction adds 'feel the life in your body' (Alex)
+
+
+## 4.64.0 (2026-10-26)
+
+- Part three: ideas from the Paradanta booklet (fact and story, danger and fear, own wish and expectations; family, work and health as where practice shows; inner work gives freedom and giving turns it into something for others; why a strong weekend fades; conflict without attacking and keeping agreements; clearer, steadier, more honest, easier to work with; try stillness without agreeing first); stillness instruction is now Alex's two commands, attention on the sensation of life in the body and learn to gain pleasure from it
+
+
+## 4.63.24 (2026-10-26)
+
+- Step 7 bridges become short paragraphs (Part two); Part three note adds 'could I leave without a fight' and Alex's line on people who leave; section 8 opening says the outside view through the accent picture instead of 'at a glance' and 'can see the circle'
+
+
+## 4.63.23 (2026-10-26)
+
+- Part three: the dropped-terms story moves from the note into the fold 'My teacher and I' as its last entry, right after the click; the note drops 'the question was settled' and 'common sense works a little differently'
+
+
+## 4.63.22 (2026-10-26)
+
+- Part three note: the first fear paragraph (doing what I want, guidelines, no cursing) is cut; the teacher fear now opens 'The fear behind it is natural.'
+
+
+## 4.63.21 (2026-10-26)
+
+- Part three note: opener drops 'these two are the ones whose importance changes the most once a person sees what they give'; first fear no longer 'Most of the fears ... come down to one'
+
+
+## 4.63.20 (2026-10-25)
+
+- Part two fold layout: step 7 Miracles fold back at the end after a new line ('Once more starts coming through...'); step 5 'In this very life' merged into the lives fold after the purgatory paragraph; step 4 'Restless until it rests' moved up after the bottom-point paragraph
+
+
+## 4.63.19 (2026-10-25)
+
+- Part two: NPC game paragraph cut (free will now 'free inside the rules'); first tradition fold in plain words, verse numbers left to Sources; no two folds side by side: Cloaks, Foreseen, post-mortem, Halves, Restless, Lives, Miracles and God folds moved next to the paragraphs they belong to
+
+
+## 4.63.18 (2026-10-25)
+
+- Part three fold 'My teacher and I': Osho removed; the entry now starts from Alex's plateau and his wish for a real teacher, the memoir read a few months before COVID (unnamed in the text, still in Sources); reading pack updated
+
+
+## 4.63.17 (2026-10-25)
+
+- Part three fold 'My teacher and I' in four entries: Osho and the memoir merged, with a plain condemnation of the poisonings in Oregon; the course ladder, the Sochi details and the illness cut
+
+
+## 4.63.16 (2026-10-25)
+
+- Part three note: the emotion test made clearer (decide nothing while the emotion is there, then look again with a clear head; what stays is taken seriously)
+
+
+## 4.63.15 (2026-10-25)
+
+- Part three section 7: after the Giving School example, a line that there are many communities and the one to look for is the one that resonates with you
+
+
+## 4.63.14 (2026-10-25)
+
+- Part three: shorter Osho entry in the fold (no 'activity around him', no blame on followers); the note's pointer to the fold cut
+
+
+## 4.63.13 (2026-10-25)
+
+- Part three fold 'My teacher and I': the fever dream and the student's book are cut; the click stays, compared to falling in love (Alex a2)
+
+
+## 4.63.12 (2026-10-25)
+
+- Part three note: the checklist sentence comes back (Alex 7.c); the new question stays
+
+
+## 4.63.11 (2026-10-25)
+
+- Part three note: checklist sentence cut; 'Do I feel better around these people' becomes 'Can I say I disagree and still be welcome'
+
+
+## 4.63.10 (2026-10-25)
+
+- Part three note: disagreements told through Alex's emotion test instead of 'my wish to do things my way'
+
+
+## 4.63.9 (2026-10-25)
+
+- Part three note: opening drops the Western individualism clause; Alex's own line instead (wanting to do what I want, against the school system in high school)
+
+
+## 4.63.8 (2026-10-25)
+
+- Part three fold 'My teacher and I': Osho entry drops the Wild Wild Country sentence and 'not sure how much of it was up to him'
+
+
+## 4.63.7 (2026-10-25)
+
+- Part three: the fold 'My teacher and I' moves to the end of section 8, before the note; the note's pointer updated
+
+
+## 4.63.6 (2026-10-25)
+
+- Part three fold 'My teacher and I': opens with what anyone can see (students, two written accounts of change), the warning line cut, a new entry on what Osho meant to Alex and how he sees what happened around him, 'a big fan' cut
+
+
+## 4.63.5 (2026-10-25)
+
+- Part three note: 'live among' to 'spend your time among', plus the no-cursing guideline as an example (Alex 4.c)
+
+
+## 4.63.4 (2026-10-25)
+
+- Part three note: 'to a skeptical Western reader' and 'more than my own' cut (Alex 3.b)
+
+
+## 4.63.3 (2026-10-25)
+
+- Part three note: discomfort paragraph drops 'going against what the mind wants' and 'always find reasons', adds Alex's own test, emotion first (Alex 2.c)
+
+
+## 4.63.2 (2026-10-25)
+
+- Part three note: cut the 'whose fear that is' paragraph and the 'flinch' paragraph after it (Alex 1.a)
+
+
+## 4.63.1 (2026-10-24)
+
+- Figures that stay in the text column (such as Five quiet kinds of DO and the Intro photo) were pushed to the right on wide screens by the sidebar layout; they are centred again
+
+
 ## 4.63.0 (2026-10-24)
 
 - Stay in contact page: thank-you line, reply within a few days, and the page moves from next to contact (URL /contact)

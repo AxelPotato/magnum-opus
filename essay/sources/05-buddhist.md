@@ -662,7 +662,7 @@ Kind: text. Status: checked (Sujato's English read on SuttaCentral on 2026-10-24
 
 Who: The discourse on the four establishments of mindfulness (body, feelings, mind, principles), the base text of much modern vipassana.
 
-In the essay (v4.61.0): Part two, step 5, 'Something carries over', first item of the fold 'In this very life': anyone who develops the four kinds of mindfulness for seven years can expect one of two results, enlightenment in this very life or, if something is left over, non-return; then the time is shortened step by step down to seven days. Sources list (Part two, step 5).
+In the essay (v4.63.20): Part two, step 5, 'Something carries over', ninth item of the fold 'Lives, afterlives, and the one who goes through them': anyone who develops the four kinds of mindfulness for seven years can expect one of two results, enlightenment in this very life or, if something is left over, non-return; then the time is shortened step by step down to seven days. Sources list (Part two, step 5).
 
 The passage: Sujato: 'Anyone who develops these four kinds of mindfulness meditation in this way for seven years can expect one of two results: enlightenment in this very life, or if there's residue left behind, non-return.' It then runs six years, five, down to one year, seven months down to a fortnight, and ends 'Let alone a fortnight, anyone who develops these four kinds of mindfulness meditation in this way for seven days can expect one of two results'.
 
