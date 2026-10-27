@@ -354,3 +354,22 @@ Background: Sagan wrote the book to defend scientific thinking against pseudosci
 If someone pushes back:
 - Didn't Sagan believe in reincarnation? No. In this passage he says he does not think the claims are likely to be valid, and wants them studied because they might be true.
 - Is it fair to use Sagan here? The essay uses him as an example of a famous sceptic who thought the question deserved a look, and says he doubted it. It does not use him as support.
+
+## Fowler and Christakis 2008 (happiness spreads in a social network), with Cohen-Cole and Fletcher 2008 (Fowler, J. H., and Christakis, N. A., BMJ 2008; the reply by Cohen-Cole, E., and Fletcher, J. M., BMJ 2008)
+
+Kind: study. Status: unchecked.
+
+Who: James Fowler (political science, UC San Diego) and Nicholas Christakis (medicine and sociology, then at Harvard) used the Framingham Heart Study, a long-running health study of one Massachusetts town, whose records happen to list each participant's friends, relatives and neighbours.
+
+In the essay (v5.2.0): Part two, step 8 'Lifting the cloth', last item of the fold 'One cloth': a long study of one town in Massachusetts found that people's happiness tracked the happiness of their friends, and of their friends' friends (Fowler and Christakis, 2008); other researchers have argued that part of this is people with similar moods finding each other, so how much of it really spreads is still debated. Part two gives no numbers.
+
+Where it sits: Fowler, J. H., & Christakis, N. A. (2008). Dynamic spread of happiness in a large social network: longitudinal analysis over 20 years in the Framingham Heart Study. BMJ, 337, a2338. The critique: Cohen-Cole, E., & Fletcher, J. M. (2008). Detecting implausible social network effects in acne, height, and headaches: longitudinal analysis. BMJ, 337, a2533.
+
+Read it free:
+- BMJ, Fowler and Christakis (open access): https://www.bmj.com/content/337/bmj.a2338 (not checked)
+- BMJ, Cohen-Cole and Fletcher: https://www.bmj.com/content/337/bmj.a2533 (not checked)
+
+Background: The study reports that happiness clusters up to three degrees of separation and that being near a happy friend raises the chance of being happy. Cohen-Cole and Fletcher found similar "spread" for acne, height and headaches with the same methods, which suggests that shared environment and choosing similar friends explain part of it. Later work (Shalizi and Thomas 2011) argued that contagion and homophily cannot be fully separated in such data. Readers asked for exactly this caveat.
+
+If someone pushes back:
+- Doesn't the acne result kill it? It shows the method overstates contagion; it does not show that moods never pass between people. The essay says how much spreads is debated.

@@ -275,6 +275,25 @@ Once more starts coming through, people around you notice. Things work out more 
 
   Chasing them is the separate self wanting more for itself, which is the tank from this step again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
 
+## 8. Lifting the cloth
+
+Step 7 opened with two hours: one spent with someone you have to keep your guard up around, and one with an old friend you come away lighter from. Turn it around. For the people in your life you are one of those two, and which one depends a lot on how much wall you are holding that day.
+
+That follows from the fingers. If whatever I do to another part comes back to me, then whatever I mend in myself reaches the others, and when one finger stops pressing, the finger next to it feels it first. It shows in two ways. The first you can watch from outside. A person who has stopped fighting themselves is easier to be around. They say sorry first and follow up on their words, and the people near them relax a little and sometimes start doing the same. Anyone who has had a good boss after a bad one has seen it.
+
+The second comes from step 7. The energy was never mine, so when I stop clamping the wheel it doesn't stop at my mill. It flows on to the people I'm with, and most of all to the ones I want to help. Every bit of wall I take down on my side is wall they don't have to push against. You can check this half on your own evenings. People leave an evening with you a bit lighter or a bit flatter, and it's worth noticing which, and whether that changes as you do.
+
+Here is the picture I use. Take a piece of cloth with small jewels sewn all over it and lay it flat on a table. Pick it up by one jewel and lift. That jewel rises first, the ones next to it come up right after, and the far corners leave the table last. Nobody pulls on them, they rise because it is one cloth. Under the axiom, a person moving back toward unity looks like that from outside. The jewels that rise most are the nearest ones, which is why the first people to notice are usually the ones you live with.
+
+#### One cloth
+
+* The Daodejing says: cultivate it in yourself, and your virtue will be real. Cultivate it in the family, and it will overflow. Then the village, the country, and the world (54).
+* The Great Learning, one of the Confucian classics, runs the same chain from the other end. Those who wanted to bring order to the world first put their own states in order, before that their families, and before that themselves, and it says that once the self is cultivated, the family is set right.
+* Huayan Buddhism pictures the world as the net of the god Indra, with a jewel at every knot, each one reflecting all the others, so that nothing happens to one jewel alone.
+* Jesus says that nobody lights a lamp to put it under a basket. It goes on a stand, and it gives light to everyone in the house (Matthew 5:15).
+* A saying attributed to Seraphim of Sarov, the Russian monk: acquire a peaceful spirit, and thousands around you will be saved.
+* A long study of one town in Massachusetts found that people's happiness tracked the happiness of their friends, and of their friends' friends (Fowler and Christakis, 2008). Other researchers have argued that part of this is people with similar moods finding each other, so how much of it really spreads is still debated.
+
 ## Why the paths differ
 
 If one structure sits behind all this, why do the religions look so different? The whole goes into separation through countless points of view, no two of them meet the wall in the same way, and so a path is a way back drawn for particular people at a particular time. The core stays because it comes from the structure. The forms change because the people do.
@@ -373,6 +392,11 @@ The axiom and the machine
 - Digha Nikaya 11, the Kevaddha Sutta (Sujato's translation, SuttaCentral).
 - Matthew 12:38-39.
 - Teresa of Avila, The Life of St. Teresa of Jesus, chapter 20 (Lewis, D., trans., 1904).
+
+8. Lifting the cloth
+
+- Daodejing 54 (Legge's translation, Sacred Books of the East, vol. 39). The Great Learning (Daxue), the opening section (Legge's translation, The Chinese Classics, vol. 1). Cook, F. H. (1977). Hua-yen Buddhism: The Jewel Net of Indra. Penn State University Press. Matthew 5:15. The saying attributed to Seraphim of Sarov circulates in his collected instructions and in later lives of the saint.
+- Fowler, J. H., & Christakis, N. A. (2008). Dynamic spread of happiness in a large social network: longitudinal analysis over 20 years in the Framingham Heart Study. BMJ, 337, a2338. Cohen-Cole, E., & Fletcher, J. M. (2008). Detecting implausible social network effects in acne, height, and headaches: longitudinal analysis. BMJ, 337, a2533.
 
 Why the paths differ
 

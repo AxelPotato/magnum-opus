@@ -931,3 +931,43 @@ Background: scholars debate who 'the least of these' are: everyone in need (the 
 
 If someone pushes back:
 - 'The least of these means Christians.' That is one scholarly reading. The verse still says that welcoming the stranger was welcoming him.
+
+## Matthew 5:15 (a lamp on a stand gives light to all in the house) (Gospel of Matthew, late first century)
+
+Kind: text. Status: unchecked.
+
+Who: The verse is from the Sermon on the Mount, right after "You are the light of the world" (5:14).
+
+In the essay (v5.2.0): Part two, step 8 'Lifting the cloth', fold 'One cloth': Jesus says that nobody lights a lamp to put it under a basket; it goes on a stand, and it gives light to everyone in the house (Matthew 5:15).
+
+Where it sits: Matthew 5:15. Parallels at Mark 4:21 and Luke 8:16 and 11:33.
+
+The passage: ESV: "Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house."
+
+Read it free:
+- Bible Gateway, Matthew 5 (ESV and other versions): https://www.biblegateway.com/passage/?search=Matthew+5 (not checked)
+
+Background: Verse 16 goes on: let your light shine before others, so that they may see your good works and glorify your Father in heaven. The essay quotes only the lamp and the house.
+
+If someone pushes back:
+- Is it about influence on others? Verse 16 says the light is meant to be seen by others, so yes, in the plain sense.
+
+## Seraphim of Sarov, "Acquire a peaceful spirit" (attributed) (Seraphim of Sarov, 1754 or 1759 to 1833, Russian Orthodox monk and starets)
+
+Kind: person. Status: unchecked.
+
+Who: A monk of the Sarov monastery, one of the most loved Russian saints, canonized in 1903. His conversation with Nikolay Motovilov on acquiring the Holy Spirit is his best-known text.
+
+In the essay (v5.2.0): Part two, step 8 'Lifting the cloth', fold 'One cloth': a saying attributed to Seraphim of Sarov, the Russian monk: acquire a peaceful spirit, and thousands around you will be saved.
+
+Where it sits: The saying circulates in collections of his instructions and in lives of the saint, usually in Russian as «Стяжи дух мирен, и тысячи вокруг тебя спасутся». The essay marks it as attributed because a first source was not located.
+
+Read it free:
+- Wikipedia, Seraphim of Sarov: https://en.wikipedia.org/wiki/Seraphim_of_Sarov (not checked)
+
+Read it in a book: Valentine Zander, St. Seraphim of Sarov (St Vladimir's Seminary Press, 1975). From memory; check a catalogue.
+
+Background: "Saved" is the Orthodox word for salvation, being brought to God, and the saying is usually read as: inner peace in one person draws the people around them toward God. A skeptic reader flinched at "saved"; the essay keeps it because it is the saying.
+
+If someone pushes back:
+- Did he say it? It is attributed to him in the tradition, and the essay says so.
