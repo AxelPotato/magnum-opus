@@ -177,7 +177,7 @@ REVIEW_JS = """
       var s = window.getSelection();
       if (s && !s.isCollapsed && String(s).trim()) return;
       var el = e.target.closest && e.target.closest(BLOCKS);
-      if (!el || !inEssay(el) || e.target.closest('a, button, input, textarea, select, summary, label')) { clear(); return; }
+      if (!el || !inEssay(el) || e.target.closest('a, button, input, textarea, select, summary, label, [role="switch"]')) { clear(); return; }
       if (el === marked) { clear(); return; }
       clear();
       marked = el;
