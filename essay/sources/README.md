@@ -54,7 +54,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Blanke and Metzinger 2009 (Full-body illusions and minimal phenomenal selfhood) [study, partly checked]
 - Metzinger 2003, Being No One [text, partly checked]
 - Cialdini, Brown, Lewis, Luce and Neuberg 1997 (When one into one equals oneness) [study, checked]
-- Fowler and Christakis 2008 (happiness in a social network), with Cohen-Cole and Fletcher 2008 [study, unchecked]
+- Fowler and Christakis 2008 (happiness in a social network), with Cohen-Cole and Fletcher 2008 and Shalizi and Thomas 2011 [study, checked]
 - Batson et al. 1997 and the reply to Cialdini (the empathy-altruism dispute) [study, partly checked]
 - Mikulincer, Shaver, Gillath and Nitzberg 2005 (attachment security, compassion and helping) [study, partly checked]
 - Hafenbrack, LaPalme and Solal 2022 (mindfulness reduces guilt and reparation) [study, checked]
@@ -240,7 +240,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - The Rule of Benedict, chapter 1 (Part three, 'Friends on the path') [text, checked]
 - Matthew 25:35-40 (I was a stranger and you welcomed me) [text, checked]
 - Matthew 5:15 (a lamp on a stand gives light to all in the house) [text, unchecked]
-- Seraphim of Sarov, 'Acquire a peaceful spirit' (attributed) [person, unchecked]
+- Seraphim of Sarov, 'Acquire a peaceful spirit' (attributed) [person, partly checked]
 
 ### Islamic sources (`09-islamic.md`)
 

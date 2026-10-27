@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.2.2 (2026-10-27)
+
+- Part two step 8, fold One cloth: the study's caveat now names shared surroundings and similar moods (citation check); Shalizi and Thomas 2011 in Sources; reading pack statuses
+
+
 ## 5.2.1 (2026-10-27)
 
 - Part three, Giving: one clause links the people closest to you to the cloth of Part two's step 8
