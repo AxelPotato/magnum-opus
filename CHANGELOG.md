@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.2.1 (2026-10-27)
+
+- Part three, Giving: one clause links the people closest to you to the cloth of Part two's step 8
+
+
 ## 5.2.0 (2026-10-27)
 
 - Part two gains step 8, Lifting the cloth: karma read backwards, so what I mend in myself reaches the people next to me, the everyday way and through the energy of step 7; the cloth with jewels and its drawing; fold One cloth; chain figure has eight steps; five reading-pack entries

@@ -365,7 +365,7 @@ def rules3():
         "Part two said the belief that I'm separate": dict(after=figure(F5.JOKES['fig_jobs'](), 'The three jobs of attention.')),
         "Underneath all three there's a plain skill": dict(after=figure(F5.fig_apart(), 'What usually arrives glued together starts to come apart.')),
         'Prayer is the same attention': dict(after=figure(F5.JOKES['fig_ditch'](), "Prayers alone don't bring rain, and someone has to dig the ditches for it.")),
-        'It starts with the people closest to you.': dict(after=figure(F5.JOKES['fig_circles'](), 'It starts with the people closest to you, and the circle widens from there.')),
+        'It starts with the people closest to you,': dict(after=figure(F5.JOKES['fig_circles'](), 'It starts with the people closest to you, and the circle widens from there.')),
         'Then we had an enormous fight.': dict(after=figure(F5.fig_lever(), 'The lever was so rusty it barely moved. After about ten minutes it moved.')),
         'When someone harms you, you react': dict(after=figure(F5.fig_samestep(), 'The same step away can be a clear choice or a flinch.')),
         'This condition matters more now': dict(after=figure(F5.JOKES['fig_weekend'](), 'A strong weekend, on your own and with people you see every week. An illustration, not data.')),
