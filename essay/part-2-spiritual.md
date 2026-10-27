@@ -292,7 +292,7 @@ Here is the picture I use. Take a piece of cloth with small jewels sewn all over
 * Huayan Buddhism pictures the world as the net of the god Indra, with a jewel at every knot, each one reflecting all the others, so that nothing happens to one jewel alone.
 * Jesus says that nobody lights a lamp to put it under a basket. It goes on a stand, and it gives light to everyone in the house (Matthew 5:15).
 * A saying attributed to Seraphim of Sarov, the Russian monk: acquire a peaceful spirit, and thousands around you will be saved.
-* A long study of one town in Massachusetts found that people's happiness tracked the happiness of their friends, and of their friends' friends (Fowler and Christakis, 2008). Other researchers have argued that part of this is people with similar moods finding each other, so how much of it really spreads is still debated.
+* A long study of one town in Massachusetts found that people's happiness tracked the happiness of their friends, and of their friends' friends (Fowler and Christakis, 2008). Other researchers have argued that part of this comes from friends sharing the same surroundings, or people with similar moods finding each other, so how much of it really spreads is still debated.
 
 ## Why the paths differ
 
@@ -396,7 +396,7 @@ The axiom and the machine
 8. Lifting the cloth
 
 - Daodejing 54 (Legge's translation, Sacred Books of the East, vol. 39). The Great Learning (Daxue), the opening section (Legge's translation, The Chinese Classics, vol. 1). Cook, F. H. (1977). Hua-yen Buddhism: The Jewel Net of Indra. Penn State University Press. Matthew 5:15. The saying attributed to Seraphim of Sarov circulates in his collected instructions and in later lives of the saint.
-- Fowler, J. H., & Christakis, N. A. (2008). Dynamic spread of happiness in a large social network: longitudinal analysis over 20 years in the Framingham Heart Study. BMJ, 337, a2338. Cohen-Cole, E., & Fletcher, J. M. (2008). Detecting implausible social network effects in acne, height, and headaches: longitudinal analysis. BMJ, 337, a2533.
+- Fowler, J. H., & Christakis, N. A. (2008). Dynamic spread of happiness in a large social network: longitudinal analysis over 20 years in the Framingham Heart Study. BMJ, 337, a2338. Cohen-Cole, E., & Fletcher, J. M. (2008). Detecting implausible social network effects in acne, height, and headaches: longitudinal analysis. BMJ, 337, a2533. Shalizi, C. R., & Thomas, A. C. (2011). Homophily and contagion are generically confounded in observational social network studies. Sociological Methods & Research, 40(2), 211-239.
 
 Why the paths differ
 

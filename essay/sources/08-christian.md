@@ -954,7 +954,7 @@ If someone pushes back:
 
 ## Seraphim of Sarov, "Acquire a peaceful spirit" (attributed) (Seraphim of Sarov, 1754 or 1759 to 1833, Russian Orthodox monk and starets)
 
-Kind: person. Status: unchecked.
+Kind: person. Status: partly checked.
 
 Who: A monk of the Sarov monastery, one of the most loved Russian saints, canonized in 1903. His conversation with Nikolay Motovilov on acquiring the Holy Spirit is his best-known text.
 
