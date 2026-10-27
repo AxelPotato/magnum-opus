@@ -368,7 +368,6 @@ def rules3():
         'When someone harms you, you react': dict(after=figure(F5.fig_samestep(), 'The same step away can be a clear choice or a flinch.')),
         'This condition matters more now': dict(after=figure(F5.JOKES['fig_weekend'](), 'A strong weekend, on your own and with people you see every week. An illustration, not data.')),
         'There will be moments, plenty of them': dict(after=figure(F5.fig_emotion(), 'Decide nothing while the emotion is there. Look again with a clear head, and take seriously what is still there.')),
-        'Giving here means putting effort': dict(after=photo('garden', 'The author watering a lawn with a garden hose', 'Cyber security by day. At the center, junior hose operator.')),
         'Stillness is the simplest form of this': dict(after=photo('stillness', 'The author sitting cross-legged with eyes closed, with his team meditating around him', 'Most days I sit like this two or three times. The beard is not part of the method.')),
     }
 

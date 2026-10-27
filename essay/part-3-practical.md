@@ -208,4 +208,3 @@ And one question for the road: who in your life could tell you honestly how you 
 
 My teacher and I
 
-- Swami Anand Arun, In Wonder with Osho (Osho Tapoban, 2017).
