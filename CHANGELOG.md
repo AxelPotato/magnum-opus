@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.1.4 (2026-10-27)
+
+- Part two: 'Why the paths differ' rewritten short: the blind men and the elephant open it, the guest at the door (Genesis 18, Taittiriya 1.11.2, Bukhari 6018, Matthew 25, the langar) is the example; the 21st-century paragraph and the fold 'Many names for one thing' are cut; reading pack updated
+
+
 ## 5.1.3 (2026-10-27)
 
 - Part one: the section 'One hose' is cut (Alex: kept in part-1-notes.md for a future video; the drawing stays in figs2.py)

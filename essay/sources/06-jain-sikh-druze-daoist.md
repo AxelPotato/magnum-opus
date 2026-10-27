@@ -491,3 +491,20 @@ Background: Svetambara and Digambara accounts differ in details (his age at keva
 
 If someone pushes back:
 - 'That's Mahavira, a Tirthankara, not an ordinary person.' Jain teaching holds that any soul can reach kevala; Mahavira is the model case.
+
+## The langar, the free kitchen of the Sikh gurdwara (begun under Guru Nanak in the early 16th century, organized under Guru Amar Das)
+
+Kind: concept. Status: partly checked.
+
+Who: Every gurdwara runs a langar, a community kitchen that serves a free meal to anyone who comes, whatever their religion, caste or status, sitting together on the floor. Volunteers cook and serve as seva.
+
+In the essay: Part two, 'Why the paths differ' (since 5.0.3): 'a Sikh temple kitchen, the langar, feeds anyone who walks in.'
+
+Where it sits: a practice, not a verse. Tradition credits Guru Nanak with starting it and Guru Amar Das with the rule that everyone, the emperor Akbar included in the story, first eats in the langar.
+
+Read it free:
+- Wikipedia, 'Langar (Sikhism)': https://en.wikipedia.org/wiki/Langar_(Sikhism) (not checked)
+
+Read it in a book: W. H. McLeod, Sikhism (Penguin, 1997).
+
+Background: the Golden Temple in Amritsar is said to serve tens of thousands of meals a day. The Akbar story is tradition, not documented history.
