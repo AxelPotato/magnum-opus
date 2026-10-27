@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.1.1 (2026-10-27)
+
+- Settings toy: fresh start card (most days, one more candle) and the head chef in place of the founder
+
+
 ## 5.1.0 (2026-10-27)
 
 - Part two, step 2: the settings picture is now a toy, four sliders with a drawing and a short text for each of the sixteen combinations

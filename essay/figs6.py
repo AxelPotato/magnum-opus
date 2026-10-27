@@ -46,9 +46,9 @@ TEXTS = {
     '0000': ('The cat on the windowsill',
              "It knows where the food is, it can reach most of it, its life is short and it wants very little beyond the warm spot by the window. "
              "Small world, big nap. This might be the most content setting on the page, and the cat is fully aware of it."),
-    '0001': ('You and me, before coffee',
-             "This is the setup from the paragraph above. It sees what is near, it reaches what is near, it has a birthday every year, "
-             "and its wish list is longer than the calendar. Most of us live here, and it is where every good story starts."),
+    '0001': ('You and me, most days',
+             "It sees what is near, it reaches what is near, it gets one more candle on the cake every year, "
+             "and its wish list grows faster than the candles. Most of us live here, and it is where every good story starts."),
     '0010': ('The pebble on the beach',
              "It lasts practically forever and wants nothing at all. It doesn't know much and can't do much, and it is completely at peace with that. "
              "Great at meditation, a little weak on conversation."),
@@ -82,9 +82,9 @@ TEXTS = {
     '1100': ('The best plumber in town',
              "Knows what the noise is before you finish describing it, fixes it before the kettle boils, has another call after lunch, "
              "and wants nothing but a glass of water. A short visit that leaves everything working, which is a pretty good life plan."),
-    '1101': ('The founder on a deadline',
-             "Sees the whole market, can build almost anything, has until Friday, and wants the moon plus a little extra. "
-             "Part one gave this one a room of its own."),
+    '1101': ('The head chef on a Saturday night',
+             "Knows every recipe by heart, can cook anything you name, has until the last table goes home, "
+             "and wants every plate perfect, plus a star from the famous guide. The kitchen is loud, and the food is very, very good."),
     '1110': ('The whole',
              "It knows everything, it can do anything, it has no clock and it wants nothing, because nothing is missing. Very peaceful, and a little short on plot. "
              "If you accept the axiom, that is exactly why the rest of this page exists."),
@@ -169,12 +169,15 @@ def s0001():
     b = ['<circle class="sky" cx="200" cy="150" r="80"/>',
          ground(234, 90, 310),
          person(200, 120),
-         '<path class="st" d="M218 160 h12 v18 h-12 z M230 165 q8 4 0 10"/>',
-         clock(90, 60)]
-    b.append(think(330, 22, 230, 160, ['coffee', 'a raise', 'a nap', 'the beach house', 'more coffee'], 214, 104))
-    b.append(J(200, 90, '5 more minutes', 'c2', 'middle'))
+         clock(90, 60),
+         # the cake with one more candle
+         '<rect class="card" x="236" y="200" width="56" height="30" rx="4"/>',
+         '<path class="st" d="M250 200 V188 M264 200 V188 M278 200 V188"/>',
+         '<path class="flame" d="M278 186 C274 182 276 176 278 172 C280 176 282 182 278 186 Z"/>']
+    b.append(think(330, 22, 230, 160, ['a nap', 'a raise', 'a dog', 'the beach house', 'a bigger cake'], 214, 104))
+    b.append(J(278, 166, '+1', 'c2', 'middle'))
     b.append(J(600, 220, 'the list goes on', 'c1', 'end'))
-    return svg('0 0 680 250', 'A sleepy person in a small circle of light holding a mug, with a clock on the wall and a long wish list in a thought bubble', ''.join(b), 't1')
+    return svg('0 0 680 250', 'A person in a small circle of light next to a birthday cake with one more candle, a clock on the wall and a long wish list in a thought bubble', ''.join(b), 't1')
 
 
 def s0010():
@@ -330,17 +333,24 @@ def s1100():
 
 
 def s1101():
-    b = ['<rect class="card" x="210" y="150" width="200" height="10" rx="2"/>',
-         '<path class="st" d="M230 160 V232 M390 160 V232"/>', ground(232),
-         '<path class="card" d="M290 150 L300 104 H372 L366 150 Z"/>',
-         '<circle class="st" cx="250" cy="96" r="11"/><path class="st" d="M250 107 V150"/>',
-         # many arms, typing very fast
-         '<path class="st" d="M250 118 L296 140 M250 122 L290 132 M250 126 L300 146 M250 130 L284 150"/>',
-         '<rect class="card" x="460" y="60" width="90" height="70" rx="4"/><rect class="warn" x="460" y="60" width="90" height="18" rx="4"/>',
-         T(505, 112, 'FRIDAY', 'ts', 'middle')]
-    b.append(think(20, 20, 180, 60, ['the moon.', 'and a bit more.'], 242, 82))
-    b.append(J(600, 180, 'just one more', 'c2', 'middle') + J(600, 200, 'feature', 'c2', 'middle'))
-    return svg('0 0 680 250', 'A founder typing with many arms at once, a calendar saying Friday, thinking about the moon', ''.join(b), 't13')
+    b = [ground(232),
+         # the stove with three pans
+         '<rect class="card" x="300" y="150" width="240" height="82" rx="4"/>',
+         '<path class="st" d="M300 166 H540"/>',
+         person(240, 120),
+         # chef's hat
+         '<path class="card" d="M226 112 C214 104 220 86 232 92 C234 78 250 78 252 92 C264 86 268 104 254 112 Z"/>',
+         '<path class="st" d="M240 162 L310 140 M240 162 L300 156"/>']
+    for x in (330, 410, 490):
+        b.append(f'<path class="card" d="M{x - 26} 140 H{x + 26} V150 H{x - 26} Z"/><path class="st" d="M{x + 26} 144 H{x + 46}"/>')
+        b.append(f'<path class="stm" d="M{x - 8} 132 q4 -8 0 -16 M{x + 6} 132 q4 -8 0 -16"/>')
+    # the ticket rail
+    b.append('<path class="st" d="M330 50 H560"/>')
+    for i, x in enumerate((340, 380, 420, 460, 500, 540)):
+        b.append(f'<rect class="card" x="{x - 2}" y="50" width="30" height="40" rx="2" transform="rotate({(i % 3 - 1) * 4} {x + 13} 50)"/>')
+    b.append(think(20, 20, 180, 60, ['every plate perfect.', 'and a star.'], 236, 94))
+    b.append(J(620, 200, 'yes, chef!', 'c3', 'middle'))
+    return svg('0 0 680 250', 'A head chef at a stove with three steaming pans and a full rail of order tickets, thinking about perfect plates and a star', ''.join(b), 't13')
 
 
 def s1110():
