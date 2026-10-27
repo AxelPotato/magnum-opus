@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.0.7 (2026-10-27)
+
+- Part three sections 7 and 8: Dan's dips reworded (help instead of counterweight, positive closing lines, new section 8 opening)
+
+
 ## 5.0.6 (2026-10-27)
 
 - Part three: hose photo removed, In Wonder with Osho out of Sources
