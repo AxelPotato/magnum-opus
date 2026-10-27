@@ -508,3 +508,25 @@ Read it free:
 Read it in a book: W. H. McLeod, Sikhism (Penguin, 1997).
 
 Background: the Golden Temple in Amritsar is said to serve tens of thousands of meals a day. The Akbar story is tradition, not documented history.
+
+## Daodejing 54 (cultivate it in yourself, then the family, the village, the country, the world) (Attributed to Laozi; the text took shape in the fourth to third century BCE)
+
+Kind: text. Status: unchecked.
+
+Who: As for Daodejing 42 above: the foundational text of Daoism, 81 short chapters, attributed to Laozi. Chapter 54 begins with what is well planted and cannot be pulled up, then runs a chain of widening circles.
+
+In the essay (v5.2.0): Part two, step 8 'Lifting the cloth', first item of the fold 'One cloth': cultivate it in yourself, and your virtue will be real; cultivate it in the family, and it will overflow; then the village, the country, and the world (54).
+
+Where it sits: Daodejing 54 in the standard (Wang Bi) numbering.
+
+The passage (paraphrase, not cleared for quoting): Legge renders it roughly as: the Tao cultivated in the person makes its virtue genuine; in the family, abounding; in the neighbourhood, enduring; in the state, luxuriant; in the kingdom, universal. Translators differ on each adjective.
+
+Read it free:
+- Chinese Text Project, Dao De Jing, chapter 54, with Legge's English: https://ctext.org/dao-de-jing (not checked)
+
+Read it in a book: Philip J. Ivanhoe, The Daodejing of Laozi (Hackett, 2003); D. C. Lau, Tao Te Ching (Penguin Classics). From memory; check a catalogue.
+
+Background: The chapter goes on to say that one looks at the family through the family, the village through the village and the world through the world, which commentators read as knowing each circle on its own terms. The essay uses only the widening chain, which is the plain sense of the first half.
+
+If someone pushes back:
+- Is "it" the self? "It" is the Dao, or its virtue (de). The essay quotes the chain and says no more about what is cultivated.

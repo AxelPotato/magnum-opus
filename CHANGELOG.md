@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.2.0 (2026-10-27)
+
+- Part two gains step 8, Lifting the cloth: karma read backwards, so what I mend in myself reaches the people next to me, the everyday way and through the energy of step 7; the cloth with jewels and its drawing; fold One cloth; chain figure has eight steps; five reading-pack entries
+
+
 ## 5.1.8 (2026-10-27)
 
 - Part three sections 7 and 8: Dan's dips reworded (help instead of counterweight, positive closing lines, new section 8 opening)

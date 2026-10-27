@@ -480,3 +480,25 @@ Background: In Aristophanes' story the first humans were round, with four arms, 
 If someone pushes back:
 - 'Aristophanes is a joke, and Diotima rejects his view.' Both true. The essay calls it a comic story and puts Diotima right after it.
 - 'The ladder leaves the individual person behind.' A known objection in the literature (Gregory Vlastos made it, from memory). The essay uses the ladder only for the widening.
+
+## The Great Learning (Daxue), the opening section (one of the Four Books of Confucianism; traditionally linked to Confucius and his student Zengzi, probably compiled in the third to second century BCE)
+
+Kind: text. Status: unchecked.
+
+Who: The Great Learning is a short chapter of the Book of Rites that Zhu Xi made one of the Four Books in the twelfth century. Wang Yangming's Inquiry on the Great Learning, cited in step 6, is a commentary on it.
+
+In the essay (v5.2.0): Part two, step 8 'Lifting the cloth', second item of the fold 'One cloth': those who wanted to bring order to the world first put their own states in order, before that their families, and before that themselves, and once the self is cultivated, the family is set right.
+
+Where it sits: the opening section, the "eight steps" passage (the investigation of things through to peace in the world).
+
+The passage (paraphrase, not cleared for quoting): Legge: the ancients who wished to illustrate illustrious virtue throughout the kingdom first ordered well their own states; wishing to order well their states, they first regulated their families; wishing to regulate their families, they first cultivated their persons. Then the chain runs back: their persons being cultivated, their families were regulated, and so on to the whole kingdom made tranquil and happy.
+
+Read it free:
+- Chinese Text Project, Liji, Da Xue, with Legge's English: https://ctext.org/liji/da-xue (not checked)
+
+Read it in a book: James Legge, The Chinese Classics, vol. 1 (1861, many reprints); Wing-tsit Chan, A Source Book in Chinese Philosophy (Princeton, 1963), chapter 4.
+
+Background: The passage is about government and moral training, and its starting point is the investigation of things and a sincere will, before the cultivation of the person. The essay borrows only the order, self first, then family.
+
+If someone pushes back:
+- Isn't this about rulers? It was addressed to rulers and scholars, and Zhu Xi made it the first text every student read, so it was read as a pattern for anyone.

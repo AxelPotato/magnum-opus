@@ -194,6 +194,28 @@ def fig_hours():
     return svg('0 0 680 266', 'Two pairs of battery meters: after two hours on guard the meter is low, after two hours with an old friend it is higher than before', ''.join(b), u)
 
 
+
+# ------------------------------------------------------------------ the cloth lifted by one jewel (step 8)
+def fig_cloth():
+    u = 'cl'
+    base = 200
+
+    def y(x):
+        k = (x - 340) / 120
+        return base - 150 * math.exp(-k * k)
+    path = 'M' + ' L'.join(f'{x} {y(x):.1f}' for x in range(20, 661, 8))
+    b = [f'<path class="st faint" d="M10 {base + 4} H670"/>',
+         f'<path class="fhi fsoft" style="fill-opacity:.18" d="{path} L660 {base} L20 {base} Z"/>',
+         f'<path class="hi" d="{path}"/>',
+         f'<path class="stm2 dash" d="M340 14 V{y(340) - 12:.0f}"/>']
+    for x in range(20, 661, 40):
+        r = 8 if x == 340 else 5
+        b.append(f'<circle class="fhi" cx="{x}" cy="{y(x):.1f}" r="{r}"/>')
+    b.append('<circle class="st" cx="340" cy="%.1f" r="8"/>' % y(340))
+    b.append(T(372, 40, 'lifted by one jewel', 'small'))
+    b.append(T(560, base - 14, 'the far edge rises last', 'small', 'middle'))
+    return svg('0 0 680 220', 'A cloth with jewels, lifted by one jewel: that jewel is highest, the nearest jewels rise with it, and the far edges leave the table last', ''.join(b), u)
+
 # ------------------------------------------------------------------ the tank and the mill (step 7)
 def fig_mill():
     u = 'ml'

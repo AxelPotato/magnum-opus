@@ -89,7 +89,7 @@ Kind: tradition. Status: partly checked.
 
 Who: Huayan (Japanese Kegon) is a Chinese Buddhist school built on the Avatamsaka (Flower Garland) Sutra. Fazang, its third patriarch, lectured at the court of Empress Wu and made the school's teaching vivid with images such as a golden lion statue and Indra's net. Francis Cook's Hua-yen Buddhism: The Jewel Net of Indra (1977) is the standard English introduction.
 
-In the essay: Part two, 'The axiom and the machine': 'The Huayan school of Buddhism pictured the universe as a net of jewels in which each jewel reflects all the others.' Also the table row 'The one whole' and the Sources list (Cook, 1977).
+In the essay: Part two, 'The axiom and the machine': 'The Huayan school of Buddhism pictured the universe as a net of jewels in which each jewel reflects all the others.' Also the table row 'The one whole' and the Sources list (Cook, 1977). Since v5.2.0 also Part two, step 8 'Lifting the cloth', fold 'One cloth': Huayan Buddhism pictures the world as the net of the god Indra, with a jewel at every knot, each one reflecting all the others, so that nothing happens to one jewel alone. (The sentence in 'The axiom and the machine' may since have been cut; check before treating it as current.)
 
 Where it sits: The jewel net is credited to the first patriarch Dushun and developed by Fazang, notably in his Treatise on the Golden Lion (Taisho 1881) and in his commentaries on the Avatamsaka Sutra. In Cook, look at the chapters on Indra's net and on the mutual identity and interpenetration of all things (check the contents page).
 

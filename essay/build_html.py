@@ -343,6 +343,7 @@ def rules2():
         'Somewhere there is a bottom point': dict(after=figure(F5.fig_turn(), 'Two halves of one game. Past the bottom point the same moves stop paying, and a step toward unity starts to.')),
         "That something can't be the body": dict(after=figure(F5.fig_lamps(), 'A lamp lit from another lamp.')),
         'Spend two hours with someone': dict(after=figure(F5.fig_hours(), 'The same two hours, on guard and with an old friend.')),
+        'Here is the picture I use. Take a piece of cloth': dict(after=figure(F5.fig_cloth(), 'One cloth. The jewel you lift rises first, and the nearest ones rise with it.')),
         "Under the axiom it can't really work that way": dict(after=figure(F5.fig_mill(), 'A tank, and a mill on a river. The mill does not drink the river. Its job is to let the water through.')),
         'If one structure sits behind all this, why': dict(after=figure(F5.fig_paths(), 'A path is drawn for particular people at a particular time, and the paths meet at the same place.')),
         'Until then, one question': dict(after=figure(F5.fig_border(), 'Where, right now, does the border of you sit?')),
