@@ -407,7 +407,7 @@ Kind: concept. Status: partly checked.
 
 Who: Eckhart's German words for letting go (gelazenheit) and detachment (abegescheidenheit). The Eckhart Society and other scholars treat both as his own coinages or near-coinages.
 
-In the essay: Why separation feels so real, on the method of letting go: 'Christians have kenosis ... and Eckhart's gelazenheit, letting go.' Table, row 'Letting go' (Christianity): 'Eckhart's letting go.'
+In the essay: Why separation feels so real, on the method of letting go: 'Christians have kenosis ... and Eckhart's gelazenheit, letting go.' Table, row 'Letting go' (Christianity): 'Eckhart's letting go.' Since 5.0.4 (2026-10-26) the fold 'Empty, and let it through' is one sentence in the text and no longer cites it: private context for discussion.
 
 Where it sits: On Detachment (Von abegescheidenheit); Talks of Instruction (Reden der Unterweisung); Sermon 52 'Beati pauperes spiritu' (the poverty sermon)
 
