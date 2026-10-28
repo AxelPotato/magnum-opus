@@ -148,9 +148,9 @@ At the far corner of the chart is the peak, where nothing really feels impossibl
 
 ## The math, with a warning
 
-This is the part where I get to pretend it's science, so don't quote me. Say BE and DO each run from 0 to 100, and how much of your potential you use is roughly one times the other. They multiply because each works through the other: with no DO, all the freedom in the world changes nothing outside you, and with no BE, all the action goes down the few paths your fears allow. Someone at 100 on DO and 1 on BE is about 100 effective. Give up five points of DO, gain one of BE, and it's 95 times 2, which is 190, and you got there by being slightly less busy.
+This is the part where I get to pretend it's science, so don't quote me. Say BE and DO each run from 0 to 100, and how much of your potential you use is roughly one times the other: with no DO, freedom changes nothing outside you, and with no BE, all the action goes down the few paths your fears allow. Someone at 100 on DO and 1 on BE is about 100. Give up five points of DO, gain one of BE, and it's 95 times 2, which is 190, just from being slightly less busy.
 
-Picture the whole chart as a square, 10,000 in all. Default, around 10 and 10, takes up 100, a very small person in the geometric sense. Driven at the wall, or Drifting at the mirror image, takes up 1,000. The corner is the whole 10,000. Leave either side behind and you lose most of the square.
+Picture the whole chart as a square, 10,000 in all. Default takes up 100, Driven at the wall or Drifting at its mirror 1,000, and the corner all of it.
 
 It's also why I don't accept the objection I'd expect from driven people, which is that if they let go of the tension they'll lose their edge. The drive and the tension are two different things that most people happen to have glued together. You keep the drive and drop the brace. That's what the 95 times 2 was trying to picture. Phelps in Rio is the closest real example I have among famous people, and I'm a smaller one: a lot of the tension from my Driven years is gone, and the drive actually increased. I used to lose a lot of time to video games and shows, and now I want to work on my goals every day. Compared with my Driven years I get more done, it satisfies me much more, and the goals themselves got bigger.
 
