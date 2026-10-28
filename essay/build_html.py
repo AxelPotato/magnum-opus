@@ -169,8 +169,6 @@ def squares():
         mini_square(10, 10, 'default', 'Default', '100'),
         mini_square(100, 10, 'driven', 'Driven at the wall', '1,000'),
         mini_square(10, 100, 'drifting', 'Drifting, the mirror', '1,000'),
-        mini_square(50, 50, 'high soft', 'The middle', '2,500'),
-        mini_square(80, 80, 'high mid', 'Further in', '6,400'),
         mini_square(100, 100, 'high', 'The corner', '10,000'),
     ]
     return '<div class="squares">' + ''.join(items) + '</div>'
@@ -270,7 +268,7 @@ def rules1():
         'Malala Yousafzai kept going': dict(who=[('malala', 'Malala Yousafzai', 'high')]),
         'Marcus Aurelius ran the Roman Empire': dict(who=[('aurelius', 'Marcus Aurelius', 'high')]),
         'Rosa Parks is a good one': dict(who=[('parks', 'Rosa Parks', 'high')]),
-        'Picture the whole chart as a square, 10,000': dict(after=figure(squares(), 'The same square, six ways. Width is DO, height is BE, the shaded part is the area a person takes up.', 'plain')),
+        'Picture the whole chart as a square, 10,000': dict(after=figure(squares(), 'The same square, four ways. Width is DO, height is BE, the shaded part is the area a person takes up.', 'plain')),
         'On the line, what you\'re free to want': dict(after=figure(svg_line(), 'The line of harmony. Position along it says how far you have come. Distance from it says how much is leaking.')),
         'Learning to walk on two legs': dict(after=figure(svg_swing(), 'A swing that narrows, then the climb, which stays wavy until the peak. Illustration, not data.')),
         'Zoom out by ten': dict(after=figure(svg_zoom(), 'Zoom out by ten. The whole square we have been using is the small box in the corner.')),
@@ -281,7 +279,6 @@ def rules1():
         'The turbulence comes from walking on two legs.': dict(after=figure(F.fig_legs(), 'Three ways to move. The DO leg is vermilion, the BE leg is blue.')),
         'Here is why the turbulence is worth it': dict(after=figure(F.fig_loop(), 'The two legs feed each other.')),
         'A quick way to find your own examples': dict(after=figure(F.fig_jail(), 'The jail-cell test.')),
-        'This is the part where I get to pretend': dict(after=figure(F.fig_bars(), 'Effectiveness is roughly BE times DO. Do not quote me.')),
         'The Soviet physiologist Pyotr Anokhin': dict(li_after=figure(F.fig_anokhin(), 'Anokhin\'s functional system, simplified: a goal is a model of the result, and the result is compared with it.')),
         'Viktor Frankl, a psychiatrist': dict(who=[('frankl', 'Viktor Frankl', 'neutral')]),
         'The lab has looked at this too': dict(after=figure(F.fig_studies(), 'Left: a randomized field experiment. Right: a review of ten long-term studies, which shows an association, not a cause. Read both as a direction.')),
@@ -453,7 +450,7 @@ figure{margin:0}
 .chart .fillrect.high{fill:var(--high)}
 .fillrect.default{fill:var(--default)}.fillrect.driven{fill:var(--driven)}.fillrect.drifting{fill:var(--drifting)}.fillrect.high{fill:var(--high)}
 .fillrect.soft{fill-opacity:.4}.fillrect.mid{fill-opacity:.7}.fillrect.solid{fill-opacity:1}
-.squares{display:grid;grid-template-columns:repeat(3,1fr);gap:1.4rem 1rem;max-width:34rem;margin:0 auto}
+.squares{display:grid;grid-template-columns:repeat(4,1fr);gap:1.4rem 1rem;max-width:30rem;margin:0 auto}
 @media (max-width:30rem){.squares{grid-template-columns:repeat(2,1fr)}.who{width:5.2rem}.who img{width:5rem;height:5rem}}
 .sq svg{display:block;width:100%;max-width:8.5rem;margin:0 auto;background:var(--card)}
 .sq .frame{fill:none;stroke:var(--ink);stroke-width:1.4}

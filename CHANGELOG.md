@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.2.3 (2026-10-28)
+
+- Part one: the math section is shorter again: both paragraphs tightened, the bar chart (100 against 190) cut since the text says it, and the squares picture shows only the four squares the text names, in one row
+
+
 ## 5.2.2 (2026-10-27)
 
 - Part two step 8, fold One cloth: the study's caveat now names shared surroundings and similar moods (citation check); Shalizi and Thomas 2011 in Sources; reading pack statuses
