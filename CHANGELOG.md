@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.4.1 (2026-10-29)
+
+- The book is called Rational, Spiritual, Practical: the sidebar, the title page and the download files carry the name
+
+
 ## 5.4.0 (2026-10-29)
 
 - PDF and EPUB downloads of the whole book, linked from the sidebar and built by tools/build_book.py on every release; the text calls itself a book instead of an essay where it means itself; the cast row at the top of Part one is gone; the first letter of each chapter is a raised initial instead of a drop cap

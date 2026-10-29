@@ -751,8 +751,8 @@ def convert(md, R):
 NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Contact']  # the chapters, in order; Contact is the page after the essay (contact.md)
 HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in contact']
 NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the book']
-# The book's name in the sidebar. The essay's own title is still open; the site's name stands in for it.
-BOOK_TITLE = 'Boring Spirituality'
+# The book's name in the sidebar (Alex, 2026-10-29).
+BOOK_TITLE = 'Rational, Spiritual, Practical'
 BOOK_BY = 'A short book by Alex'
 # Where each chapter lives on the website. --preview links the built files instead, for a preview copy.
 SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/contact']
@@ -760,7 +760,7 @@ FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html
 URLS = SITE_URLS
 # The PDF and the EPUB, built by tools/build_book.py into essay/book/ and served from the public repo,
 # so the download works without a change on the web server.
-BOOK_FILES = 'https://raw.githubusercontent.com/AxelPotato/magnum-opus/main/essay/book/boring-spirituality'
+BOOK_FILES = 'https://raw.githubusercontent.com/AxelPotato/magnum-opus/main/essay/book/rational-spiritual-practical'
 WPM = 230  # reading speed for the minutes shown under each chapter title
 
 

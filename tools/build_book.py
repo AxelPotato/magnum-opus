@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build the downloadable book, a PDF and an EPUB, from the same part files as the website.
 
-    python tools/build_book.py        # writes essay/book/boring-spirituality.pdf and .epub
+    python tools/build_book.py        # writes essay/book/rational-spiritual-practical.pdf and .epub
 
 Needs Node with Playwright and Chromium (tools/book_render.js prints the PDF and draws the figures as
 pictures for the EPUB) and pandoc (for the EPUB). release.py runs it after every release; if a tool is missing it says so
@@ -18,7 +18,7 @@ OUT = os.path.join(ESSAY, 'book')
 sys.path.insert(0, ESSAY)
 import build_html as B  # noqa: E402
 
-NAME = 'boring-spirituality'
+NAME = 'rational-spiritual-practical'
 
 BOOK_CSS = r"""
 :root{--paper:#FFFFFF;--card:#FFFFFF}
