@@ -753,7 +753,8 @@ HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in cont
 NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the book']
 # The book's name in the sidebar (Alex, 2026-10-29).
 BOOK_TITLE = 'Rational, Spiritual, Practical'
-BOOK_BY = 'A short book by Alex'
+BOOK_SUB = 'A modern take at the path from micro to macro'  # Alex's wording, 2026-10-29
+BOOK_BY = 'by Alex'
 # Where each chapter lives on the website. --preview links the built files instead, for a preview copy.
 SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/contact']
 FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html', 'part-3-practical.html', 'contact.html']
@@ -821,7 +822,7 @@ def book_nav(part, toc):
             lis.append(f'<li class="ch"><details><summary aria-label="Show the sections of {HEADS[n]}">{head}<span class="chev" aria-hidden="true"></span></summary>'
                        f'<ol class="secs">{sec_html}</ol></details></li>')
     return ('<nav class="book" id="toc" aria-label="The book">'
-            f'<a class="bk" href="{URLS[0]}"><span class="bk-t">{BOOK_TITLE}</span><span class="bk-by">{BOOK_BY}</span></a>'
+            f'<a class="bk" href="{URLS[0]}"><span class="bk-t">{BOOK_TITLE}</span><span class="bk-sub">{BOOK_SUB}</span><span class="bk-by">{BOOK_BY}</span></a>'
             f'<ol class="chapters">{"".join(lis)}</ol>'
             '<div class="downloads"><p>Download the book</p>'
             f'<a href="{BOOK_FILES}.pdf" download>PDF</a><a href="{BOOK_FILES}.epub" download>EPUB</a>'
@@ -874,7 +875,8 @@ body.has-toc.toc-open .toc-scrim{display:block;position:fixed;inset:0;z-index:45
 .book a{text-decoration:none;color:inherit}
 .book .bk{display:block;padding:0 .5rem 1.25rem;margin:0 0 1rem;border-bottom:1px solid var(--rule)}
 .book .bk-t{display:block;font-family:var(--head);font-weight:600;font-size:1.3rem;line-height:1.15;letter-spacing:-.01em;color:var(--ink)}
-.book .bk-by{display:block;margin-top:.3rem;font-family:var(--head);font-style:italic;font-size:.92rem;color:var(--muted)}
+.book .bk-sub{display:block;margin-top:.4rem;font-family:var(--head);font-style:italic;font-size:.95rem;line-height:1.35;color:var(--ink)}
+.book .bk-by{display:block;margin-top:.45rem;font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
 .book ol{list-style:none;margin:0;padding:0}
 .book .ch{position:relative;margin:0 0 .25rem}
 .book details>summary{list-style:none;display:flex;align-items:center;cursor:pointer}

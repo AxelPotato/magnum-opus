@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.4.2 (2026-10-29)
+
+- The subtitle, A modern take at the path from micro to macro, under the title in the sidebar, on the PDF title page and in the EPUB
+
+
 ## 5.4.1 (2026-10-29)
 
 - The book is called Rational, Spiritual, Practical: the sidebar, the title page and the download files carry the name

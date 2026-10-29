@@ -26,6 +26,7 @@ h2{break-inside:avoid}
 body{font-size:1.06rem;line-height:1.62}
 .titlepage{min-height:88vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;break-after:page}
 .titlepage h1{font-size:3.4rem}
+.titlepage .sub{font-family:var(--head);font-style:italic;font-size:1.35rem;line-height:1.4;color:var(--ink);margin:1.2rem auto 0;max-width:22rem;text-wrap:balance}
 .titlepage .by{font-family:var(--head);font-style:italic;font-size:1.3rem;color:var(--muted);margin:1rem 0 0}
 .titlepage .ver{font-family:var(--mono);font-size:.75rem;color:var(--muted);margin-top:3rem}
 .contents{break-after:page;max-width:34rem;margin:0 auto;padding-top:3rem}
@@ -62,7 +63,7 @@ def book_html(ver):
     css = B.CSS + ''.join(B.PARTS[n]['css_extra'] for n in range(5)) + BOOK_CSS
     toc = ''.join(f'<li><a href="#ch{n}"><span>{B.NUMS[n]}</span><b>{B.HEADS[n]}</b></a></li>' for n in range(5))
     title = (f'<section class="titlepage"><p class="kicker">A short book</p><h1>{B.BOOK_TITLE}</h1>'
-             f'<p class="by">by Alex</p><p class="ver">Version {ver}</p></section>'
+             f'<p class="sub">{B.BOOK_SUB}</p><p class="by">by Alex</p><p class="ver">Version {ver}</p></section>'
              f'<nav class="contents"><h2>Contents</h2><ol>{toc}</ol></nav>')
     return ('<!doctype html><html lang="en"><head><meta charset="utf-8">'
             f'<title>{B.BOOK_TITLE}</title><link rel="stylesheet" href="{B.FONTS}"><style>{css}</style></head>'
@@ -92,7 +93,7 @@ def main():
                          '.who img{width:4.5em;height:4.5em;border-radius:50%}.meta,.orn{display:none}')
     subprocess.run(['pandoc', epub_src, '-f', 'html', '-o', os.path.join(OUT, NAME + '.epub'), '--split-level=1', '--toc', '--toc-depth=2',
                     '--css', css, '--metadata', f'title={B.BOOK_TITLE}', '--metadata', 'author=Alex', '--metadata', 'lang=en-US',
-                    '--metadata', f'subtitle=Version {ver}'], check=True)
+                    '--metadata', f'subtitle={B.BOOK_SUB}'], check=True)
     for f in (src, epub_src, css):
         os.remove(f)
     for f in ('pdf', 'epub'):
