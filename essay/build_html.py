@@ -374,7 +374,9 @@ def rules3():
 # ---------------------------------------------------------------- build
 CSS = r"""
 :root{
-  --paper:#F4F6FA; --ink:#131C33; --muted:#5A6480; --rule:#D5DBE8; --grid:#E4E9F2; --card:#FFFFFF;
+  --paper:#FAF7F1; --ink:#1F1C17; --muted:#6B6457; --rule:#E2DBCC; --grid:#EFE9DD; --card:#FFFDF9;
+  --side:#F3EEE4; --hover:#EAE3D5; --accent:#0C7A5E;
+  --head:'Literata',Georgia,'Times New Roman',serif;
   --default:#6B7A99; --driven:#D2502F; --drifting:#4A66D6; --high:#0C8A6A;
   --k-trad:#3E5CC0; --k-study:#0C8A6A; --k-look:#5F6E8E; --k-life:#B5602A; --k-story:#8A4BAE;
   --display:'Bricolage Grotesque','Segoe UI',system-ui,sans-serif;
@@ -382,35 +384,44 @@ CSS = r"""
   --mono:'IBM Plex Mono',ui-monospace,Consolas,monospace;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --paper:#0E1424; --ink:#E7EBF5; --muted:#9AA5C0; --rule:#27314D; --grid:#161E35; --card:#151D33;
+  --paper:#16140F; --ink:#ECE6DA; --muted:#A99F8E; --rule:#2F2A21; --grid:#1D1A14; --card:#1E1B15;
+  --side:#1B1813; --hover:#28241C; --accent:#31C79F;
   --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
   --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; color-scheme:dark}}
 :root[data-theme="dark"]{
-  --paper:#0E1424; --ink:#E7EBF5; --muted:#9AA5C0; --rule:#27314D; --grid:#161E35; --card:#151D33;
+  --paper:#16140F; --ink:#ECE6DA; --muted:#A99F8E; --rule:#2F2A21; --grid:#1D1A14; --card:#1E1B15;
+  --side:#1B1813; --hover:#28241C; --accent:#31C79F;
   --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
   --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; color-scheme:dark}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:1.125rem;line-height:1.68;overflow-x:clip}
-.hero{position:relative;padding:clamp(2.5rem,7vw,5rem) 1rem 2rem}
-.hero::before{content:"";position:absolute;inset:0;z-index:0;
-  background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);
-  background-size:32px 32px;
-  -webkit-mask-image:linear-gradient(#000 70%,transparent);mask-image:linear-gradient(#000 70%,transparent)}
-.hero-in{position:relative;z-index:1;max-width:40rem;margin:0 auto}
-.kicker{font-family:var(--mono);font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 .8rem}
-h1{font-family:var(--display);font-weight:800;font-size:clamp(3.4rem,13vw,6.2rem);line-height:.95;letter-spacing:-.03em;margin:0;text-wrap:balance}
-.lede{font-size:1.3rem;line-height:1.45;margin:1.2rem 0 1.4rem;max-width:32rem;color:var(--ink)}
-.parts{display:flex;flex-wrap:wrap;gap:.5rem;margin:0;padding:0;list-style:none;font-family:var(--mono);font-size:.82rem}
-.parts li{padding:.3rem .7rem;border:1px solid var(--rule);border-radius:999px;color:var(--muted);background:var(--paper)}
-.parts li.now{border-color:var(--ink);color:var(--ink);font-weight:500}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:1.15rem;line-height:1.72;overflow-x:clip;font-optical-sizing:auto;text-rendering:optimizeLegibility}
+.hero{position:relative;padding:clamp(3rem,9vh,6rem) 1rem 1rem;text-align:center}
+.hero-in{position:relative;max-width:38rem;margin:0 auto}
+.kicker{font-family:var(--mono);font-size:.78rem;letter-spacing:.22em;text-transform:uppercase;color:var(--accent);margin:0 0 1.1rem}
+h1{font-family:var(--head);font-weight:600;font-size:clamp(2.9rem,10vw,4.6rem);line-height:1.02;letter-spacing:-.02em;margin:0;text-wrap:balance}
+.lede{font-family:var(--head);font-style:italic;font-size:1.3rem;line-height:1.5;margin:1.3rem auto 0;max-width:30rem;color:var(--muted);text-wrap:balance}
+.meta{font-family:var(--mono);font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.3rem 0 0}
+.orn{display:flex;align-items:center;justify-content:center;gap:.9rem;margin:2.4rem auto 0;max-width:14rem}
+.orn span{flex:1;height:1px;background:var(--rule)}
+.orn i{width:.5rem;height:.5rem;transform:rotate(45deg);border:1px solid var(--accent)}
 main{padding:0 1rem 4rem}
-.col{max-width:40rem;margin:0 auto}
+.col{max-width:38rem;margin:2.5rem auto 0;hyphens:auto;-webkit-hyphens:auto}
+.col p.first{display:flow-root}
+.col p.first::first-letter{font-family:var(--head);font-weight:600;float:left;font-size:4.1em;line-height:.82;margin:.08em .1em 0 0;color:var(--accent)}
+.turn{max-width:38rem;margin:4rem auto 2.5rem;display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+.turn a{display:flex;flex-direction:column;gap:.25rem;padding:1rem 1.15rem;border:1px solid var(--rule);border-radius:12px;background:var(--card);text-decoration:none;color:var(--ink);transition:border-color .15s,transform .15s}
+.turn a:hover{border-color:var(--accent);transform:translateY(-1px)}
+.turn a span{font-family:var(--mono);font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.turn a b{font-family:var(--head);font-weight:600;font-size:1.08rem;line-height:1.3}
+.turn .next{grid-column:2;text-align:right}
+@media (max-width:34rem){.turn{grid-template-columns:1fr}.turn .next{grid-column:1}}
 .toc{font-family:var(--mono);font-size:.82rem;line-height:1.9;margin:0 0 2.5rem;padding:1rem 0;border-block:1px solid var(--rule)}
 .toc a{color:var(--muted);text-decoration:none;margin-right:1rem;white-space:nowrap}
 .toc a:hover{color:var(--ink);text-decoration:underline}
-h2{font-family:var(--display);font-weight:800;font-size:clamp(1.9rem,6vw,2.5rem);line-height:1.1;letter-spacing:-.02em;margin:3.6rem 0 1.1rem;text-wrap:balance;scroll-margin-top:1rem}
-h3.room{font-family:var(--display);font-weight:700;font-size:1.55rem;margin:2.6rem 0 .9rem;display:flex;align-items:center;gap:.6rem}
+h2{font-family:var(--head);font-weight:600;font-size:clamp(1.75rem,5vw,2.25rem);line-height:1.15;letter-spacing:-.015em;margin:4.2rem 0 1.2rem;text-wrap:balance;scroll-margin-top:4.5rem}
+h2::before{content:"";display:block;width:2.2rem;height:2px;background:var(--accent);margin:0 0 1.1rem}
+h3.room{font-family:var(--head);font-weight:600;font-size:1.55rem;margin:2.6rem 0 .9rem;display:flex;align-items:center;gap:.6rem}
 h3.room .dot{width:.9rem;height:.9rem;border-radius:3px;background:currentColor}
 h3.room.default{color:var(--default)}h3.room.driven{color:var(--driven)}h3.room.drifting{color:var(--drifting)}h3.room.high{color:var(--high)}
 p{margin:0 0 1.15rem}
@@ -524,7 +535,7 @@ details.say-fold summary:focus-visible{outline:2px solid var(--kc);outline-offse
 details.say-fold .ki{width:1.35rem;height:1.35rem;color:var(--kc);margin-top:.15rem}
 details.say-fold .kt{min-width:0;display:flex;flex-direction:column;gap:.15rem}
 details.say-fold .kk{font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--kc)}
-details.say-fold .tt{font-family:var(--display);font-weight:600;font-size:1.08rem;line-height:1.3}
+details.say-fold .tt{font-family:var(--head);font-weight:600;font-size:1.1rem;line-height:1.3}
 details.say-fold .tz{color:var(--muted);font-size:.95rem;line-height:1.5;margin-top:.25rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;-webkit-mask-image:linear-gradient(90deg,#000 70%,transparent);mask-image:linear-gradient(90deg,#000 70%,transparent)}
 details.say-fold[open] .tz{display:none}
 details.say-fold .pm::before{content:"+";font-family:var(--mono);font-size:1.15rem;line-height:1.3;color:var(--muted)}
@@ -540,13 +551,12 @@ details.say-fold .say-close{margin:1.2rem 0 .6rem}
 .say li::marker{color:var(--muted)}
 .sources li{margin-bottom:.7rem;overflow-wrap:anywhere}
 h4{font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:1.6rem 0 .8rem;font-weight:500}
-footer{max-width:40rem;margin:0 auto;padding:1.5rem 0 0;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.74rem;line-height:1.6;color:var(--muted)}
+footer{max-width:38rem;margin:0 auto;padding:1.5rem 0 0;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.74rem;line-height:1.6;color:var(--muted)}
 a{color:var(--high)}
 .contact{margin:1.5rem 0 1rem}
 .contact-form{display:grid;gap:1.1rem;margin-top:1rem}
 .contact-form label{display:grid;gap:.35rem;font-family:var(--mono);font-size:.78rem;color:var(--muted)}
 .contact-form .hint{font-size:.78rem}
-.hero h1+.parts{margin-top:1.6rem}
 .contact-form input,.contact-form textarea{font:inherit;font-family:var(--body,inherit);font-size:1rem;color:var(--ink);background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:.6rem .7rem;width:100%;box-sizing:border-box}
 .contact-form textarea{min-height:7.5rem;line-height:1.5;resize:vertical}
 .contact-form button{justify-self:start;font-family:var(--mono);font-size:.85rem;color:var(--paper);background:var(--ink);border:0;border-radius:8px;padding:.65rem 1.3rem;cursor:pointer}
@@ -739,38 +749,89 @@ def convert(md, R):
     return out, toc
 
 
-NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Contact']  # the tabs, in order; Contact is the page after the essay (contact.md)
+NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Contact']  # the chapters, in order; Contact is the page after the essay (contact.md)
+HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in contact']
+NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the essay']
+# The book's name in the sidebar. The essay's own title is still open; the site's name stands in for it.
+BOOK_TITLE = 'Boring Spirituality'
+BOOK_BY = 'A short book by Alex'
+# Where each chapter lives on the website. --preview links the built files instead, for a preview copy.
+SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/contact']
+FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html', 'part-3-practical.html', 'contact.html']
+URLS = SITE_URLS
+WPM = 230  # reading speed for the minutes shown under each chapter title
 
 
-def hero_html(part):
+def part_md(n):
+    return open(os.path.join(HERE, PARTS[n]['md']), encoding='utf-8').read()
+
+
+def reading_words(md):
+    body = re.split(r'\n## Sources\b', md)[0]
+    body = re.sub(r'^#.*$', '', body, flags=re.M)
+    return len(re.findall(r"[A-Za-z0-9’']+", body))
+
+
+def heads_of(md):
+    return [(slug(t), t) for t in re.findall(r'^## (.+?)\s*$', md, flags=re.M)]
+
+
+def hero_html(part, words=0):
     backup = part == '2a'
     if backup:
         part = 2
-    heads = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in contact']
-    nums = ['one', 'two', 'three']
     lede = {
         0: 'What each part is for, who is talking, and who taught me.',
         1: 'Two directions, four rooms, and a map that turns out to be bigger than it looks.',
         2: 'Two ways of reading a life, one assumption that separates them, and what follows from it in the world\'s religions.',
         3: 'How this is done today, by people with jobs, families and not much spare time.',
-        4: '',  # the Next page opens straight on its own sentence
+        4: '',  # the contact page opens straight on its own sentence
     }[part]
+    kicker = NUMS[part]
     if backup:
         lede = 'What the middle of the chart is, what lies past the edge of it, and why a rational person might want to find out.'
         kicker = 'Backup: an earlier version of part two'
-    elif part == 0:
-        kicker = 'Part zero'
-    elif part == 4:
-        kicker = 'After the essay'
-    else:
-        kicker = 'Part ' + nums[part - 1] + ' of three'
-    lis = ''.join(f'<li class="now">{n}</li>' if i == part else f'<li>{n}</li>' for i, n in enumerate(NAMES))
+    mins = round(words / WPM / 5) * 5 if words > 1500 else (max(1, round(words / WPM)) if words else 0)
+    meta = f'<p class="meta">About {mins} minutes of reading</p>' if part in (0, 1, 2, 3) and mins else ''
     return ('<header class="hero"><div class="hero-in">'
             f'<p class="kicker">{kicker}</p>'
-            f'<h1>{heads[part]}</h1>'
-            + (f'<p class="lede">{lede}</p>' if lede else '') +
-            f'<ul class="parts">{lis}</ul>'
+            f'<h1>{HEADS[part]}</h1>'
+            + (f'<p class="lede">{lede}</p>' if lede else '') + meta +
+            '<div class="orn" aria-hidden="true"><span></span><i></i><span></span></div>'
             '</div></header>')
+
+
+def book_nav(part, toc):
+    """The whole book in the sidebar: every chapter, the one being read open to its sections."""
+    lis = []
+    for n, name in enumerate(NAMES):
+        on = n == part
+        secs = toc if on else heads_of(part_md(n))
+        base = '' if on else URLS[n]
+        sec_html = ''.join(f'<li><a href="{base}#{s}">{smart(t)}</a></li>' for s, t in secs)
+        head = (f'<a class="ch-a" href="{URLS[n]}"' + (' aria-current="page"' if on else '') + '>'
+                f'<span class="ch-n">{NUMS[n] if n < 4 else "After"}</span><span class="ch-t">{HEADS[n]}</span></a>')
+        if not secs:
+            lis.append(f'<li class="ch{" on" if on else ""}">{head}</li>')
+        elif on:
+            lis.append(f'<li class="ch on">{head}<ol class="secs">{sec_html}</ol><span class="ch-bar" aria-hidden="true"><i></i></span></li>')
+        else:
+            lis.append(f'<li class="ch"><details><summary aria-label="Show the sections of {HEADS[n]}">{head}<span class="chev" aria-hidden="true"></span></summary>'
+                       f'<ol class="secs">{sec_html}</ol></details></li>')
+    return ('<nav class="book" id="toc" aria-label="The book">'
+            f'<a class="bk" href="{URLS[0]}"><span class="bk-t">{BOOK_TITLE}</span><span class="bk-by">{BOOK_BY}</span></a>'
+            f'<ol class="chapters">{"".join(lis)}</ol></nav>')
+
+
+def turn_html(part):
+    """Where the chapter ends: the previous and the next chapter, like turning a page."""
+    out = []
+    if part > 0:
+        out.append(f'<a class="prev" href="{URLS[part - 1]}"><span>Previous</span><b>{NUMS[part - 1]}: {HEADS[part - 1]}</b></a>')
+    if part < 4:
+        nxt = f'{NUMS[part + 1]}: {HEADS[part + 1]}' if part < 3 else HEADS[4]
+        out.append(f'<a class="next" href="{URLS[part + 1]}"><span>Next</span><b>{nxt}</b></a>')
+    return '<nav class="turn" aria-label="Chapters">' + ''.join(out) + '</nav>'
 
 
 def cast_html():
@@ -791,26 +852,55 @@ PART0_FOOT = 'A draft.'
 PART3_FOOT = 'A draft. The drawings in this part are drawn for it, and the two photos are of me.'
 NEXT_FOOT = 'A draft.'
 
-# The part's contents list: a left sidebar on wide screens, a hamburger drawer on narrow ones.
+# The book's contents: a left sidebar on wide screens, a drawer behind a top bar on narrow ones.
 # Everything is scoped to body.has-toc, which only the standalone pages get (not the fragment).
 TOC_CSS = r"""
-.toc-btn,.toc-scrim,.toc-h{display:none}
-body.has-toc .toc-h{display:block;font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;margin:0 0 .6rem .6rem}
-body.has-toc .toc{position:fixed;left:0;top:0;bottom:0;width:min(20rem,86vw);box-sizing:border-box;margin:0;padding:2rem 1rem 2rem 1.25rem;overflow-y:auto;overscroll-behavior:contain;border:0;border-right:1px solid var(--rule);background:var(--paper);z-index:50;display:flex;flex-direction:column;gap:.1rem;line-height:1.4;transform:translateX(-100%);visibility:hidden;transition:transform .2s ease,visibility 0s .2s}
-body.has-toc .toc a{display:block;margin:0;padding:.35rem .6rem;border-radius:6px;white-space:normal}
-body.has-toc .toc a.on{color:var(--ink);background:var(--card);box-shadow:inset 2px 0 0 var(--ink)}
-body.has-toc.toc-open .toc{transform:none;visibility:visible;transition:transform .2s ease}
-body.has-toc .toc-btn{display:flex;align-items:center;justify-content:center;position:fixed;top:.75rem;left:.75rem;z-index:40;width:2.6rem;height:2.6rem;padding:0;border:1px solid var(--rule);border-radius:8px;background:var(--card);color:var(--ink);cursor:pointer}
-body.has-toc .toc-btn:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
-body.has-toc.toc-open .toc-scrim{display:block;position:fixed;inset:0;z-index:45;background:rgba(0,0,0,.4)}
-body.has-toc .hero{padding-top:4.5rem}
+.topbar,.toc-scrim,.progress{display:none}
+body.has-toc .progress{display:block;position:fixed;left:0;right:0;top:0;height:3px;z-index:60;pointer-events:none}
+body.has-toc .progress i{display:block;height:100%;width:100%;background:var(--accent);transform-origin:0 50%;transform:scaleX(0)}
+body.has-toc .topbar{display:flex;align-items:center;gap:.75rem;position:fixed;top:0;left:0;right:0;z-index:40;height:3.25rem;padding:0 .75rem;background:color-mix(in srgb,var(--paper) 92%,transparent);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);border-bottom:1px solid var(--rule)}
+.toc-btn{display:flex;align-items:center;justify-content:center;flex:none;width:2.4rem;height:2.4rem;padding:0;border:1px solid var(--rule);border-radius:8px;background:var(--card);color:var(--ink);cursor:pointer}
+.toc-btn:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+.topbar .tb-t{min-width:0;font-family:var(--head);font-size:1rem;line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.topbar .tb-t span{color:var(--muted);font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;margin-right:.5rem}
+body.has-toc .book{position:fixed;left:0;top:0;bottom:0;width:min(20rem,86vw);margin:0;padding:1.75rem 1rem 2.5rem 1.25rem;overflow-y:auto;overscroll-behavior:contain;border-right:1px solid var(--rule);background:var(--side);z-index:50;transform:translateX(-100%);visibility:hidden;transition:transform .22s ease,visibility 0s .22s;scrollbar-width:thin}
+body.has-toc.toc-open .book{transform:none;visibility:visible;transition:transform .22s ease;box-shadow:0 0 40px rgba(0,0,0,.18)}
+body.has-toc.toc-open .toc-scrim{display:block;position:fixed;inset:0;z-index:45;background:rgba(20,16,10,.42)}
+.book a{text-decoration:none;color:inherit}
+.book .bk{display:block;padding:0 .5rem 1.25rem;margin:0 0 1rem;border-bottom:1px solid var(--rule)}
+.book .bk-t{display:block;font-family:var(--head);font-weight:600;font-size:1.3rem;line-height:1.15;letter-spacing:-.01em;color:var(--ink)}
+.book .bk-by{display:block;margin-top:.3rem;font-family:var(--head);font-style:italic;font-size:.92rem;color:var(--muted)}
+.book ol{list-style:none;margin:0;padding:0}
+.book .ch{position:relative;margin:0 0 .25rem}
+.book details>summary{list-style:none;display:flex;align-items:center;cursor:pointer}
+.book details>summary::-webkit-details-marker{display:none}
+.book .ch-a{display:flex;flex-direction:column;flex:1;min-width:0;padding:.55rem .5rem;border-radius:8px}
+.book .ch-a:hover{background:var(--hover)}
+.book .ch-n{font-family:var(--mono);font-size:.66rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.book .ch-t{font-family:var(--head);font-size:1.08rem;line-height:1.25;color:var(--ink)}
+.book .ch.on>.ch-a{background:var(--hover)}
+.book .ch.on>.ch-a .ch-t{font-weight:600}
+.book .ch.on>.ch-a .ch-n{color:var(--accent)}
+.book .chev{flex:none;width:1.9rem;height:1.9rem;border-radius:6px;display:grid;place-items:center;color:var(--muted)}
+.book .chev::before{content:"";width:.42rem;height:.42rem;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(-45deg);transition:transform .15s}
+.book details[open] .chev::before{transform:rotate(45deg)}
+.book summary:hover .chev{color:var(--ink);background:var(--hover)}
+.book .secs{margin:.2rem 0 .7rem .5rem;padding-left:.75rem;border-left:1px solid var(--rule)}
+.book .secs a{display:block;padding:.28rem .5rem;margin-left:-1px;border-left:2px solid transparent;font-family:var(--body);font-size:.88rem;line-height:1.35;color:var(--muted)}
+.book .secs a:hover{color:var(--ink)}
+.book .secs a.on{color:var(--ink);border-left-color:var(--accent)}
+.book .ch-bar{display:block;height:2px;margin:-.3rem .5rem .8rem 1.25rem;background:var(--rule);border-radius:2px;overflow:hidden}
+.book .ch-bar i{display:block;height:100%;width:100%;background:var(--accent);transform-origin:0 50%;transform:scaleX(0)}
+.book :focus-visible{outline:2px solid var(--ink);outline-offset:2px;border-radius:6px}
+body.has-toc .hero{padding-top:5.5rem}
 @media (min-width:72rem){
-  body.has-toc{padding-left:16rem}
-  body.has-toc .toc{width:16rem;transform:none;visibility:visible;transition:none}
-  body.has-toc .toc-btn,body.has-toc.toc-open .toc-scrim{display:none}
-  body.has-toc .hero{padding-top:clamp(2.5rem,7vw,5rem)}
-  body.has-toc .fig:not(.plain):not(.photo){width:min(54rem,calc(100vw - 20rem))}
+  body.has-toc{padding-left:18rem}
+  body.has-toc .book{width:18rem;transform:none;visibility:visible;transition:none;box-shadow:none}
+  body.has-toc .topbar,body.has-toc.toc-open .toc-scrim{display:none}
+  body.has-toc .hero{padding-top:clamp(3rem,9vh,6rem)}
+  body.has-toc .fig:not(.plain):not(.photo){width:min(54rem,calc(100vw - 22rem))}
 }
+@media print{.book,.topbar,.progress,.toc-scrim,.turn{display:none!important}body.has-toc{padding-left:0}}
 """
 
 TOC_JS = r"""
@@ -822,17 +912,23 @@ TOC_JS = r"""
   document.querySelector('.toc-scrim').addEventListener('click', function () { set(false); });
   nav.addEventListener('click', function (e) { if (e.target.closest('a')) set(false); });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') set(false); });
-  var links = [].slice.call(nav.querySelectorAll('a')), last = -2;
-  var heads = links.map(function (a) { return document.getElementById(a.getAttribute('href').slice(1)); });
+  var links = [].slice.call(nav.querySelectorAll('.ch.on .secs a')), last = -2;
+  var heads = links.map(function (a) { return document.getElementById(a.getAttribute('href').split('#')[1]); });
+  var bars = [].slice.call(document.querySelectorAll('.progress i,.ch-bar i')), main = document.querySelector('main');
   function spy() {
     var y = window.innerHeight * 0.25, cur = -1;
+    if (main) {
+      var r = main.getBoundingClientRect(), f = Math.min(1, Math.max(0, -r.top / Math.max(1, r.height - window.innerHeight)));
+      bars.forEach(function (i) { i.style.transform = 'scaleX(' + f + ')'; });
+    }
     heads.forEach(function (h, i) { if (h && h.getBoundingClientRect().top <= y) cur = i; });
     if (cur === last) return;
     last = cur;
-    links.forEach(function (a, i) { a.classList.toggle('on', i === cur); if (i === cur) a.setAttribute('aria-current', 'true'); else a.removeAttribute('aria-current'); });
-    if (cur >= 0) { var a = links[cur]; if (a.offsetTop < nav.scrollTop + 40 || a.offsetTop + a.offsetHeight > nav.scrollTop + nav.clientHeight - 40) nav.scrollTop = a.offsetTop - 80; }
+    links.forEach(function (a, i) { a.classList.toggle('on', i === cur); if (i === cur) a.setAttribute('aria-current', 'location'); else a.removeAttribute('aria-current'); });
+    if (cur >= 0) { var a = links[cur], t = a.getBoundingClientRect().top - nav.getBoundingClientRect().top; if (t < 60 || t > nav.clientHeight - 60) nav.scrollTop += t - nav.clientHeight / 3; }
   }
   window.addEventListener('scroll', spy, { passive: true });
+  window.addEventListener('resize', spy);
   spy();
 })();
 """
@@ -854,10 +950,18 @@ def page(part, fragment=False):
     md = open(os.path.join(HERE, cfg['md']), encoding='utf-8').read()
     ver = cfg.get('fixed_ver') or open(os.path.join(HERE, '..', 'VERSION'), encoding='utf-8').read().strip()
     body, toc = convert(md, cfg['rules']())
-    toc_html = ' '.join(f'<a href="#{s}">{smart(t)}</a>' for s, t in toc)
-    toc_id = '' if fragment else ' id="toc"'
-    main = ('<main><div class="col">' + (f'<nav class="toc"{toc_id} aria-label="In this part"><span class="toc-h">In this part</span>{toc_html}</nav>' if toc else '') + (cast_html() if cfg['cast'] else '')
-            + '\n'.join(body) + '</div>'
+    book = part in range(5) and not fragment  # the backup page keeps the old plain layout
+    first = next((i for i, x in enumerate(body) if x.startswith('<p>')), None)
+    if book and first is not None and part != 4:  # a drop cap on the chapter's first paragraph
+        body[first] = '<p class="first">' + body[first][3:]
+    if book:
+        nav = book_nav(part, toc)
+    elif toc:
+        nav = '<nav class="toc" aria-label="In this part">' + ' '.join(f'<a href="#{s}">{smart(t)}</a>' for s, t in toc) + '</nav>'
+    else:
+        nav = ''
+    main = ('<main><div class="col">' + (nav if not book else '') + (cast_html() if cfg['cast'] else '')
+            + '\n'.join(body) + '</div>' + (turn_html(part) if book else '') +
             f'<footer>Version {ver}. Built from {cfg["md"]}. ' + cfg['foot'] + '</footer></main>')
     head = (f'<title>{cfg["title"]}</title>'
             f'<meta name="viewport" content="width=device-width,initial-scale=1">'
@@ -865,20 +969,25 @@ def page(part, fragment=False):
             f'<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
             f'<link rel="stylesheet" href="{FONTS}"><style>{CSS}{TOC_CSS}{cfg["css_extra"]}</style>'
             f'<script>{UTM_JS}</script>')
+    hero = hero_html(part, reading_words(md) if part != '2a' else 0)
     if fragment:
-        return head + hero_html(part) + main
-    if not toc:
-        return ('<!doctype html><html lang="en"><head><meta charset="utf-8">' + head + '</head><body>' + hero_html(part) + main + '</body></html>')
-    btn = ('<button class="toc-btn" type="button" aria-label="Contents" aria-expanded="false" aria-controls="toc">'
+        return head + hero + main
+    if not book:
+        return ('<!doctype html><html lang="en"><head><meta charset="utf-8">' + head + '</head><body>' + hero + main + '</body></html>')
+    bar = ('<div class="progress" aria-hidden="true"><i></i></div>'
+           '<div class="topbar"><button class="toc-btn" type="button" aria-label="Contents" aria-expanded="false" aria-controls="toc">'
            '<svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><path d="M3 5h14M3 10h14M3 15h14" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg></button>'
+           f'<p class="tb-t"><span>{NUMS[part]}</span>{HEADS[part]}</p></div>'
            '<div class="toc-scrim"></div>')
-    return ('<!doctype html><html lang="en"><head><meta charset="utf-8">' + head + '</head><body class="has-toc">' + btn + hero_html(part) + main
+    return ('<!doctype html><html lang="en"><head><meta charset="utf-8">' + head + '</head><body class="has-toc">' + bar + nav + hero + main
             + f'<script>{TOC_JS}</script></body></html>')
 
 
 if __name__ == '__main__':
     args = sys.argv[1:]
     frag = '--fragment' in args
+    if '--preview' in args:  # link the chapters by file name, for a preview copy outside the website
+        URLS = FILE_URLS
     only = args[args.index('--part') + 1] if '--part' in args else None
     for n, cfg in PARTS.items():
         if only and str(n) != only:

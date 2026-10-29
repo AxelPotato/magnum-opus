@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.3.0 (2026-10-29)
+
+- The site reads like a book: a left sidebar lists all five chapters with the one being read open to its sections (the others open on a tap), chapter openers with a reading time and an ornament, a drop cap, serif headings, warm paper colors in light and dark, a reading progress line, and previous and next chapter links at the end of each chapter
+
+
 ## 5.2.3 (2026-10-28)
 
 - Part one: the math section is shorter again: both paragraphs tightened, the bar chart (100 against 190) cut since the text says it, and the squares picture shows only the four squares the text names, in one row
