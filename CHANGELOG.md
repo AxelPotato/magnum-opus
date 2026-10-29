@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.4.3 (2026-10-29)
+
+- Subtitle reads A modern take on the path from micro to macro
+
+
 ## 5.4.2 (2026-10-29)
 
 - The subtitle, A modern take at the path from micro to macro, under the title in the sidebar, on the PDF title page and in the EPUB

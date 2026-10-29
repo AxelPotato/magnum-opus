@@ -753,7 +753,7 @@ HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in cont
 NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the book']
 # The book's name in the sidebar (Alex, 2026-10-29).
 BOOK_TITLE = 'Rational, Spiritual, Practical'
-BOOK_SUB = 'A modern take at the path from micro to macro'  # Alex's wording, 2026-10-29
+BOOK_SUB = 'A modern take on the path from micro to macro'  # Alex, 2026-10-29
 BOOK_BY = 'by Alex'
 # Where each chapter lives on the website. --preview links the built files instead, for a preview copy.
 SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/contact']
