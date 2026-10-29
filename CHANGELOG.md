@@ -8,6 +8,31 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.4.3 (2026-10-29)
+
+- Subtitle reads A modern take on the path from micro to macro
+
+
+## 5.4.2 (2026-10-29)
+
+- The subtitle, A modern take at the path from micro to macro, under the title in the sidebar, on the PDF title page and in the EPUB
+
+
+## 5.4.1 (2026-10-29)
+
+- The book is called Rational, Spiritual, Practical: the sidebar, the title page and the download files carry the name
+
+
+## 5.4.0 (2026-10-29)
+
+- PDF and EPUB downloads of the whole book, linked from the sidebar and built by tools/build_book.py on every release; the text calls itself a book instead of an essay where it means itself; the cast row at the top of Part one is gone; the first letter of each chapter is a raised initial instead of a drop cap
+
+
+## 5.3.0 (2026-10-29)
+
+- The site reads like a book: a left sidebar lists all five chapters with the one being read open to its sections (the others open on a tap), chapter openers with a reading time and an ornament, a drop cap, serif headings, warm paper colors in light and dark, a reading progress line, and previous and next chapter links at the end of each chapter
+
+
 ## 5.2.3 (2026-10-28)
 
 - Part one: the math section is shorter again: both paragraphs tightened, the bar chart (100 against 190) cut since the text says it, and the squares picture shows only the four squares the text names, in one row

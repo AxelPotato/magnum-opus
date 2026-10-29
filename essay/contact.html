@@ -1,6 +1,8 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Stay in contact</title><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="version" content="5.2.3"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=IBM+Plex+Mono:wght@400;500&family=Literata:opsz,wght@7..72,400..700&family=Comic+Neue:wght@700&display=swap"><style>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Stay in contact</title><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="version" content="5.4.3"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=IBM+Plex+Mono:wght@400;500&family=Literata:opsz,wght@7..72,400..700&family=Comic+Neue:wght@700&display=swap"><style>
 :root{
-  --paper:#F4F6FA; --ink:#131C33; --muted:#5A6480; --rule:#D5DBE8; --grid:#E4E9F2; --card:#FFFFFF;
+  --paper:#FAF7F1; --ink:#1F1C17; --muted:#6B6457; --rule:#E2DBCC; --grid:#EFE9DD; --card:#FFFDF9;
+  --side:#F3EEE4; --hover:#EAE3D5; --accent:#0C7A5E;
+  --head:'Literata',Georgia,'Times New Roman',serif;
   --default:#6B7A99; --driven:#D2502F; --drifting:#4A66D6; --high:#0C8A6A;
   --k-trad:#3E5CC0; --k-study:#0C8A6A; --k-look:#5F6E8E; --k-life:#B5602A; --k-story:#8A4BAE;
   --display:'Bricolage Grotesque','Segoe UI',system-ui,sans-serif;
@@ -8,35 +10,43 @@
   --mono:'IBM Plex Mono',ui-monospace,Consolas,monospace;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --paper:#0E1424; --ink:#E7EBF5; --muted:#9AA5C0; --rule:#27314D; --grid:#161E35; --card:#151D33;
+  --paper:#16140F; --ink:#ECE6DA; --muted:#A99F8E; --rule:#2F2A21; --grid:#1D1A14; --card:#1E1B15;
+  --side:#1B1813; --hover:#28241C; --accent:#31C79F;
   --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
   --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; color-scheme:dark}}
 :root[data-theme="dark"]{
-  --paper:#0E1424; --ink:#E7EBF5; --muted:#9AA5C0; --rule:#27314D; --grid:#161E35; --card:#151D33;
+  --paper:#16140F; --ink:#ECE6DA; --muted:#A99F8E; --rule:#2F2A21; --grid:#1D1A14; --card:#1E1B15;
+  --side:#1B1813; --hover:#28241C; --accent:#31C79F;
   --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
   --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; color-scheme:dark}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:1.125rem;line-height:1.68;overflow-x:clip}
-.hero{position:relative;padding:clamp(2.5rem,7vw,5rem) 1rem 2rem}
-.hero::before{content:"";position:absolute;inset:0;z-index:0;
-  background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);
-  background-size:32px 32px;
-  -webkit-mask-image:linear-gradient(#000 70%,transparent);mask-image:linear-gradient(#000 70%,transparent)}
-.hero-in{position:relative;z-index:1;max-width:40rem;margin:0 auto}
-.kicker{font-family:var(--mono);font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 .8rem}
-h1{font-family:var(--display);font-weight:800;font-size:clamp(3.4rem,13vw,6.2rem);line-height:.95;letter-spacing:-.03em;margin:0;text-wrap:balance}
-.lede{font-size:1.3rem;line-height:1.45;margin:1.2rem 0 1.4rem;max-width:32rem;color:var(--ink)}
-.parts{display:flex;flex-wrap:wrap;gap:.5rem;margin:0;padding:0;list-style:none;font-family:var(--mono);font-size:.82rem}
-.parts li{padding:.3rem .7rem;border:1px solid var(--rule);border-radius:999px;color:var(--muted);background:var(--paper)}
-.parts li.now{border-color:var(--ink);color:var(--ink);font-weight:500}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:1.15rem;line-height:1.72;overflow-x:clip;font-optical-sizing:auto;text-rendering:optimizeLegibility}
+.hero{position:relative;padding:clamp(3rem,9vh,6rem) 1rem 1rem;text-align:center}
+.hero-in{position:relative;max-width:38rem;margin:0 auto}
+.kicker{font-family:var(--mono);font-size:.78rem;letter-spacing:.22em;text-transform:uppercase;color:var(--accent);margin:0 0 1.1rem}
+h1{font-family:var(--head);font-weight:600;font-size:clamp(2.9rem,10vw,4.6rem);line-height:1.02;letter-spacing:-.02em;margin:0;text-wrap:balance}
+.lede{font-family:var(--head);font-style:italic;font-size:1.3rem;line-height:1.5;margin:1.3rem auto 0;max-width:30rem;color:var(--muted);text-wrap:balance}
+.meta{font-family:var(--mono);font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:1.3rem 0 0}
+.orn{display:flex;align-items:center;justify-content:center;gap:.9rem;margin:2.4rem auto 0;max-width:14rem}
+.orn span{flex:1;height:1px;background:var(--rule)}
+.orn i{width:.5rem;height:.5rem;transform:rotate(45deg);border:1px solid var(--accent)}
 main{padding:0 1rem 4rem}
-.col{max-width:40rem;margin:0 auto}
+.col{max-width:38rem;margin:2.5rem auto 0;hyphens:auto;-webkit-hyphens:auto}
+.col p.first::first-letter{font-family:var(--head);font-weight:600;font-size:2.7em;line-height:1;margin-right:.04em;color:var(--accent)}
+.turn{max-width:38rem;margin:4rem auto 2.5rem;display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+.turn a{display:flex;flex-direction:column;gap:.25rem;padding:1rem 1.15rem;border:1px solid var(--rule);border-radius:12px;background:var(--card);text-decoration:none;color:var(--ink);transition:border-color .15s,transform .15s}
+.turn a:hover{border-color:var(--accent);transform:translateY(-1px)}
+.turn a span{font-family:var(--mono);font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.turn a b{font-family:var(--head);font-weight:600;font-size:1.08rem;line-height:1.3}
+.turn .next{grid-column:2;text-align:right}
+@media (max-width:34rem){.turn{grid-template-columns:1fr}.turn .next{grid-column:1}}
 .toc{font-family:var(--mono);font-size:.82rem;line-height:1.9;margin:0 0 2.5rem;padding:1rem 0;border-block:1px solid var(--rule)}
 .toc a{color:var(--muted);text-decoration:none;margin-right:1rem;white-space:nowrap}
 .toc a:hover{color:var(--ink);text-decoration:underline}
-h2{font-family:var(--display);font-weight:800;font-size:clamp(1.9rem,6vw,2.5rem);line-height:1.1;letter-spacing:-.02em;margin:3.6rem 0 1.1rem;text-wrap:balance;scroll-margin-top:1rem}
-h3.room{font-family:var(--display);font-weight:700;font-size:1.55rem;margin:2.6rem 0 .9rem;display:flex;align-items:center;gap:.6rem}
+h2{font-family:var(--head);font-weight:600;font-size:clamp(1.75rem,5vw,2.25rem);line-height:1.15;letter-spacing:-.015em;margin:4.2rem 0 1.2rem;text-wrap:balance;scroll-margin-top:4.5rem}
+h2::before{content:"";display:block;width:2.2rem;height:2px;background:var(--accent);margin:0 0 1.1rem}
+h3.room{font-family:var(--head);font-weight:600;font-size:1.55rem;margin:2.6rem 0 .9rem;display:flex;align-items:center;gap:.6rem}
 h3.room .dot{width:.9rem;height:.9rem;border-radius:3px;background:currentColor}
 h3.room.default{color:var(--default)}h3.room.driven{color:var(--driven)}h3.room.drifting{color:var(--drifting)}h3.room.high{color:var(--high)}
 p{margin:0 0 1.15rem}
@@ -150,7 +160,7 @@ details.say-fold summary:focus-visible{outline:2px solid var(--kc);outline-offse
 details.say-fold .ki{width:1.35rem;height:1.35rem;color:var(--kc);margin-top:.15rem}
 details.say-fold .kt{min-width:0;display:flex;flex-direction:column;gap:.15rem}
 details.say-fold .kk{font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--kc)}
-details.say-fold .tt{font-family:var(--display);font-weight:600;font-size:1.08rem;line-height:1.3}
+details.say-fold .tt{font-family:var(--head);font-weight:600;font-size:1.1rem;line-height:1.3}
 details.say-fold .tz{color:var(--muted);font-size:.95rem;line-height:1.5;margin-top:.25rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;-webkit-mask-image:linear-gradient(90deg,#000 70%,transparent);mask-image:linear-gradient(90deg,#000 70%,transparent)}
 details.say-fold[open] .tz{display:none}
 details.say-fold .pm::before{content:"+";font-family:var(--mono);font-size:1.15rem;line-height:1.3;color:var(--muted)}
@@ -166,13 +176,12 @@ details.say-fold .say-close{margin:1.2rem 0 .6rem}
 .say li::marker{color:var(--muted)}
 .sources li{margin-bottom:.7rem;overflow-wrap:anywhere}
 h4{font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:1.6rem 0 .8rem;font-weight:500}
-footer{max-width:40rem;margin:0 auto;padding:1.5rem 0 0;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.74rem;line-height:1.6;color:var(--muted)}
+footer{max-width:38rem;margin:0 auto;padding:1.5rem 0 0;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.74rem;line-height:1.6;color:var(--muted)}
 a{color:var(--high)}
 .contact{margin:1.5rem 0 1rem}
 .contact-form{display:grid;gap:1.1rem;margin-top:1rem}
 .contact-form label{display:grid;gap:.35rem;font-family:var(--mono);font-size:.78rem;color:var(--muted)}
 .contact-form .hint{font-size:.78rem}
-.hero h1+.parts{margin-top:1.6rem}
 .contact-form input,.contact-form textarea{font:inherit;font-family:var(--body,inherit);font-size:1rem;color:var(--ink);background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:.6rem .7rem;width:100%;box-sizing:border-box}
 .contact-form textarea{min-height:7.5rem;line-height:1.5;resize:vertical}
 .contact-form button{justify-self:start;font-family:var(--mono);font-size:.85rem;color:var(--paper);background:var(--ink);border:0;border-radius:8px;padding:.65rem 1.3rem;cursor:pointer}
@@ -181,23 +190,58 @@ a{color:var(--high)}
 .contact-status{font-family:var(--mono);font-size:.8rem;color:var(--muted);margin:0;min-height:1.2em}
 :focus-visible{outline:2px solid var(--drifting);outline-offset:2px}
 
-.toc-btn,.toc-scrim,.toc-h{display:none}
-body.has-toc .toc-h{display:block;font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;margin:0 0 .6rem .6rem}
-body.has-toc .toc{position:fixed;left:0;top:0;bottom:0;width:min(20rem,86vw);box-sizing:border-box;margin:0;padding:2rem 1rem 2rem 1.25rem;overflow-y:auto;overscroll-behavior:contain;border:0;border-right:1px solid var(--rule);background:var(--paper);z-index:50;display:flex;flex-direction:column;gap:.1rem;line-height:1.4;transform:translateX(-100%);visibility:hidden;transition:transform .2s ease,visibility 0s .2s}
-body.has-toc .toc a{display:block;margin:0;padding:.35rem .6rem;border-radius:6px;white-space:normal}
-body.has-toc .toc a.on{color:var(--ink);background:var(--card);box-shadow:inset 2px 0 0 var(--ink)}
-body.has-toc.toc-open .toc{transform:none;visibility:visible;transition:transform .2s ease}
-body.has-toc .toc-btn{display:flex;align-items:center;justify-content:center;position:fixed;top:.75rem;left:.75rem;z-index:40;width:2.6rem;height:2.6rem;padding:0;border:1px solid var(--rule);border-radius:8px;background:var(--card);color:var(--ink);cursor:pointer}
-body.has-toc .toc-btn:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
-body.has-toc.toc-open .toc-scrim{display:block;position:fixed;inset:0;z-index:45;background:rgba(0,0,0,.4)}
-body.has-toc .hero{padding-top:4.5rem}
+.topbar,.toc-scrim,.progress{display:none}
+body.has-toc .progress{display:block;position:fixed;left:0;right:0;top:0;height:3px;z-index:60;pointer-events:none}
+body.has-toc .progress i{display:block;height:100%;width:100%;background:var(--accent);transform-origin:0 50%;transform:scaleX(0)}
+body.has-toc .topbar{display:flex;align-items:center;gap:.75rem;position:fixed;top:0;left:0;right:0;z-index:40;height:3.25rem;padding:0 .75rem;background:color-mix(in srgb,var(--paper) 92%,transparent);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);border-bottom:1px solid var(--rule)}
+.toc-btn{display:flex;align-items:center;justify-content:center;flex:none;width:2.4rem;height:2.4rem;padding:0;border:1px solid var(--rule);border-radius:8px;background:var(--card);color:var(--ink);cursor:pointer}
+.toc-btn:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+.topbar .tb-t{min-width:0;font-family:var(--head);font-size:1rem;line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.topbar .tb-t span{color:var(--muted);font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;margin-right:.5rem}
+body.has-toc .book{position:fixed;left:0;top:0;bottom:0;width:min(20rem,86vw);margin:0;padding:1.75rem 1rem 2.5rem 1.25rem;overflow-y:auto;overscroll-behavior:contain;border-right:1px solid var(--rule);background:var(--side);z-index:50;transform:translateX(-100%);visibility:hidden;transition:transform .22s ease,visibility 0s .22s;scrollbar-width:thin}
+body.has-toc.toc-open .book{transform:none;visibility:visible;transition:transform .22s ease;box-shadow:0 0 40px rgba(0,0,0,.18)}
+body.has-toc.toc-open .toc-scrim{display:block;position:fixed;inset:0;z-index:45;background:rgba(20,16,10,.42)}
+.book a{text-decoration:none;color:inherit}
+.book .bk{display:block;padding:0 .5rem 1.25rem;margin:0 0 1rem;border-bottom:1px solid var(--rule)}
+.book .bk-t{display:block;font-family:var(--head);font-weight:600;font-size:1.3rem;line-height:1.15;letter-spacing:-.01em;color:var(--ink)}
+.book .bk-sub{display:block;margin-top:.4rem;font-family:var(--head);font-style:italic;font-size:.95rem;line-height:1.35;color:var(--ink)}
+.book .bk-by{display:block;margin-top:.45rem;font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.book ol{list-style:none;margin:0;padding:0}
+.book .ch{position:relative;margin:0 0 .25rem}
+.book details>summary{list-style:none;display:flex;align-items:center;cursor:pointer}
+.book details>summary::-webkit-details-marker{display:none}
+.book .ch-a{display:flex;flex-direction:column;flex:1;min-width:0;padding:.55rem .5rem;border-radius:8px}
+.book .ch-a:hover{background:var(--hover)}
+.book .ch-n{font-family:var(--mono);font-size:.66rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.book .ch-t{font-family:var(--head);font-size:1.08rem;line-height:1.25;color:var(--ink)}
+.book .ch.on>.ch-a{background:var(--hover)}
+.book .ch.on>.ch-a .ch-t{font-weight:600}
+.book .ch.on>.ch-a .ch-n{color:var(--accent)}
+.book .chev{flex:none;width:1.9rem;height:1.9rem;border-radius:6px;display:grid;place-items:center;color:var(--muted)}
+.book .chev::before{content:"";width:.42rem;height:.42rem;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(-45deg);transition:transform .15s}
+.book details[open] .chev::before{transform:rotate(45deg)}
+.book summary:hover .chev{color:var(--ink);background:var(--hover)}
+.book .secs{margin:.2rem 0 .7rem .5rem;padding-left:.75rem;border-left:1px solid var(--rule)}
+.book .secs a{display:block;padding:.28rem .5rem;margin-left:-1px;border-left:2px solid transparent;font-family:var(--body);font-size:.88rem;line-height:1.35;color:var(--muted)}
+.book .secs a:hover{color:var(--ink)}
+.book .secs a.on{color:var(--ink);border-left-color:var(--accent)}
+.book .ch-bar{display:block;height:2px;margin:-.3rem .5rem .8rem 1.25rem;background:var(--rule);border-radius:2px;overflow:hidden}
+.book .ch-bar i{display:block;height:100%;width:100%;background:var(--accent);transform-origin:0 50%;transform:scaleX(0)}
+.book .downloads{margin:1.4rem .5rem 0;padding-top:1.1rem;border-top:1px solid var(--rule);display:flex;flex-wrap:wrap;gap:.5rem}
+.book .downloads p{flex-basis:100%;margin:0 0 .1rem;font-family:var(--mono);font-size:.66rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.book .downloads a{font-family:var(--mono);font-size:.8rem;padding:.4rem .85rem;border:1px solid var(--ink);border-radius:999px;color:var(--ink)}
+.book .downloads a:hover{background:var(--ink);color:var(--paper)}
+.book .downloads span{flex-basis:100%;font-size:.8rem;line-height:1.4;color:var(--muted);margin-top:.2rem}
+.book :focus-visible{outline:2px solid var(--ink);outline-offset:2px;border-radius:6px}
+body.has-toc .hero{padding-top:5.5rem}
 @media (min-width:72rem){
-  body.has-toc{padding-left:16rem}
-  body.has-toc .toc{width:16rem;transform:none;visibility:visible;transition:none}
-  body.has-toc .toc-btn,body.has-toc.toc-open .toc-scrim{display:none}
-  body.has-toc .hero{padding-top:clamp(2.5rem,7vw,5rem)}
-  body.has-toc .fig:not(.plain):not(.photo){width:min(54rem,calc(100vw - 20rem))}
+  body.has-toc{padding-left:18rem}
+  body.has-toc .book{width:18rem;transform:none;visibility:visible;transition:none;box-shadow:none}
+  body.has-toc .topbar,body.has-toc.toc-open .toc-scrim{display:none}
+  body.has-toc .hero{padding-top:clamp(3rem,9vh,6rem)}
+  body.has-toc .fig:not(.plain):not(.photo){width:min(54rem,calc(100vw - 22rem))}
 }
+@media print{.book,.topbar,.progress,.toc-scrim,.turn{display:none!important}body.has-toc{padding-left:0}}
 </style><script>
 (function () {
   try {
@@ -206,7 +250,7 @@ body.has-toc .hero{padding-top:4.5rem}
     if (Object.keys(s).length) sessionStorage.setItem('essay_utm', JSON.stringify(s));
   } catch (e) {}
 })();
-</script></head><body><header class="hero"><div class="hero-in"><p class="kicker">After the essay</p><h1>Stay in contact</h1><ul class="parts"><li>Intro</li><li>Rational</li><li>Spiritual</li><li>Practical</li><li class="now">Contact</li></ul></div></header><main><div class="col"><p>Thank you for reading all the way here.</p>
+</script></head><body class="has-toc"><div class="progress" aria-hidden="true"><i></i></div><div class="topbar"><button class="toc-btn" type="button" aria-label="Contents" aria-expanded="false" aria-controls="toc"><svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><path d="M3 5h14M3 10h14M3 15h14" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg></button><p class="tb-t"><span>After the book</span>Stay in contact</p></div><div class="toc-scrim"></div><nav class="book" id="toc" aria-label="The book"><a class="bk" href="/intro"><span class="bk-t">Rational, Spiritual, Practical</span><span class="bk-sub">A modern take on the path from micro to macro</span><span class="bk-by">by Alex</span></a><ol class="chapters"><li class="ch"><details><summary aria-label="Show the sections of Before you start"><a class="ch-a" href="/intro"><span class="ch-n">Part zero</span><span class="ch-t">Before you start</span></a><span class="chev" aria-hidden="true"></span></summary><ol class="secs"><li><a href="/intro#who-is-talking-and-who-taught-me">Who is talking, and who taught me</a></li></ol></details></li><li class="ch"><details><summary aria-label="Show the sections of Rational"><a class="ch-a" href="/rational"><span class="ch-n">Part one</span><span class="ch-t">Rational</span></a><span class="chev" aria-hidden="true"></span></summary><ol class="secs"><li><a href="/rational#two-questions">Two questions</a></li><li><a href="/rational#do-making-things-happen">DO: making things happen</a></li><li><a href="/rational#be-letting-go-and-being-here">BE: letting go, and being here</a></li><li><a href="/rational#four-rooms">Four rooms</a></li><li><a href="/rational#what-the-top-right-gives-you">What the top right gives you</a></li><li><a href="/rational#the-math-with-a-warning">The math, with a warning</a></li><li><a href="/rational#the-line">The line</a></li><li><a href="/rational#why-almost-nobody-stays">Why almost nobody stays</a></li><li><a href="/rational#the-reason-bigger-than-you">The reason bigger than you</a></li><li><a href="/rational#why-a-bigger-reason-works">Why a bigger reason works</a></li><li><a href="/rational#harmony-as-the-road">Harmony as the road</a></li><li><a href="/rational#zoom-out">Zoom out</a></li><li><a href="/rational#sources">Sources</a></li></ol></details></li><li class="ch"><details><summary aria-label="Show the sections of Spiritual"><a class="ch-a" href="/spiritual"><span class="ch-n">Part two</span><span class="ch-t">Spiritual</span></a><span class="chev" aria-hidden="true"></span></summary><ol class="secs"><li><a href="/spiritual#where-we-part-ways">Where we part ways</a></li><li><a href="/spiritual#why-this-idea-is-worth-a-closer-look">Why this idea is worth a closer look</a></li><li><a href="/spiritual#the-axiom-and-the-machine">The axiom and the machine</a></li><li><a href="/spiritual#1-separation-is-a-way-of-looking">1. Separation is a way of looking</a></li><li><a href="/spiritual#2-how-a-whole-turns-itself-down">2. How a whole turns itself down</a></li><li><a href="/spiritual#3-the-wall-felt-from-inside">3. The wall, felt from inside</a></li><li><a href="/spiritual#4-the-turn">4. The turn</a></li><li><a href="/spiritual#5-something-carries-over">5. Something carries over</a></li><li><a href="/spiritual#6-karma-or-the-fingers">6. Karma, or the fingers</a></li><li><a href="/spiritual#7-energy">7. Energy</a></li><li><a href="/spiritual#8-lifting-the-cloth">8. Lifting the cloth</a></li><li><a href="/spiritual#why-the-paths-differ">Why the paths differ</a></li><li><a href="/spiritual#why-i-want-this">Why I want this</a></li><li><a href="/spiritual#what-you-can-check">What you can check</a></li><li><a href="/spiritual#where-this-goes-next">Where this goes next</a></li><li><a href="/spiritual#sources">Sources</a></li></ol></details></li><li class="ch"><details><summary aria-label="Show the sections of Practical"><a class="ch-a" href="/practical"><span class="ch-n">Part three</span><span class="ch-t">Practical</span></a><span class="chev" aria-hidden="true"></span></summary><ol class="secs"><li><a href="/practical#1-your-wish-and-your-yes">1. Your wish, and your yes</a></li><li><a href="/practical#2-a-goal-and-a-reason">2. A goal, and a reason</a></li><li><a href="/practical#3-discipline">3. Discipline</a></li><li><a href="/practical#4-work-with-attention">4. Work with attention</a></li><li><a href="/practical#5-giving">5. Giving</a></li><li><a href="/practical#6-mirror-work-and-ego-work">6. Mirror work and ego work</a></li><li><a href="/practical#7-friends-on-the-path">7. Friends on the path</a></li><li><a href="/practical#8-someone-further-along">8. Someone further along</a></li><li><a href="/practical#a-note-on-community-and-the-teacher">A note on community and the teacher</a></li><li><a href="/practical#what-you-can-check">What you can check</a></li><li><a href="/practical#sources">Sources</a></li></ol></details></li><li class="ch on"><a class="ch-a" href="/contact" aria-current="page"><span class="ch-n">After</span><span class="ch-t">Stay in contact</span></a></li></ol><div class="downloads"><p>Download the book</p><a href="https://raw.githubusercontent.com/AxelPotato/magnum-opus/main/essay/book/rational-spiritual-practical.pdf" download>PDF</a><a href="https://raw.githubusercontent.com/AxelPotato/magnum-opus/main/essay/book/rational-spiritual-practical.epub" download>EPUB</a><span>EPUB works on Kindle (through Send to Kindle), Kobo and Apple Books.</span></div></nav><header class="hero"><div class="hero-in"><p class="kicker">After the book</p><h1>Stay in contact</h1><div class="orn" aria-hidden="true"><span></span><i></i><span></span></div></div></header><main><div class="col"><p>Thank you for reading all the way here.</p>
 <p>If you’d like to hear about workshops or online events I lead in the future, or you just have a question you’d like to ask me, feel free to leave your details below. They come straight to me, and I’ll do my best to reply within a few days.</p>
 <section class="contact" aria-label="Get in touch"><form class="contact-form" data-endpoint="https://n8n.giving-school.eu/webhook/essay-lead"><label>Your name<input name="name" autocomplete="name" maxlength="120"></label><label>Your email<input name="email" type="email" autocomplete="email" maxlength="200"></label><label>How are you doing?<span class="hint">Please share anything you feel.</span><textarea name="message" rows="5" maxlength="2000"></textarea></label><label class="trap" aria-hidden="true">Leave this empty<input name="website" tabindex="-1" autocomplete="off"></label><button type="submit">Send</button><p class="contact-status" role="status" aria-live="polite"></p></form></section><script>
 document.querySelectorAll('.contact-form').forEach(function (f) {
@@ -230,4 +274,32 @@ document.querySelectorAll('.contact-form').forEach(function (f) {
       .finally(function () { btn.disabled = false; });
   });
 });
-</script></div><footer>Version 5.2.3. Built from contact.md. A draft.</footer></main></body></html>
+</script></div><nav class="turn" aria-label="Chapters"><a class="prev" href="/practical"><span>Previous</span><b>Part three: Practical</b></a></nav><footer>Version 5.4.3. Built from contact.md. A draft.</footer></main><script>
+(function () {
+  var b = document.body, btn = document.querySelector('.toc-btn'), nav = document.getElementById('toc');
+  if (!btn || !nav) return;
+  function set(o) { b.classList.toggle('toc-open', o); btn.setAttribute('aria-expanded', o ? 'true' : 'false'); }
+  btn.addEventListener('click', function () { set(!b.classList.contains('toc-open')); });
+  document.querySelector('.toc-scrim').addEventListener('click', function () { set(false); });
+  nav.addEventListener('click', function (e) { if (e.target.closest('a')) set(false); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') set(false); });
+  var links = [].slice.call(nav.querySelectorAll('.ch.on .secs a')), last = -2;
+  var heads = links.map(function (a) { return document.getElementById(a.getAttribute('href').split('#')[1]); });
+  var bars = [].slice.call(document.querySelectorAll('.progress i,.ch-bar i')), main = document.querySelector('main');
+  function spy() {
+    var y = window.innerHeight * 0.25, cur = -1;
+    if (main) {
+      var r = main.getBoundingClientRect(), f = Math.min(1, Math.max(0, -r.top / Math.max(1, r.height - window.innerHeight)));
+      bars.forEach(function (i) { i.style.transform = 'scaleX(' + f + ')'; });
+    }
+    heads.forEach(function (h, i) { if (h && h.getBoundingClientRect().top <= y) cur = i; });
+    if (cur === last) return;
+    last = cur;
+    links.forEach(function (a, i) { a.classList.toggle('on', i === cur); if (i === cur) a.setAttribute('aria-current', 'location'); else a.removeAttribute('aria-current'); });
+    if (cur >= 0) { var a = links[cur], t = a.getBoundingClientRect().top - nav.getBoundingClientRect().top; if (t < 60 || t > nav.clientHeight - 60) nav.scrollTop += t - nav.clientHeight / 3; }
+  }
+  window.addEventListener('scroll', spy, { passive: true });
+  window.addEventListener('resize', spy);
+  spy();
+})();
+</script></body></html>
