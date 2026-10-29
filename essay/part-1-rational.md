@@ -8,7 +8,7 @@ How many things have you said you would do, and then didn't? Keep it to the last
 
 And how often are you the first one to make a move in a conflict? The first "okay, that one was on me," the first message after the long silence?
 
-Hold on to your two answers. They measure two different things, almost nobody works on both, and the few who do end up living a different kind of life. That's the whole idea, so you can disagree with it early. A person grows in two directions. I call them DO and BE. DO is how much you make things happen. BE is how much you let go of whatever holds you back from the inside, which turns out to be how much you can be here, aware of what is actually happening right now. When both are high, I call it high agency, and the rest of this essay is about what it is, why it's hard to get to, and why it's worth the trouble.
+Hold on to your two answers. They measure two different things, almost nobody works on both, and the few who do end up living a different kind of life. That's the whole idea, so you can disagree with it early. A person grows in two directions. I call them DO and BE. DO is how much you make things happen. BE is how much you let go of whatever holds you back from the inside, which turns out to be how much you can be here, aware of what is actually happening right now. When both are high, I call it high agency, and the rest of this book is about what it is, why it's hard to get to, and why it's worth the trouble.
 
 The whole thing is one big graph that I'll draw slowly.
 
@@ -184,7 +184,7 @@ Everything so far has been a push. The money runs out, the body stops cooperatin
 
 What gets someone across the middle on purpose is a pull. Plenty of people try to get there by being a bit less driven and a bit more relaxed, circling the edge of it for years. What carries a person across is a reason bigger than themselves. "I'll prove them wrong" turns into "I want to help people do something." Or "I have kids, and I want to be a better person for them." Anything that matters more to you than your own wants, needs and fears can do it, however small it looks from outside.
 
-I didn't invent this. People from very different fields, some of them decades apart, have landed in roughly the same place. Since this is one of the most important ideas in the essay, I'll show my work.
+I didn't invent this. People from very different fields, some of them decades apart, have landed in roughly the same place. Since this is one of the most important ideas in the book, I'll show my work.
 
 Viktor Frankl, a psychiatrist who survived the Nazi camps, argued that a human being is always pointed beyond themselves, at a meaning to fulfill or a person to love, and that self-actualization only arrives as a side effect of self-transcendence. Chase yourself directly and you miss. Serve something and you get yourself as a bonus. What he saw in the camps, by his own account, was that people who had a "why" could bear an astonishing amount of "how," a line he borrowed from Nietzsche. That's an observation, not an experiment. He also wasn't against tension. As I read him, he wanted a different kind: the tension of a task worth doing, instead of the tension of guarding yourself.
 

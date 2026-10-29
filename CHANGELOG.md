@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.4.0 (2026-10-29)
+
+- PDF and EPUB downloads of the whole book, linked from the sidebar and built by tools/build_book.py on every release; the text calls itself a book instead of an essay where it means itself; the cast row at the top of Part one is gone; the first letter of each chapter is a raised initial instead of a drop cap
+
+
 ## 5.3.0 (2026-10-29)
 
 - The site reads like a book: a left sidebar lists all five chapters with the one being read open to its sections (the others open on a tap), chapter openers with a reading time and an ornament, a drop cap, serif headings, warm paper colors in light and dark, a reading progress line, and previous and next chapter links at the end of each chapter

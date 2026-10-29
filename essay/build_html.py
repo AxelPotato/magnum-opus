@@ -315,7 +315,7 @@ def rules2a():
 
 def rules0():
     return {
-        'Everything in this essay rests on what I learned': dict(after=figure(
+        'Everything in this book rests on what I learned': dict(after=figure(
             f'<img class="pic" src="{uri("teacher")}" width="720" height="900" loading="lazy" '
             'alt="Two men standing side by side outdoors, the author and his teacher, Genadiy Givin">',
             'My teacher, Genadiy Givin, and I.', 'photo')),
@@ -407,8 +407,7 @@ h1{font-family:var(--head);font-weight:600;font-size:clamp(2.9rem,10vw,4.6rem);l
 .orn i{width:.5rem;height:.5rem;transform:rotate(45deg);border:1px solid var(--accent)}
 main{padding:0 1rem 4rem}
 .col{max-width:38rem;margin:2.5rem auto 0;hyphens:auto;-webkit-hyphens:auto}
-.col p.first{display:flow-root}
-.col p.first::first-letter{font-family:var(--head);font-weight:600;float:left;font-size:4.1em;line-height:.82;margin:.08em .1em 0 0;color:var(--accent)}
+.col p.first::first-letter{font-family:var(--head);font-weight:600;font-size:2.7em;line-height:1;margin-right:.04em;color:var(--accent)}
 .turn{max-width:38rem;margin:4rem auto 2.5rem;display:grid;grid-template-columns:1fr 1fr;gap:1rem}
 .turn a{display:flex;flex-direction:column;gap:.25rem;padding:1rem 1.15rem;border:1px solid var(--rule);border-radius:12px;background:var(--card);text-decoration:none;color:var(--ink);transition:border-color .15s,transform .15s}
 .turn a:hover{border-color:var(--accent);transform:translateY(-1px)}
@@ -751,7 +750,7 @@ def convert(md, R):
 
 NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Contact']  # the chapters, in order; Contact is the page after the essay (contact.md)
 HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in contact']
-NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the essay']
+NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the book']
 # The book's name in the sidebar. The essay's own title is still open; the site's name stands in for it.
 BOOK_TITLE = 'Boring Spirituality'
 BOOK_BY = 'A short book by Alex'
@@ -759,6 +758,9 @@ BOOK_BY = 'A short book by Alex'
 SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/contact']
 FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html', 'part-3-practical.html', 'contact.html']
 URLS = SITE_URLS
+# The PDF and the EPUB, built by tools/build_book.py into essay/book/ and served from the public repo,
+# so the download works without a change on the web server.
+BOOK_FILES = 'https://raw.githubusercontent.com/AxelPotato/magnum-opus/main/essay/book/boring-spirituality'
 WPM = 230  # reading speed for the minutes shown under each chapter title
 
 
@@ -820,7 +822,10 @@ def book_nav(part, toc):
                        f'<ol class="secs">{sec_html}</ol></details></li>')
     return ('<nav class="book" id="toc" aria-label="The book">'
             f'<a class="bk" href="{URLS[0]}"><span class="bk-t">{BOOK_TITLE}</span><span class="bk-by">{BOOK_BY}</span></a>'
-            f'<ol class="chapters">{"".join(lis)}</ol></nav>')
+            f'<ol class="chapters">{"".join(lis)}</ol>'
+            '<div class="downloads"><p>Download the book</p>'
+            f'<a href="{BOOK_FILES}.pdf" download>PDF</a><a href="{BOOK_FILES}.epub" download>EPUB</a>'
+            '<span>EPUB works on Kindle (through Send to Kindle), Kobo and Apple Books.</span></div></nav>')
 
 
 def turn_html(part):
@@ -891,6 +896,11 @@ body.has-toc.toc-open .toc-scrim{display:block;position:fixed;inset:0;z-index:45
 .book .secs a.on{color:var(--ink);border-left-color:var(--accent)}
 .book .ch-bar{display:block;height:2px;margin:-.3rem .5rem .8rem 1.25rem;background:var(--rule);border-radius:2px;overflow:hidden}
 .book .ch-bar i{display:block;height:100%;width:100%;background:var(--accent);transform-origin:0 50%;transform:scaleX(0)}
+.book .downloads{margin:1.4rem .5rem 0;padding-top:1.1rem;border-top:1px solid var(--rule);display:flex;flex-wrap:wrap;gap:.5rem}
+.book .downloads p{flex-basis:100%;margin:0 0 .1rem;font-family:var(--mono);font-size:.66rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.book .downloads a{font-family:var(--mono);font-size:.8rem;padding:.4rem .85rem;border:1px solid var(--ink);border-radius:999px;color:var(--ink)}
+.book .downloads a:hover{background:var(--ink);color:var(--paper)}
+.book .downloads span{flex-basis:100%;font-size:.8rem;line-height:1.4;color:var(--muted);margin-top:.2rem}
 .book :focus-visible{outline:2px solid var(--ink);outline-offset:2px;border-radius:6px}
 body.has-toc .hero{padding-top:5.5rem}
 @media (min-width:72rem){
@@ -935,7 +945,7 @@ TOC_JS = r"""
 
 PARTS = {
     0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: rules0(), cast=False, css_extra=PART0_CSS, foot=PART0_FOOT),
-    1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=True, css_extra='', foot=PART1_FOOT),
+    1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=False, css_extra='', foot=PART1_FOOT),
     2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + F6.CSS_EXTRA, foot=PART2_FOOT),
     3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=rules3, cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + PART0_CSS, foot=PART3_FOOT),
     4: dict(md='contact.md', out='contact.html', title='Stay in contact', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),

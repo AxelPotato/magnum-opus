@@ -74,6 +74,10 @@ def main():
     open(vfile, 'w', newline='\n').write(new + '\n')
 
     run(sys.executable, os.path.join('essay', 'build_html.py'))
+    try:  # the downloadable PDF and EPUB; needs Node with Playwright and pandoc, so it may be skipped
+        run(sys.executable, os.path.join('tools', 'build_book.py'))
+    except Exception as e:
+        print(f'Book files not rebuilt ({e}); the PDF and EPUB in essay/book/ are from an earlier version.')
 
     cl = os.path.join(ROOT, 'CHANGELOG.md')
     text = open(cl, encoding='utf-8').read()
