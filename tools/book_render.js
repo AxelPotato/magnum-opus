@@ -14,7 +14,7 @@ const FLATTEN = () => {
   });
   document.querySelectorAll('.contact-form').forEach(f => {
     const p = document.createElement('p');
-    p.innerHTML = 'You can leave your details at <a href="https://boringspirituality.com/contact">boringspirituality.com/contact</a>.';
+    p.innerHTML = 'You can leave your details at <a href="https://rationalspiritualpractical.com/contact">rationalspiritualpractical.com/contact</a>.';
     f.replaceWith(p);
   });
   document.querySelectorAll('script').forEach(s => s.remove());
