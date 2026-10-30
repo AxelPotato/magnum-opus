@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.4.4 (2026-10-30)
+
+- Book: contact link uses rationalspiritualpractical.com
+
+
 ## 5.4.3 (2026-10-29)
 
 - Subtitle reads A modern take on the path from micro to macro
