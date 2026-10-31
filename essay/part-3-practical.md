@@ -184,9 +184,27 @@ The hardest thing to convey is the inner decision that this is a person whose vi
 
 So how can you make sure? Only through your own experience, I'm afraid, and that part I can't do for you. It comes down to the people you meet and how they affect you. And you don't have to have a teacher at all. You can think it through for yourself.
 
+## The cloth and the world
+
+One last thing before the questions.
+
+Start with something small. You want something, a new phone, a trip, a better job, and you get it. For a week it shines, then it's just there, and the wanting has already moved on to the next thing. That's the need setting from Part two, the sense of not having enough yet, and the 21st century turned up everything that feeds it. Nobody did anything wrong here.
+
+Now picture the same need with all of us behind it, a whole civilization reaching for the next thing. That reaching built a lot of what I'm grateful for, including the laptop I'm writing this on. It also runs into limits, and we feel them. The climate is changing, and the machines we build are getting more capable faster than we can agree on what to do with them. It's hard to read the news without feeling this is an unusual time. People who know far more about it than I do write about it every day, so I'll leave the details to them. A lot of what makes these problems hard is that everyone guards their own corner, even when that leaves all of us worse off, which is the wall from Part two at a bigger scale.
+
+You can care about all of it without carrying it all day. That worry is what Part two called the part we add on top of the pain. Putting it down isn't looking away. It frees your hands for the ditches from section 4.
+
+This is usually the point where a book like this one asks you to save the world, and I'd like to offer the opposite. What this work does for the world is what the cloth from Part two does. Lift one jewel and the ones next to it rise right after, and it starts with the people around you.
+
+It's the least glamorous way to help I know of. Nobody will thank you for saving anything, because from the outside nothing was saved. Your partner had an easier evening. A colleague stopped bracing before meetings with you. A quarrel in your family ended a day sooner than it used to. The rule for giving holds here too: don't hold anyone hostage to the goal behind your giving, however big that goal is, and the world is about as big as goals get. The reason to do this work stays the wish from section 1. What it does for the world comes by itself, as a side effect.
+
+In practice, no magic happens. Part one called tension a tax on seeing solutions, and people who carry less of it see more of the shelf. They listen longer, say sorry first, follow up on their words, and can stay at a table with someone they disagree with. Those happen to be the very things that hard shared problems ask of us. The technologies and the agreements we will need are going to be found by people, and people who are less braced are better at finding them. You can watch that in any meeting you sit in. None of it replaces the scientists, the engineers, or anyone who votes and negotiates. It changes the people who do those things. And prayers alone still don't bring rain. Someone has to dig the ditches.
+
+None of this needs the whole world to agree. A few steady people in a family or a team change the weather in the room, and some of the people around them start doing the same. The first room is the one you live in.
+
 ## What you can check
 
-Start with a count: which of the eight conditions does your life have now, and which one is missing? After a few months of practice, alone or with friends on the path, ask: do you produce the thing you said you would? Does anything outside you change, and if it doesn't, why not? How fast do you say sorry first now? Over the last year, are you more fulfilled, or more bleak? Are you clearer than you were a year ago, steadier, more honest, easier to work with? Put the answers on the chart from Part one, and ask again a month later. Look at the people a few steps ahead of you, too: do they live the way they talk?
+Start with a count: which of the eight conditions does your life have now, and which one is missing? After a few months of practice, alone or with friends on the path, ask: do you produce the thing you said you would? Does anything outside you change, and if it doesn't, why not? How fast do you say sorry first now? Over the last year, are you more fulfilled, or more bleak? Are you clearer than you were a year ago, steadier, more honest, easier to work with? Put the answers on the chart from Part one, and ask again a month later. Look at the people a few steps ahead of you, too: do they live the way they talk? Of the things you wanted last month, how many do you still want now? And do the people closest to you leave an evening with you a bit lighter or a bit flatter, as in Part two?
 
 And one question for the road: who in your life could tell you honestly how you have changed?
 
