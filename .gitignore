@@ -11,3 +11,4 @@ essay/img/_*.png
 
 # lecture extracts from the Giving School wiki: private, never commit
 essay/lectures-private/
+essay/book/.book*.html

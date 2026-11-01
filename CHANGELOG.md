@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.7.2 (2026-11-01)
+
+- Book downloads come from the site (/book/...) instead of GitHub
+
+
 ## 5.7.1 (2026-11-01)
 
 - Part one shelf toy, Alex's picks after run 15: hint says let go one step at a time, a fourth problem (a sister you haven't called in a year), every step text cut to one short sentence, the group chat at released no longer promises the chat wakes up, and the problem buttons are a plain list instead of rounded pills
