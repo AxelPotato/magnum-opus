@@ -40,7 +40,7 @@ body{font-size:1.06rem;line-height:1.62}
 .chapter .hero{padding:4rem 0 1rem}
 .col{margin-top:2rem}
 .fold{margin:1.4rem 0;padding:.2rem 0 .2rem .9rem;border-left:2px solid var(--kc,var(--muted));break-inside:auto}
-.fold.k-trad{--kc:var(--k-trad)}.fold.k-study{--kc:var(--k-study)}.fold.k-look{--kc:var(--k-look)}.fold.k-life{--kc:var(--k-life)}.fold.k-story{--kc:var(--k-story)}
+.fold.k-trad{--kc:var(--k-trad)}.fold.k-study{--kc:var(--k-study)}.fold.k-look{--kc:var(--k-look)}.fold.k-life{--kc:var(--k-life)}.fold.k-story{--kc:var(--k-story)}.fold.k-try{--kc:var(--k-try)}
 .fold .fk{font-family:var(--mono);font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--kc);margin:0 0 .2rem}
 .fold .ft{font-family:var(--head);font-weight:600;font-size:1.1rem;margin:0 0 .6rem;text-transform:none;letter-spacing:0;color:var(--ink)}
 .fig{width:100%!important;left:0!important;transform:none!important;break-inside:avoid}

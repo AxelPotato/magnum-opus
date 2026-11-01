@@ -8,6 +8,26 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.6.3 (2026-11-01)
+
+- Try it folds after the second reader pass: fold 7 line for readers with nobody (Dan's wording), fold 6 says the lever took about ten minutes, fold 5 rings on a page again
+
+
+## 5.6.2 (2026-11-01)
+
+- Part three section 1: plainer English in the closing paragraph of the fold "What if I'm not sure?" (Alex's ask)
+
+
+## 5.6.1 (2026-11-01)
+
+- Try it folds after run 14 and Alex's picks: shorter fold 1, fold 2 becomes "What is behind the goal", ten days then a month, "learn to enjoy it", rings without drawing, a line in fold 7 for readers with nobody yet
+
+
+## 5.6.0 (2026-11-01)
+
+- Part three: a "Try it" fold with one exercise per condition (new fold kind), from Alex's picks of 2026-11-01
+
+
 ## 5.5.0 (2026-10-31)
 
 - Part three: new closing section 'The cloth and the world' (the world as a side effect of lifting the cloth; climate and AI named once; less braced people find the solutions) and one new line in What you can check

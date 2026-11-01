@@ -1,10 +1,10 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Stay in contact</title><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="version" content="5.5.0"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=IBM+Plex+Mono:wght@400;500&family=Literata:opsz,wght@7..72,400..700&family=Comic+Neue:wght@700&display=swap"><style>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Stay in contact</title><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="version" content="5.6.3"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=IBM+Plex+Mono:wght@400;500&family=Literata:opsz,wght@7..72,400..700&family=Comic+Neue:wght@700&display=swap"><style>
 :root{
   --paper:#FAF7F1; --ink:#1F1C17; --muted:#6B6457; --rule:#E2DBCC; --grid:#EFE9DD; --card:#FFFDF9;
   --side:#F3EEE4; --hover:#EAE3D5; --accent:#0C7A5E;
   --head:'Literata',Georgia,'Times New Roman',serif;
   --default:#6B7A99; --driven:#D2502F; --drifting:#4A66D6; --high:#0C8A6A;
-  --k-trad:#3E5CC0; --k-study:#0C8A6A; --k-look:#5F6E8E; --k-life:#B5602A; --k-story:#8A4BAE;
+  --k-trad:#3E5CC0; --k-study:#0C8A6A; --k-look:#5F6E8E; --k-life:#B5602A; --k-story:#8A4BAE; --k-try:#8A6A00;
   --display:'Bricolage Grotesque','Segoe UI',system-ui,sans-serif;
   --body:'Literata',Georgia,'Times New Roman',serif;
   --mono:'IBM Plex Mono',ui-monospace,Consolas,monospace;
@@ -13,12 +13,12 @@
   --paper:#16140F; --ink:#ECE6DA; --muted:#A99F8E; --rule:#2F2A21; --grid:#1D1A14; --card:#1E1B15;
   --side:#1B1813; --hover:#28241C; --accent:#31C79F;
   --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
-  --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; color-scheme:dark}}
+  --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; --k-try:#E0BE4F; color-scheme:dark}}
 :root[data-theme="dark"]{
   --paper:#16140F; --ink:#ECE6DA; --muted:#A99F8E; --rule:#2F2A21; --grid:#1D1A14; --card:#1E1B15;
   --side:#1B1813; --hover:#28241C; --accent:#31C79F;
   --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
-  --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; color-scheme:dark}
+  --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; --k-try:#E0BE4F; color-scheme:dark}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:1.15rem;line-height:1.72;overflow-x:clip;font-optical-sizing:auto;text-rendering:optimizeLegibility}
@@ -153,7 +153,7 @@ figure{margin:0}
 .say{padding-left:1.15rem;margin:0 0 1.4rem}
 .slot{font-family:var(--mono);font-size:.82rem;line-height:1.5;color:var(--muted);border-left:3px solid var(--driven);padding:.5rem .8rem;margin:1.2rem 0;background:var(--card)}
 details.say-fold{margin:1.4rem 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:.15rem 0}
-details.say-fold.k-trad{--kc:var(--k-trad)}details.say-fold.k-study{--kc:var(--k-study)}details.say-fold.k-look{--kc:var(--k-look)}details.say-fold.k-life{--kc:var(--k-life)}details.say-fold.k-story{--kc:var(--k-story)}
+details.say-fold.k-trad{--kc:var(--k-trad)}details.say-fold.k-study{--kc:var(--k-study)}details.say-fold.k-look{--kc:var(--k-look)}details.say-fold.k-life{--kc:var(--k-life)}details.say-fold.k-story{--kc:var(--k-story)}details.say-fold.k-try{--kc:var(--k-try)}
 details.say-fold summary{cursor:pointer;list-style:none;display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:start;gap:.85rem;padding:.95rem 0;font-size:1rem;color:var(--ink)}
 details.say-fold summary::-webkit-details-marker{display:none}
 details.say-fold summary:focus-visible{outline:2px solid var(--kc);outline-offset:3px;border-radius:4px}
@@ -274,7 +274,7 @@ document.querySelectorAll('.contact-form').forEach(function (f) {
       .finally(function () { btn.disabled = false; });
   });
 });
-</script></div><nav class="turn" aria-label="Chapters"><a class="prev" href="/practical"><span>Previous</span><b>Part three: Practical</b></a></nav><footer>Version 5.5.0. Built from contact.md. A draft.</footer></main><script>
+</script></div><nav class="turn" aria-label="Chapters"><a class="prev" href="/practical"><span>Previous</span><b>Part three: Practical</b></a></nav><footer>Version 5.6.3. Built from contact.md. A draft.</footer></main><script>
 (function () {
   var b = document.body, btn = document.querySelector('.toc-btn'), nav = document.getElementById('toc');
   if (!btn || !nav) return;

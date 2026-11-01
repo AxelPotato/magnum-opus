@@ -378,7 +378,7 @@ CSS = r"""
   --side:#F3EEE4; --hover:#EAE3D5; --accent:#0C7A5E;
   --head:'Literata',Georgia,'Times New Roman',serif;
   --default:#6B7A99; --driven:#D2502F; --drifting:#4A66D6; --high:#0C8A6A;
-  --k-trad:#3E5CC0; --k-study:#0C8A6A; --k-look:#5F6E8E; --k-life:#B5602A; --k-story:#8A4BAE;
+  --k-trad:#3E5CC0; --k-study:#0C8A6A; --k-look:#5F6E8E; --k-life:#B5602A; --k-story:#8A4BAE; --k-try:#8A6A00;
   --display:'Bricolage Grotesque','Segoe UI',system-ui,sans-serif;
   --body:'Literata',Georgia,'Times New Roman',serif;
   --mono:'IBM Plex Mono',ui-monospace,Consolas,monospace;
@@ -387,12 +387,12 @@ CSS = r"""
   --paper:#16140F; --ink:#ECE6DA; --muted:#A99F8E; --rule:#2F2A21; --grid:#1D1A14; --card:#1E1B15;
   --side:#1B1813; --hover:#28241C; --accent:#31C79F;
   --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
-  --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; color-scheme:dark}}
+  --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; --k-try:#E0BE4F; color-scheme:dark}}
 :root[data-theme="dark"]{
   --paper:#16140F; --ink:#ECE6DA; --muted:#A99F8E; --rule:#2F2A21; --grid:#1D1A14; --card:#1E1B15;
   --side:#1B1813; --hover:#28241C; --accent:#31C79F;
   --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
-  --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; color-scheme:dark}
+  --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; --k-try:#E0BE4F; color-scheme:dark}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:1.15rem;line-height:1.72;overflow-x:clip;font-optical-sizing:auto;text-rendering:optimizeLegibility}
@@ -527,7 +527,7 @@ figure{margin:0}
 .say{padding-left:1.15rem;margin:0 0 1.4rem}
 .slot{font-family:var(--mono);font-size:.82rem;line-height:1.5;color:var(--muted);border-left:3px solid var(--driven);padding:.5rem .8rem;margin:1.2rem 0;background:var(--card)}
 details.say-fold{margin:1.4rem 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:.15rem 0}
-details.say-fold.k-trad{--kc:var(--k-trad)}details.say-fold.k-study{--kc:var(--k-study)}details.say-fold.k-look{--kc:var(--k-look)}details.say-fold.k-life{--kc:var(--k-life)}details.say-fold.k-story{--kc:var(--k-story)}
+details.say-fold.k-trad{--kc:var(--k-trad)}details.say-fold.k-study{--kc:var(--k-study)}details.say-fold.k-look{--kc:var(--k-look)}details.say-fold.k-life{--kc:var(--k-life)}details.say-fold.k-story{--kc:var(--k-story)}details.say-fold.k-try{--kc:var(--k-try)}
 details.say-fold summary{cursor:pointer;list-style:none;display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:start;gap:.85rem;padding:.95rem 0;font-size:1rem;color:var(--ink)}
 details.say-fold summary::-webkit-details-marker{display:none}
 details.say-fold summary:focus-visible{outline:2px solid var(--kc);outline-offset:3px;border-radius:4px}
@@ -636,16 +636,25 @@ FOLD_KINDS = {
     'A post-mortem, the way we do it at work': 'look',
     "What if I'm not sure?": 'life',
     'My teacher and I': 'story',
+    'Your sentence, and the yes you already know': 'try',
+    'What is behind the goal': 'try',
+    'One promise, and the bargain': 'try',
+    'Five minutes, then two columns': 'try',
+    'One ring further out': 'try',
+    'Go first, and mean it': 'try',
+    'Find one person': 'try',
+    'Ask for one sentence': 'try',
 }
 KIND_LABEL = {'trad': ('From the traditions', 'passage', 'passages'), 'study': ('From the studies', 'study', 'studies'),
               'look': ('A closer look', None, None), 'life': ("From people's lives", 'example', 'examples'),
-              'story': ('My own story', None, None)}
+              'story': ('My own story', None, None), 'try': ('Try it', None, None)}
 KIND_ICON = {
     'trad': '<path d="M3 5.5c3-1.2 6-1 9 1v13c-3-2-6-2.2-9-1z"/><path d="M21 5.5c-3-1.2-6-1-9 1v13c3-2 6-2.2 9-1z"/>',
     'study': '<path d="M9 3h6"/><path d="M10 3v6l-5.5 9.5A1.6 1.6 0 0 0 5.9 21h12.2a1.6 1.6 0 0 0 1.4-2.5L14 9V3"/><path d="M7.5 15h9"/>',
     'look': '<circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/>',
     'life': '<circle cx="8" cy="7" r="3"/><circle cx="16.5" cy="8.5" r="2.5"/><path d="M2.5 20c.6-4 2.8-6.5 5.5-6.5s4.9 2.5 5.5 6.5"/><path d="M14 14.2c.8-.5 1.6-.7 2.5-.7 2.4 0 4.2 2.2 4.8 5.5"/>',
     'story': '<path d="M4 5h16v11H9l-5 4z"/><path d="M8 9.5h8M8 12.5h5"/>',
+    'try': '<path d="M4 20h4L19 9l-4-4L4 16z"/><path d="M13.5 6.5l4 4"/>',
 }
 FOLD_KINDS_SEEN = set()
 

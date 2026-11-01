@@ -31,7 +31,7 @@ People come for all kinds of reasons, and the reasons often change along the way
 * Some reach a plateau, years of calm and comfort with nothing changing, until the calm itself starts to feel pointless.
 * And some only feel that something is off. They can't say what, and there is no event to point at.
 
-  It makes no difference whether a person comes through the outside or the inside. Some understand with the mind that this is what they need. Others don't understand it at first, but they feel it, or they feel that something is not right. Each of the eight billion people alive is unique, and so is the way each of them arrives. How someone comes to this has no effect on how ready they are for it. One of the students I take a lot of personal example from started because sleep would not come. That was the only reason meditation mattered to begin with, and the idea itself met years of resistance. Today I count that student among the most exemplary people I know.
+  Whether a person comes from the outside or the inside makes no difference. Some people understand with their head that this is what they need. Others don't understand it at first, but they feel it, or they just feel that something isn't right. Every one of the eight billion people alive is different, and so is the way each of them gets here. How you come to this says nothing about how ready you are for it. One of the students whose example I learn from most started because of trouble sleeping. At first that was the only reason meditation mattered, and the idea itself met years of resistance. Today that student is one of the people I look up to most.
 
 A wish is the wanting, and a decision is the yes that goes with it, the moment the wanting becomes a direction. It can be quiet, a sentence you say to yourself on an ordinary evening. What it gives you is a kind of freedom. You no longer have to bargain with yourself every morning about whether today counts, and the energy that bargaining took goes into living. Many traditions call this the greatest victory there is, the one over yourself, and it often feels like putting down something heavy you had been carrying for years.
 
@@ -47,6 +47,11 @@ The wish has its days. Nearly everyone has days with a lift and days with a slum
 
 Without the wish none of the other seven conditions can start. So ask yourself, quietly, how much you want this, and take the answer as information. Whatever it says, nothing is wrong with you. Do something concrete, and say yes again tomorrow.
 
+#### Your sentence, and the yes you already know
+
+* Write one sentence that starts "I want this because", in your own words, and keep it somewhere you'll see it. In a month, read it again and ask whether it still sounds like you or like something you read somewhere.
+* Then remember a time you really decided something. Write down what changed in the days after, and ask what the same yes would sound like here.
+
 ## 2. A goal, and a reason
 
 Anything that moves needs two things, energy and direction. A car with plenty of fuel and no steering is a bomb with a radio. A car with a perfect map and no fuel is a very well informed parked car. The wish is the fuel, and a goal is the steering.
@@ -59,6 +64,10 @@ Behind each goal sits a reason, and the reason is what keeps you going after the
 
 One caution, since the outer goals can turn on you. Results are how you check the work. They are an indicator and never the aim. If you start chasing them for their own sake, you've rebuilt the Driven room with better vocabulary. And without a goal at all, the inner work has nothing to be checked against, and it can feel like growth for years while nothing moves.
 
+#### What is behind the goal
+
+* Take a goal you have now, or something you'd like to be different in a month. Under it write "because", and finish the sentence. Then ask "and why do I want that?" and answer again, a few times over, until you reach something that feels true and a little surprising. That is what is behind your goal. Sometimes it's the reason to keep in front of you, and sometimes it shows the goal was standing in for something else.
+
 ## 3. Discipline
 
 Part two's step 2 ended on a pull that only goes one way. Do nothing in particular and you end up a little more separate every year, because settings that were lowered stay lowered. A pull that never takes a day off can only be matched by something that doesn't take one either, and that is discipline. Every other condition in this part leans on it, and so does anything else that matters in life. The decision is the yes, and discipline keeps it true on the days when the wanting is quiet.
@@ -70,6 +79,11 @@ Discipline grows from the outside in. A fixed time for practice and a meeting th
 Keep it light, and keep it yours: a demand you make on yourself, in a friendly tone. Gritting your teeth through practice adds tension, which is the very thing practice is there to remove, so keep the frame small enough to hold without a fight. Five minutes every day is a frame you can keep, and a frame you keep teaches your mind that you can trust your own word. When a day slips, pick it up the next day without a speech about it.
 
 Without discipline, direction follows mood, and mood brings back the swing from Part one.
+
+#### One promise, and the bargain
+
+* Each morning for ten days, promise yourself one small thing, then do it and mark it done. If the ten days hold, go for a month. Keep it small enough to feel almost silly. What you're building is a word to yourself that holds.
+* When you catch yourself negotiating, "I'll start tomorrow" or "today doesn't really count", write down the exact sentence your mind used. After two weeks, read the list. Most minds turn out to have three or four favorite lines, and mine are not very original.
 
 ## 4. Work with attention
 
@@ -91,6 +105,11 @@ Regularity starts with daily practice, every day, even when it's a short one, be
 
 Without the work with attention, you clear the clamps in the morning and build new ones all day, and the drift does the rest.
 
+#### Five minutes, then two columns
+
+* Once a day, do the five minutes of stillness from this section: close your eyes, feel the life in your body, put your attention on that sensation, and learn to enjoy it. If that's all you do, it's plenty.
+* If you'd like to take it further, open your eyes afterwards and think of one hard moment from the day. Write two columns: what happened, and the story you told yourself about it. Then try a few more pairs, a real danger or an old fear, what you actually want or what someone else expects of you. After a few minutes of stillness the two sides are much easier to tell apart.
+
 ## 5. Giving
 
 Giving here means putting effort into the good of other people, or of something bigger than you, and not counting what comes back. An hour of real attention counts. So does using your skills on someone else's problem. This is where the reason bigger than you from section 2 turns into something you do. Inner work gives you more freedom, and giving is what turns that freedom into something for other people.
@@ -100,6 +119,10 @@ It starts with the people closest to you, which is also where the cloth from Par
 It has two rules. The first is to give without conditions: don't demand thanks, recognition or a result in return, and don't hold the person hostage to the goal behind it, however big that goal is. The second is to give to something bigger than your own comfort. That can be your family, your work, a neighbor or a stranger. While you're busy with something larger than yourself, there is less of you to guard, and that speeds up the one thing almost nothing else touches, the slow change in the ego. My one-line summary of the whole road, for anyone in a hurry: get over yourself. It doesn't make you less yourself. What wears away is the part of us that keeps defending, and what is left is what we bring into the world.
 
 Without giving, inner work can go in a circle. You improve your own state, then you improve it more. That has real value, and it can turn into polishing the same stone. Giving sends the energy somewhere, the way the mill in Part two lets the river through, and it is also where the work gets tested, because other people can tell you whether it helped. Part one's two questions work here too: would you still do it if nobody ever found out, and does it make you gentler with the person in front of you?
+
+#### One ring further out
+
+* Draw rings on a page for the people around you, from the closest out to the people who are hard for you, and remember that the hardest one may be at home. This week, do one small thing for someone one ring further out than you usually go. When that starts to feel easy, go one more ring.
 
 ## 6. Mirror work and ego work
 
@@ -120,6 +143,11 @@ I went to find the other person to apologize. Calming down quickly after a fight
 That is also what repair looks like: quick and light. A person who has hurt someone and leaves it for a week has added a clamp. A person who says "I'm sorry, that was me" the same afternoon, without an essay, has removed one. The usual suspects behind the hook are pride, offense and the habit of judging, and the work on them has a name, ego work, which is a grand title for noticing them every time they show up.
 
 Without the mirror the hooks stay where they are, and it's much harder to use alone: you can't see which hooks you have until someone leans on them, and the people already in your life do that every day.
+
+#### Go first, and mean it
+
+* Pick one conflict that is still open, big or small. This week, take the first step. Say sorry for your part in one sentence, without an essay and without a "but" at the end, and then watch what shifts.
+* The hardest part is to really mean it. The words are easy to say, and meaning them takes the click from my story above, the lever moving inside you. If it won't move yet, ask yourself how you could change your relationship to this, and go when you can say it and mean it. In my story the lever took about ten minutes. Give it time, and don't let the time turn into years.
 
 ## 7. Friends on the path
 
@@ -146,6 +174,11 @@ The people also have to want it, and this is where friends on the path meet the 
 
 Friends on the path do something for the wish itself, too. On your own it dies down faster. So friends who want the same thing remind each other what they came for, and when your own spark drops, lighting up a friend gets some of it back. The company of people who want the same thing is one of the best things to feed it. Ananda, the Buddha's attendant, once said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it. With them, the wish keeps growing a little every day.
 
+#### Find one person
+
+* Is there one person in your life who wants something like what you want? Suggest a weekly walk or call where each of you says what you're working on and how the week went. It can be short. If nobody in your life wants this yet, do it on your own for a while, and ask a friend who doesn't share it to check in with you anyway.
+* If you both feel like it, make one small agreement together, for example five minutes of stillness every day for a month, and check in once a week on how you kept it.
+
 ## 8. Someone further along
 
 Part two said that a limit you are inside of rarely shows up as a limit. That is true of every one of us, teachers included, the way everyone hears your accent except you. It is also the plain reason people learn faster next to someone who has had more time with what they want. A person a few steps ahead can often name in one sentence a habit you would take years to find alone, and you can check it against your own life the same week.
@@ -159,6 +192,10 @@ A mentor is simply a person who has had more time to practice what you want. Wha
 The biggest effect is that you get to feel what it is like to be a person a few steps ahead: how they sit through a tense meeting, how fast they come back from a bad day. It is one thing to be told that something is possible and another to sit across from someone for whom it is ordinary. You could call it osmosis: nobody sets out to copy anything, and after a while your own reactions have moved toward what you have been around, the way you pick up an accent from a roommate without trying and without the roommate noticing. It is a big part of why people mature much faster with a mentor than alone.
 
 A few steps is the useful distance, close enough that you can see how they got there and far enough that you want what they have. It might be someone in your community who started a few years before you, or someone outside it who has had more time with what you want. You have probably felt a small version of this already: an afternoon with the calmest person you know, and you leave a little calmer without having done anything. Look for that on purpose, and do your own practice in between visits.
+
+#### Ask for one sentence
+
+* Ask someone you trust: "What's one habit of mine you think I don't see?" Then listen and say thank you, without defending it. That same week, check what they said against your own life and see how often it shows up.
 
 A community has energy, and it can still be going in a circle. A teacher, someone who has walked much more of the road, can see where it is growing and where it is stuck, which is hard to see from inside. What a teacher does is easy to describe. They don't walk the path for you, and they can't create your wish to walk it, which stays yours. What they can do is point out where you have drifted, and give you something to try on Monday. On the hard days they help you remember what you came for in the first place, as a good coach stands by an athlete through a bad stretch. A good teacher also has a steadiness that spreads, the way a calm, experienced guide on a mountain path steadies everyone walking behind. With someone further along, you get to see past limits you would otherwise have taken for the way things are.
 
