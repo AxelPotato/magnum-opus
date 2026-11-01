@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.6.0 (2026-11-01)
+
+- Part three: a "Try it" fold with one exercise per condition (new fold kind), from Alex's picks of 2026-11-01
+
+
 ## 5.5.0 (2026-10-31)
 
 - Part three: new closing section 'The cloth and the world' (the world as a side effect of lifting the cloth; climate and AI named once; less braced people find the solutions) and one new line in What you can check
