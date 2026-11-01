@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.6.3 (2026-11-01)
+
+- Try it folds after the second reader pass: fold 7 line for readers with nobody (Dan's wording), fold 6 says the lever took about ten minutes, fold 5 rings on a page again
+
+
 ## 5.6.2 (2026-11-01)
 
 - Part three section 1: plainer English in the closing paragraph of the fold "What if I'm not sure?" (Alex's ask)

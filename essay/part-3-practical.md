@@ -122,7 +122,7 @@ Without giving, inner work can go in a circle. You improve your own state, then 
 
 #### One ring further out
 
-* Think of the people around you in rings, from the closest out to the people who are hard for you, and remember that the hardest one may be at home. This week, do one small thing for someone one ring further out than you usually go. When that starts to feel easy, go one more ring.
+* Draw rings on a page for the people around you, from the closest out to the people who are hard for you, and remember that the hardest one may be at home. This week, do one small thing for someone one ring further out than you usually go. When that starts to feel easy, go one more ring.
 
 ## 6. Mirror work and ego work
 
@@ -147,7 +147,7 @@ Without the mirror the hooks stay where they are, and it's much harder to use al
 #### Go first, and mean it
 
 * Pick one conflict that is still open, big or small. This week, take the first step. Say sorry for your part in one sentence, without an essay and without a "but" at the end, and then watch what shifts.
-* The hardest part is to really mean it. The words are easy to say, and meaning them takes the click from my story above, the lever moving inside you. If it won't move yet, ask yourself how you could change your relationship to this, and go when you can say it and mean it.
+* The hardest part is to really mean it. The words are easy to say, and meaning them takes the click from my story above, the lever moving inside you. If it won't move yet, ask yourself how you could change your relationship to this, and go when you can say it and mean it. In my story the lever took about ten minutes. Give it time, and don't let the time turn into years.
 
 ## 7. Friends on the path
 
@@ -176,7 +176,7 @@ Friends on the path do something for the wish itself, too. On your own it dies d
 
 #### Find one person
 
-* Is there one person in your life who wants something like what you want? Suggest a weekly walk or call where each of you says what you're working on and how the week went. It can be short. And if there is nobody like that yet, take it as a good reason to be open to meeting a new friend who is.
+* Is there one person in your life who wants something like what you want? Suggest a weekly walk or call where each of you says what you're working on and how the week went. It can be short. If nobody in your life wants this yet, do it on your own for a while, and ask a friend who doesn't share it to check in with you anyway.
 * If you both feel like it, make one small agreement together, for example five minutes of stillness every day for a month, and check in once a week on how you kept it.
 
 ## 8. Someone further along
