@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.6.2 (2026-11-01)
+
+- Part three section 1: plainer English in the closing paragraph of the fold "What if I'm not sure?" (Alex's ask)
+
+
 ## 5.6.1 (2026-11-01)
 
 - Try it folds after run 14 and Alex's picks: shorter fold 1, fold 2 becomes "What is behind the goal", ten days then a month, "learn to enjoy it", rings without drawing, a line in fold 7 for readers with nobody yet
