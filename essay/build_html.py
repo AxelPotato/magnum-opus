@@ -769,9 +769,9 @@ BOOK_BY = 'by Alex'
 SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/contact']
 FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html', 'part-3-practical.html', 'contact.html']
 URLS = SITE_URLS
-# The PDF and the EPUB, built by tools/build_book.py into essay/book/ and served from the public repo,
-# so the download works without a change on the web server.
-BOOK_FILES = 'https://raw.githubusercontent.com/AxelPotato/magnum-opus/main/essay/book/rational-spiritual-practical'
+# The PDF and the EPUB, built by tools/build_book.py into essay/book/. The site serves them itself:
+# stack 56 copies essay/book/ to /book/ on every pull.
+BOOK_FILES = '/book/rational-spiritual-practical'
 WPM = 230  # reading speed for the minutes shown under each chapter title
 
 
