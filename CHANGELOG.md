@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.7.0 (2026-11-01)
+
+- Part one: the shelf of solutions in the BE section is a toy now (figs7.py): pick one of three everyday problems, move BE from braced to released, and more answers on the shelf light up, with one short text for each step
+
+
 ## 5.6.4 (2026-11-01)
 
 - Part one: the two balance scales tilted the wrong way (the lighter pan hung low); now the heavier side sinks on both (replays PR 31 onto 5.6.3)
