@@ -293,8 +293,8 @@ def scale(cx, tilt, left, right, title, uid):
 
 def fig_scales():
     u = 'sc'
-    b = scale(200, 9, ('the fear', 58, 'fdo'), ('a bit more peace', 24, 'fmu'), 'Usually: the fear wins', u)
-    b += scale(600, -9, ('the fear, still there', 40, 'fdo'), ('a reason|bigger than me', 66, 'fhi'), 'With a bigger reason: outvoted', u)
+    b = scale(200, -9, ('the fear', 58, 'fdo'), ('a bit more peace', 24, 'fmu'), 'Usually: the fear wins', u)
+    b += scale(600, 9, ('the fear, still there', 40, 'fdo'), ('a reason|bigger than me', 66, 'fhi'), 'With a bigger reason: outvoted', u)
     return svg('0 0 800 320', 'Two balance scales: usually fear outweighs a bit more peace; with a reason bigger than you, the reason outweighs the fear', b, u)
 
 
