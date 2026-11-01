@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.6.4 (2026-11-01)
+
+- Part one: the two balance scales tilted the wrong way (the lighter pan hung low); now the heavier side sinks on both (replays PR 31 onto 5.6.3)
+
+
 ## 5.6.3 (2026-11-01)
 
 - Try it folds after the second reader pass: fold 7 line for readers with nobody (Dan's wording), fold 6 says the lever took about ten minutes, fold 5 rings on a page again
