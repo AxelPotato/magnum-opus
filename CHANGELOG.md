@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.6.1 (2026-11-01)
+
+- Try it folds after run 14 and Alex's picks: shorter fold 1, fold 2 becomes "What is behind the goal", ten days then a month, "learn to enjoy it", rings without drawing, a line in fold 7 for readers with nobody yet
+
+
 ## 5.6.0 (2026-11-01)
 
 - Part three: a "Try it" fold with one exercise per condition (new fold kind), from Alex's picks of 2026-11-01

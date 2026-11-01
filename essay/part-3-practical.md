@@ -50,7 +50,7 @@ Without the wish none of the other seven conditions can start. So ask yourself, 
 #### Your sentence, and the yes you already know
 
 * Write one sentence that starts "I want this because", in your own words, and keep it somewhere you'll see it. In a month, read it again and ask whether it still sounds like you or like something you read somewhere.
-* Then remember a time you really decided something, like the move or the job at the start of this section. Write down what changed in the days after. Ask yourself what the same yes would sound like here, and whether you're ready to say it.
+* Then remember a time you really decided something. Write down what changed in the days after, and ask what the same yes would sound like here.
 
 ## 2. A goal, and a reason
 
@@ -64,9 +64,9 @@ Behind each goal sits a reason, and the reason is what keeps you going after the
 
 One caution, since the outer goals can turn on you. Results are how you check the work. They are an indicator and never the aim. If you start chasing them for their own sake, you've rebuilt the Driven room with better vocabulary. And without a goal at all, the inner work has nothing to be checked against, and it can feel like growth for years while nothing moves.
 
-#### Ask why until it gets bigger
+#### What is behind the goal
 
-* Take a goal you have now, or set one for the next few weeks. Under it write "because", and finish the sentence. Then ask "and why does that matter?" and answer again, a few times over. Stop when the answer is about someone besides you. That's the reason to keep in front of you, and it usually turns out to be bigger than the goal.
+* Take a goal you have now, or something you'd like to be different in a month. Under it write "because", and finish the sentence. Then ask "and why do I want that?" and answer again, a few times over, until you reach something that feels true and a little surprising. That is what is behind your goal. Sometimes it's the reason to keep in front of you, and sometimes it shows the goal was standing in for something else.
 
 ## 3. Discipline
 
@@ -82,7 +82,7 @@ Without discipline, direction follows mood, and mood brings back the swing from 
 
 #### One promise, and the bargain
 
-* Each morning for thirty days, promise yourself one small thing, then do it and mark it done. Keep it small enough to feel almost silly. What you're building is a word to yourself that holds.
+* Each morning for ten days, promise yourself one small thing, then do it and mark it done. If the ten days hold, go for a month. Keep it small enough to feel almost silly. What you're building is a word to yourself that holds.
 * When you catch yourself negotiating, "I'll start tomorrow" or "today doesn't really count", write down the exact sentence your mind used. After two weeks, read the list. Most minds turn out to have three or four favorite lines, and mine are not very original.
 
 ## 4. Work with attention
@@ -107,7 +107,7 @@ Without the work with attention, you clear the clamps in the morning and build n
 
 #### Five minutes, then two columns
 
-* Once a day, do the five minutes of stillness from this section: close your eyes, feel the life in your body, and let your attention rest on that sensation. If that's all you do, it's plenty.
+* Once a day, do the five minutes of stillness from this section: close your eyes, feel the life in your body, put your attention on that sensation, and learn to enjoy it. If that's all you do, it's plenty.
 * If you'd like to take it further, open your eyes afterwards and think of one hard moment from the day. Write two columns: what happened, and the story you told yourself about it. Then try a few more pairs, a real danger or an old fear, what you actually want or what someone else expects of you. After a few minutes of stillness the two sides are much easier to tell apart.
 
 ## 5. Giving
@@ -122,7 +122,7 @@ Without giving, inner work can go in a circle. You improve your own state, then 
 
 #### One ring further out
 
-* Draw a few circles on a page. Put the people closest to you in the middle, then friends, colleagues, people you only pass by, and on the outside the people who are hard for you. This week, do one small thing for someone one ring further out than you usually go. When that starts to feel easy, go one more ring.
+* Think of the people around you in rings, from the closest out to the people who are hard for you, and remember that the hardest one may be at home. This week, do one small thing for someone one ring further out than you usually go. When that starts to feel easy, go one more ring.
 
 ## 6. Mirror work and ego work
 
@@ -176,7 +176,7 @@ Friends on the path do something for the wish itself, too. On your own it dies d
 
 #### Find one person
 
-* Is there one person in your life who wants something like what you want? Suggest a weekly walk or call where each of you says what you're working on and how the week went. It can be short.
+* Is there one person in your life who wants something like what you want? Suggest a weekly walk or call where each of you says what you're working on and how the week went. It can be short. And if there is nobody like that yet, take it as a good reason to be open to meeting a new friend who is.
 * If you both feel like it, make one small agreement together, for example five minutes of stillness every day for a month, and check in once a week on how you kept it.
 
 ## 8. Someone further along

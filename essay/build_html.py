@@ -637,7 +637,7 @@ FOLD_KINDS = {
     "What if I'm not sure?": 'life',
     'My teacher and I': 'story',
     'Your sentence, and the yes you already know': 'try',
-    'Ask why until it gets bigger': 'try',
+    'What is behind the goal': 'try',
     'One promise, and the bargain': 'try',
     'Five minutes, then two columns': 'try',
     'One ring further out': 'try',
