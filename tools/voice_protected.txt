@@ -1,0 +1,83 @@
+# Lines that carry the book's voice, read by tools/voice_check.py.
+#
+# SHARP: a line that carries the book's edge. Readers rewarded these lines, or
+# Alex chose them on purpose. Cut or soften one only with Alex's word, even
+# when a reader run dips on it.
+# GUARD: a deliberate limit or safety line. It is not a softener, so the
+# script doesn't count it.
+#
+# What the two blind sharpness tests taught us (2026-11-02, five readers each):
+# sharpness lands when it is aimed at an idea or at Alex himself. It costs
+# trust when it is aimed at other people. Honest limits read as honesty, not
+# as cushions. Round two added: cushions after a claim, disclaimers, apologies,
+# repeated reassurance and the "if you accept that, then" ladder lost with
+# every reader. An "if" at the edge of what nobody can prove (the axiom,
+# death) and the lines that leave the reader free (no need of a method, no
+# need of a teacher) won with every reader, so they are GUARD lines.
+#
+# Round three (six readers, one of them a genre editor): the book wins when
+# it says who is talking and what this life cost him, and tests its ideas on
+# his own work and his own life. Every reader chose that version on all five
+# questions. A joke in the place where a worried reader needs a straight
+# answer loses ("Of course it is, in the best way possible" was struck by five
+# of six), and so does a "naturally" over the biggest step. Lines that work out
+# loud in a room did not carry to the page: of six lines from the talk, only
+# the idea-level claim (the top right corner as the edge of the chart) won.
+
+SHARP: Busy is a very respectable way to never sit with yourself
+SHARP: It feels like Tuesday.
+SHARP: Mainstream spirituality teaches people to live in this room.
+SHARP: She's the happiest resident of this room and still a resident.
+SHARP: Bypassing is a very sophisticated way of never having to do any of it.
+SHARP: It's anesthesia.
+SHARP: The result is usually a driven person who meditates and is slightly more effective.
+SHARP: I know that sounds stupid, and I'm serious.
+SHARP: the same engine with a halo
+SHARP: Would you still do it if nobody ever found out?
+SHARP: Part one was the polite part.
+SHARP: So suffering measures resistance.
+SHARP: That's spiritual bypassing with a calculator.
+SHARP: The talking didn't use up the energy. The guarding did.
+SHARP: the wish behind it was probably weaker than it felt
+SHARP: you've rebuilt the Driven room with better vocabulary
+SHARP: get over yourself
+SHARP: It sounds like an insult and it's closer to a lever.
+SHARP: anything times nothing is still nothing
+SHARP: In practice, no magic happens.
+SHARP: who in your life could tell you honestly how you have changed?
+SHARP: In many ways I'm a modern monk with a day job, living in a kind of neo-monastery.
+SHARP: the driven person gets the same reminder when there is finally plenty of money and nothing inside has changed
+SHARP: This room builds companies and wins medals
+SHARP: I can't control the world, and I can control myself
+SHARP: I'm not going to invent a logical version after the fact
+SHARP: I'm going to do the opposite
+SHARP: I don't personally care whether miracles happen.
+
+GUARD: I'm not religious, and I'm not asking you to adopt anybody's religion.
+GUARD: You don't have to agree with the starting assumption for the test to work.
+GUARD: It doesn't mean the universe is a simulation or that anyone is running it.
+GUARD: None of this makes cruelty fine, and none of it asks anyone to stand by.
+GUARD: get real help first, from a doctor or a therapist
+GUARD: None of this makes me keen to test it early, to be clear.
+GUARD: That never means staying where someone keeps hurting me.
+GUARD: I'm not inviting you to my school, or to anyone's.
+GUARD: As far as I can see, that comes down to conditions
+GUARD: You don't need to agree with anything in this book to try it
+GUARD: That never means letting people hurt you.
+GUARD: None of this replaces the people you already have.
+GUARD: I don't mean relaxed, because you can be relaxed and asleep.
+GUARD: I won't tell you which room she lives in now. That's her business.
+GUARD: You don't need to be anywhere special on it.
+GUARD: so I'm not claiming that a bigger reason will add years to your life
+GUARD: so you don't have to fight the small ones one at a time
+GUARD: If it's right, the ideas people usually file under
+GUARD: If something carries over, death is the end of one session
+GUARD: If your life is going well and feels well, you have no need of a method.
+GUARD: And you don't have to have a teacher at all.
+SHARP: So letting go, the one that sounds soft, is a high-agency skill.
+SHARP: I'd call it the edge of the chart
+SHARP: Every room on it is that thing getting better at its job.
+SHARP: On one project I was investigating an incident
+SHARP: If it is a cult, it's a badly run one.
+SHARP: I'm not inviting anybody to become a student of Genadiy.
+SHARP: minus the religion

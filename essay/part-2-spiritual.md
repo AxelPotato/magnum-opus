@@ -2,7 +2,7 @@
 
 ## Where we part ways
 
-Part one was the polite part. Everything in it holds up whichever way you think the universe works. This part is where we part ways.
+Part one was the polite part. Everything in it holds up whichever way you think the universe works. This part is where we part ways. Most people would call the top right corner of that chart the goal. I'd call it the edge of the chart, because the whole chart rests on one quiet assumption: that I'm a separate thing, and a separate thing has to protect itself and take what it needs. Every room on it is that thing getting better at its job.
 
 One thing first, because it changes how you read everything after it. I'm not religious, and I'm not asking you to adopt anybody's religion. What I will do is quote a lot of traditions: Hindu, Buddhist, Jain, Jewish, Christian, Muslim, Daoist, Greek, and a few people with no religion at all. They use different words, and sometimes different gods, and they keep coming back to a few of the same ideas.
 
@@ -62,7 +62,7 @@ From these three clauses I want to build the rest one step at a time. Each step 
 
 ## 1. Separation is a way of looking
 
-If everything is one, and the whole experiences separation, then being separate can't be a fact about what exists. It has to be a fact about how the whole is looking at itself. So the separation is real as an experience and misleading as a final description, and that's what I mean by illusion. The word gets misused, so let me be careful: it doesn't mean nothing is there. The distance between the two windows is real, and you can measure it with a ruler held to the screen. What's wrong is the reading, the thought that two separate things sit that far apart inside the machine. The walls between programs work the same way. From inside a program they are completely real, and they still don't mean the machine is in pieces.
+If everything is one, and the whole experiences separation, then being separate can't be a fact about what exists. It has to be a fact about how the whole is looking at itself. So the separation is real as an experience and misleading as a final description, and that's what I mean by illusion. The word gets misused. It doesn't mean nothing is there. The distance between the two windows is real, and you can measure it with a ruler held to the screen. What's wrong is the reading, the thought that two separate things sit that far apart inside the machine. The walls between programs work the same way. From inside a program they are completely real, and they still don't mean the machine is in pieces.
 
 The traditions give answers to why a whole would do this, and they rhyme. Hindu texts call creation lila, play, an activity with no need behind it. Which makes the universe the biggest hobby project ever, and like every hobby project, nobody can explain why it took this long. A whole that looks at itself needs positions to look from, and a position is a separation. Knowing needs a gap.
 
@@ -114,7 +114,9 @@ Step 2 built the wall and a world that keeps it convincing. The next question is
 
 Start with pain. Some of it is just the body doing its job. You touch a hot pan and your hand pulls back before you've had a single thought, and that kind of pain keeps you alive. Then there is the part we add on top. Step 2 said that the wall is held in the body as tension, and Part one called that tension a tax. When something hurts, the same tension closes around the pain and says that this shouldn't be happening. Most of what we call suffering is that: the pain, plus our fight against it. So suffering measures resistance. The more you push against what is happening, the more it hurts.
 
-That gives suffering a job. Step 2 ended on a pull that only goes one way, toward more separation, and nothing in an ordinary day turns it around by itself. So something has to tell us what the wall is costing, and it has to be a message we can't simply ignore. Suffering is that message. It works like the warning light on a car's dashboard. Nobody enjoys seeing it come on, and it is the only reason anyone opens the hood. Putting a piece of tape over it is also an option, and most of us have tried that at some point.
+I know this one from my own life. Relationships have never come easily to me, and for many years I didn't know whether I even wanted one, sometimes yes, sometimes no. Looking back, what caused me the most suffering on the subject was how much time my mind spent on that question. That was the part I added on top.
+
+Measuring resistance gives suffering a job. Step 2 ended on a pull that only goes one way, toward more separation, and nothing in an ordinary day turns it around by itself. So something has to tell us what the wall is costing, and it has to be a message we can't simply ignore. Suffering is that message. It works like the warning light on a car's dashboard. Nobody enjoys seeing it come on, and it is the only reason anyone opens the hood. Putting a piece of tape over it is also an option, and most of us have tried that at some point.
 
 #### A post-mortem, the way we do it at work
 
@@ -148,7 +150,7 @@ So pain and love are one signal, read in two directions. The more wall you hold,
 
 The third clause says the separation ends, step 2 says the drift only goes one way, and step 3 says the wall keeps reporting what it costs. So the whole needs something built in that turns a point of view around once it has gone far enough, and I think that is exactly what we find.
 
-Picture the run in two halves. In the first half separation is new, and it is the thing being learned. Getting more separate feels good here: my own room, my own money, my own name on the door, winning. Nobody is doing it wrong here. This is the half of the game you came for, and the happiness you get from it is real.
+Picture the run in two halves. In the first half separation is new, and it is the thing being learned. Getting more separate feels good here: my own room, my own money, my own name on the door, winning. This is the half of the game you came for, and the happiness you get from it is real.
 
 Somewhere there is a bottom point, the most separate a point of view gets, and past it the signal flips. The same moves stop paying. A step toward unity starts to feel good in a way that lasts, and standing still, or taking more for yourself, starts to feel empty. Nobody announces it. It shows up as a flatness that no new result can touch, and a quiet question of whether this is all there is. I call it the turn, and it is the moment the third clause starts working on a particular person.
 
@@ -263,7 +265,7 @@ You can check the first half this week. The next time you come home flat, ask wh
 
 Letting go is how the wheel opens. You can't push more water through a mill by gripping the wheel harder, and every bit of guarding you drop is flow you get back. That is why so many traditions describe the way in as a kind of emptying. Hasidim call it bittul, the Sufis fana, Christians kenosis, after Paul's line that Jesus emptied himself, and one of the Buddha's breathing instructions is to breathe while contemplating letting go.
 
-Once more starts coming through, people around you notice. Things work out more often, you get more done with less effort, and now and then something happens that is hard to explain. The temptation then is to do something impressive with it.
+Once more starts coming through, people around you notice. Things work out more often, and you get more done with less effort. The temptation then is to do something impressive with it.
 
 #### Miracles, and the warning against them
 
@@ -273,13 +275,13 @@ Once more starts coming through, people around you notice. Things work out more 
 * Jesus refused to give a sign on demand (Matthew 12:38-39).
 * Teresa of Avila, who was seen lifted off the ground, begged God to stop giving her favors that other people could see (The Life, chapter 20).
 
-  Chasing them is the separate self wanting more for itself, which is the tank from this step again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
+  I don't personally care whether miracles happen. Chasing them is the separate self wanting more for itself, which is the tank from this step again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
 
 ## 8. Lifting the cloth
 
 Step 7 opened with two hours: one spent with someone you have to keep your guard up around, and one with an old friend you come away lighter from. Turn it around. For the people in your life you are one of those two, and which one depends a lot on how much wall you are holding that day.
 
-That follows from the fingers. If whatever I do to another part comes back to me, then whatever I mend in myself reaches the others, and when one finger stops pressing, the finger next to it feels it first. It shows in two ways. The first you can watch from outside. A person who has stopped fighting themselves is easier to be around. They say sorry first and follow up on their words, and the people near them relax a little and sometimes start doing the same. Anyone who has had a good boss after a bad one has seen it.
+That follows from the fingers. Whatever I do to another part comes back to me, so whatever I mend in myself reaches the others, and when one finger stops pressing, the finger next to it feels it first. It shows in two ways. The first you can watch from outside. A person who has stopped fighting themselves is easier to be around. They say sorry first and follow up on their words, and the people near them relax a little and sometimes start doing the same. Anyone who has had a good boss after a bad one has seen it.
 
 The second comes from step 7. The energy was never mine, so when I stop clamping the wheel it doesn't stop at my mill. It flows on to the people I'm with, and most of all to the ones I want to help. Every bit of wall I take down on my side is wall they don't have to push against. You can check this half on your own evenings. People leave an evening with you a bit lighter or a bit flatter, and it's worth noticing which, and whether that changes as you do.
 

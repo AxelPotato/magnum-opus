@@ -8,6 +8,81 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.0.0 (2026-11-02)
+
+- Version 6.0.0, at Alex's word: the sharper book goes out as a new major version. Four blind rounds with six readers sharpened the voice in every part, a whole new Questions and answers page sits after the book and before the contact form, and no word is broken at a line end anywhere (site, PDF and EPUB). The text is the same as v5.14.4; the README now describes the book as it is
+
+
+## 5.14.4 (2026-11-02)
+
+- FAQ, at Alex's word: the skip-a-meditation answer now opens on how outer discipline helps build inner discipline, and says what the extra attention is: trying to understand what the person is going through, since old hurts come up and someone who is hurting may not tell anybody and may stop coming or shut off, a very honest signal that a personal conversation is needed; the cult answer says why his friends and family joked: he had been talking to them about spirituality for about eight years before he met Genadiy, so it was a natural next step and nobody was very surprised
+
+
+## 5.14.3 (2026-11-02)
+
+- FAQ, at Alex's word: the centers answer now says Genadiy owns literally nothing and makes no money out of any of this, the question all six readers asked
+
+
+## 5.14.2 (2026-11-02)
+
+- FAQ, at Alex's word: the centers answer no longer says it's quite cheap to live there (no deeper into the money); the daily work says being a student and how you can be most useful are each person's own choice, and that students who put part of their business income into promoting the school do it as literally their own business; the cult answer says his friends and his family joked about it a lot
+
+
+## 5.14.1 (2026-11-02)
+
+- The FAQ's modern monk answer now leads with what matters most to Alex, his inner dedication: his life is dedicated to the spiritual path and it is his focus every day, which is why he does the three meditations wherever he is and doesn't skip because he doesn't feel like it (his word, 2026-11-02)
+
+
+## 5.14.0 (2026-11-02)
+
+- FAQ corrected after a blind test of the new answers (six readers: all six trust the new page more, five of six would rather leave their details after it): 'Why live together?' keeps the pain and the people who won't judge you, and drops the caterpillar and the butterfly and 'the safest and most pleasant conditions' (all six called them generic); the daily work loses 'find ways to help others be happy' (all six); 'What happens when someone leaves?' drops 'That's sad, and nothing in this world is ideal' (five of six read it as a shrug) and says some come back; new question 'What are you working on now?', after the daily work, without the settlement (all six against), the line about finding people to do it with me (four struck it) and the line about extra hints (five flagged it as a status claim); 'What do your friends and family think now?' is out until it has one real thing they said or did (four of six read the verdict as protesting)
+
+
+## 5.13.1 (2026-11-02)
+
+- No word is ever broken at the end of a line, anywhere in the book, at Alex's word: hyphenation is off on the website, in the PDF and in the EPUB (every e-reader's switch), a word with a hyphen of its own such as high-agency stays on one line, and the build stops if anything would bring hyphenation back; the figure inside a fold in Part one no longer makes the page scroll sideways on phones
+
+
+## 5.13.0 (2026-11-02)
+
+- Alex's picks after round three: his cost line opens Part zero's second paragraph and his relationship example joins Part two step 3 (both tied for the top score with all six readers), so step 3's next paragraph opens 'Measuring resistance gives suffering a job'; the FAQ now comes before the contact form, so readers see the answers before leaving details; 'or a fakir' is out of the modern monk answer; new FAQ answers in his words: why the students live together (the caterpillar and the butterfly), the two centers and who lives there, the daily work, who owns and pays for the centers, what happens when someone leaves, what happens if you skip a meditation, and what his friends and family think now; the cult answer says his friends joked about it
+
+
+## 5.12.0 (2026-11-02)
+
+- Sharper draft, round three verdict (six blind readers, all chose the new version on trust, keep reading, remember, only this author and send): Part two now opens with the top right corner as the edge of the chart (the one talk-line edit that won, from Alex's own life-goal notes, with all six); the FAQ drops 'Of course it is, in the best way possible' (struck by five of six) and keeps 'If it is a cult, it's a badly run one'; Giving School loses its brochure line; Paradanta loses the list of names for awakening and says 'And we live together, in centers' instead of 'naturally'; the incident story ends on 'It just took me a while to see it'; Part three's Sources lose an empty label; voice_check protects the round three winners
+
+
+## 5.11.0 (2026-11-02)
+
+- Sharper draft, round three (for the blind test): Part zero opens with who is talking and gives the reason the book teaches no method (a method is learned from people, the way a craft is); Part one says its claim outright (letting go is a high-agency skill), tells the incident Alex couldn't trace and the calm that just knew, cuts 'I'll admit', and ends on the open door; Part three opens with 'If your life is going well and feels well, you have no need of a method', ends Friends on the path on the Buddha's answer, and its teacher fold says watching people change is what first got Alex interested; new FAQ page after the form, in Alex's words (is this a cult, Giving School and Paradanta, the neo-monastery, who lives there, what modern monk means); the drop cap no longer enlarges the apostrophe in I'm; voice_check catches 'I'll admit' and 'to be honest'
+
+
+## 5.10.2 (2026-11-02)
+
+- Part zero: 'a life most people would call unusual' (was 'extreme'), at Alex's word
+
+
+## 5.10.1 (2026-11-02)
+
+- Sharper draft, round two verdict: put back the four lines every blind reader wanted kept ('If it's right' before the consequences, 'If something carries over' before what dying is, 'If your life is going well and feels well, you have no need of a method', 'And you don't have to have a teacher at all'); the Miracles fold says 'I don't personally care whether miracles happen' without 'To be honest'; voice_check now guards the honest 'if' and freedom lines and protects the round two winners
+
+
+## 5.10.0 (2026-11-02)
+
+- Sharper draft, round two (26 edits, for blind test): the four 'if you accept that, then' lines in Part three state their conclusion; 'don't' disclaimers, apologies and repeated reassurances cut; Part zero says Alex chose an extreme life, a modern monk with a day job in a kind of neo-monastery; Part one adds money working from both sides (the talk); Part two states death as the end of one session, and the Miracles fold gets back 'To be honest, I don't personally care whether miracles happen'
+
+
+## 5.9.1 (2026-11-02)
+
+- Keep the 8 sharper edits the blind reader test backed; put back the 8 that lost (superior lines, cut honest limits); clearer 'good teacher from a bad one'
+
+
+## 5.9.0 (2026-11-02)
+
+- Sharper draft: 16 edits that restore cut lines from the talk and earlier versions and drop cushions (draft for Alex, not for merge yet)
+
+
 ## 5.8.3 (2026-11-02)
 
 - Zoom out: no numbers in the text either (Part one, Part three callback)

@@ -60,14 +60,15 @@ def chapter(n):
 
 
 def book_html(ver):
-    css = B.CSS + ''.join(B.PARTS[n]['css_extra'] for n in range(5)) + BOOK_CSS
-    toc = ''.join(f'<li><a href="#ch{n}"><span>{B.NUMS[n]}</span><b>{B.HEADS[n]}</b></a></li>' for n in range(5))
+    css = B.CSS + ''.join(B.PARTS[n]['css_extra'] for n in range(len(B.NAMES))) + BOOK_CSS
+    toc = ''.join(f'<li><a href="#ch{n}"><span>{B.NUMS[n]}</span><b>{B.HEADS[n]}</b></a></li>' for n in range(len(B.NAMES)))
     title = (f'<section class="titlepage"><p class="kicker">A short book</p><h1>{B.BOOK_TITLE}</h1>'
              f'<p class="sub">{B.BOOK_SUB}</p><p class="by">by Alex</p><p class="ver">Version {ver}</p></section>'
              f'<nav class="contents"><h2>Contents</h2><ol>{toc}</ol></nav>')
-    return ('<!doctype html><html lang="en"><head><meta charset="utf-8">'
+    doc = ('<!doctype html><html lang="en"><head><meta charset="utf-8">'
             f'<title>{B.BOOK_TITLE}</title><link rel="stylesheet" href="{B.FONTS}"><style>{css}</style></head>'
-            '<body>' + title + ''.join(chapter(n) for n in range(5)) + '</body></html>')
+            '<body>' + title + ''.join(chapter(n) for n in range(len(B.NAMES))) + '</body></html>')
+    return B.no_hyphenation(B.keep_whole(doc), 'the book')  # no word is ever broken at a line end (Alex, 2026-11-02)
 
 
 def main():
@@ -87,10 +88,14 @@ def main():
     html = re.sub(r'<style>.*?</style>|<link[^>]*>', '', html, flags=re.S)
     open(epub_src, 'w', encoding='utf-8').write(html)
     css = os.path.join(OUT, '.epub.css')
-    open(css, 'w').write('body{font-family:serif;line-height:1.5}h1{margin-top:2em}.kicker,.fk{font-size:.8em;text-transform:uppercase;letter-spacing:.08em}'
+    # E-readers may hyphenate on their own; every reading system's switch is turned off (Alex, 2026-11-02: no word is ever broken).
+    epub_css = ('*{-webkit-hyphens:none!important;-epub-hyphens:none!important;hyphens:none!important;adobe-hyphenate:none!important}'
+                '.nw{white-space:nowrap}'
+                'body{font-family:serif;line-height:1.5}h1{margin-top:2em}.kicker,.fk{font-size:.8em;text-transform:uppercase;letter-spacing:.08em}'
                          '.lede{font-style:italic}img{max-width:100%}figure{margin:1.2em 0;text-align:center}figcaption{font-size:.85em;font-style:italic}'
                          '.fold{border-left:2px solid #999;padding-left:.8em;margin:1em 0}.ft{font-size:1em;margin:.2em 0 .5em}.who{display:inline-block;width:5em;margin:0 .6em .4em 0;text-align:center;font-size:.75em}'
                          '.who img{width:4.5em;height:4.5em;border-radius:50%}.meta,.orn{display:none}')
+    open(css, 'w').write(B.no_hyphenation(epub_css, 'the EPUB style'))
     subprocess.run(['pandoc', epub_src, '-f', 'html', '-o', os.path.join(OUT, NAME + '.epub'), '--split-level=1', '--toc', '--toc-depth=2',
                     '--css', css, '--metadata', f'title={B.BOOK_TITLE}', '--metadata', 'author=Alex', '--metadata', 'lang=en-US',
                     '--metadata', f'subtitle={B.BOOK_SUB}'], check=True)

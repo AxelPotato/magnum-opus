@@ -73,6 +73,38 @@ def smart(s):
     return s
 
 
+# No word is ever broken at the end of a line, on the site, in the PDF or in the EPUB (Alex, 2026-11-02: "this is
+# terribly hard to read, make that never happen anywhere in the book ever"). The CSS turns hyphenation off
+# (hyphens:none on html), keep_whole() keeps a word that carries its own hyphen (high-agency, self-regulation, 3-4)
+# on one line, and no_hyphenation() stops any build that would bring either back.
+_NO_TEXT = re.compile(r'<(script|style|svg|title|textarea|head)\b.*?</\1\s*>', re.S | re.I)
+_COMPOUND = re.compile(r'[^\s<>]*\w-\w[^\s<>]*')  # a whole word with a hyphen inside it, with its quotes or comma, or a DOI
+
+
+def keep_whole(doc):
+    """Wrap every word with a hyphen of its own in <span class="nw">, in text only (never in tags, scripts, styles or SVG)."""
+    def text(chunk):
+        bits = re.split(r'(<[^>]*>)', chunk)
+        def nw(m):  # up to 32 letters fits a line on the smallest phone; nothing in the book is longer
+            return f'<span class="nw">{m.group(0)}</span>' if len(m.group(0).strip('“”‘’"\'()[],.;:!?…')) <= 32 else m.group(0)
+        bits[::2] = [_COMPOUND.sub(nw, b) for b in bits[::2]]
+        return ''.join(bits)
+    out, pos = [], 0
+    for m in _NO_TEXT.finditer(doc):
+        out += [text(doc[pos:m.start()]), m.group(0)]
+        pos = m.end()
+    return ''.join(out) + text(doc[pos:])
+
+
+def no_hyphenation(doc, where):
+    """Stop the build if anything would break a word at a line end: hyphens:auto in any CSS, or a soft hyphen in the text."""
+    bad = re.search(r'hyphens\s*:\s*auto|hyphenate\s*:\s*auto|\u00ad|&shy;|&#173;|&#x0*[aA][dD];', doc)
+    if bad:
+        raise SystemExit(f'{where}: {bad.group(0)!r} would break words at line ends, and no word is ever broken in the book '
+                         '(Alex, 2026-11-02). Take it out.')
+    return doc
+
+
 def slug(s):
     return re.sub(r'[^a-z0-9]+', '-', s.lower()).strip('-')
 
@@ -284,7 +316,7 @@ def rules1():
         'The extreme version of this room': dict(after=figure(F.fig_tv(), 'Aware of everything, in none of it.')),
         'Default has a nice corner too': dict(who=[('thoreau', 'Henry David Thoreau', 'neutral')]),
         'With my personality tendencies': dict(after=figure(F.fig_week(), 'Work all week, study on the weekends, with a constant background tension of not being good enough.')),
-        "I don't want to knock this room.": dict(after=figure(F.fig_wall(), 'When a problem does not move, push harder in the same direction.')),
+        "This room builds companies and wins medals": dict(after=figure(F.fig_wall(), 'When a problem does not move, push harder in the same direction.')),
         'Top left: released and passive': dict(after=figure(F.fig_hammock(), 'Where life rarely pushes you from the outside.')),
         'The trap is that it feels good': dict(after=figure(F.fig_gym(), 'Very peaceful. Much calm. Nobody gets hurt and nobody gets stronger.')),
         'So what do you get for walking on both legs?': dict(after=figure(F.fig_inout(), 'The top right, from the inside and from the outside.')),
@@ -330,7 +362,7 @@ def rules2():
         'If we are one, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
         'My answer is that it takes doing less.': dict(after=F6.widget()),
         'Your own body does it too.': dict(after=figure(F5.JOKES['fig_cell'](), 'Every cell carries the whole plan and uses a small part of it. The rest is switched off and kept.')),
-        'That gives suffering a job.': dict(after=figure(F5.fig_warning(), 'Suffering as the warning light on the dashboard. The tape is also an option.')),
+        'Measuring resistance gives suffering a job.': dict(after=figure(F5.fig_warning(), 'Suffering as the warning light on the dashboard. The tape is also an option.')),
         "That's also why love is strongest": dict(after=figure(F5.fig_needlove(), 'Need says, I need you so that I feel whole. Love says, you are part of what I am.')),
         'Somewhere there is a bottom point': dict(after=figure(F5.fig_turn(), 'Two halves of one game. Past the bottom point the same moves stop paying, and a step toward unity starts to.')),
         "That something can't be the body": dict(after=figure(F5.fig_lamps(), 'A lamp lit from another lamp.')),
@@ -389,7 +421,8 @@ CSS = r"""
   --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
   --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; --k-try:#E0BE4F; color-scheme:dark}
 *{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%}
+html{-webkit-text-size-adjust:100%;-webkit-hyphens:none;hyphens:none}  /* no word is ever broken at a line end (Alex, 2026-11-02) */
+.nw{white-space:nowrap}  /* a word with its own hyphen (high-agency) stays on one line */
 body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:1.15rem;line-height:1.72;overflow-x:clip;font-optical-sizing:auto;text-rendering:optimizeLegibility}
 .hero{position:relative;padding:clamp(3rem,9vh,6rem) 1rem 1rem;text-align:center}
 .hero-in{position:relative;max-width:38rem;margin:0 auto}
@@ -401,8 +434,8 @@ h1{font-family:var(--head);font-weight:600;font-size:clamp(2.9rem,10vw,4.6rem);l
 .orn span{flex:1;height:1px;background:var(--rule)}
 .orn i{width:.5rem;height:.5rem;transform:rotate(45deg);border:1px solid var(--accent)}
 main{padding:0 1rem 4rem}
-.col{max-width:38rem;margin:2.5rem auto 0;hyphens:auto;-webkit-hyphens:auto}
-.col p.first::first-letter{font-family:var(--head);font-weight:600;font-size:2.7em;line-height:1;margin-right:.04em;color:var(--accent)}
+.col{max-width:38rem;margin:2.5rem auto 0}
+.col p.first:not(.dc)::first-letter,.col p.first .dc{font-family:var(--head);font-weight:600;font-size:2.7em;line-height:1;margin-right:.04em;color:var(--accent)}.col p.first .dc{margin-right:0}
 .turn{max-width:38rem;margin:4rem auto 2.5rem;display:grid;grid-template-columns:1fr 1fr;gap:1rem}
 .turn a{display:flex;flex-direction:column;gap:.25rem;padding:1rem 1.15rem;border:1px solid var(--rule);border-radius:12px;background:var(--card);text-decoration:none;color:var(--ink);transition:border-color .15s,transform .15s}
 .turn a:hover{border-color:var(--accent);transform:translateY(-1px)}
@@ -429,6 +462,7 @@ figure{margin:0}
 .row{display:flex;flex-wrap:wrap;justify-content:center;gap:.4rem 1.4rem;margin:1.6rem 0}
 .row .who{float:none;margin:0}
 .fig{width:min(54rem,calc(100vw - 2rem));position:relative;left:50%;transform:translateX(-50%);margin:2.2rem 0}
+.say .fig,body.has-toc .say .fig:not(.plain):not(.photo){width:100%;left:auto;transform:none}  /* a figure inside a fold entry fits the fold, so the page never scrolls sideways */
 .fig.plain,.fig.photo{width:min(40rem,100%);left:0;transform:none}
 .fig svg.chart{display:block;width:100%;max-width:38rem;height:auto;margin:0 auto}
 .fig figcaption{font-family:var(--mono);font-size:.78rem;line-height:1.5;color:var(--muted);text-align:center;margin:.8rem auto 0;max-width:34rem}
@@ -543,7 +577,7 @@ details.say-fold .say-close{margin:1.2rem 0 .6rem}
 @media print{details.say-fold>*{display:block}details.say-fold .tz{display:none}}
 .say li{margin-bottom:.7rem;padding-left:.2rem}
 .say li::marker{color:var(--muted)}
-.sources li{margin-bottom:.7rem;overflow-wrap:anywhere}
+.sources li{margin-bottom:.7rem;overflow-wrap:break-word}
 h4{font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:1.6rem 0 .8rem;font-weight:500}
 footer{max-width:38rem;margin:0 auto;padding:1.5rem 0 0;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.74rem;line-height:1.6;color:var(--muted)}
 a{color:var(--high)}
@@ -752,16 +786,21 @@ def convert(md, R):
     return out, toc
 
 
-NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Contact']  # the chapters, in order; Contact is the page after the essay (contact.md)
-HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in contact']
-NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the book']
+# The chapters, in order. The FAQ (faq.md, Alex 2026-11-02: questions about the form of his own life, kept out of
+# the book itself) and Contact (contact.md) are the pages after the essay. Since 5.13.0 the FAQ comes before the
+# contact form (Alex 2026-11-02 20:52), so a reader sees the answers before leaving details.
+NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'FAQ', 'Contact']
+HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Questions and answers', 'Stay in contact']
+NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the book', 'After the book']
+SIDE_NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'FAQ', 'After']  # the small line over each title in the sidebar
+ESSAY_PARTS = range(4)  # the parts proper; the pages after them get no drop cap, reading time or part number in links
 # The book's name in the sidebar (Alex, 2026-10-29).
 BOOK_TITLE = 'Rational, Spiritual, Practical'
 BOOK_SUB = 'A modern take on the path from micro to macro'  # Alex, 2026-10-29
 BOOK_BY = 'by Alex'
 # Where each chapter lives on the website. --preview links the built files instead, for a preview copy.
-SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/contact']
-FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html', 'part-3-practical.html', 'contact.html']
+SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/faq', '/contact']
+FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html', 'part-3-practical.html', 'faq.html', 'contact.html']
 URLS = SITE_URLS
 # The PDF and the EPUB, built by tools/build_book.py into essay/book/. The site serves them itself:
 # stack 56 copies essay/book/ to /book/ on every pull.
@@ -788,18 +827,19 @@ def hero_html(part, words=0):
     if backup:
         part = 2
     lede = {
-        0: 'What each part is for, who is talking, and who taught me.',
+        0: 'Who is talking, what each part is for, and who taught me.',
         1: 'Two directions, four rooms, and a map that turns out to be bigger than it looks.',
         2: 'Two ways of reading a life, one assumption that separates them, and what follows from it in the world\'s religions.',
         3: 'How this is done today, by people with jobs, families and not much spare time.',
-        4: '',  # the contact page opens straight on its own sentence
+        4: '',  # the FAQ opens straight on its own sentence
+        5: '',  # and so does the contact page
     }[part]
     kicker = NUMS[part]
     if backup:
         lede = 'What the middle of the chart is, what lies past the edge of it, and why a rational person might want to find out.'
         kicker = 'Backup: an earlier version of part two'
     mins = round(words / WPM / 5) * 5 if words > 1500 else (max(1, round(words / WPM)) if words else 0)
-    meta = f'<p class="meta">About {mins} minutes of reading</p>' if part in (0, 1, 2, 3) and mins else ''
+    meta = f'<p class="meta">About {mins} minutes of reading</p>' if part in ESSAY_PARTS and mins else ''
     return ('<header class="hero"><div class="hero-in">'
             f'<p class="kicker">{kicker}</p>'
             f'<h1>{HEADS[part]}</h1>'
@@ -817,7 +857,7 @@ def book_nav(part, toc):
         base = '' if on else URLS[n]
         sec_html = ''.join(f'<li><a href="{base}#{s}">{smart(t)}</a></li>' for s, t in secs)
         head = (f'<a class="ch-a" href="{URLS[n]}"' + (' aria-current="page"' if on else '') + '>'
-                f'<span class="ch-n">{NUMS[n] if n < 4 else "After"}</span><span class="ch-t">{HEADS[n]}</span></a>')
+                f'<span class="ch-n">{SIDE_NUMS[n]}</span><span class="ch-t">{HEADS[n]}</span></a>')
         if not secs:
             lis.append(f'<li class="ch{" on" if on else ""}">{head}</li>')
         elif on:
@@ -835,12 +875,12 @@ def book_nav(part, toc):
 
 def turn_html(part):
     """Where the chapter ends: the previous and the next chapter, like turning a page."""
+    label = lambda n: f'{NUMS[n]}: {HEADS[n]}' if n in ESSAY_PARTS else HEADS[n]
     out = []
     if part > 0:
-        out.append(f'<a class="prev" href="{URLS[part - 1]}"><span>Previous</span><b>{NUMS[part - 1]}: {HEADS[part - 1]}</b></a>')
-    if part < 4:
-        nxt = f'{NUMS[part + 1]}: {HEADS[part + 1]}' if part < 3 else HEADS[4]
-        out.append(f'<a class="next" href="{URLS[part + 1]}"><span>Next</span><b>{nxt}</b></a>')
+        out.append(f'<a class="prev" href="{URLS[part - 1]}"><span>Previous</span><b>{label(part - 1)}</b></a>')
+    if part < len(NAMES) - 1:
+        out.append(f'<a class="next" href="{URLS[part + 1]}"><span>Next</span><b>{label(part + 1)}</b></a>')
     return '<nav class="turn" aria-label="Chapters">' + ''.join(out) + '</nav>'
 
 
@@ -954,7 +994,8 @@ PARTS = {
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=False, css_extra=F7.CSS_EXTRA, foot=PART1_FOOT),
     2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + F6.CSS_EXTRA, foot=PART2_FOOT),
     3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=rules3, cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + PART0_CSS, foot=PART3_FOOT),
-    4: dict(md='contact.md', out='contact.html', title='Stay in contact', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
+    4: dict(md='faq.md', out='faq.html', title='Questions and answers', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
+    5: dict(md='contact.md', out='contact.html', title='Stay in contact', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
     # kept for reference, not part of the default build: python build_html.py --part 2a
     '2a': dict(md='backup/part-2-variant-a-psychological.md', out='backup/part-2-variant-a-psychological.html', title='Part Two, backup: Spiritual', rules=lambda: rules2a(),
                cast=False, css_extra=F3.CSS_EXTRA, foot=PART2_FOOT + ' This is the first version of part two, kept as a backup.', fixed_ver='1.0.0', backup=True),
@@ -962,14 +1003,22 @@ PARTS = {
 
 
 def page(part, fragment=False):
+    return no_hyphenation(keep_whole(_page(part, fragment)), PARTS[part]['out'])
+
+
+def _page(part, fragment=False):
     cfg = PARTS[part]
     md = open(os.path.join(HERE, cfg['md']), encoding='utf-8').read()
     ver = cfg.get('fixed_ver') or open(os.path.join(HERE, '..', 'VERSION'), encoding='utf-8').read().strip()
     body, toc = convert(md, cfg['rules']())
-    book = part in range(5) and not fragment  # the backup page keeps the old plain layout
+    book = part in range(len(NAMES)) and not fragment  # the backup page keeps the old plain layout
     first = next((i for i, x in enumerate(body) if x.startswith('<p>')), None)
-    if book and first is not None and part != 4:  # a drop cap on the chapter's first paragraph
-        body[first] = '<p class="first">' + body[first][3:]
+    if book and first is not None and part in ESSAY_PARTS:  # a drop cap on the chapter's first paragraph
+        rest = body[first][3:]
+        if len(rest) > 1 and rest[1] in "'\u2019":  # "I'm": CSS would enlarge the apostrophe with the letter
+            body[first] = '<p class="first dc"><span class="dc">' + rest[0] + '</span>' + rest[1:]
+        else:
+            body[first] = '<p class="first">' + rest
     if book:
         nav = book_nav(part, toc)
     elif toc:
