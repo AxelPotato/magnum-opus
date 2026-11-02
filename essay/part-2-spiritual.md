@@ -32,7 +32,7 @@ Here's why I think the second view deserves the effort. When traditions in diffe
 
 People with no creed have said it too. Spinoza argued that there is only one substance, which he called God or Nature, and that everything else is a form of it. When a rabbi cabled Einstein in 1929 to ask whether he believed in God, Einstein said he believed in Spinoza's God, meaning the lawful order of nature, nothing that cares what we do. Erwin Schrödinger argued that the plurality of minds is only apparent and tied that to the Upanishads. And Carl Sagan, about as far from a mystic as a famous person gets, said on television in 1980 that we are a way for the cosmos to know itself.
 
-These people don't hold exactly the view I'll use, and they share the base: what looks like many is not as separate as it looks. I'll take that base as the axiom and follow what comes out of it. The ideas people usually file under "spiritual" come out of it as logical consequences, one after another. The traditions got there from many directions. Here the same ideas are laid out in the order they follow from one assumption.
+These people don't hold exactly the view I'll use, and they share the base: what looks like many is not as separate as it looks. I'll take that base as the axiom and follow what comes out of it. If it's right, the ideas people usually file under "spiritual" come out as logical consequences, one after another. The traditions got there from many directions. Here the same ideas are laid out in the order they follow from one assumption.
 
 ## The axiom and the machine
 
@@ -201,7 +201,7 @@ How it carries on is where the traditions part, and the axiom doesn't need to se
 * In the Bhagavad Gita Krishna says that the world is overcome even here by those whose minds are settled in sameness, and that whoever learns, while still in the body, to master desire and anger is a yogi and is happy (5.19 and 5.23). The Hindu tradition calls a person freed while still alive a jivanmukta.
 * The Jain Kalpa Sutra tells how Mahavira, in the thirteenth year of his life as a wandering ascetic, reached kevala, complete knowledge, sitting under a sal tree near the river Rijupalika, and then taught for about thirty more years.
 
-That also changes what dying is. Death is the end of one session, and the one who lived it goes on. In the machine, the window closes, the saved state is written, and the machine was never switched off.
+That also changes what dying is. If something carries over, death is the end of one session, and the one who lived it goes on. In the machine, the window closes, the saved state is written, and the machine was never switched off.
 
 Most of us are still afraid of it, and the axiom says why. A separate self is sure of one thing it will lose, which is itself. So the fear of dying is the wall's strongest reflex, the wall defending the wall, and that makes it a fair reading of how much wall a person holds. It eases as the wall eases. That's why so many traditions treat letting go as a practice for dying: every small thing you stop defending while you are alive makes the last letting go a little more familiar. None of this makes me keen to test it early, to be clear. I still look both ways before crossing the street, twice.
 
@@ -273,7 +273,7 @@ Once more starts coming through, people around you notice. Things work out more 
 * Jesus refused to give a sign on demand (Matthew 12:38-39).
 * Teresa of Avila, who was seen lifted off the ground, begged God to stop giving her favors that other people could see (The Life, chapter 20).
 
-  To be honest, I don't personally care whether miracles happen. Chasing them is the separate self wanting more for itself, which is the tank from this step again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
+  I don't personally care whether miracles happen. Chasing them is the separate self wanting more for itself, which is the tank from this step again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
 
 ## 8. Lifting the cloth
 

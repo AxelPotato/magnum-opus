@@ -9,7 +9,9 @@ the book. A SHARP line is cut only with Alex's word.
 
 What it counts (a rough instrument, read the hits before acting on them):
   if-then      a step's own conclusion put behind a condition
-               ("if you accept that, then", "If it's right")
+               ("if you accept that, then"); an "if" at the edge of what
+               nobody can prove (the axiom, death) is honest, and those
+               lines are GUARD
   dont         a disclaimer built on a negative ("I'm not against",
                "I don't want to knock", "you don't have to", "I don't mean")
   reassure     comfort nobody asked for ("nothing is wrong with you",

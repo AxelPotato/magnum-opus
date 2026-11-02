@@ -1,6 +1,6 @@
 # Part three: Practical
 
-Part one ended at the edge of a small square. The four rooms, the line and the corner at 100 and 100 all fit inside it, and then the square shrank to a small box in a much bigger map. Part two said what the rest of that map is, the road back to remembering that we are one, and step 5 said that what a life gathers carries over, so nobody has to finish the road in one life. Life moves all of us along it anyway, slowly, through the mirror and the turn. It is patient about it. A method is a way to do on purpose, and faster, what life does slowly.
+Part one ended at the edge of a small square. The four rooms, the line and the corner at 100 and 100 all fit inside it, and then the square shrank to a small box in a much bigger map. Part two said what the rest of that map is, the road back to remembering that we are one, and step 5 said that what a life gathers carries over, so nobody has to finish the road in one life. Life moves all of us along it anyway, slowly, through the mirror and the turn. It is patient about it. If your life is going well and feels well, you have no need of a method. A method is a way to do on purpose, and faster, what life does slowly.
 
 This part is about walking the whole road in one life, past the small square and into the large one, until we are free of our own limitations. As far as I can see, that comes down to conditions, and I count eight. When all eight are in a person's life, finishing the road is a realistic plan. When one of them is missing, it gets very, very hard, and each section below says why.
 
@@ -219,7 +219,7 @@ What I can tell you is what happened to me. There were moments when I disagreed 
 
 The hardest thing to convey is the inner decision that this is a person whose view of me I trust.
 
-So how can you make sure? Only through your own experience, and that part I can't do for you. It comes down to the people you meet and how they affect you. You can also walk it without a teacher. I studied on my own for years before I found mine, and it's the slower road, but it is a road.
+So how can you make sure? Only through your own experience, and that part I can't do for you. It comes down to the people you meet and how they affect you. And you don't have to have a teacher at all. I studied on my own for years before I found mine, and it's the slower road, but it is a road.
 
 ## The cloth and the world
 

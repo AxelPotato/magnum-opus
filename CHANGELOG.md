@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.10.1 (2026-11-02)
+
+- Sharper draft, round two verdict: put back the four lines every blind reader wanted kept ('If it's right' before the consequences, 'If something carries over' before what dying is, 'If your life is going well and feels well, you have no need of a method', 'And you don't have to have a teacher at all'); the Miracles fold says 'I don't personally care whether miracles happen' without 'To be honest'; voice_check now guards the honest 'if' and freedom lines and protects the round two winners
+
+
 ## 5.10.0 (2026-11-02)
 
 - Sharper draft, round two (26 edits, for blind test): the four 'if you accept that, then' lines in Part three state their conclusion; 'don't' disclaimers, apologies and repeated reassurances cut; Part zero says Alex chose an extreme life, a modern monk with a day job in a kind of neo-monastery; Part one adds money working from both sides (the talk); Part two states death as the end of one session, and the Miracles fold gets back 'To be honest, I don't personally care whether miracles happen'
