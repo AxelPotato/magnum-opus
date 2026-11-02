@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.10.2 (2026-11-02)
+
+- Part zero: 'a life most people would call unusual' (was 'extreme'), at Alex's word
+
+
 ## 5.10.1 (2026-11-02)
 
 - Sharper draft, round two verdict: put back the four lines every blind reader wanted kept ('If it's right' before the consequences, 'If something carries over' before what dying is, 'If your life is going well and feels well, you have no need of a method', 'And you don't have to have a teacher at all'); the Miracles fold says 'I don't personally care whether miracles happen' without 'To be honest'; voice_check now guards the honest 'if' and freedom lines and protects the round two winners
