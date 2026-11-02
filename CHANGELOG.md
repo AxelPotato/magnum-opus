@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.8.3 (2026-11-02)
+
+- Zoom out: no numbers in the text either (Part one, Part three callback)
+
+
 ## 5.8.2 (2026-11-02)
 
 - Zoom out picture: no numbers at all

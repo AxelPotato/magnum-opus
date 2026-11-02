@@ -229,7 +229,7 @@ def svg_zoom():
     x0, x1, y0, y1 = 70, 590, 30, 550
     s = x1 - x0
     small = s * 0.1
-    o = ['<svg class="chart" viewBox="0 0 620 610" role="img" aria-label="Zoom out ten times: the square we have been using becomes a small box in the corner of a much bigger map">']
+    o = ['<svg class="chart" viewBox="0 0 620 610" role="img" aria-label="Zoom out: the square we have been using becomes a small box in the corner of a much bigger map">']
     o.append(f'<rect class="q high" x="{x0}" y="{y0}" width="{s}" height="{s}"/>')
     o.append(f'<rect class="frame" x="{x0}" y="{y0}" width="{s}" height="{s}"/>')
     o.append(f'<rect class="fillrect high solid" x="{x0}" y="{y1 - small}" width="{small}" height="{small}"/>')
@@ -266,7 +266,7 @@ def rules1():
         'Picture the whole chart as a square, 10,000': dict(after=figure(squares(), 'The same square, four ways. Width is DO, height is BE, the shaded part is the area a person takes up.', 'plain')),
         'On the line, what you\'re free to want': dict(after=figure(svg_line(), 'The line of harmony. Position along it says how far you have come. Distance from it says how much is leaking.')),
         'Learning to walk on two legs': dict(after=figure(svg_swing(), 'A swing that narrows, then the climb, which stays wavy until the peak. Illustration, not data.')),
-        'Zoom out by ten': dict(after=figure(svg_zoom(), 'Zoom out by ten. The whole square we have been using is the small box in the corner.')),
+        'Zoom out, and the whole square': dict(after=figure(svg_zoom(), 'Zoom out. The whole square we have been using is the small box in the corner.')),
         'Picture the steering wheel of your life.': dict(after=figure(F.fig_wheel(), 'Hands on the wheel, or in the back seat.')),
         'Asking is a quiet one': dict(after=figure(F.icons_html(), 'Five quiet kinds of DO.', 'plain')),
         'It matters even if you couldn': dict(after=F7.widget()),
