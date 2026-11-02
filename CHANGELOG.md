@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.9.0 (2026-11-02)
+
+- Sharper draft: 16 edits that restore cut lines from the talk and earlier versions and drop cushions (draft for Alex, not for merge yet)
+
+
 ## 5.8.3 (2026-11-02)
 
 - Zoom out: no numbers in the text either (Part one, Part three callback)

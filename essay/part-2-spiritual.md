@@ -185,7 +185,7 @@ Under the axiom the same holds on the largest scale. The whole goes into separat
 
 That something can't be the body, which stays behind, and it can't be one more separate thing, since there is nothing separate at the bottom. It is the part of you that was never really separate: the whole, at one position, going through the separation and keeping the record. Buddhism holds that there is no fixed soul and still says that something continues, and an old Buddhist dialogue has the image I like most for it: a lamp lit from another lamp, where nothing passes across and the second one still burns. In the machine it is the saved state. The program shuts down, the window closes, and most of the session is gone, while what was worth keeping is written to disk. The photos, the passwords and the browser history stay behind, which honestly is a relief. In the game picture from step 4 it is the level you have reached, which is how two people can walk into the same kind of life at very different levels.
 
-How it carries on is where the traditions part, and the axiom doesn't need to settle it. In one family of answers it goes on after death in another form: the Catholic Church teaches purgatory, a purification after death, and the Quran puts a barrier, the barzakh, between death and the day of resurrection. In the other it comes back into this world, life after life, which Hindu texts call samsara, until it no longer needs to. Either way, what this life gathered is kept and taken further. That leaves the pace open. One life can move a little or a long way, and several traditions hold that the whole road can be walked within a single life.
+How it carries on is where the traditions part, and the axiom doesn't need to settle it. In one family of answers it goes on after death in another form: the Catholic Church teaches purgatory, a purification after death, and the Quran puts a barrier, the barzakh, between death and the day of resurrection. In the other it comes back into this world, life after life, which Hindu texts call samsara, until it no longer needs to. Either way, what this life gathered is kept and taken further. That leaves the pace open. One life can move a little or a long way, and several traditions hold that the whole road can be walked within a single life. Look around, though, and most people never get as far as wanting to, let alone arriving.
 
 #### Lives, afterlives, and the one who goes through them
 
@@ -263,7 +263,7 @@ You can check the first half this week. The next time you come home flat, ask wh
 
 Letting go is how the wheel opens. You can't push more water through a mill by gripping the wheel harder, and every bit of guarding you drop is flow you get back. That is why so many traditions describe the way in as a kind of emptying. Hasidim call it bittul, the Sufis fana, Christians kenosis, after Paul's line that Jesus emptied himself, and one of the Buddha's breathing instructions is to breathe while contemplating letting go.
 
-Once more starts coming through, people around you notice. Things work out more often, you get more done with less effort, and now and then something happens that is hard to explain. The temptation then is to do something impressive with it.
+Once more starts coming through, people around you notice. Things work out more often, and you get more done with less effort. The temptation then is to do something impressive with it.
 
 #### Miracles, and the warning against them
 
