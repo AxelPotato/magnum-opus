@@ -64,7 +64,7 @@ Default has a nice corner too, and I don't want to skip it. Up near the edge clo
 
 Hank Hill is that corner at its most lovable. He's responsible, kind and loyal, he has opinions about lawns that border on a belief system, and he can barely say "I love you" out loud. Jim Halpert is the relaxed version: kind, funny, good at his job, and for years he treats the job as temporary, something he's doing until something better turns up. Pam Beesly sits a few feet away, a receptionist who wants to be an artist and takes years to do anything about it.
 
-What makes this room sticky is that it feels like making your own decisions. When people start watching themselves closely, one of the first things they find out is how few of the day's decisions they actually made. On a retreat, participants get one small instruction to follow for a few days, something like not touching the phone for a few hours. I've watched people catch themselves with it in their hand anyway, without having decided anything, and on my first retreat I was one of them. The mind decided, and we just did it. That's Default from the inside: not fully living, only a little bit, with attention mostly somewhere else while the body follows the autopilot.
+What makes this room sticky is that it feels like making your own decisions. When people start watching themselves closely, one of the first things they find out is how few of the day's decisions they actually made. A retreat is three or four days away from the regular rhythm of life, a chance to practice mindfulness and to look at what you are doing and which direction you are moving in. On one, participants get one small instruction to follow for a few days, something like not touching the phone for a few hours. I've watched people catch themselves with it in their hand anyway, without having decided anything, and on my first retreat I was one of them. The mind decided, and we just did it. That's Default from the inside: not fully living, only a little bit, with attention mostly somewhere else while the body follows the autopilot.
 
 ### Driven
 
@@ -232,7 +232,7 @@ You can check which way you're moving at any time. How many options do you see r
 
 One correction before this part ends. I told you the top right corner is the peak, 100 and 100. It is the peak of this chart, and this chart is a small part of a much bigger map.
 
-Zoom out by ten, and the whole square we've been using shrinks to a small box in the bottom left of something a thousand by a thousand: a million, instead of ten thousand. A person can grow into all of that area. I like the plain term for it: full human potential.
+Zoom out, and the whole square we've been using shrinks to a small box in the bottom left corner. A person can grow into all of that area. I like the plain term for it: full human potential. Most people have stood at its edge for a moment without a name for it, under a sky full of stars or holding a newborn, when for a minute nothing felt separate. Those moments don't fit anywhere on this chart. The top right corner is already a very good life, and plenty of people are happy to stay there.
 
 What lies past the small square gets mystical fast, so I'll leave it there for this part.
 

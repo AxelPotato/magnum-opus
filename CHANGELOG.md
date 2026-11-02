@@ -8,6 +8,26 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.8.3 (2026-11-02)
+
+- Zoom out: no numbers in the text either (Part one, Part three callback)
+
+
+## 5.8.2 (2026-11-02)
+
+- Zoom out picture: no numbers at all
+
+
+## 5.8.1 (2026-11-02)
+
+- Zoom out picture: drop the = 1,000,000 line
+
+
+## 5.8.0 (2026-11-02)
+
+- Fixes after Andrew's read (runs 19 and 20): Part zero says the book distills Alex's own 14-year journey, with Genadiy his teacher for the last six; Part one says what a retreat is, and Zoom out drops the million, names moments at the edge of the bigger map and says the top right is a good place to stay; Part two adds the strangers line to the third clause and a line on why the idea is worth a look, the soul paragraph loses the 'nothing to show for it' argument and says what Buddhism holds, the miracles line no longer points at a person; Part three's click drops the falling-in-love comparison and says Alex kept checking it
+
+
 ## 5.7.3 (2026-11-01)
 
 - Zoom out: state plainly that the chart is a small part of a bigger map (no 'I believe'); 'a small box', not 'a small gray box' (Part one and the Part three opening)

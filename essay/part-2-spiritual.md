@@ -18,7 +18,7 @@ Both of these are assumptions. Nobody has observed that matter is all there is, 
 
 ## Why this idea is worth a closer look
 
-Here's why I think the second view deserves the effort. People were saying it long before anyone had a long weekend in the mountains, and something close to it turns up in each of the big religions. Hindu texts say it outright. Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism come at it from another side.
+Here's why I think the second view deserves the effort. When traditions in different languages and centuries keep arriving at the same idea, it is worth a closer look. People were saying it long before anyone had a long weekend in the mountains, and something close to it turns up in each of the big religions. Hindu texts say it outright. Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism come at it from another side.
 
 #### The base, tradition by tradition
 
@@ -42,7 +42,7 @@ We are one. There is a single whole, and everything is a part of it.
 
 The whole experiences separation. It looks at itself through individual lives, each one a position with its own point of view, which each of us experiences as "my life."
 
-The separation ends. Being separate is a phase, and it returns to knowing itself as one.
+The separation ends. Being separate is a phase, and it returns to knowing itself as one. You can see the direction in small things: each time two people stop being strangers to each other, a little of it ends.
 
 The first two clauses describe how things are. The third says where they go, and it is the one the rest of this part leans on most.
 
@@ -181,7 +181,7 @@ None of this makes anybody better. Before the turn and after it are two parts of
 
 You have forgotten almost every day you have lived. Try to remember an ordinary afternoon from when you were small, and you get a blur, maybe a face or a smell. Still, the person reading this is made out of those days. Most of the arguments, the lessons and the evenings spent practicing something are gone, and what they left behind is all here: the patience or the lack of it, the fears, the things your hands know how to do. The events went, and what they taught you stayed.
 
-Under the axiom the same has to hold on the largest scale. The whole goes into separation so that each point of view can bring back something no other could have brought. If everything a life gathered vanished when it ended, the whole would go through all that separation and come home with nothing to show for it. So something has to keep the essence of a life, what it learned and what it became, the way you keep what your forgotten days taught you. The traditions call it the soul.
+Under the axiom the same holds on the largest scale. The whole goes into separation so that each point of view can bring back something no other could have brought. So the essence of a life, what it learned and what it became, is kept, the way you keep what your forgotten days taught you. Most traditions call it the soul. Buddhism, which denies a fixed self, speaks instead of a stream that carries on.
 
 That something can't be the body, which stays behind, and it can't be one more separate thing, since there is nothing separate at the bottom. It is the part of you that was never really separate: the whole, at one position, going through the separation and keeping the record. Buddhism holds that there is no fixed soul and still says that something continues, and an old Buddhist dialogue has the image I like most for it: a lamp lit from another lamp, where nothing passes across and the second one still burns. In the machine it is the saved state. The program shuts down, the window closes, and most of the session is gone, while what was worth keeping is written to disk. The photos, the passwords and the browser history stay behind, which honestly is a relief. In the game picture from step 4 it is the level you have reached, which is how two people can walk into the same kind of life at very different levels.
 
@@ -267,7 +267,7 @@ Once more starts coming through, people around you notice. Things work out more 
 
 #### Miracles, and the warning against them
 
-* Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge. Under the axiom a miracle would be one of the settings from step 2 turned up a little, by someone who knows where the settings are. My grandma already thinks I'm a black magician every time I fix the computer, so I'm halfway there.
+* Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge. Under the axiom a miracle would be one of the settings from step 2 turned up a little, and it looks like magic only to someone who doesn't know the setting is there. My grandma already thinks I'm a black magician every time I fix the computer, so I'm halfway there.
 * Nearly every tradition that describes such powers also warns against chasing them. Patanjali lists them in the Yoga Sutras and then says that, however much they look like achievements to a mind still facing outward, they are obstacles to samadhi, the deepest absorption (3.37).
 * The Buddha said that displays of psychic power horrified him, and that the miracle he valued was instruction (Digha Nikaya 11).
 * Jesus refused to give a sign on demand (Matthew 12:38-39).

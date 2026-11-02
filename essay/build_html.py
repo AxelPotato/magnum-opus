@@ -229,20 +229,14 @@ def svg_zoom():
     x0, x1, y0, y1 = 70, 590, 30, 550
     s = x1 - x0
     small = s * 0.1
-    o = ['<svg class="chart" viewBox="0 0 620 610" role="img" aria-label="Zoom out ten times: the 100 by 100 square becomes a small box inside a 1,000 by 1,000 map">']
+    o = ['<svg class="chart" viewBox="0 0 620 610" role="img" aria-label="Zoom out: the square we have been using becomes a small box in the corner of a much bigger map">']
     o.append(f'<rect class="q high" x="{x0}" y="{y0}" width="{s}" height="{s}"/>')
     o.append(f'<rect class="frame" x="{x0}" y="{y0}" width="{s}" height="{s}"/>')
     o.append(f'<rect class="fillrect high solid" x="{x0}" y="{y1 - small}" width="{small}" height="{small}"/>')
     o.append(f'<path class="leader" d="M{x0 + small} {y1 - small} L{x0 + 150} {y1 - 120}"/>')
     o.append(f'<text class="mono b" x="{x0 + 156}" y="{y1 - 120}">this part\'s map</text>')
-    o.append(f'<text class="mono" x="{x0 + 156}" y="{y1 - 102}">100 × 100 = 10,000</text>')
-    o.append(f'<text class="big" x="{(x0 + x1) / 2}" y="{y0 + 210}" text-anchor="middle">1,000 × 1,000</text>')
-    o.append(f'<text class="big" x="{(x0 + x1) / 2}" y="{y0 + 262}" text-anchor="middle">= 1,000,000</text>')
-    o.append(f'<text class="qt high" x="{(x0 + x1) / 2}" y="{y0 + 312}" text-anchor="middle">full human potential</text>')
-    o.append(f'<text class="mono" x="{x0}" y="{y1 + 24}">0</text>')
-    o.append(f'<text class="mono" x="{x1}" y="{y1 + 24}" text-anchor="end">1,000</text>')
+    o.append(f'<text class="qt high" x="{(x0 + x1) / 2}" y="{y0 + 250}" text-anchor="middle">full human potential</text>')
     o.append(f'<text class="mono" x="{(x0 + x1) / 2}" y="{y1 + 24}" text-anchor="middle">DO →</text>')
-    o.append(f'<text class="mono" x="{x0 - 12}" y="{y0 + 12}" text-anchor="end">1,000</text>')
     o.append(f'<text class="mono" transform="rotate(-90 {x0 - 34} {(y0 + y1) / 2})" x="{x0 - 34}" y="{(y0 + y1) / 2}" text-anchor="middle">BE →</text>')
     o.append('</svg>')
     return ''.join(o)
@@ -272,7 +266,7 @@ def rules1():
         'Picture the whole chart as a square, 10,000': dict(after=figure(squares(), 'The same square, four ways. Width is DO, height is BE, the shaded part is the area a person takes up.', 'plain')),
         'On the line, what you\'re free to want': dict(after=figure(svg_line(), 'The line of harmony. Position along it says how far you have come. Distance from it says how much is leaking.')),
         'Learning to walk on two legs': dict(after=figure(svg_swing(), 'A swing that narrows, then the climb, which stays wavy until the peak. Illustration, not data.')),
-        'Zoom out by ten': dict(after=figure(svg_zoom(), 'Zoom out by ten. The whole square we have been using is the small box in the corner.')),
+        'Zoom out, and the whole square': dict(after=figure(svg_zoom(), 'Zoom out. The whole square we have been using is the small box in the corner.')),
         'Picture the steering wheel of your life.': dict(after=figure(F.fig_wheel(), 'Hands on the wheel, or in the back seat.')),
         'Asking is a quiet one': dict(after=figure(F.icons_html(), 'Five quiet kinds of DO.', 'plain')),
         'It matters even if you couldn': dict(after=F7.widget()),
@@ -316,7 +310,7 @@ def rules2a():
 
 def rules0():
     return {
-        'Everything in this book rests on what I learned': dict(after=figure(
+        'I studied many traditions on my own': dict(after=figure(
             f'<img class="pic" src="{uri("teacher")}" width="720" height="900" loading="lazy" '
             'alt="Two men standing side by side outdoors, the author and his teacher, Genadiy Givin">',
             'My teacher, Genadiy Givin, and I.', 'photo')),
