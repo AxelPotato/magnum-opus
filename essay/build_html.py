@@ -284,7 +284,7 @@ def rules1():
         'The extreme version of this room': dict(after=figure(F.fig_tv(), 'Aware of everything, in none of it.')),
         'Default has a nice corner too': dict(who=[('thoreau', 'Henry David Thoreau', 'neutral')]),
         'With my personality tendencies': dict(after=figure(F.fig_week(), 'Work all week, study on the weekends, with a constant background tension of not being good enough.')),
-        "I don't want to knock this room.": dict(after=figure(F.fig_wall(), 'When a problem does not move, push harder in the same direction.')),
+        "This room builds companies and wins medals": dict(after=figure(F.fig_wall(), 'When a problem does not move, push harder in the same direction.')),
         'Top left: released and passive': dict(after=figure(F.fig_hammock(), 'Where life rarely pushes you from the outside.')),
         'The trap is that it feels good': dict(after=figure(F.fig_gym(), 'Very peaceful. Much calm. Nobody gets hurt and nobody gets stronger.')),
         'So what do you get for walking on both legs?': dict(after=figure(F.fig_inout(), 'The top right, from the inside and from the outside.')),

@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.10.0 (2026-11-02)
+
+- Sharper draft, round two (26 edits, for blind test): the four 'if you accept that, then' lines in Part three state their conclusion; 'don't' disclaimers, apologies and repeated reassurances cut; Part zero says Alex chose an extreme life, a modern monk with a day job in a kind of neo-monastery; Part one adds money working from both sides (the talk); Part two states death as the end of one session, and the Miracles fold gets back 'To be honest, I don't personally care whether miracles happen'
+
+
 ## 5.9.1 (2026-11-02)
 
 - Keep the 8 sharper edits the blind reader test backed; put back the 8 that lost (superior lines, cut honest limits); clearer 'good teacher from a bad one'

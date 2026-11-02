@@ -32,7 +32,7 @@ Here's why I think the second view deserves the effort. When traditions in diffe
 
 People with no creed have said it too. Spinoza argued that there is only one substance, which he called God or Nature, and that everything else is a form of it. When a rabbi cabled Einstein in 1929 to ask whether he believed in God, Einstein said he believed in Spinoza's God, meaning the lawful order of nature, nothing that cares what we do. Erwin Schrödinger argued that the plurality of minds is only apparent and tied that to the Upanishads. And Carl Sagan, about as far from a mystic as a famous person gets, said on television in 1980 that we are a way for the cosmos to know itself.
 
-These people don't hold exactly the view I'll use, and they share the base: what looks like many is not as separate as it looks. I'll take that base as the axiom and follow what comes out of it. If it's right, the ideas people usually file under "spiritual" come out as logical consequences, one after another. The traditions got there from many directions. Here the same ideas are laid out in the order they follow from one assumption.
+These people don't hold exactly the view I'll use, and they share the base: what looks like many is not as separate as it looks. I'll take that base as the axiom and follow what comes out of it. The ideas people usually file under "spiritual" come out of it as logical consequences, one after another. The traditions got there from many directions. Here the same ideas are laid out in the order they follow from one assumption.
 
 ## The axiom and the machine
 
@@ -62,7 +62,7 @@ From these three clauses I want to build the rest one step at a time. Each step 
 
 ## 1. Separation is a way of looking
 
-If everything is one, and the whole experiences separation, then being separate can't be a fact about what exists. It has to be a fact about how the whole is looking at itself. So the separation is real as an experience and misleading as a final description, and that's what I mean by illusion. The word gets misused, so let me be careful: it doesn't mean nothing is there. The distance between the two windows is real, and you can measure it with a ruler held to the screen. What's wrong is the reading, the thought that two separate things sit that far apart inside the machine. The walls between programs work the same way. From inside a program they are completely real, and they still don't mean the machine is in pieces.
+If everything is one, and the whole experiences separation, then being separate can't be a fact about what exists. It has to be a fact about how the whole is looking at itself. So the separation is real as an experience and misleading as a final description, and that's what I mean by illusion. The word gets misused. It doesn't mean nothing is there. The distance between the two windows is real, and you can measure it with a ruler held to the screen. What's wrong is the reading, the thought that two separate things sit that far apart inside the machine. The walls between programs work the same way. From inside a program they are completely real, and they still don't mean the machine is in pieces.
 
 The traditions give answers to why a whole would do this, and they rhyme. Hindu texts call creation lila, play, an activity with no need behind it. Which makes the universe the biggest hobby project ever, and like every hobby project, nobody can explain why it took this long. A whole that looks at itself needs positions to look from, and a position is a separation. Knowing needs a gap.
 
@@ -148,7 +148,7 @@ So pain and love are one signal, read in two directions. The more wall you hold,
 
 The third clause says the separation ends, step 2 says the drift only goes one way, and step 3 says the wall keeps reporting what it costs. So the whole needs something built in that turns a point of view around once it has gone far enough, and I think that is exactly what we find.
 
-Picture the run in two halves. In the first half separation is new, and it is the thing being learned. Getting more separate feels good here: my own room, my own money, my own name on the door, winning. Nobody is doing it wrong here. This is the half of the game you came for, and the happiness you get from it is real.
+Picture the run in two halves. In the first half separation is new, and it is the thing being learned. Getting more separate feels good here: my own room, my own money, my own name on the door, winning. This is the half of the game you came for, and the happiness you get from it is real.
 
 Somewhere there is a bottom point, the most separate a point of view gets, and past it the signal flips. The same moves stop paying. A step toward unity starts to feel good in a way that lasts, and standing still, or taking more for yourself, starts to feel empty. Nobody announces it. It shows up as a flatness that no new result can touch, and a quiet question of whether this is all there is. I call it the turn, and it is the moment the third clause starts working on a particular person.
 
@@ -201,7 +201,7 @@ How it carries on is where the traditions part, and the axiom doesn't need to se
 * In the Bhagavad Gita Krishna says that the world is overcome even here by those whose minds are settled in sameness, and that whoever learns, while still in the body, to master desire and anger is a yogi and is happy (5.19 and 5.23). The Hindu tradition calls a person freed while still alive a jivanmukta.
 * The Jain Kalpa Sutra tells how Mahavira, in the thirteenth year of his life as a wandering ascetic, reached kevala, complete knowledge, sitting under a sal tree near the river Rijupalika, and then taught for about thirty more years.
 
-That also changes what dying is. If something carries over, death is the end of one session, and the one who lived it goes on. In the machine, the window closes, the saved state is written, and the machine was never switched off.
+That also changes what dying is. Death is the end of one session, and the one who lived it goes on. In the machine, the window closes, the saved state is written, and the machine was never switched off.
 
 Most of us are still afraid of it, and the axiom says why. A separate self is sure of one thing it will lose, which is itself. So the fear of dying is the wall's strongest reflex, the wall defending the wall, and that makes it a fair reading of how much wall a person holds. It eases as the wall eases. That's why so many traditions treat letting go as a practice for dying: every small thing you stop defending while you are alive makes the last letting go a little more familiar. None of this makes me keen to test it early, to be clear. I still look both ways before crossing the street, twice.
 
@@ -273,13 +273,13 @@ Once more starts coming through, people around you notice. Things work out more 
 * Jesus refused to give a sign on demand (Matthew 12:38-39).
 * Teresa of Avila, who was seen lifted off the ground, begged God to stop giving her favors that other people could see (The Life, chapter 20).
 
-  Chasing them is the separate self wanting more for itself, which is the tank from this step again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
+  To be honest, I don't personally care whether miracles happen. Chasing them is the separate self wanting more for itself, which is the tank from this step again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
 
 ## 8. Lifting the cloth
 
 Step 7 opened with two hours: one spent with someone you have to keep your guard up around, and one with an old friend you come away lighter from. Turn it around. For the people in your life you are one of those two, and which one depends a lot on how much wall you are holding that day.
 
-That follows from the fingers. If whatever I do to another part comes back to me, then whatever I mend in myself reaches the others, and when one finger stops pressing, the finger next to it feels it first. It shows in two ways. The first you can watch from outside. A person who has stopped fighting themselves is easier to be around. They say sorry first and follow up on their words, and the people near them relax a little and sometimes start doing the same. Anyone who has had a good boss after a bad one has seen it.
+That follows from the fingers. Whatever I do to another part comes back to me, so whatever I mend in myself reaches the others, and when one finger stops pressing, the finger next to it feels it first. It shows in two ways. The first you can watch from outside. A person who has stopped fighting themselves is easier to be around. They say sorry first and follow up on their words, and the people near them relax a little and sometimes start doing the same. Anyone who has had a good boss after a bad one has seen it.
 
 The second comes from step 7. The energy was never mine, so when I stop clamping the wheel it doesn't stop at my mill. It flows on to the people I'm with, and most of all to the ones I want to help. Every bit of wall I take down on my side is wall they don't have to push against. You can check this half on your own evenings. People leave an evening with you a bit lighter or a bit flatter, and it's worth noticing which, and whether that changes as you do.
 
