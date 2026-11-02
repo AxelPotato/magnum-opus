@@ -43,6 +43,7 @@ PARTS = [
     ("P1", "essay/part-1-rational.md"),
     ("P2", "essay/part-2-spiritual.md"),
     ("P3", "essay/part-3-practical.md"),
+    ("FAQ", "essay/faq.md"),
 ]
 KINDS = {
     "if-then": [
@@ -69,7 +70,8 @@ KINDS = {
     "apology": [
         r"\bI'm afraid\b",
         r"\bI wish I could\b",
-        r"\bI (?:'ll )?admit\b",
+        r"\bI(?:'ll| will| have to)? admit\b",
+        r"\bto be honest\b",
         r"\bor at least I think\b",
         r"\bbefore that sounds\b",
         r"\blet me be careful\b",

@@ -60,14 +60,14 @@ def chapter(n):
 
 
 def book_html(ver):
-    css = B.CSS + ''.join(B.PARTS[n]['css_extra'] for n in range(5)) + BOOK_CSS
-    toc = ''.join(f'<li><a href="#ch{n}"><span>{B.NUMS[n]}</span><b>{B.HEADS[n]}</b></a></li>' for n in range(5))
+    css = B.CSS + ''.join(B.PARTS[n]['css_extra'] for n in range(len(B.NAMES))) + BOOK_CSS
+    toc = ''.join(f'<li><a href="#ch{n}"><span>{B.NUMS[n]}</span><b>{B.HEADS[n]}</b></a></li>' for n in range(len(B.NAMES)))
     title = (f'<section class="titlepage"><p class="kicker">A short book</p><h1>{B.BOOK_TITLE}</h1>'
              f'<p class="sub">{B.BOOK_SUB}</p><p class="by">by Alex</p><p class="ver">Version {ver}</p></section>'
              f'<nav class="contents"><h2>Contents</h2><ol>{toc}</ol></nav>')
     return ('<!doctype html><html lang="en"><head><meta charset="utf-8">'
             f'<title>{B.BOOK_TITLE}</title><link rel="stylesheet" href="{B.FONTS}"><style>{css}</style></head>'
-            '<body>' + title + ''.join(chapter(n) for n in range(5)) + '</body></html>')
+            '<body>' + title + ''.join(chapter(n) for n in range(len(B.NAMES))) + '</body></html>')
 
 
 def main():

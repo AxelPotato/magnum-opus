@@ -402,7 +402,7 @@ h1{font-family:var(--head);font-weight:600;font-size:clamp(2.9rem,10vw,4.6rem);l
 .orn i{width:.5rem;height:.5rem;transform:rotate(45deg);border:1px solid var(--accent)}
 main{padding:0 1rem 4rem}
 .col{max-width:38rem;margin:2.5rem auto 0;hyphens:auto;-webkit-hyphens:auto}
-.col p.first::first-letter{font-family:var(--head);font-weight:600;font-size:2.7em;line-height:1;margin-right:.04em;color:var(--accent)}
+.col p.first:not(.dc)::first-letter,.col p.first .dc{font-family:var(--head);font-weight:600;font-size:2.7em;line-height:1;margin-right:.04em;color:var(--accent)}.col p.first .dc{margin-right:0}
 .turn{max-width:38rem;margin:4rem auto 2.5rem;display:grid;grid-template-columns:1fr 1fr;gap:1rem}
 .turn a{display:flex;flex-direction:column;gap:.25rem;padding:1rem 1.15rem;border:1px solid var(--rule);border-radius:12px;background:var(--card);text-decoration:none;color:var(--ink);transition:border-color .15s,transform .15s}
 .turn a:hover{border-color:var(--accent);transform:translateY(-1px)}
@@ -752,16 +752,20 @@ def convert(md, R):
     return out, toc
 
 
-NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Contact']  # the chapters, in order; Contact is the page after the essay (contact.md)
-HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in contact']
-NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the book']
+# The chapters, in order. Contact (contact.md) and FAQ (faq.md, Alex 2026-11-02: questions about the form of his
+# own life, kept out of the book itself) are the pages after the essay.
+NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Contact', 'FAQ']
+HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in contact', 'Questions and answers']
+NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the book', 'After the book']
+SIDE_NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After', 'FAQ']  # the small line over each title in the sidebar
+ESSAY_PARTS = range(4)  # the parts proper; the pages after them get no drop cap, reading time or part number in links
 # The book's name in the sidebar (Alex, 2026-10-29).
 BOOK_TITLE = 'Rational, Spiritual, Practical'
 BOOK_SUB = 'A modern take on the path from micro to macro'  # Alex, 2026-10-29
 BOOK_BY = 'by Alex'
 # Where each chapter lives on the website. --preview links the built files instead, for a preview copy.
-SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/contact']
-FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html', 'part-3-practical.html', 'contact.html']
+SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/contact', '/faq']
+FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html', 'part-3-practical.html', 'contact.html', 'faq.html']
 URLS = SITE_URLS
 # The PDF and the EPUB, built by tools/build_book.py into essay/book/. The site serves them itself:
 # stack 56 copies essay/book/ to /book/ on every pull.
@@ -788,18 +792,19 @@ def hero_html(part, words=0):
     if backup:
         part = 2
     lede = {
-        0: 'What each part is for, who is talking, and who taught me.',
+        0: 'Who is talking, what each part is for, and who taught me.',
         1: 'Two directions, four rooms, and a map that turns out to be bigger than it looks.',
         2: 'Two ways of reading a life, one assumption that separates them, and what follows from it in the world\'s religions.',
         3: 'How this is done today, by people with jobs, families and not much spare time.',
         4: '',  # the contact page opens straight on its own sentence
+        5: '',  # and so does the FAQ
     }[part]
     kicker = NUMS[part]
     if backup:
         lede = 'What the middle of the chart is, what lies past the edge of it, and why a rational person might want to find out.'
         kicker = 'Backup: an earlier version of part two'
     mins = round(words / WPM / 5) * 5 if words > 1500 else (max(1, round(words / WPM)) if words else 0)
-    meta = f'<p class="meta">About {mins} minutes of reading</p>' if part in (0, 1, 2, 3) and mins else ''
+    meta = f'<p class="meta">About {mins} minutes of reading</p>' if part in ESSAY_PARTS and mins else ''
     return ('<header class="hero"><div class="hero-in">'
             f'<p class="kicker">{kicker}</p>'
             f'<h1>{HEADS[part]}</h1>'
@@ -817,7 +822,7 @@ def book_nav(part, toc):
         base = '' if on else URLS[n]
         sec_html = ''.join(f'<li><a href="{base}#{s}">{smart(t)}</a></li>' for s, t in secs)
         head = (f'<a class="ch-a" href="{URLS[n]}"' + (' aria-current="page"' if on else '') + '>'
-                f'<span class="ch-n">{NUMS[n] if n < 4 else "After"}</span><span class="ch-t">{HEADS[n]}</span></a>')
+                f'<span class="ch-n">{SIDE_NUMS[n]}</span><span class="ch-t">{HEADS[n]}</span></a>')
         if not secs:
             lis.append(f'<li class="ch{" on" if on else ""}">{head}</li>')
         elif on:
@@ -835,12 +840,12 @@ def book_nav(part, toc):
 
 def turn_html(part):
     """Where the chapter ends: the previous and the next chapter, like turning a page."""
+    label = lambda n: f'{NUMS[n]}: {HEADS[n]}' if n in ESSAY_PARTS else HEADS[n]
     out = []
     if part > 0:
-        out.append(f'<a class="prev" href="{URLS[part - 1]}"><span>Previous</span><b>{NUMS[part - 1]}: {HEADS[part - 1]}</b></a>')
-    if part < 4:
-        nxt = f'{NUMS[part + 1]}: {HEADS[part + 1]}' if part < 3 else HEADS[4]
-        out.append(f'<a class="next" href="{URLS[part + 1]}"><span>Next</span><b>{nxt}</b></a>')
+        out.append(f'<a class="prev" href="{URLS[part - 1]}"><span>Previous</span><b>{label(part - 1)}</b></a>')
+    if part < len(NAMES) - 1:
+        out.append(f'<a class="next" href="{URLS[part + 1]}"><span>Next</span><b>{label(part + 1)}</b></a>')
     return '<nav class="turn" aria-label="Chapters">' + ''.join(out) + '</nav>'
 
 
@@ -955,6 +960,7 @@ PARTS = {
     2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + F6.CSS_EXTRA, foot=PART2_FOOT),
     3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=rules3, cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + PART0_CSS, foot=PART3_FOOT),
     4: dict(md='contact.md', out='contact.html', title='Stay in contact', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
+    5: dict(md='faq.md', out='faq.html', title='Questions and answers', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
     # kept for reference, not part of the default build: python build_html.py --part 2a
     '2a': dict(md='backup/part-2-variant-a-psychological.md', out='backup/part-2-variant-a-psychological.html', title='Part Two, backup: Spiritual', rules=lambda: rules2a(),
                cast=False, css_extra=F3.CSS_EXTRA, foot=PART2_FOOT + ' This is the first version of part two, kept as a backup.', fixed_ver='1.0.0', backup=True),
@@ -966,10 +972,14 @@ def page(part, fragment=False):
     md = open(os.path.join(HERE, cfg['md']), encoding='utf-8').read()
     ver = cfg.get('fixed_ver') or open(os.path.join(HERE, '..', 'VERSION'), encoding='utf-8').read().strip()
     body, toc = convert(md, cfg['rules']())
-    book = part in range(5) and not fragment  # the backup page keeps the old plain layout
+    book = part in range(len(NAMES)) and not fragment  # the backup page keeps the old plain layout
     first = next((i for i, x in enumerate(body) if x.startswith('<p>')), None)
-    if book and first is not None and part != 4:  # a drop cap on the chapter's first paragraph
-        body[first] = '<p class="first">' + body[first][3:]
+    if book and first is not None and part in ESSAY_PARTS:  # a drop cap on the chapter's first paragraph
+        rest = body[first][3:]
+        if len(rest) > 1 and rest[1] in "'\u2019":  # "I'm": CSS would enlarge the apostrophe with the letter
+            body[first] = '<p class="first dc"><span class="dc">' + rest[0] + '</span>' + rest[1:]
+        else:
+            body[first] = '<p class="first">' + rest
     if book:
         nav = book_nav(part, toc)
     elif toc:

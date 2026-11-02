@@ -44,7 +44,7 @@ A word on the word. I don't mean relaxed, because you can be relaxed and asleep.
 
 So how do you move up BE? People usually think of meditation first, and it helps a lot. What moves it most is the thing nobody wants to do: admit you were wrong in a situation and take the first step toward fixing it. Say sorry, and mean it. Have the hard conversation with someone you care about, or with someone you don't care about but still don't want to hurt, feel the "oh no, I really don't want to" go through you, notice it while it's happening, and do it anyway.
 
-That is an act, and it goes against your own resistance. I call it inner agency. Outer agency is how you move along DO, and it gets things done. Inner agency is how you move up BE, and it gets you unstuck. Both are ways of expressing yourself in the world effectively. That's all the word agency means here: the ability to express who you are, effectively, in two ways.
+That is an act, and it goes against your own resistance. I call it inner agency. Outer agency is how you move along DO, and it gets things done. Inner agency is how you move up BE, and it gets you unstuck. Both are ways of expressing yourself in the world effectively. That's all the word agency means here: the ability to express who you are, effectively, in two ways. So letting go, the one that sounds soft, is a high-agency skill.
 
 ## Four rooms
 
@@ -108,7 +108,7 @@ Take Stoicism, because the internet version is so popular. The idea itself is pr
 
 Advaita Vedanta, the Indian school of non-duality, says in short that the separate self is a kind of appearance and that what you really are is the awareness behind it. Read on a weekend, that turns into: there is no doer, so nothing is my responsibility, the world is an illusion, so why would I answer that message. The traditional route asked for preparation and ethical living before the big statements. The quick version keeps the punchline and loses the setup. Buddhist non-attachment goes the same way and becomes plain detachment, which is exactly the confusion Welwood warned about. Mindfulness becomes "just let it go." And "everything happens for a reason" covers anything you'd rather not feel.
 
-The extreme version of this room is the person who has done this for years. They learned to watch their thoughts without getting pulled in, which is a real skill, and kept going until they were watching their whole life from the side, like a documentary about somebody else. That's awareness without being in it, and BE needs both. Ask how they are and they'll tell you, sincerely, that they have no problems. Nothing is happening inside, so nothing is wrong. Super calm. Boring calm. I was heading that way myself, I'll admit, and I got lucky: I met people who fixed my silly ideas about it before I got there. The way I put it is that you need to open your heart, not just your attention. Calm that costs you your feelings isn't release. It's anesthesia.
+The extreme version of this room is the person who has done this for years. They learned to watch their thoughts without getting pulled in, which is a real skill, and kept going until they were watching their whole life from the side, like a documentary about somebody else. That's awareness without being in it, and BE needs both. Ask how they are and they'll tell you, sincerely, that they have no problems. Nothing is happening inside, so nothing is wrong. Super calm. Boring calm. I was heading that way myself, and I got lucky: I met people who fixed my silly ideas about it before I got there. The way I put it is that you need to open your heart, not just your attention. Calm that costs you your feelings isn't release. It's anesthesia.
 
 ### High agency
 
@@ -153,6 +153,8 @@ This is the part where I get to pretend it's science, so don't quote me. Say BE 
 Picture the whole chart as a square, 10,000 in all. Default takes up 100, Driven at the wall or Drifting at its mirror 1,000, and the corner all of it.
 
 It's also why I don't accept the objection I'd expect from driven people, which is that if they let go of the tension they'll lose their edge. The drive and the tension are two different things that most people happen to have glued together. You keep the drive and drop the brace. That's what the 95 times 2 was trying to picture. Phelps in Rio is the closest real example I have among famous people, and I'm a smaller one: a lot of the tension from my Driven years is gone, and the drive actually increased. I used to lose a lot of time to video games and shows, and now I want to work on my goals every day. Compared with my Driven years I get more done, it satisfies me much more, and the goals themselves got bigger.
+
+Here is what that looks like on a hard day at work. On one project I was investigating an incident and couldn't find how the attacker had gotten into the system I was analyzing. In my Driven years that's where the panic would start, the feeling that I'm failing. This time there was a calm in me, call it trust in life, that just knew I would do it: something would crack, and it would come. And it did. The answer was the very thing I had been searching for at the beginning of the investigation. It needed one last twist, and it was actually quite simple. It just took me a while to see it. That calm, together with a great desire to succeed, makes solutions just appear, sometimes in very silly ways.
 
 ## The line
 
@@ -233,8 +235,6 @@ You can check which way you're moving at any time. How many options do you see r
 One correction before this part ends. I told you the top right corner is the peak, 100 and 100. It is the peak of this chart, and this chart is a small part of a much bigger map.
 
 Zoom out, and the whole square we've been using shrinks to a small box in the bottom left corner. A person can grow into all of that area. I like the plain term for it: full human potential. Most people have stood at its edge for a moment without a name for it, under a sky full of stars or holding a newborn, when for a minute nothing felt separate. Those moments don't fit anywhere on this chart. The top right corner is already a very good life, and plenty of people are happy to stay there.
-
-What lies past the small square gets mystical fast, so I'll leave it there for this part.
 
 ## Sources
 

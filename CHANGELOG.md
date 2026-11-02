@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.11.0 (2026-11-02)
+
+- Sharper draft, round three (for the blind test): Part zero opens with who is talking and gives the reason the book teaches no method (a method is learned from people, the way a craft is); Part one says its claim outright (letting go is a high-agency skill), tells the incident Alex couldn't trace and the calm that just knew, cuts 'I'll admit', and ends on the open door; Part three opens with 'If your life is going well and feels well, you have no need of a method', ends Friends on the path on the Buddha's answer, and its teacher fold says watching people change is what first got Alex interested; new FAQ page after the form, in Alex's words (is this a cult, Giving School and Paradanta, the neo-monastery, who lives there, what modern monk means); the drop cap no longer enlarges the apostrophe in I'm; voice_check catches 'I'll admit' and 'to be honest'
+
+
 ## 5.10.2 (2026-11-02)
 
 - Part zero: 'a life most people would call unusual' (was 'extreme'), at Alex's word
