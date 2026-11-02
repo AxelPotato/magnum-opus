@@ -114,7 +114,9 @@ Step 2 built the wall and a world that keeps it convincing. The next question is
 
 Start with pain. Some of it is just the body doing its job. You touch a hot pan and your hand pulls back before you've had a single thought, and that kind of pain keeps you alive. Then there is the part we add on top. Step 2 said that the wall is held in the body as tension, and Part one called that tension a tax. When something hurts, the same tension closes around the pain and says that this shouldn't be happening. Most of what we call suffering is that: the pain, plus our fight against it. So suffering measures resistance. The more you push against what is happening, the more it hurts.
 
-That gives suffering a job. Step 2 ended on a pull that only goes one way, toward more separation, and nothing in an ordinary day turns it around by itself. So something has to tell us what the wall is costing, and it has to be a message we can't simply ignore. Suffering is that message. It works like the warning light on a car's dashboard. Nobody enjoys seeing it come on, and it is the only reason anyone opens the hood. Putting a piece of tape over it is also an option, and most of us have tried that at some point.
+I know this one from my own life. Relationships have never come easily to me, and for many years I didn't know whether I even wanted one, sometimes yes, sometimes no. Looking back, what caused me the most suffering on the subject was how much time my mind spent on that question. That was the part I added on top.
+
+Measuring resistance gives suffering a job. Step 2 ended on a pull that only goes one way, toward more separation, and nothing in an ordinary day turns it around by itself. So something has to tell us what the wall is costing, and it has to be a message we can't simply ignore. Suffering is that message. It works like the warning light on a car's dashboard. Nobody enjoys seeing it come on, and it is the only reason anyone opens the hood. Putting a piece of tape over it is also an option, and most of us have tried that at some point.
 
 #### A post-mortem, the way we do it at work
 

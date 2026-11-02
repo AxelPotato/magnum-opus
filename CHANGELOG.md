@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.13.0 (2026-11-02)
+
+- Alex's picks after round three: his cost line opens Part zero's second paragraph and his relationship example joins Part two step 3 (both tied for the top score with all six readers), so step 3's next paragraph opens 'Measuring resistance gives suffering a job'; the FAQ now comes before the contact form, so readers see the answers before leaving details; 'or a fakir' is out of the modern monk answer; new FAQ answers in his words: why the students live together (the caterpillar and the butterfly), the two centers and who lives there, the daily work, who owns and pays for the centers, what happens when someone leaves, what happens if you skip a meditation, and what his friends and family think now; the cult answer says his friends joked about it
+
+
 ## 5.12.0 (2026-11-02)
 
 - Sharper draft, round three verdict (six blind readers, all chose the new version on trust, keep reading, remember, only this author and send): Part two now opens with the top right corner as the edge of the chart (the one talk-line edit that won, from Alex's own life-goal notes, with all six); the FAQ drops 'Of course it is, in the best way possible' (struck by five of six) and keeps 'If it is a cult, it's a badly run one'; Giving School loses its brochure line; Paradanta loses the list of names for awakening and says 'And we live together, in centers' instead of 'naturally'; the incident story ends on 'It just took me a while to see it'; Part three's Sources lose an empty label; voice_check protects the round three winners

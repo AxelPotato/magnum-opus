@@ -330,7 +330,7 @@ def rules2():
         'If we are one, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
         'My answer is that it takes doing less.': dict(after=F6.widget()),
         'Your own body does it too.': dict(after=figure(F5.JOKES['fig_cell'](), 'Every cell carries the whole plan and uses a small part of it. The rest is switched off and kept.')),
-        'That gives suffering a job.': dict(after=figure(F5.fig_warning(), 'Suffering as the warning light on the dashboard. The tape is also an option.')),
+        'Measuring resistance gives suffering a job.': dict(after=figure(F5.fig_warning(), 'Suffering as the warning light on the dashboard. The tape is also an option.')),
         "That's also why love is strongest": dict(after=figure(F5.fig_needlove(), 'Need says, I need you so that I feel whole. Love says, you are part of what I am.')),
         'Somewhere there is a bottom point': dict(after=figure(F5.fig_turn(), 'Two halves of one game. Past the bottom point the same moves stop paying, and a step toward unity starts to.')),
         "That something can't be the body": dict(after=figure(F5.fig_lamps(), 'A lamp lit from another lamp.')),
@@ -752,20 +752,21 @@ def convert(md, R):
     return out, toc
 
 
-# The chapters, in order. Contact (contact.md) and FAQ (faq.md, Alex 2026-11-02: questions about the form of his
-# own life, kept out of the book itself) are the pages after the essay.
-NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Contact', 'FAQ']
-HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in contact', 'Questions and answers']
+# The chapters, in order. The FAQ (faq.md, Alex 2026-11-02: questions about the form of his own life, kept out of
+# the book itself) and Contact (contact.md) are the pages after the essay. Since 5.13.0 the FAQ comes before the
+# contact form (Alex 2026-11-02 20:52), so a reader sees the answers before leaving details.
+NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'FAQ', 'Contact']
+HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Questions and answers', 'Stay in contact']
 NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the book', 'After the book']
-SIDE_NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After', 'FAQ']  # the small line over each title in the sidebar
+SIDE_NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'FAQ', 'After']  # the small line over each title in the sidebar
 ESSAY_PARTS = range(4)  # the parts proper; the pages after them get no drop cap, reading time or part number in links
 # The book's name in the sidebar (Alex, 2026-10-29).
 BOOK_TITLE = 'Rational, Spiritual, Practical'
 BOOK_SUB = 'A modern take on the path from micro to macro'  # Alex, 2026-10-29
 BOOK_BY = 'by Alex'
 # Where each chapter lives on the website. --preview links the built files instead, for a preview copy.
-SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/contact', '/faq']
-FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html', 'part-3-practical.html', 'contact.html', 'faq.html']
+SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/faq', '/contact']
+FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html', 'part-3-practical.html', 'faq.html', 'contact.html']
 URLS = SITE_URLS
 # The PDF and the EPUB, built by tools/build_book.py into essay/book/. The site serves them itself:
 # stack 56 copies essay/book/ to /book/ on every pull.
@@ -796,8 +797,8 @@ def hero_html(part, words=0):
         1: 'Two directions, four rooms, and a map that turns out to be bigger than it looks.',
         2: 'Two ways of reading a life, one assumption that separates them, and what follows from it in the world\'s religions.',
         3: 'How this is done today, by people with jobs, families and not much spare time.',
-        4: '',  # the contact page opens straight on its own sentence
-        5: '',  # and so does the FAQ
+        4: '',  # the FAQ opens straight on its own sentence
+        5: '',  # and so does the contact page
     }[part]
     kicker = NUMS[part]
     if backup:
@@ -959,8 +960,8 @@ PARTS = {
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=False, css_extra=F7.CSS_EXTRA, foot=PART1_FOOT),
     2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + F6.CSS_EXTRA, foot=PART2_FOOT),
     3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=rules3, cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + PART0_CSS, foot=PART3_FOOT),
-    4: dict(md='contact.md', out='contact.html', title='Stay in contact', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
-    5: dict(md='faq.md', out='faq.html', title='Questions and answers', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
+    4: dict(md='faq.md', out='faq.html', title='Questions and answers', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
+    5: dict(md='contact.md', out='contact.html', title='Stay in contact', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
     # kept for reference, not part of the default build: python build_html.py --part 2a
     '2a': dict(md='backup/part-2-variant-a-psychological.md', out='backup/part-2-variant-a-psychological.html', title='Part Two, backup: Spiritual', rules=lambda: rules2a(),
                cast=False, css_extra=F3.CSS_EXTRA, foot=PART2_FOOT + ' This is the first version of part two, kept as a backup.', fixed_ver='1.0.0', backup=True),
