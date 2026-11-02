@@ -1,0 +1,51 @@
+# Lines that carry the book's voice, read by tools/voice_check.py.
+#
+# SHARP: a line that carries the book's edge. Readers rewarded these lines, or
+# Alex chose them on purpose. Cut or soften one only with Alex's word, even
+# when a reader run dips on it.
+# GUARD: a deliberate limit or safety line. It is not a softener, so the
+# script doesn't count it.
+#
+# What the reader runs taught us (runs 21 and 22, 2026-11-02): sharpness lands
+# when it is aimed at an idea or at Alex himself. It costs trust when it is
+# aimed at other people. Honest limits read as honesty, not as cushions.
+
+SHARP: Busy is a very respectable way to never sit with yourself
+SHARP: It feels like Tuesday.
+SHARP: Mainstream spirituality teaches people to live in this room.
+SHARP: She's the happiest resident of this room and still a resident.
+SHARP: Bypassing is a very sophisticated way of never having to do any of it.
+SHARP: It's anesthesia.
+SHARP: The result is usually a driven person who meditates and is slightly more effective.
+SHARP: I know that sounds stupid, and I'm serious.
+SHARP: the same engine with a halo
+SHARP: Would you still do it if nobody ever found out?
+SHARP: Part one was the polite part.
+SHARP: So suffering measures resistance.
+SHARP: That's spiritual bypassing with a calculator.
+SHARP: The talking didn't use up the energy. The guarding did.
+SHARP: the wish behind it was probably weaker than it felt
+SHARP: you've rebuilt the Driven room with better vocabulary
+SHARP: get over yourself
+SHARP: It sounds like an insult and it's closer to a lever.
+SHARP: anything times nothing is still nothing
+SHARP: In practice, no magic happens.
+SHARP: who in your life could tell you honestly how you have changed?
+
+GUARD: I'm not religious, and I'm not asking you to adopt anybody's religion.
+GUARD: You don't have to agree with the starting assumption for the test to work.
+GUARD: It doesn't mean the universe is a simulation or that anyone is running it.
+GUARD: None of this makes cruelty fine, and none of it asks anyone to stand by.
+GUARD: get real help first, from a doctor or a therapist
+GUARD: None of this makes me keen to test it early, to be clear.
+GUARD: That never means staying where someone keeps hurting me.
+GUARD: I'm not inviting you to my school, or to anyone's.
+GUARD: As far as I can see, that comes down to conditions
+GUARD: You don't need to agree with anything in this book to try it
+GUARD: That never means letting people hurt you.
+GUARD: None of this replaces the people you already have.
+GUARD: I don't mean relaxed, because you can be relaxed and asleep.
+GUARD: I won't tell you which room she lives in now. That's her business.
+GUARD: You don't need to be anywhere special on it.
+GUARD: so I'm not claiming that a bigger reason will add years to your life
+GUARD: so you don't have to fight the small ones one at a time
