@@ -4,7 +4,7 @@ A few questions about my own life and the school around it. They sit here, after
 
 ## Is this a cult?
 
-Many of my friends joked about it at the beginning, and I think almost every student in our school has heard some version of it from a relative or a friend: you moved to God knows where for some meditation stuff, so it's probably a cult. To be fair, I did move, and there is a lot of meditation. We live together and meditate three times a day, so I can see how it looks. If it is a cult, it's a badly run one. I've just written a whole book without inviting you to join it.
+My friends and my family joked about it a lot at the beginning, and I think almost every student in our school has heard some version of it from a relative or a friend: you moved to God knows where for some meditation stuff, so it's probably a cult. To be fair, I did move, and there is a lot of meditation. We live together and meditate three times a day, so I can see how it looks. If it is a cult, it's a badly run one. I've just written a whole book without inviting you to join it.
 
 That last part is serious. I'm not inviting anybody to become a student of Genadiy. There are two different things here, Giving School and Paradanta, and the difference matters.
 
@@ -30,7 +30,7 @@ Genadiy lives there, and so do we, his students. There are two centers, one in S
 
 ## What is the daily work?
 
-Part of it is my own job, and part of it is work for the school. For the school I do management, leading my team, and I'm an instructor. We all take turns on duties like cleaning and cooking, because nobody else is there to do them, and that's part of living together. The rest is projects we see can help, a lot of them for Giving School. Some of us have built businesses of their own and put part of what they earn into promoting the school. Someone who cooks for the team is part of that work too, because the instructors who lead a course rely on that help.
+Part of it is my own job, and part of it is work for the school. For the school I do management, leading my team, and I'm an instructor. We all take turns on duties like cleaning and cooking, because nobody else is there to do them, and that's part of living together. The rest is projects we see can help, a lot of them for Giving School. Whether you're a student at all is your own choice, and so is how you can be most useful, because only you really know how you can be at your best. Some of us have built businesses of their own and put part of what they earn into promoting the school, and that's literally their own business. Someone who cooks for the team is part of that work too, because the instructors who lead a course rely on that help.
 
 ## What are you working on now?
 
@@ -38,7 +38,7 @@ I'm helping to build something that lets other people go through the same journe
 
 ## Who owns the centers, and who pays for them?
 
-The one in Riga belongs to one of our students, who bought it for the school to use. The one in Sochi belongs to a cooperative we use to pay our common expenses. Every month all of us pay a share that covers running the center, the food and everything else, and it's quite cheap to live there.
+The one in Riga belongs to one of our students, who bought it for the school to use. The one in Sochi belongs to a cooperative we use to pay our common expenses. Every month all of us pay a share that covers running the center, the food and everything else.
 
 ## What happens when someone leaves?
 

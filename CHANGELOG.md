@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.14.2 (2026-11-02)
+
+- FAQ, at Alex's word: the centers answer no longer says it's quite cheap to live there (no deeper into the money); the daily work says being a student and how you can be most useful are each person's own choice, and that students who put part of their business income into promoting the school do it as literally their own business; the cult answer says his friends and his family joked about it a lot
+
+
 ## 5.14.1 (2026-11-02)
 
 - The FAQ's modern monk answer now leads with what matters most to Alex, his inner dedication: his life is dedicated to the spiritual path and it is his focus every day, which is why he does the three meditations wherever he is and doesn't skip because he doesn't feel like it (his word, 2026-11-02)
