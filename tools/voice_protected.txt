@@ -14,6 +14,15 @@
 # every reader. An "if" at the edge of what nobody can prove (the axiom,
 # death) and the lines that leave the reader free (no need of a method, no
 # need of a teacher) won with every reader, so they are GUARD lines.
+#
+# Round three (six readers, one of them a genre editor): the book wins when
+# it says who is talking and what this life cost him, and tests its ideas on
+# his own work and his own life. Every reader chose that version on all five
+# questions. A joke in the place where a worried reader needs a straight
+# answer loses ("Of course it is, in the best way possible" was struck by five
+# of six), and so does a "naturally" over the biggest step. Lines that work out
+# loud in a room did not carry to the page: of six lines from the talk, only
+# the idea-level claim (the top right corner as the edge of the chart) won.
 
 SHARP: Busy is a very respectable way to never sit with yourself
 SHARP: It feels like Tuesday.
@@ -65,3 +74,10 @@ GUARD: If it's right, the ideas people usually file under
 GUARD: If something carries over, death is the end of one session
 GUARD: If your life is going well and feels well, you have no need of a method.
 GUARD: And you don't have to have a teacher at all.
+SHARP: So letting go, the one that sounds soft, is a high-agency skill.
+SHARP: I'd call it the edge of the chart
+SHARP: Every room on it is that thing getting better at its job.
+SHARP: On one project I was investigating an incident
+SHARP: If it is a cult, it's a badly run one.
+SHARP: I'm not inviting anybody to become a student of Genadiy.
+SHARP: minus the religion

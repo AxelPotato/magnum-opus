@@ -4,19 +4,17 @@ A few questions about my own life and the school around it. They sit here, after
 
 ## Is this a cult?
 
-Of course it is, in the best way possible.
-
 Many of my friends were sure of it, especially at the beginning, and I think almost every student in our school has heard some version of it from a relative or a friend: you moved to God knows where for some meditation stuff, so it's probably a cult. To be fair, I did move, and there is a lot of meditation. We live together and meditate three times a day, so I can see how it looks. If it is a cult, it's a badly run one. I've just written a whole book without inviting you to join it.
 
 That last part is serious. I'm not inviting anybody to become a student of Genadiy. There are two different things here, Giving School and Paradanta, and the difference matters.
 
 ## What is Giving School?
 
-It's the way we, Genadiy's students, share our experience, his knowledge, the practices and the method with pretty much anyone, in any kind of life, pretty much anywhere in the world. Some of it is online and some of it is retreats, offline. How much you take part is your own decision, and everybody goes at their own pace. Whether you care about spirituality doesn't actually matter. It's simply our way of making this knowledge available to anyone who wants a happier, more joyful life, wants to change some things about it or about themselves, and wants to be freer and more capable in whatever they do.
+It's the way we, Genadiy's students, share our experience, his knowledge, the practices and the method with pretty much anyone, in any kind of life, pretty much anywhere in the world. Some of it is online and some of it is retreats, offline. You take part as much as you want, at your own pace.
 
 ## What is Paradanta?
 
-Paradanta is the project of Genadiy's students themselves. We are its members, and we like to call ourselves residents, though the word doesn't matter. This is where the neo-monastic way of life comes in. It starts with a very clear decision: yes, in this lifetime I want the highest freedom from all of my limitations. I want to come to unity and answer the questions of who I am and why I'm here. The religions call it awakening, enlightenment, moksha, freedom from illusion, and it doesn't matter which word a person uses. The people who make that decision are willing to make a serious effort, they want to walk the path of freedom as fast as they can, in this lifetime, and they want to share it with others as part of their own journey. So, naturally, we live together in centers.
+Paradanta is the project of Genadiy's students themselves. We are its members, and we like to call ourselves residents, though the word doesn't matter. This is where the neo-monastic way of life comes in. It starts with a very clear decision: yes, in this lifetime I want the highest freedom from all of my limitations. I want to come to unity and answer the questions of who I am and why I'm here. The people who make that decision are willing to make a serious effort, they want to walk the path of freedom as fast as they can, in this lifetime, and they want to share it with others as part of their own journey. And we live together, in centers.
 
 ## What is a neo-monastery?
 

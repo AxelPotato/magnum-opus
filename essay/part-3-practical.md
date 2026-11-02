@@ -262,6 +262,3 @@ And one question for the road: who in your life could tell you honestly how you 
 - Vivekachudamani, verse 3 (Sanskrit text with Madhavananda's translation, Advaita Ashrama).
 - The Rule of Benedict, chapter 1 (Doyle's translation).
 - Samyutta Nikaya 45.2, the Upaddha Sutta (Sujato's translation, SuttaCentral).
-
-My teacher and I
-

@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.12.0 (2026-11-02)
+
+- Sharper draft, round three verdict (six blind readers, all chose the new version on trust, keep reading, remember, only this author and send): Part two now opens with the top right corner as the edge of the chart (the one talk-line edit that won, from Alex's own life-goal notes, with all six); the FAQ drops 'Of course it is, in the best way possible' (struck by five of six) and keeps 'If it is a cult, it's a badly run one'; Giving School loses its brochure line; Paradanta loses the list of names for awakening and says 'And we live together, in centers' instead of 'naturally'; the incident story ends on 'It just took me a while to see it'; Part three's Sources lose an empty label; voice_check protects the round three winners
+
+
 ## 5.11.0 (2026-11-02)
 
 - Sharper draft, round three (for the blind test): Part zero opens with who is talking and gives the reason the book teaches no method (a method is learned from people, the way a craft is); Part one says its claim outright (letting go is a high-agency skill), tells the incident Alex couldn't trace and the calm that just knew, cuts 'I'll admit', and ends on the open door; Part three opens with 'If your life is going well and feels well, you have no need of a method', ends Friends on the path on the Buddha's answer, and its teacher fold says watching people change is what first got Alex interested; new FAQ page after the form, in Alex's words (is this a cult, Giving School and Paradanta, the neo-monastery, who lives there, what modern monk means); the drop cap no longer enlarges the apostrophe in I'm; voice_check catches 'I'll admit' and 'to be honest'

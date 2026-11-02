@@ -2,7 +2,7 @@
 
 ## Where we part ways
 
-Part one was the polite part. Everything in it holds up whichever way you think the universe works. This part is where we part ways.
+Part one was the polite part. Everything in it holds up whichever way you think the universe works. This part is where we part ways. Most people would call the top right corner of that chart the goal. I'd call it the edge of the chart, because the whole chart rests on one quiet assumption: that I'm a separate thing, and a separate thing has to protect itself and take what it needs. Every room on it is that thing getting better at its job.
 
 One thing first, because it changes how you read everything after it. I'm not religious, and I'm not asking you to adopt anybody's religion. What I will do is quote a lot of traditions: Hindu, Buddhist, Jain, Jewish, Christian, Muslim, Daoist, Greek, and a few people with no religion at all. They use different words, and sometimes different gods, and they keep coming back to a few of the same ideas.
 
