@@ -18,9 +18,7 @@ Paradanta is the project of Genadiy's students themselves. We are its members, a
 
 ## Why live together?
 
-Because it's a school, and its students are learning to live in a very different way. I like to compare it to a caterpillar becoming a butterfly. A caterpillar has a certain freedom: it crawls around and eats whatever it wants. To become a butterfly, it has to retreat from the world for a while and go through the metamorphosis. The butterfly is the time when you can fly free and bring some beauty into the world.
-
-That's why we have our centers. People gather there to go through this process in the safest and most pleasant conditions we can make, because letting go of the ideas we have about ourselves is a very big challenge. A lot of it comes with pain, as old hurts come up and you let them go, and that doesn't always look nice while it's coming out of you. It takes a place with people who honestly understand what you are going through and won't judge you for it. Once someone has made that switch, they don't need to be in the center as much, and they can spend more of their time traveling and sharing it with the world.
+Because it's a school, and its students are learning to live in a very different way. Letting go of the ideas we have about ourselves is a very big challenge. A lot of it comes with pain, as old hurts come up and you let them go, and that doesn't always look nice while it's coming out of you. It takes a place with people who honestly understand what you are going through and won't judge you for it, and that's what our centers are for. Once someone has been through it, they don't need to be in the center as much, and they can spend more of their time traveling and sharing it with the world.
 
 ## What is a neo-monastery?
 
@@ -32,7 +30,11 @@ Genadiy lives there, and so do we, his students. There are two centers, one in S
 
 ## What is the daily work?
 
-Part of it is my own job, and part of it is work for the school. For the school I do management, leading my team, and I'm an instructor. We all take turns on duties like cleaning and cooking, because nobody else is there to do them, and that's part of living together. The rest is projects we see can help, a lot of them for Giving School. Some of us have built businesses of their own and put part of what they earn into promoting the school. Each person looks for the way they can be most useful, because that's what we came there to do: find ways to help others be happy. Someone who cooks for the team is part of it too, because the instructors who lead a course rely on that help.
+Part of it is my own job, and part of it is work for the school. For the school I do management, leading my team, and I'm an instructor. We all take turns on duties like cleaning and cooking, because nobody else is there to do them, and that's part of living together. The rest is projects we see can help, a lot of them for Giving School. Some of us have built businesses of their own and put part of what they earn into promoting the school. Someone who cooks for the team is part of that work too, because the instructors who lead a course rely on that help.
+
+## What are you working on now?
+
+I'm helping to build something that lets other people go through the same journey I'm on in much less time than it took me: a more mature and complete way of learning it, and new centers where people can go through this process. Building it makes me very happy, and I'm still as much a student as anybody else here.
 
 ## Who owns the centers, and who pays for them?
 
@@ -40,7 +42,7 @@ The one in Riga belongs to one of our students, who bought it for the school to 
 
 ## What happens when someone leaves?
 
-Nothing special. We're sad when someone goes. Usually they've simply decided this isn't the lifestyle they want, or not right now, and most of them have very good friends here, so they stay in touch. Some former students live close to our center and we see them now and then. Some go and do something else, maybe a project of their own, and we stay friends. Some stay in our online circles, because that path suits them better for now, and that's fine. Very rarely someone leaves with bad feelings. I don't think it has happened in the last few years, but I do remember cases from before. That's sad, and nothing in this world is ideal.
+Nothing special. We're sad when someone goes. Usually they've simply decided this isn't the lifestyle they want, or not right now, and most of them have very good friends here, so they stay in touch. Some former students live close to our center and we see them now and then. Some go and do something else, maybe a project of their own, and we stay friends. Some stay in our online circles, because that path suits them better for now, and that's fine. Some come back. Very rarely someone leaves with bad feelings. I don't think it has happened in the last few years, but I do remember cases from before.
 
 ## What does "modern monk" mean for you?
 
@@ -51,7 +53,3 @@ In practice it means I do the three meditations a day whether I'm at the center 
 ## What if you skip a meditation?
 
 At the center we keep track of who comes. All of us have bad periods, when you slip and just want to close yourself off from the world, and if someone who usually comes suddenly skips a meditation, people notice. That helps the person see that it's happening at all, and it helps us see whether they need some extra attention. You can miss the morning or the afternoon session when you feel unwell or have something important to do at that time. When it wasn't planned and you just don't feel like it, that's what needs attention. Nobody gets punished for it. Hardly anyone arrives at the center with great inner discipline. It's something we train, and a bit of outer discipline helps it grow.
-
-## What do your friends and family think now?
-
-None of them took it seriously, and these days nobody thinks I'm in a cult, not even a little bit. My family least of all. I see them quite often, and they can see that I'm very happy.

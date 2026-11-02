@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.14.0 (2026-11-02)
+
+- FAQ corrected after a blind test of the new answers (six readers: all six trust the new page more, five of six would rather leave their details after it): 'Why live together?' keeps the pain and the people who won't judge you, and drops the caterpillar and the butterfly and 'the safest and most pleasant conditions' (all six called them generic); the daily work loses 'find ways to help others be happy' (all six); 'What happens when someone leaves?' drops 'That's sad, and nothing in this world is ideal' (five of six read it as a shrug) and says some come back; new question 'What are you working on now?', after the daily work, without the settlement (all six against), the line about finding people to do it with me (four struck it) and the line about extra hints (five flagged it as a status claim); 'What do your friends and family think now?' is out until it has one real thing they said or did (four of six read the verdict as protesting)
+
+
 ## 5.13.1 (2026-11-02)
 
 - No word is ever broken at the end of a line, anywhere in the book, at Alex's word: hyphenation is off on the website, in the PDF and in the EPUB (every e-reader's switch), a word with a hyphen of its own such as high-agency stays on one line, and the build stops if anything would bring hyphenation back; the figure inside a fold in Part one no longer makes the page scroll sideways on phones
