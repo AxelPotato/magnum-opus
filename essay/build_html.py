@@ -73,6 +73,38 @@ def smart(s):
     return s
 
 
+# No word is ever broken at the end of a line, on the site, in the PDF or in the EPUB (Alex, 2026-11-02: "this is
+# terribly hard to read, make that never happen anywhere in the book ever"). The CSS turns hyphenation off
+# (hyphens:none on html), keep_whole() keeps a word that carries its own hyphen (high-agency, self-regulation, 3-4)
+# on one line, and no_hyphenation() stops any build that would bring either back.
+_NO_TEXT = re.compile(r'<(script|style|svg|title|textarea|head)\b.*?</\1\s*>', re.S | re.I)
+_COMPOUND = re.compile(r'[^\s<>]*\w-\w[^\s<>]*')  # a whole word with a hyphen inside it, with its quotes or comma, or a DOI
+
+
+def keep_whole(doc):
+    """Wrap every word with a hyphen of its own in <span class="nw">, in text only (never in tags, scripts, styles or SVG)."""
+    def text(chunk):
+        bits = re.split(r'(<[^>]*>)', chunk)
+        def nw(m):  # up to 32 letters fits a line on the smallest phone; nothing in the book is longer
+            return f'<span class="nw">{m.group(0)}</span>' if len(m.group(0).strip('“”‘’"\'()[],.;:!?…')) <= 32 else m.group(0)
+        bits[::2] = [_COMPOUND.sub(nw, b) for b in bits[::2]]
+        return ''.join(bits)
+    out, pos = [], 0
+    for m in _NO_TEXT.finditer(doc):
+        out += [text(doc[pos:m.start()]), m.group(0)]
+        pos = m.end()
+    return ''.join(out) + text(doc[pos:])
+
+
+def no_hyphenation(doc, where):
+    """Stop the build if anything would break a word at a line end: hyphens:auto in any CSS, or a soft hyphen in the text."""
+    bad = re.search(r'hyphens\s*:\s*auto|hyphenate\s*:\s*auto|\u00ad|&shy;|&#173;|&#x0*[aA][dD];', doc)
+    if bad:
+        raise SystemExit(f'{where}: {bad.group(0)!r} would break words at line ends, and no word is ever broken in the book '
+                         '(Alex, 2026-11-02). Take it out.')
+    return doc
+
+
 def slug(s):
     return re.sub(r'[^a-z0-9]+', '-', s.lower()).strip('-')
 
@@ -389,7 +421,8 @@ CSS = r"""
   --default:#8E9BBA; --driven:#F0724F; --drifting:#7B93F0; --high:#31C79F;
   --k-trad:#8FA4F2; --k-study:#3CCBA4; --k-look:#A3AECA; --k-life:#E89A62; --k-story:#C79AE6; --k-try:#E0BE4F; color-scheme:dark}
 *{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%}
+html{-webkit-text-size-adjust:100%;-webkit-hyphens:none;hyphens:none}  /* no word is ever broken at a line end (Alex, 2026-11-02) */
+.nw{white-space:nowrap}  /* a word with its own hyphen (high-agency) stays on one line */
 body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:1.15rem;line-height:1.72;overflow-x:clip;font-optical-sizing:auto;text-rendering:optimizeLegibility}
 .hero{position:relative;padding:clamp(3rem,9vh,6rem) 1rem 1rem;text-align:center}
 .hero-in{position:relative;max-width:38rem;margin:0 auto}
@@ -401,7 +434,7 @@ h1{font-family:var(--head);font-weight:600;font-size:clamp(2.9rem,10vw,4.6rem);l
 .orn span{flex:1;height:1px;background:var(--rule)}
 .orn i{width:.5rem;height:.5rem;transform:rotate(45deg);border:1px solid var(--accent)}
 main{padding:0 1rem 4rem}
-.col{max-width:38rem;margin:2.5rem auto 0;hyphens:auto;-webkit-hyphens:auto}
+.col{max-width:38rem;margin:2.5rem auto 0}
 .col p.first:not(.dc)::first-letter,.col p.first .dc{font-family:var(--head);font-weight:600;font-size:2.7em;line-height:1;margin-right:.04em;color:var(--accent)}.col p.first .dc{margin-right:0}
 .turn{max-width:38rem;margin:4rem auto 2.5rem;display:grid;grid-template-columns:1fr 1fr;gap:1rem}
 .turn a{display:flex;flex-direction:column;gap:.25rem;padding:1rem 1.15rem;border:1px solid var(--rule);border-radius:12px;background:var(--card);text-decoration:none;color:var(--ink);transition:border-color .15s,transform .15s}
@@ -429,6 +462,7 @@ figure{margin:0}
 .row{display:flex;flex-wrap:wrap;justify-content:center;gap:.4rem 1.4rem;margin:1.6rem 0}
 .row .who{float:none;margin:0}
 .fig{width:min(54rem,calc(100vw - 2rem));position:relative;left:50%;transform:translateX(-50%);margin:2.2rem 0}
+.say .fig,body.has-toc .say .fig:not(.plain):not(.photo){width:100%;left:auto;transform:none}  /* a figure inside a fold entry fits the fold, so the page never scrolls sideways */
 .fig.plain,.fig.photo{width:min(40rem,100%);left:0;transform:none}
 .fig svg.chart{display:block;width:100%;max-width:38rem;height:auto;margin:0 auto}
 .fig figcaption{font-family:var(--mono);font-size:.78rem;line-height:1.5;color:var(--muted);text-align:center;margin:.8rem auto 0;max-width:34rem}
@@ -543,7 +577,7 @@ details.say-fold .say-close{margin:1.2rem 0 .6rem}
 @media print{details.say-fold>*{display:block}details.say-fold .tz{display:none}}
 .say li{margin-bottom:.7rem;padding-left:.2rem}
 .say li::marker{color:var(--muted)}
-.sources li{margin-bottom:.7rem;overflow-wrap:anywhere}
+.sources li{margin-bottom:.7rem;overflow-wrap:break-word}
 h4{font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:1.6rem 0 .8rem;font-weight:500}
 footer{max-width:38rem;margin:0 auto;padding:1.5rem 0 0;border-top:1px solid var(--rule);font-family:var(--mono);font-size:.74rem;line-height:1.6;color:var(--muted)}
 a{color:var(--high)}
@@ -969,6 +1003,10 @@ PARTS = {
 
 
 def page(part, fragment=False):
+    return no_hyphenation(keep_whole(_page(part, fragment)), PARTS[part]['out'])
+
+
+def _page(part, fragment=False):
     cfg = PARTS[part]
     md = open(os.path.join(HERE, cfg['md']), encoding='utf-8').read()
     ver = cfg.get('fixed_ver') or open(os.path.join(HERE, '..', 'VERSION'), encoding='utf-8').read().strip()

@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.13.1 (2026-11-02)
+
+- No word is ever broken at the end of a line, anywhere in the book, at Alex's word: hyphenation is off on the website, in the PDF and in the EPUB (every e-reader's switch), a word with a hyphen of its own such as high-agency stays on one line, and the build stops if anything would bring hyphenation back; the figure inside a fold in Part one no longer makes the page scroll sideways on phones
+
+
 ## 5.13.0 (2026-11-02)
 
 - Alex's picks after round three: his cost line opens Part zero's second paragraph and his relationship example joins Part two step 3 (both tied for the top score with all six readers), so step 3's next paragraph opens 'Measuring resistance gives suffering a job'; the FAQ now comes before the contact form, so readers see the answers before leaving details; 'or a fakir' is out of the modern monk answer; new FAQ answers in his words: why the students live together (the caterpillar and the butterfly), the two centers and who lives there, the daily work, who owns and pays for the centers, what happens when someone leaves, what happens if you skip a meditation, and what his friends and family think now; the cult answer says his friends joked about it
