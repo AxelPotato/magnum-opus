@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.14.3 (2026-11-02)
+
+- FAQ, at Alex's word: the centers answer now says Genadiy owns literally nothing and makes no money out of any of this, the question all six readers asked
+
+
 ## 5.14.2 (2026-11-02)
 
 - FAQ, at Alex's word: the centers answer no longer says it's quite cheap to live there (no deeper into the money); the daily work says being a student and how you can be most useful are each person's own choice, and that students who put part of their business income into promoting the school do it as literally their own business; the cult answer says his friends and his family joked about it a lot

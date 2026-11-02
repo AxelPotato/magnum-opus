@@ -38,7 +38,7 @@ I'm helping to build something that lets other people go through the same journe
 
 ## Who owns the centers, and who pays for them?
 
-The one in Riga belongs to one of our students, who bought it for the school to use. The one in Sochi belongs to a cooperative we use to pay our common expenses. Every month all of us pay a share that covers running the center, the food and everything else.
+The one in Riga belongs to one of our students, who bought it for the school to use. The one in Sochi belongs to a cooperative we use to pay our common expenses. Every month all of us pay a share that covers running the center, the food and everything else. Genadiy owns literally nothing and makes no money out of any of this.
 
 ## What happens when someone leaves?
 
