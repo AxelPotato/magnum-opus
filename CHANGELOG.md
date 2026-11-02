@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.0.0 (2026-11-02)
+
+- Version 6.0.0, at Alex's word: the sharper book goes out as a new major version. Four blind rounds with six readers sharpened the voice in every part, a whole new Questions and answers page sits after the book and before the contact form, and no word is broken at a line end anywhere (site, PDF and EPUB). The text is the same as v5.14.4; the README now describes the book as it is
+
+
 ## 5.14.4 (2026-11-02)
 
 - FAQ, at Alex's word: the skip-a-meditation answer now opens on how outer discipline helps build inner discipline, and says what the extra attention is: trying to understand what the person is going through, since old hurts come up and someone who is hurting may not tell anybody and may stop coming or shut off, a very honest signal that a personal conversation is needed; the cult answer says why his friends and family joked: he had been talking to them about spirituality for about eight years before he met Genadiy, so it was a natural next step and nobody was very surprised

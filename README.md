@@ -1,16 +1,16 @@
 # Magnum opus
 
-An essay in three parts by Alex Satya: **Rational**, **Spiritual**, **Practical**.
+The book "Rational, Spiritual, Practical" by Alex Satya, subtitled "A modern take on the path from micro to macro". It is live at https://boringspirituality.com, and it comes as a PDF and an EPUB in `essay/book/`.
 
-Part one, "Rational", is written. It explains personal growth as two directions, **DO** (making things happen) and **BE** (letting go, and being here), the four rooms you can live in, why the top right is worth the trouble, and why almost nobody stays there. Part two, "Spiritual", is drafted: two ways of reading a life, the axiom that we are one, and what follows from it in the world's religions. The first version of it is kept in `essay/backup/`. Part three is not started.
+It has six chapters. Part zero, "Before you start", says who is talking, what each part is for, and who taught him. Part one, "Rational", explains personal growth as two directions, DO (making things happen) and BE (letting go, and being here), the four rooms you can live in, why the top right is worth the trouble, and why almost nobody stays there. Part two, "Spiritual", reads a life from the axiom that we are one and goes through eight steps that follow from it, each with what the traditions say. The first version of it is kept in `essay/backup/`. Part three, "Practical", gives the eight conditions that make the whole road realistic in one life, each ending with one exercise to try. After the book, "Questions and answers" is about the form of Alex's own life and the school around it, and "Stay in contact" has the contact form.
 
 The essay began as a talk, "Why letting go is a high-agency skill", given on 2026-09-25. Everything that came out of that talk is archived here too.
 
 ## Read it
 
-Open `essay/part-1-rational.html` or `essay/part-2-spiritual.html` in a browser. Each is one self-contained file: the charts are inline SVG, the pictures are inside it, and it follows your light or dark setting. Each release on the [Releases](../../releases) page carries the file for that version.
+Open the pages in `essay/` in a browser, in this order: `part-0-intro.html`, `part-1-rational.html`, `part-2-spiritual.html`, `part-3-practical.html`, `faq.html` and `contact.html`. Each is one self-contained file: the charts are inline SVG, the pictures are inside it, and it follows your light or dark setting. Each release on the [Releases](../../releases) page carries the files for that version.
 
-The text lives in `essay/part-1-rational.md` and `essay/part-2-spiritual.md`.
+The text of each page lives in the `.md` file of the same name.
 
 ## Versions
 
@@ -47,14 +47,14 @@ Needs Python 3 and Pillow.
 
 ```bash
 python essay/prep_images.py   # square portraits from essay/img/raw and the talk deck
-python essay/build_html.py    # writes essay/part-1-rational.html and part-2-spiritual.html
+python essay/build_html.py    # writes all six pages
 ```
 
 ## What is here
 
 | path | what |
 |---|---|
-| `essay/` | the essay: text, page builder, charts (`figs2.py`, `figs3.py`, `figs4.py`), pictures, sources, notes; `essay/backup/` has an earlier version of part two |
+| `essay/` | the book: text, page builder, charts and drawings (`figs2.py` to `figs7.py`), pictures, sources, notes, and `book/` with the PDF and EPUB; `essay/backup/` has an earlier version of part two |
 | `context/` | ideas kept as background for future work, not part of the essay (no version bump needed) |
 | `talk-2026-09-25/structure/` | the talk as given: structure, presenter notes, prep sheet, the life-goal notes |
 | `talk-2026-09-25/recording/` | transcript with timings (the audio itself is not in this repo) |
