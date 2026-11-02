@@ -48,7 +48,7 @@ Nothing special. We're sad when someone goes. Usually they've simply decided thi
 
 If you've ever seen a monk, Buddhist or Christian, someone who took the serious spiritual path in one of the religions, and thought to yourself, I want that too, minus the religion: that's pretty much what I thought and felt when I wanted to become a student of Genadiy.
 
-In practice it means I do the three meditations a day whether I'm at the center or not, just the same. I can't just stop taking part in something because I don't feel like it that day. It's a way of life, and discipline is a big part of it.
+In practice the most important part is the inner one: I've dedicated my life to the spiritual path, and it's my focus every day. That's why I do the three meditations a day whether I'm at the center or not, just the same, and why I can't just stop taking part in something because I don't feel like it that day. It's a way of life, and discipline is a big part of it.
 
 ## What if you skip a meditation?
 
