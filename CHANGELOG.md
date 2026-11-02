@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.9.1 (2026-11-02)
+
+- Keep the 8 sharper edits the blind reader test backed; put back the 8 that lost (superior lines, cut honest limits); clearer 'good teacher from a bad one'
+
+
 ## 5.9.0 (2026-11-02)
 
 - Sharper draft: 16 edits that restore cut lines from the talk and earlier versions and drop cushions (draft for Alex, not for merge yet)
