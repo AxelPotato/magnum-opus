@@ -230,9 +230,9 @@ You can check which way you're moving at any time. How many options do you see r
 
 ## Zoom out
 
-One correction before this part ends. I told you the top right corner is the peak, 100 and 100. It is the peak of this chart, and I believe this chart is a small part of a much bigger map.
+One correction before this part ends. I told you the top right corner is the peak, 100 and 100. It is the peak of this chart, and this chart is a small part of a much bigger map.
 
-Zoom out by ten, and the whole square we've been using shrinks to a small gray box in the bottom left of something a thousand by a thousand: a million, instead of ten thousand. A person can grow into all of that area. I like the plain term for it: full human potential.
+Zoom out by ten, and the whole square we've been using shrinks to a small box in the bottom left of something a thousand by a thousand: a million, instead of ten thousand. A person can grow into all of that area. I like the plain term for it: full human potential.
 
 What lies past the small square gets mystical fast, so I'll leave it there for this part.
 

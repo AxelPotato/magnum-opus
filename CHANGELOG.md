@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 5.7.3 (2026-11-01)
+
+- Zoom out: state plainly that the chart is a small part of a bigger map (no 'I believe'); 'a small box', not 'a small gray box' (Part one and the Part three opening)
+
+
 ## 5.7.2 (2026-11-01)
 
 - Book downloads come from the site (/book/...) instead of GitHub
