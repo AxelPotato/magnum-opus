@@ -316,7 +316,7 @@ def rules2a():
 
 def rules0():
     return {
-        'Everything in this book rests on what I learned': dict(after=figure(
+        'I studied many traditions on my own': dict(after=figure(
             f'<img class="pic" src="{uri("teacher")}" width="720" height="900" loading="lazy" '
             'alt="Two men standing side by side outdoors, the author and his teacher, Genadiy Givin">',
             'My teacher, Genadiy Givin, and I.', 'photo')),
