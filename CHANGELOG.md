@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.1.1 (2026-11-03)
+
+- FAQ, humanizer pass on the new answer: it opens with "We, Genadiy's students, have a strict policy: none of the three is allowed for us" instead of repeating the question's three words, closer to Alex's own "it is not allowed for us"
+
+
 ## 6.1.0 (2026-11-03)
 
 - FAQ, at Alex's word: a new question, What about alcohol, drugs and cigarettes?, before the one on skipping a meditation. Genadiy's students have a strict policy against all three, mainly because they interfere with letting go and harm health; then Alex's own story (no drugs, a few cigarettes to try, a father who smoked a lot, a nice amount of drinking until 21, freedom against dependence, plants of power not the path) and credit to drug experiences and ayahuasca retreats for opening many people to spirituality, and to the recent research on psychoactive substances and depression
