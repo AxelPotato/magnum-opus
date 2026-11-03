@@ -70,13 +70,11 @@ One caution, since the outer goals can turn on you. Results are how you check th
 
 ## 3. Discipline
 
-Part two's step 2 ended on a pull that only goes one way. Do nothing in particular and you end up a little more separate every year, because settings that were lowered stay lowered. A pull that never takes a day off can only be matched by something that doesn't take one either, and that is discipline. Every other condition in this part leans on it, and so does anything else that matters in life. The decision is the yes, and discipline keeps it true on the days when the wanting is quiet.
-
-By discipline I mean something plain: doing what you decided to do after the mood for it has passed. Part one gave a boring test for DO, how well you follow up on your words, and discipline is the same test applied to the words you give yourself. The work is on habits of mind and body, and habits were built by repetition, so repetition is also how they change. Daily practice, from the next section, is a good place to meet it: five minutes that happen because they were planned.
-
-Discipline grows from the outside in. A fixed time for practice and a meeting that is on the calendar are the outside, and keeping them is something you can do even on a day when you don't feel like it. After a while you see what they give you, and the keeping starts to come from you. That is inner discipline, the strength to carry out what you decided, and it is built the way a muscle is, by use, every day and in small things.
+Part two's step 2 ended on a pull that only goes one way: do nothing in particular and you end up a little more separate every year. A pull that never takes a day off can only be matched by something that doesn't take one either, and that is discipline, doing what you decided to do after the mood for it has passed. The decision is the yes, and discipline keeps it true on the days when the wanting is quiet.
 
 Keep it light, and keep it yours: a demand you make on yourself, in a friendly tone. Gritting your teeth through practice adds tension, which is the very thing practice is there to remove, so keep the frame small enough to hold without a fight. Five minutes every day is a frame you can keep, and a frame you keep teaches your mind that you can trust your own word. When a day slips, pick it up the next day without a speech about it.
+
+It grows from the outside in. A fixed time and a meeting on the calendar are the outside, and you can keep them even on a day when you don't feel like it. After a while you see what they give you, and the keeping starts to come from you.
 
 Without discipline, direction follows mood, and mood brings back the swing from Part one.
 

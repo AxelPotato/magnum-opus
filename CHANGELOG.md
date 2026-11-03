@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.8.0 (2026-11-03)
+
+- Part three, Discipline, shorter at Alex's word (about 370 to 230 words): the definition joins the opening, Keep it light comes second, outside in is cut to three sentences; dropped the habits and repetition lines, the DO test link and the muscle line, which the six readers skimmed as familiar.
+
+
 ## 6.7.3 (2026-11-03)
 
 - FAQ, at Alex's word: the cult joke is back (If it is a cult, it's a badly run one. I've just written a whole book without inviting you to join it), with That last part is serious.
