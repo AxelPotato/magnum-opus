@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.12.0 (2026-11-03)
+
+- At Alex's word: the cost line leaves Part zero, and its friends with partners and kids join his relationships example in Part two, step 3; Who taught me rewritten in his voice with the same facts (Riga, the technical university, the teenager who met people with something he didn't, ordinary people without titles, adapted to the 21st century).
+
+
 ## 6.11.0 (2026-11-03)
 
 - Part zero's opening rethought at Alex's word (about 535 to 365 words): cyber security only, no teen questions, computer years or unusual life; the minus the religion monk line is its own paragraph; the overview of the parts keeps its strongest lines (rolls their eyes, written with you in mind, still use the rest, start alone tonight) and drops the rest.
