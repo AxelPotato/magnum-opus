@@ -20,6 +20,10 @@ Paradanta is the project of Genadiy's students themselves. We are its members, a
 
 Because it's a school, and its students are learning to live in a very different way. Letting go of the ideas we have about ourselves is a very big challenge. A lot of it comes with pain, as old hurts come up and you let them go, and that doesn't always look nice while it's coming out of you. It takes a place with people who honestly understand what you are going through and won't judge you for it, and that's what our centers are for. Once someone has been through it, they don't need to be in the center as much, and they can spend more of their time traveling and sharing it with the world.
 
+## Do you have to move into a center to go deeper?
+
+For a period, yes. In the context of our method, the conditions for deep change only really exist in the centers. But people can start with just a community in their region that meets once a week, and that's already a big change. And anyone can begin by meeting people online and going from there.
+
 ## What is a neo-monastery?
 
 Put plainly, it's a place where the whole day is built around one clear goal, or reason: to return to unity, to awaken. Everything there is arranged to make that journey as effective as it can be.
@@ -43,6 +47,14 @@ The one in Riga belongs to one of our students, who bought it for the school to 
 ## What happens when someone leaves?
 
 Nothing special. We're sad when someone goes. Usually they've simply decided this isn't the lifestyle they want, or not right now, and most of them have very good friends here, so they stay in touch. Some former students live close to our center and we see them now and then. Some go and do something else, maybe a project of their own, and we stay friends. Some stay in our online circles, because that path suits them better for now, and that's fine. Some come back. Very rarely someone leaves with bad feelings. I don't think it has happened in the last few years, but I do remember cases from before.
+
+## How do you tell a good teacher from one who would use you?
+
+In many cases something in us decides, or trusts, before the mind knows why. So each person has to make up their own mind about it.
+
+I'm a practical person, and I evaluate my teacher by one thing: the people who put what he teaches into practice. Do they resonate with me? Do I want to be in their presence? Do I feel they change in a good way as a result of his teaching? That's because if a person really is much more developed than I am, I have no way of judging them, whether I like it or not. All I can see is the impact their being has on others.
+
+Don't be tempted to judge teachers, or anyone else, by social norms and the like. Always evaluate them by what you really, genuinely care about. My teacher can sometimes say something too harshly, or give a different answer from the one I hoped to get. He can also offend someone without meaning to, and when he thinks he might have, he always says sorry.
 
 ## What does "modern monk" mean for you?
 

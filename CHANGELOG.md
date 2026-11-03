@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.2.0 (2026-11-03)
+
+- FAQ, at Alex's word: two new questions in Alex's own words. Do you have to move into a center to go deeper? (after Why live together?): for a period, yes, since in this method the conditions for deep change only really exist in the centers, while a weekly community in your region is already a big change and anyone can begin online. How do you tell a good teacher from one who would use you? (after What happens when someone leaves?): something in us decides or trusts before the mind knows why; Alex judges by the people who put the teaching into practice and the impact on them, since nobody can judge someone much further along; judge by what you genuinely care about and not by social norms; the teacher can be too harsh or answer differently from what you hoped, and says sorry when he thinks he may have offended
+
+
 ## 6.1.1 (2026-11-03)
 
 - FAQ, humanizer pass on the new answer: it opens with "We, Genadiy's students, have a strict policy: none of the three is allowed for us" instead of repeating the question's three words, closer to Alex's own "it is not allowed for us"
