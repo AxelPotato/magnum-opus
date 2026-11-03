@@ -34,14 +34,6 @@ The one in Riga belongs to one of our students, who bought it for the school to 
 
 Nothing special. We're sad when someone goes. Usually they've simply decided this isn't the lifestyle they want, or not right now, and most of them have very good friends here, so they stay in touch. Some former students live close to our center and we see them now and then. Some go and do something else, maybe a project of their own, and we stay friends. Some stay in our online circles, because that path suits them better for now, and that's fine. Some come back. Very rarely someone leaves with bad feelings. I don't think it has happened in the last few years, but I do remember cases from before.
 
-## How do you tell a good teacher from one who would use you?
-
-In many cases something in us decides, or trusts, before the mind knows why. So each person has to make up their own mind about it.
-
-I'm a practical person, and I evaluate my teacher by one thing: the people who put what he teaches into practice. Do they resonate with me? Do I want to be in their presence? Do I feel they change in a good way as a result of his teaching?
-
-As always, just being a decent person is a good starting point, and that goes for teachers too.
-
 ## What does "modern monk" mean for you?
 
 If you've ever seen a monk, Buddhist or Christian, someone who took the serious spiritual path in one of the religions, and thought to yourself, I want that too, minus the religion: that's pretty much what I thought and felt when I wanted to become a student of Genadiy.
