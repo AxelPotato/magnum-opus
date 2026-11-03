@@ -26,18 +26,6 @@ We live together because it's a school, and its students are learning to live in
 
 Once someone has been through it, they don't need to be in the center as much, and they can spend more of their time traveling and sharing it with the world. I've been traveling a lot for more than a year now, and the center is still my home, my base of operations.
 
-## Do you have to move into a center?
-
-The centers are for people who resonate with our project and wish to contribute to it, and who want to go through their own process of development as part of our team. It's just part of our method, and you can take it or leave it.
-
-It's not the only way in the world, either. There are plenty of monasteries and communities around the world, and each person finds what they're looking for. We're also building new centers in different places, so that it's easier for people in other parts of the world to take part.
-
-A stay can last anything from a few months to years, depending on what the person wishes. Each student is absolutely individual in what they want and need.
-
-## What are you working on now?
-
-I'm helping to build something that lets other people go through the same journey I'm on in much less time than it took me: a more mature and complete way of learning it, and new centers where people can go through this process. Building it makes me very happy, and I'm still as much a student as anybody else here.
-
 ## Who owns the centers, and who pays for them?
 
 The one in Riga belongs to one of our students, who bought it for the school to use. The one in Sochi belongs to a cooperative we use to pay our common expenses. Every month all of us pay a share that covers running the center, the food and everything else. Genadiy owns literally nothing and makes no money out of any of this.
@@ -50,7 +38,7 @@ Nothing special. We're sad when someone goes. Usually they've simply decided thi
 
 In many cases something in us decides, or trusts, before the mind knows why. So each person has to make up their own mind about it.
 
-I'm a practical person, and I evaluate my teacher by one thing: the people who put what he teaches into practice. Do they resonate with me? Do I want to be in their presence? Do I feel they change in a good way as a result of his teaching? That's because if a person really is much more developed than I am, I have no way of judging them, whether I like it or not. All I can see is the impact their being has on others.
+I'm a practical person, and I evaluate my teacher by one thing: the people who put what he teaches into practice. Do they resonate with me? Do I want to be in their presence? Do I feel they change in a good way as a result of his teaching?
 
 As always, just being a decent person is a good starting point, and that goes for teachers too.
 
@@ -58,7 +46,7 @@ As always, just being a decent person is a good starting point, and that goes fo
 
 If you've ever seen a monk, Buddhist or Christian, someone who took the serious spiritual path in one of the religions, and thought to yourself, I want that too, minus the religion: that's pretty much what I thought and felt when I wanted to become a student of Genadiy.
 
-In practice the most important part is the inner one: I've dedicated my life to the spiritual path, and it's my focus every day. That's why I do the three meditations a day whether I'm at the center or not, just the same. It's a way of life, and discipline is a big part of it.
+In practice the most important part is the inner one: I've dedicated my life to the spiritual path, and it's my focus every day. That's why I do the three meditations a day whether I'm at the center or not, just the same, and why I can't just stop taking part in something because I don't feel like it that day. It's a way of life, and discipline is a big part of it.
 
 ## What about alcohol, drugs and cigarettes?
 

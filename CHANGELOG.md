@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.4.0 (2026-11-03)
+
+- FAQ, at Alex's word after the second six-reader read: the answers Do you have to move into a center? and What are you working on now? are cut. The teacher answer loses the line all six readers struck (I have no way of judging them, whether I like it or not) and the sentence that leaned on it, so its middle paragraph ends on the three questions. The modern monk answer gets back its clause about not stopping because I don't feel like it that day.
+
+
 ## 6.3.0 (2026-11-03)
 
 - FAQ, at Alex's word after the six-reader read of 6.2.0. How do you tell a good teacher: the social norms paragraph is gone, and the answer ends on being a decent person as a good starting point, for teachers too. Do you have to move into a center? (was: to go deeper) is rewritten in his words: the centers are for people who resonate with the project and wish to contribute and to go through their development as part of the team; part of the method, take it or leave it; not the only way in the world, with plenty of monasteries and communities; new centers being built in other places; a stay lasts from a few months to years; each student is individual. The neo-monastery answer is folded into What is Paradanta?, and Who lives there? into Why live together?, now Who lives in the centers, and why? The answers on the daily work and on skipping a meditation are removed, with the echo of the second in the modern monk answer. The alcohol answer drops its last sentence. The Oracle line stays out.
