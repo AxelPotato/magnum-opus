@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.6.2 (2026-11-03)
+
+- FAQ, at Alex's word: What is Paradanta? now says how someone becomes a member: all our members went through all the steps of the Giving School system, and once they had finished them, decided they wanted to take a more active part in our project.
+
+
 ## 6.6.1 (2026-11-03)
 
 - FAQ, at Alex's word: What is Giving School? drops the line that in English we don't have all the introductory courses and retreats yet, and says instead that he is one of its instructors and has dedicated his time to making it more available in English.

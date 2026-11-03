@@ -16,7 +16,7 @@ It's the way we, Genadiy's students, share our experience, his knowledge, the pr
 
 It's the project of Genadiy's students themselves, and we are its members. This is where the neo-monastic way of life comes in. Put plainly, a neo-monastery is a place where the whole day is built around one clear goal: to awaken.
 
-It all starts with a very clear decision: yes, in this lifetime I want to answer the questions of who I am and why I'm here. The people who make that decision are willing to make a serious effort for it. We live together, in centers, and a stay can last anything from a few months to years, depending on what the person wishes.
+It all starts with a very clear decision: yes, in this lifetime I want to answer the questions of who I am and why I'm here. The people who make that decision are willing to make a serious effort for it. All our members went through all the steps of the Giving School system, and once they had finished them, decided they wanted to take a more active part in our project. We live together, in centers, and a stay can last anything from a few months to years, depending on what the person wishes.
 
 ## Who lives in the centers, and why?
 
