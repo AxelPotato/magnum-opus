@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.6.1 (2026-11-03)
+
+- FAQ, at Alex's word: What is Giving School? drops the line that in English we don't have all the introductory courses and retreats yet, and says instead that he is one of its instructors and has dedicated his time to making it more available in English.
+
+
 ## 6.6.0 (2026-11-03)
 
 - FAQ, at Alex's word: the answer How do you tell a good teacher from one who would use you? is removed, since he can't answer it for readers on this page yet.

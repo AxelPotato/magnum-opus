@@ -10,7 +10,7 @@ That last part is serious. I'm not inviting anybody to become a student of Genad
 
 ## What is Giving School?
 
-It's the way we, Genadiy's students, share our experience, his knowledge, the practices and the method with anyone who wants them. Some of it is online and some of it is retreats, offline, and you take part as much as you want. I'm one of its instructors. In English we don't have all the introductory courses and retreats yet.
+It's the way we, Genadiy's students, share our experience, his knowledge, the practices and the method with anyone who wants them. Some of it is online and some of it is retreats, offline, and you take part as much as you want. I'm one of its instructors, and I've dedicated my time to making it more available in English.
 
 ## What is Paradanta?
 
