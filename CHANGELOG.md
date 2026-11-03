@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.6.6 (2026-11-03)
+
+- FAQ, at Alex's word: the question What about alcohol, drugs and cigarettes? is now What is your opinion on substance use?
+
+
 ## 6.6.5 (2026-11-03)
 
 - FAQ, at Alex's word after the six readers read 6.6.4 in place: Who owns the centers drops the sentence that Genadiy owns literally nothing and makes no money out of any of this (struck by three readers), and Who lives in the centers drops fewer than 150 people, so the number is given once, in What is Paradanta?

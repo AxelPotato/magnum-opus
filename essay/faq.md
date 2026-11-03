@@ -40,7 +40,7 @@ If you've ever seen a monk, Buddhist or Christian, someone who took the serious 
 
 In practice the most important part is the inner one: I've dedicated my life to the spiritual path, and it's my focus every day. That's why I do the three meditations a day whether I'm at the center or not, just the same, and why I can't just stop taking part in something because I don't feel like it that day. It's a way of life, and discipline is a big part of it.
 
-## What about alcohol, drugs and cigarettes?
+## What is your opinion on substance use?
 
 We, Genadiy's students, have a strict policy: none of the three is allowed for us. Mainly because they interfere with letting go of the many inner programs and processes that run in us, which is delicate enough already, and because they have a big negative effect on our health.
 
