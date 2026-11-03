@@ -1,6 +1,6 @@
 # Part zero: Before you start
 
-I'm Alex. In my teens I had a lot of questions: why things are the way they are, and why I am the way I am. Over time those questions led to a spiritual search. I have worked with computers for about ten years, eight of them in cyber security, which I still do. My spiritual journey is much longer, more than fourteen years, and along the way I chose a life most people would call unusual. In many ways I'm a modern monk with a day job, living in a kind of neo-monastery.
+I'm Alex. In my teens I had a lot of questions: why things are the way they are, and why I am the way I am. Over time those questions led to a spiritual search. I have worked with computers for about ten years, eight of them in cyber security, which I still do. My spiritual journey is much longer, more than fourteen years, and along the way I chose a life most people would call unusual. In many ways I'm a modern monk with a day job, living in a kind of neo-monastery. If you've ever seen a monk, Buddhist or Christian, someone who took the serious spiritual path in one of the religions, and thought to yourself, I want that too, minus the religion: that's pretty much what I thought and felt when I chose this life.
 
 That choice cost me a more standard life. Most of the friends I grew up with, and I'm still friends with them, have a partner, and some have kids. I don't, because I can't say that's what I want.
 

@@ -76,6 +76,8 @@ Keep it light, and keep it yours: a demand you make on yourself, in a friendly t
 
 It grows from the outside in. A fixed time and a meeting on the calendar are the outside, and you can keep them even on a day when you don't feel like it. After a while you see what they give you, and the keeping starts to come from you.
 
+For me it looks like this. I've dedicated my life to the spiritual path, and it's my focus every day. That's why I do the three meditations a day whether I'm at the center or not, just the same, and why I can't just stop taking part in something because I don't feel like it that day. It's a way of life, and discipline is a big part of it.
+
 Without discipline, direction follows mood, and mood brings back the swing from Part one.
 
 #### One promise, and the bargain
