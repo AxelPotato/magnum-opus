@@ -10,11 +10,11 @@ That last part is serious. I'm not inviting anybody to become a student of Genad
 
 ## What is Giving School?
 
-It's the way we, Genadiy's students, share our experience, his knowledge, the practices and the method with anyone who wants them. Some of it is online and some of it is retreats, offline, and you take part as much as you want. I'm one of its instructors, and I've dedicated my time to making it more available in English.
+It's the way we, Genadiy's students, share our experience, his knowledge, the practices and the method with anyone who wants them. Some of it is online and some of it is retreats, offline, and you take part as much as you want. From what we can tell, about 50,000 people have gone through its different courses and events. I'm one of its instructors, and I've dedicated my time to making it more available in English.
 
 ## What is Paradanta?
 
-It's the project of Genadiy's students themselves, and we are its members. This is where the neo-monastic way of life comes in. Put plainly, a neo-monastery is a place where the whole day is built around one clear goal: to awaken.
+It's the project of Genadiy's students themselves, and we are its members, fewer than 150 of us. This is where the neo-monastic way of life comes in. Put plainly, a neo-monastery is a place where the whole day is built around one clear goal: to awaken.
 
 It all starts with a very clear decision: yes, in this lifetime I want to answer the questions of who I am and why I'm here. The people who make that decision are willing to make a serious effort for it. We live together, in centers, and a stay can last anything from a few months to years, depending on what the person wishes.
 

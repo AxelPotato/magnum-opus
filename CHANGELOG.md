@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.6.4 (2026-11-03)
+
+- FAQ, at Alex's word: numbers. What is Giving School? says that from what we can tell, about 50,000 people have gone through its different courses and events, and What is Paradanta? that we, its members, are fewer than 150.
+
+
 ## 6.6.3 (2026-11-03)
 
 - FAQ, at Alex's word after the six readers read 6.6.2 in place: the membership line in What is Paradanta? is taken back out (all six read it as a ladder from Giving School into the center), so the answer is the 6.6.1 text again.
