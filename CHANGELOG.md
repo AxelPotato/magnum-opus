@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.1.0 (2026-11-03)
+
+- FAQ, at Alex's word: a new question, What about alcohol, drugs and cigarettes?, before the one on skipping a meditation. Genadiy's students have a strict policy against all three, mainly because they interfere with letting go and harm health; then Alex's own story (no drugs, a few cigarettes to try, a father who smoked a lot, a nice amount of drinking until 21, freedom against dependence, plants of power not the path) and credit to drug experiences and ayahuasca retreats for opening many people to spirituality, and to the recent research on psychoactive substances and depression
+
+
 ## 6.0.0 (2026-11-02)
 
 - Version 6.0.0, at Alex's word: the sharper book goes out as a new major version. Four blind rounds with six readers sharpened the voice in every part, a whole new Questions and answers page sits after the book and before the contact form, and no word is broken at a line end anywhere (site, PDF and EPUB). The text is the same as v5.14.4; the README now describes the book as it is

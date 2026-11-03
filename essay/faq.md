@@ -50,6 +50,14 @@ If you've ever seen a monk, Buddhist or Christian, someone who took the serious 
 
 In practice the most important part is the inner one: I've dedicated my life to the spiritual path, and it's my focus every day. That's why I do the three meditations a day whether I'm at the center or not, just the same, and why I can't just stop taking part in something because I don't feel like it that day. It's a way of life, and discipline is a big part of it.
 
+## What about alcohol, drugs and cigarettes?
+
+Genadiy's students have a strict policy on alcohol, drugs and cigarettes: they're not allowed for us. Mainly because they interfere with letting go of the many inner programs and processes that run in us, which is delicate enough already, and because they have a big negative effect on our health.
+
+On a more personal note, I never did drugs, and I never smoked, apart from a few cigarettes to try it. I've had a strong position on both since early childhood, because my father smoked a lot and I didn't like it. I did drink a nice amount, though, until I was 21, and after that it went down so much that it became almost irrelevant to my life. I'm a firm believer in freedom, and to me being dependent on a substance goes against that on a basic level, so I never liked the idea. Once my spiritual journey began, it was clear to me that plants of power and other substances weren't my path.
+
+At the same time, I have to give them credit. A huge number of people would never have opened up to the idea of spirituality at all if not for an experience with drugs, or an ayahuasca retreat, for example. So they definitely have their place, and I don't close them off, especially with the recent studies on using psychoactive substances in dealing with depression and the like. I'm far from an expert, but I've read some exciting research on the subject.
+
 ## What if you skip a meditation?
 
 I really like talking about this one, because it's about how outer discipline helps build inner discipline. Hardly anyone arrives at the center with great inner discipline. It's something we train, and a bit of outer discipline helps it grow. So at the center we keep track of who comes.
