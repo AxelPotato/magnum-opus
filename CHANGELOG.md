@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.11.0 (2026-11-03)
+
+- Part zero's opening rethought at Alex's word (about 535 to 365 words): cyber security only, no teen questions, computer years or unusual life; the minus the religion monk line is its own paragraph; the overview of the parts keeps its strongest lines (rolls their eyes, written with you in mind, still use the rest, start alone tonight) and drops the rest.
+
+
 ## 6.10.0 (2026-11-03)
 
 - The modern monk answer moves from the FAQ into the book at Alex's word: its first paragraph (I want that too, minus the religion) joins Part zero after the monk line, its second (daily dedication, three meditations a day, discipline as a way of life) joins Part three, Discipline. The FAQ has six questions.
