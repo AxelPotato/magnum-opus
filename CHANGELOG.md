@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.3.0 (2026-11-03)
+
+- FAQ, at Alex's word after the six-reader read of 6.2.0. How do you tell a good teacher: the social norms paragraph is gone, and the answer ends on being a decent person as a good starting point, for teachers too. Do you have to move into a center? (was: to go deeper) is rewritten in his words: the centers are for people who resonate with the project and wish to contribute and to go through their development as part of the team; part of the method, take it or leave it; not the only way in the world, with plenty of monasteries and communities; new centers being built in other places; a stay lasts from a few months to years; each student is individual. The neo-monastery answer is folded into What is Paradanta?, and Who lives there? into Why live together?, now Who lives in the centers, and why? The answers on the daily work and on skipping a meditation are removed, with the echo of the second in the modern monk answer. The alcohol answer drops its last sentence. The Oracle line stays out.
+
+
 ## 6.2.0 (2026-11-03)
 
 - FAQ, at Alex's word: two new questions in Alex's own words. Do you have to move into a center to go deeper? (after Why live together?): for a period, yes, since in this method the conditions for deep change only really exist in the centers, while a weekly community in your region is already a big change and anyone can begin online. How do you tell a good teacher from one who would use you? (after What happens when someone leaves?): something in us decides or trusts before the mind knows why; Alex judges by the people who put the teaching into practice and the impact on them, since nobody can judge someone much further along; judge by what you genuinely care about and not by social norms; the teacher can be too harsh or answer differently from what you hoped, and says sorry when he thinks he may have offended
