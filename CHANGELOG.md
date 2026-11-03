@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.7.1 (2026-11-03)
+
+- FAQ, at Alex's word: Is this a cult? drops the joke If it is a cult, it's a badly run one. I've just written a whole book without inviting you to join it, and with it That last part is serious, which leaned on it.
+
+
 ## 6.7.0 (2026-11-03)
 
 - FAQ, at Alex's word: the answer Who owns the centers, and who pays for them? is removed, so the page has seven questions.
