@@ -38,7 +38,7 @@ In practice the most important part is the inner one: I've dedicated my life to 
 
 ## What is your opinion on substance use?
 
-We, Genadiy's students, have a strict policy: none of the three is allowed for us. Mainly because they interfere with letting go of the many inner programs and processes that run in us, which is delicate enough already, and because they have a big negative effect on our health.
+We, Genadiy's students, have a strict policy: alcohol, drugs and cigarettes aren't allowed for us. Mainly because they interfere with letting go of the many inner programs and processes that run in us, which is delicate enough already, and because they have a big negative effect on our health.
 
 On a more personal note, I never did drugs, and I never smoked, apart from a few cigarettes to try it. I've had a strong position on both since early childhood, because my father smoked a lot and I didn't like it. I did drink a nice amount, though, until I was 21, and after that it went down so much that it became almost irrelevant to my life. I'm a firm believer in freedom, and to me being dependent on a substance goes against that on a basic level, so I never liked the idea. Once my spiritual journey began, it was clear to me that plants of power and other substances weren't my path.
 
