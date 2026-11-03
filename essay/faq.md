@@ -10,35 +10,21 @@ That last part is serious. I'm not inviting anybody to become a student of Genad
 
 ## What is Giving School?
 
-It's the way we, Genadiy's students, share our experience, his knowledge, the practices and the method with pretty much anyone, in any kind of life, pretty much anywhere in the world. Some of it is online and some of it is retreats, offline. You take part as much as you want, at your own pace.
+It's the way we, Genadiy's students, share our experience, his knowledge, the practices and the method with anyone who wants them. Some of it is online and some of it is retreats, offline, and you take part as much as you want. From what we can tell, about 50,000 people have gone through its different courses and events. I'm one of its instructors, and I've dedicated my time to making it more available in English.
 
 ## What is Paradanta?
 
-Paradanta is the project of Genadiy's students themselves. We are its members, and we like to call ourselves residents, though the word doesn't matter. This is where the neo-monastic way of life comes in. It starts with a very clear decision: yes, in this lifetime I want the highest freedom from all of my limitations. I want to come to unity and answer the questions of who I am and why I'm here. The people who make that decision are willing to make a serious effort, they want to walk the path of freedom as fast as they can, in this lifetime, and they want to share it with others as part of their own journey. And we live together, in centers.
+It's the project of Genadiy's students themselves, and we are its members, fewer than 150 of us. This is where the neo-monastic way of life comes in. Put plainly, a neo-monastery is a place where the whole day is built around one clear goal: to awaken.
 
-## Why live together?
+It all starts with a very clear decision: yes, in this lifetime I want to answer the questions of who I am and why I'm here. The people who make that decision are willing to make a serious effort for it. We live together, in centers, and a stay can last anything from a few months to years, depending on what the person wishes.
 
-Because it's a school, and its students are learning to live in a very different way. Letting go of the ideas we have about ourselves is a very big challenge. A lot of it comes with pain, as old hurts come up and you let them go, and that doesn't always look nice while it's coming out of you. It takes a place with people who honestly understand what you are going through and won't judge you for it, and that's what our centers are for. Once someone has been through it, they don't need to be in the center as much, and they can spend more of their time traveling and sharing it with the world.
+## Who lives in the centers, and why?
 
-## What is a neo-monastery?
+Genadiy lives there, and so do we, his students. There are two centers, one in Sochi, where Genadiy lives, and one in Riga. Our day is shaped by three meditative practices and the daily work we do.
 
-Put plainly, it's a place where the whole day is built around one clear goal, or reason: to return to unity, to awaken. Everything there is arranged to make that journey as effective as it can be.
+We live together because it's a school, and its students are learning to live in a very different way. Letting go of the ideas we have about ourselves is a very big challenge. A lot of it comes with pain, as old hurts come up and you let them go, and that doesn't always look nice while it's coming out of you. It takes a place with people who honestly understand what you are going through and won't judge you for it, and that's what our centers are for.
 
-## Who lives there?
-
-Genadiy lives there, and so do we, his students. There are two centers, one in Sochi, where Genadiy lives, and one in Riga, and in total fewer than 150 people live in them. Our day is shaped by three meditative practices and the daily work we do. I've been traveling a lot for more than a year now, and it's still my home, my base of operations.
-
-## What is the daily work?
-
-Part of it is my own job, and part of it is work for the school. For the school I do management, leading my team, and I'm an instructor. We all take turns on duties like cleaning and cooking, because nobody else is there to do them, and that's part of living together. The rest is projects we see can help, a lot of them for Giving School. Whether you're a student at all is your own choice, and so is how you can be most useful, because only you really know how you can be at your best. Some of us have built businesses of their own and put part of what they earn into promoting the school, and that's literally their own business. Someone who cooks for the team is part of that work too, because the instructors who lead a course rely on that help.
-
-## What are you working on now?
-
-I'm helping to build something that lets other people go through the same journey I'm on in much less time than it took me: a more mature and complete way of learning it, and new centers where people can go through this process. Building it makes me very happy, and I'm still as much a student as anybody else here.
-
-## Who owns the centers, and who pays for them?
-
-The one in Riga belongs to one of our students, who bought it for the school to use. The one in Sochi belongs to a cooperative we use to pay our common expenses. Every month all of us pay a share that covers running the center, the food and everything else. Genadiy owns literally nothing and makes no money out of any of this.
+Once someone has been through it, they don't need to be in the center as much, and they can spend more of their time traveling and sharing it with the world. I've been traveling a lot for more than a year now, and the center is still my home, my base of operations.
 
 ## What happens when someone leaves?
 
@@ -50,8 +36,10 @@ If you've ever seen a monk, Buddhist or Christian, someone who took the serious 
 
 In practice the most important part is the inner one: I've dedicated my life to the spiritual path, and it's my focus every day. That's why I do the three meditations a day whether I'm at the center or not, just the same, and why I can't just stop taking part in something because I don't feel like it that day. It's a way of life, and discipline is a big part of it.
 
-## What if you skip a meditation?
+## What is your opinion on substance use?
 
-I really like talking about this one, because it's about how outer discipline helps build inner discipline. Hardly anyone arrives at the center with great inner discipline. It's something we train, and a bit of outer discipline helps it grow. So at the center we keep track of who comes.
+We, Genadiy's students, have a strict policy: alcohol, drugs and cigarettes aren't allowed for us. Mainly because they interfere with letting go of the many inner programs and processes that run in us, which is delicate enough already, and because they have a big negative effect on our health.
 
-You can miss the morning or the afternoon session when you feel unwell or have something important to do at that time. When it wasn't planned and someone who usually comes suddenly skips, people notice. Nobody gets punished for it. It helps the person see that it's happening at all, and it tells us they may need some extra attention, which means trying to understand what they're going through. All of us have bad periods. As I said, old hurts come up here, and sometimes a person has a hard time with what comes up and doesn't tell anybody, because they're hurting. It can show up as not being able or not wanting to come to practice, or as shutting off. We know that's usually a very honest signal that someone needs a personal conversation, where we ask what's up and support them on a more individual level.
+On a more personal note, I never did drugs, and I never smoked, apart from a few cigarettes to try it. I've had a strong position on both since early childhood, because my father smoked a lot and I didn't like it. I did drink a nice amount, though, until I was 21, and after that it went down so much that it became almost irrelevant to my life. I'm a firm believer in freedom, and to me being dependent on a substance goes against that on a basic level, so I never liked the idea. Once my spiritual journey began, it was clear to me that plants of power and other substances weren't my path.
+
+At the same time, I have to give them credit. A huge number of people would never have opened up to the idea of spirituality at all if not for an experience with drugs, or an ayahuasca retreat, for example. So they definitely have their place, and I don't close them off, especially with the recent studies on using psychoactive substances in dealing with depression and the like.

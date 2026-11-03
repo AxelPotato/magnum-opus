@@ -8,6 +8,101 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.9.0 (2026-11-03)
+
+- Five flat stretches lifted at Alex's picks (1.b 2.a 3.a 4.a 5.a): Part two, Why this idea is worth a closer look ends on judging the idea by what follows; step 5 drops the so-that premise; Energy trades Things work out more often for small things you notice; Part three, Someone further along opens on a few steps and folds the smith and osmosis into one paragraph, the mentor paragraph out; Friends on the path trimmed, with the wish line moved up.
+
+
+## 6.8.0 (2026-11-03)
+
+- Part three, Discipline, shorter at Alex's word (about 370 to 230 words): the definition joins the opening, Keep it light comes second, outside in is cut to three sentences; dropped the habits and repetition lines, the DO test link and the muscle line, which the six readers skimmed as familiar.
+
+
+## 6.7.3 (2026-11-03)
+
+- FAQ, at Alex's word: the cult joke is back (If it is a cult, it's a badly run one. I've just written a whole book without inviting you to join it), with That last part is serious.
+
+
+## 6.7.2 (2026-11-03)
+
+- FAQ: the substance answer names alcohol, drugs and cigarettes in its first sentence, since none of the three lost its list when the question was retitled in 6.6.6.
+
+
+## 6.7.1 (2026-11-03)
+
+- FAQ, at Alex's word: Is this a cult? drops the joke If it is a cult, it's a badly run one. I've just written a whole book without inviting you to join it, and with it That last part is serious, which leaned on it.
+
+
+## 6.7.0 (2026-11-03)
+
+- FAQ, at Alex's word: the answer Who owns the centers, and who pays for them? is removed, so the page has seven questions.
+
+
+## 6.6.6 (2026-11-03)
+
+- FAQ, at Alex's word: the question What about alcohol, drugs and cigarettes? is now What is your opinion on substance use?
+
+
+## 6.6.5 (2026-11-03)
+
+- FAQ, at Alex's word after the six readers read 6.6.4 in place: Who owns the centers drops the sentence that Genadiy owns literally nothing and makes no money out of any of this (struck by three readers), and Who lives in the centers drops fewer than 150 people, so the number is given once, in What is Paradanta?
+
+
+## 6.6.4 (2026-11-03)
+
+- FAQ, at Alex's word: numbers. What is Giving School? says that from what we can tell, about 50,000 people have gone through its different courses and events, and What is Paradanta? that we, its members, are fewer than 150.
+
+
+## 6.6.3 (2026-11-03)
+
+- FAQ, at Alex's word after the six readers read 6.6.2 in place: the membership line in What is Paradanta? is taken back out (all six read it as a ladder from Giving School into the center), so the answer is the 6.6.1 text again.
+
+
+## 6.6.2 (2026-11-03)
+
+- FAQ, at Alex's word: What is Paradanta? now says how someone becomes a member: all our members went through all the steps of the Giving School system, and once they had finished them, decided they wanted to take a more active part in our project.
+
+
+## 6.6.1 (2026-11-03)
+
+- FAQ, at Alex's word: What is Giving School? drops the line that in English we don't have all the introductory courses and retreats yet, and says instead that he is one of its instructors and has dedicated his time to making it more available in English.
+
+
+## 6.6.0 (2026-11-03)
+
+- FAQ, at Alex's word: the answer How do you tell a good teacher from one who would use you? is removed, since he can't answer it for readers on this page yet.
+
+
+## 6.5.0 (2026-11-03)
+
+- FAQ, at Alex's word (improve Giving School and Paradanta, aiming for +1 from most readers): both answers rewritten from his own messages after three blind reads with the six readers. Giving School now says he is one of its instructors and that in English we don't have all the introductory courses and retreats yet, and drops pretty much anyone, pretty much anywhere. Paradanta keeps the plain goal (a day built around one clear goal, to awaken) and the decision to answer who I am and why I'm here, adds that a stay lasts from a few months to years, depending on what the person wishes, and drops residents, the highest freedom, the speed and the line on sharing.
+
+
+## 6.4.0 (2026-11-03)
+
+- FAQ, at Alex's word after the second six-reader read: the answers Do you have to move into a center? and What are you working on now? are cut. The teacher answer loses the line all six readers struck (I have no way of judging them, whether I like it or not) and the sentence that leaned on it, so its middle paragraph ends on the three questions. The modern monk answer gets back its clause about not stopping because I don't feel like it that day.
+
+
+## 6.3.0 (2026-11-03)
+
+- FAQ, at Alex's word after the six-reader read of 6.2.0. How do you tell a good teacher: the social norms paragraph is gone, and the answer ends on being a decent person as a good starting point, for teachers too. Do you have to move into a center? (was: to go deeper) is rewritten in his words: the centers are for people who resonate with the project and wish to contribute and to go through their development as part of the team; part of the method, take it or leave it; not the only way in the world, with plenty of monasteries and communities; new centers being built in other places; a stay lasts from a few months to years; each student is individual. The neo-monastery answer is folded into What is Paradanta?, and Who lives there? into Why live together?, now Who lives in the centers, and why? The answers on the daily work and on skipping a meditation are removed, with the echo of the second in the modern monk answer. The alcohol answer drops its last sentence. The Oracle line stays out.
+
+
+## 6.2.0 (2026-11-03)
+
+- FAQ, at Alex's word: two new questions in Alex's own words. Do you have to move into a center to go deeper? (after Why live together?): for a period, yes, since in this method the conditions for deep change only really exist in the centers, while a weekly community in your region is already a big change and anyone can begin online. How do you tell a good teacher from one who would use you? (after What happens when someone leaves?): something in us decides or trusts before the mind knows why; Alex judges by the people who put the teaching into practice and the impact on them, since nobody can judge someone much further along; judge by what you genuinely care about and not by social norms; the teacher can be too harsh or answer differently from what you hoped, and says sorry when he thinks he may have offended
+
+
+## 6.1.1 (2026-11-03)
+
+- FAQ, humanizer pass on the new answer: it opens with "We, Genadiy's students, have a strict policy: none of the three is allowed for us" instead of repeating the question's three words, closer to Alex's own "it is not allowed for us"
+
+
+## 6.1.0 (2026-11-03)
+
+- FAQ, at Alex's word: a new question, What about alcohol, drugs and cigarettes?, before the one on skipping a meditation. Genadiy's students have a strict policy against all three, mainly because they interfere with letting go and harm health; then Alex's own story (no drugs, a few cigarettes to try, a father who smoked a lot, a nice amount of drinking until 21, freedom against dependence, plants of power not the path) and credit to drug experiences and ayahuasca retreats for opening many people to spirituality, and to the recent research on psychoactive substances and depression
+
+
 ## 6.0.0 (2026-11-02)
 
 - Version 6.0.0, at Alex's word: the sharper book goes out as a new major version. Four blind rounds with six readers sharpened the voice in every part, a whole new Questions and answers page sits after the book and before the contact form, and no word is broken at a line end anywhere (site, PDF and EPUB). The text is the same as v5.14.4; the README now describes the book as it is

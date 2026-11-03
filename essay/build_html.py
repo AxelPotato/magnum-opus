@@ -392,7 +392,7 @@ def rules3():
         'It starts with the people closest to you,': dict(after=figure(F5.JOKES['fig_circles'](), 'It starts with the people closest to you, and the circle widens from there.')),
         'Then we had an enormous fight.': dict(after=figure(F5.fig_lever(), 'The lever was so rusty it barely moved. After about ten minutes it moved.')),
         'When someone harms you, you react': dict(after=figure(F5.fig_samestep(), 'The same step away can be a clear choice or a flinch.')),
-        'This condition matters more now': dict(after=figure(F5.JOKES['fig_weekend'](), 'A strong weekend, on your own and with people you see every week. An illustration, not data.')),
+        'This matters more now than it used to': dict(after=figure(F5.JOKES['fig_weekend'](), 'A strong weekend, on your own and with people you see every week. An illustration, not data.')),
         'There will be moments, plenty of them': dict(after=figure(F5.fig_emotion(), 'Decide nothing while the emotion is there. Look again with a clear head, and take seriously what is still there.')),
         'Stillness is the simplest form of this': dict(after=photo('stillness', 'The author sitting cross-legged with eyes closed, with his team meditating around him', 'Most days I sit like this two or three times. The beard is not part of the method.')),
     }
