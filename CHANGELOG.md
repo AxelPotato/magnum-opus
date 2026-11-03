@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.7.0 (2026-11-03)
+
+- FAQ, at Alex's word: the answer Who owns the centers, and who pays for them? is removed, so the page has seven questions.
+
+
 ## 6.6.6 (2026-11-03)
 
 - FAQ, at Alex's word: the question What about alcohol, drugs and cigarettes? is now What is your opinion on substance use?

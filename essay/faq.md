@@ -26,10 +26,6 @@ We live together because it's a school, and its students are learning to live in
 
 Once someone has been through it, they don't need to be in the center as much, and they can spend more of their time traveling and sharing it with the world. I've been traveling a lot for more than a year now, and the center is still my home, my base of operations.
 
-## Who owns the centers, and who pays for them?
-
-The one in Riga belongs to one of our students, who bought it for the school to use. The one in Sochi belongs to a cooperative we use to pay our common expenses. Every month all of us pay a share that covers running the center, the food and everything else.
-
 ## What happens when someone leaves?
 
 Nothing special. We're sad when someone goes. Usually they've simply decided this isn't the lifestyle they want, or not right now, and most of them have very good friends here, so they stay in touch. Some former students live close to our center and we see them now and then. Some go and do something else, maybe a project of their own, and we stay friends. Some stay in our online circles, because that path suits them better for now, and that's fine. Some come back. Very rarely someone leaves with bad feelings. I don't think it has happened in the last few years, but I do remember cases from before.
