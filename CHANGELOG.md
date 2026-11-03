@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.5.0 (2026-11-03)
+
+- FAQ, at Alex's word (improve Giving School and Paradanta, aiming for +1 from most readers): both answers rewritten from his own messages after three blind reads with the six readers. Giving School now says he is one of its instructors and that in English we don't have all the introductory courses and retreats yet, and drops pretty much anyone, pretty much anywhere. Paradanta keeps the plain goal (a day built around one clear goal, to awaken) and the decision to answer who I am and why I'm here, adds that a stay lasts from a few months to years, depending on what the person wishes, and drops residents, the highest freedom, the speed and the line on sharing.
+
+
 ## 6.4.0 (2026-11-03)
 
 - FAQ, at Alex's word after the second six-reader read: the answers Do you have to move into a center? and What are you working on now? are cut. The teacher answer loses the line all six readers struck (I have no way of judging them, whether I like it or not) and the sentence that leaned on it, so its middle paragraph ends on the three questions. The modern monk answer gets back its clause about not stopping because I don't feel like it that day.

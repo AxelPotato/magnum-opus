@@ -10,13 +10,13 @@ That last part is serious. I'm not inviting anybody to become a student of Genad
 
 ## What is Giving School?
 
-It's the way we, Genadiy's students, share our experience, his knowledge, the practices and the method with pretty much anyone, in any kind of life, pretty much anywhere in the world. Some of it is online and some of it is retreats, offline. You take part as much as you want, at your own pace.
+It's the way we, Genadiy's students, share our experience, his knowledge, the practices and the method with anyone who wants them. Some of it is online and some of it is retreats, offline, and you take part as much as you want. I'm one of its instructors. In English we don't have all the introductory courses and retreats yet.
 
 ## What is Paradanta?
 
-Paradanta is the project of Genadiy's students themselves. We are its members, and we like to call ourselves residents, though the word doesn't matter. This is where the neo-monastic way of life comes in. Put plainly, a neo-monastery is a place where the whole day is built around one clear goal, or reason: to return to unity, to awaken.
+It's the project of Genadiy's students themselves, and we are its members. This is where the neo-monastic way of life comes in. Put plainly, a neo-monastery is a place where the whole day is built around one clear goal: to awaken.
 
-It all starts with a very clear decision: yes, in this lifetime I want the highest freedom from all of my limitations. I want to come to unity and answer the questions of who I am and why I'm here. The people who make that decision are willing to make a serious effort, they want to walk the path of freedom as fast as they can, in this lifetime, and they want to share it with others as part of their own journey. And we live together, in centers.
+It all starts with a very clear decision: yes, in this lifetime I want to answer the questions of who I am and why I'm here. The people who make that decision are willing to make a serious effort for it. We live together, in centers, and a stay can last anything from a few months to years, depending on what the person wishes.
 
 ## Who lives in the centers, and why?
 
