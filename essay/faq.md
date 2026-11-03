@@ -4,9 +4,9 @@ A few questions about my own life and the school around it. They sit here, after
 
 ## Is this a cult?
 
-My friends and my family joked about it a lot at the beginning, because none of them were super surprised by it. I'd already been talking to them about spirituality and things like that for about eight years before I even met Genadiy, so to them it was a natural next step. I think almost every student in our school has heard some version of that joke from a relative or a friend: you moved to God knows where for some meditation stuff, so it's probably a cult. To be fair, I did move, and there is a lot of meditation. We live together and meditate three times a day, so I can see how it looks.
+My friends and my family joked about it a lot at the beginning, because none of them were super surprised by it. I'd already been talking to them about spirituality and things like that for about eight years before I even met Genadiy, so to them it was a natural next step. I think almost every student in our school has heard some version of that joke from a relative or a friend: you moved to God knows where for some meditation stuff, so it's probably a cult. To be fair, I did move, and there is a lot of meditation. We live together and meditate three times a day, so I can see how it looks. If it is a cult, it's a badly run one. I've just written a whole book without inviting you to join it.
 
-I'm not inviting anybody to become a student of Genadiy. There are two different things here, Giving School and Paradanta, and the difference matters.
+That last part is serious. I'm not inviting anybody to become a student of Genadiy. There are two different things here, Giving School and Paradanta, and the difference matters.
 
 ## What is Giving School?
 

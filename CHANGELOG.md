@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.7.3 (2026-11-03)
+
+- FAQ, at Alex's word: the cult joke is back (If it is a cult, it's a badly run one. I've just written a whole book without inviting you to join it), with That last part is serious.
+
+
 ## 6.7.2 (2026-11-03)
 
 - FAQ: the substance answer names alcohol, drugs and cigarettes in its first sentence, since none of the three lost its list when the question was retitled in 6.6.6.
