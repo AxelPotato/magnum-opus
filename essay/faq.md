@@ -20,7 +20,7 @@ It all starts with a very clear decision: yes, in this lifetime I want to answer
 
 ## Who lives in the centers, and why?
 
-Genadiy lives there, and so do we, his students. There are two centers, one in Sochi, where Genadiy lives, and one in Riga, and in total fewer than 150 people live in them. Our day is shaped by three meditative practices and the daily work we do.
+Genadiy lives there, and so do we, his students. There are two centers, one in Sochi, where Genadiy lives, and one in Riga. Our day is shaped by three meditative practices and the daily work we do.
 
 We live together because it's a school, and its students are learning to live in a very different way. Letting go of the ideas we have about ourselves is a very big challenge. A lot of it comes with pain, as old hurts come up and you let them go, and that doesn't always look nice while it's coming out of you. It takes a place with people who honestly understand what you are going through and won't judge you for it, and that's what our centers are for.
 
@@ -28,7 +28,7 @@ Once someone has been through it, they don't need to be in the center as much, a
 
 ## Who owns the centers, and who pays for them?
 
-The one in Riga belongs to one of our students, who bought it for the school to use. The one in Sochi belongs to a cooperative we use to pay our common expenses. Every month all of us pay a share that covers running the center, the food and everything else. Genadiy owns literally nothing and makes no money out of any of this.
+The one in Riga belongs to one of our students, who bought it for the school to use. The one in Sochi belongs to a cooperative we use to pay our common expenses. Every month all of us pay a share that covers running the center, the food and everything else.
 
 ## What happens when someone leaves?
 
