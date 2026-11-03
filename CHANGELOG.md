@@ -8,6 +8,21 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.12.0 (2026-11-03)
+
+- At Alex's word: the cost line leaves Part zero, and its friends with partners and kids join his relationships example in Part two, step 3; Who taught me rewritten in his voice with the same facts (Riga, the technical university, the teenager who met people with something he didn't, ordinary people without titles, adapted to the 21st century).
+
+
+## 6.11.0 (2026-11-03)
+
+- Part zero's opening rethought at Alex's word (about 535 to 365 words): cyber security only, no teen questions, computer years or unusual life; the minus the religion monk line is its own paragraph; the overview of the parts keeps its strongest lines (rolls their eyes, written with you in mind, still use the rest, start alone tonight) and drops the rest.
+
+
+## 6.10.0 (2026-11-03)
+
+- The modern monk answer moves from the FAQ into the book at Alex's word: its first paragraph (I want that too, minus the religion) joins Part zero after the monk line, its second (daily dedication, three meditations a day, discipline as a way of life) joins Part three, Discipline. The FAQ has six questions.
+
+
 ## 6.9.0 (2026-11-03)
 
 - Five flat stretches lifted at Alex's picks (1.b 2.a 3.a 4.a 5.a): Part two, Why this idea is worth a closer look ends on judging the idea by what follows; step 5 drops the so-that premise; Energy trades Things work out more often for small things you notice; Part three, Someone further along opens on a few steps and folds the smith and osmosis into one paragraph, the mentor paragraph out; Friends on the path trimmed, with the wish line moved up.
