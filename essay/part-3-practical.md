@@ -149,9 +149,9 @@ Without the mirror the hooks stay where they are, and it's much harder to use al
 
 ## 7. Friends on the path
 
-Part two said the world is built to be convincing, so that everything you touch agrees that you are in here and the rest is out there. It also said that a cell stays well only while it keeps listening to the signals from its neighbors. So what you are surrounded by matters as much as what you do on your own, and the strongest help you can have is a few people in your life who are working on the same thing.
+Part two said the world is built to be convincing, so that everything you touch agrees that you are in here and the rest is out there, and that a cell stays well only while it keeps listening to its neighbors. So what you are surrounded by matters as much as what you do on your own, and the strongest help you can have is a few people in your life who are working on the same thing. On your own the wish dies down faster.
 
-This condition matters more now than it used to, and the 21st century turned the convincing world up. Most of us grew up in a world that is always offering us something new and telling us that a good life means getting what you want, and we have been soaking in it every year of our lives. Even a cave doesn't quite undo that, because you carry it in with you. Some people did go to caves in the past, but they walked out of a much quieter world than ours. So the help has to be ongoing too, people you see every week who want the same thing you do. Most of us have come home from a retreat or a strong weekend lit up, and within a couple of weeks our old habits had quietly put most of it back. A state can change in a day. A way of living changes when the people around you keep pointing the same way, week after week. None of this is new. The Buddhist sangha, the Hindu ashram and the Christian monastery were all built for exactly this.
+This matters more now than it used to. Most of us grew up in a world that is always offering something new and telling us that a good life means getting what you want, and even a cave doesn't quite undo that, because you carry it in with you. A state can change in a day. A way of living changes when the people around you keep pointing the same way, week after week, which is what the Buddhist sangha, the Hindu ashram and the Christian monastery were all built for.
 
 #### Built long before us
 
@@ -170,7 +170,7 @@ It comes with conditions. The people have to be aimed at the same thing. Friends
 
 The people also have to want it, and this is where friends on the path meet the wish from section 1. A community multiplies whatever is put into it, and anything times nothing is still nothing, a fact your math teacher would confirm. A group of people who each really want to move gives everyone in it much more than any of them could find alone.
 
-Friends on the path do something for the wish itself, too. On your own it dies down faster. So friends who want the same thing remind each other what they came for, and when your own spark drops, lighting up a friend gets some of it back. The company of people who want the same thing is one of the best things to feed it. Ananda, the Buddha's attendant, once said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it.
+Friends on the path do something for the wish itself, too. Friends who want the same thing remind each other what they came for, and when your own spark drops, lighting up a friend gets some of it back. The company of people who want the same thing is one of the best things to feed it. Ananda, the Buddha's attendant, once said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it.
 
 #### Find one person
 
@@ -181,15 +181,9 @@ Friends on the path do something for the wish itself, too. On your own it dies d
 
 Part two said that a limit you are inside of rarely shows up as a limit. That is true of every one of us, teachers included, the way everyone hears your accent except you. It is also the plain reason people learn faster next to someone who has had more time with what they want. A person a few steps ahead can often name in one sentence a habit you would take years to find alone, and you can check it against your own life the same week.
 
-Think of how someone becomes a blacksmith. There is no syllabus. The apprentice stands next to the smith for years, doing small jobs and watching how long the iron stays in the fire and what the smith does when a piece comes out wrong. After a few years the apprentice can do things nobody ever explained, and if you ask how, they shrug.
+A few steps is the useful distance, close enough that you can see how they got there and far enough that you want what they have. It might be someone in your community who started a few years before you, or someone outside it who has had more time with what you want. You have probably felt a small version of this already: an afternoon with the calmest person you know, and you leave a little calmer without having done anything.
 
-Learning from someone further along works the same way. It runs on personal example, and it is closer to a workshop than to a classroom. Most of what you are learning is hard to put into words anyway: how to stay steady when a plan falls apart, how to say sorry first without making a ceremony of it. You can read about those, and you pick them up by being around someone who does them.
-
-A mentor is simply a person who has had more time to practice what you want. What they say matters less than you would expect, and only a small part of it is telling you what to do or where you are right or wrong. When they do say something, it is short, and it comes from having stood where you are standing.
-
-The biggest effect is that you get to feel what it is like to be a person a few steps ahead: how they sit through a tense meeting, how fast they come back from a bad day. It is one thing to be told that something is possible and another to sit across from someone for whom it is ordinary. You could call it osmosis: nobody sets out to copy anything, and after a while your own reactions have moved toward what you have been around, the way you pick up an accent from a roommate without trying and without the roommate noticing. It is a big part of why people mature much faster with a mentor than alone.
-
-A few steps is the useful distance, close enough that you can see how they got there and far enough that you want what they have. It might be someone in your community who started a few years before you, or someone outside it who has had more time with what you want. You have probably felt a small version of this already: an afternoon with the calmest person you know, and you leave a little calmer without having done anything. Look for that on purpose, and do your own practice in between visits.
+It works the way a blacksmith learns. There is no syllabus. The apprentice stands next to the smith for years, watching how long the iron stays in the fire and what the smith does when a piece comes out wrong, and one day can do things nobody ever explained. Most of what you are learning here is like that: how to stay steady when a plan falls apart, how to say sorry first without making a ceremony of it. You pick it up by being around someone who does it, the way you pick up an accent from a roommate without trying and without the roommate noticing. You could call it osmosis, and it is a big part of why people mature much faster with a mentor than alone. Look for it on purpose, and do your own practice in between visits.
 
 #### Ask for one sentence
 

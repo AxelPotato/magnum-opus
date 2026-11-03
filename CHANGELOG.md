@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.9.0 (2026-11-03)
+
+- Five flat stretches lifted at Alex's picks (1.b 2.a 3.a 4.a 5.a): Part two, Why this idea is worth a closer look ends on judging the idea by what follows; step 5 drops the so-that premise; Energy trades Things work out more often for small things you notice; Part three, Someone further along opens on a few steps and folds the smith and osmosis into one paragraph, the mentor paragraph out; Friends on the path trimmed, with the wish line moved up.
+
+
 ## 6.8.0 (2026-11-03)
 
 - Part three, Discipline, shorter at Alex's word (about 370 to 230 words): the definition joins the opening, Keep it light comes second, outside in is cut to three sentences; dropped the habits and repetition lines, the DO test link and the muscle line, which the six readers skimmed as familiar.

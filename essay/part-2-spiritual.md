@@ -18,7 +18,7 @@ Both of these are assumptions. Nobody has observed that matter is all there is, 
 
 ## Why this idea is worth a closer look
 
-Here's why I think the second view deserves the effort. When traditions in different languages and centuries keep arriving at the same idea, it is worth a closer look. People were saying it long before anyone had a long weekend in the mountains, and something close to it turns up in each of the big religions. Hindu texts say it outright. Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism come at it from another side.
+Here's why I think the second view deserves the effort. People were saying it long before anyone had a long weekend in the mountains, and something close to it turns up in each of the big religions. Hindu texts say it outright. Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism come at it from another side. Agreement alone settles nothing, so the rest of this part does something else with it: it takes the idea as true and shows what follows, and you can judge it by that.
 
 #### The base, tradition by tradition
 
@@ -183,7 +183,7 @@ None of this makes anybody better. Before the turn and after it are two parts of
 
 You have forgotten almost every day you have lived. Try to remember an ordinary afternoon from when you were small, and you get a blur, maybe a face or a smell. Still, the person reading this is made out of those days. Most of the arguments, the lessons and the evenings spent practicing something are gone, and what they left behind is all here: the patience or the lack of it, the fears, the things your hands know how to do. The events went, and what they taught you stayed.
 
-Under the axiom the same holds on the largest scale. The whole goes into separation so that each point of view can bring back something no other could have brought. So the essence of a life, what it learned and what it became, is kept, the way you keep what your forgotten days taught you. Most traditions call it the soul. Buddhism, which denies a fixed self, speaks instead of a stream that carries on.
+Under the axiom the same holds on the largest scale: what a life learned and what it became is kept, the way you keep what your forgotten days taught you. Most traditions call it the soul. Buddhism, which denies a fixed self, speaks instead of a stream that carries on.
 
 That something can't be the body, which stays behind, and it can't be one more separate thing, since there is nothing separate at the bottom. It is the part of you that was never really separate: the whole, at one position, going through the separation and keeping the record. Buddhism holds that there is no fixed soul and still says that something continues, and an old Buddhist dialogue has the image I like most for it: a lamp lit from another lamp, where nothing passes across and the second one still burns. In the machine it is the saved state. The program shuts down, the window closes, and most of the session is gone, while what was worth keeping is written to disk. The photos, the passwords and the browser history stay behind, which honestly is a relief. In the game picture from step 4 it is the level you have reached, which is how two people can walk into the same kind of life at very different levels.
 
@@ -265,7 +265,7 @@ You can check the first half this week. The next time you come home flat, ask wh
 
 Letting go is how the wheel opens. You can't push more water through a mill by gripping the wheel harder, and every bit of guarding you drop is flow you get back. That is why so many traditions describe the way in as a kind of emptying. Hasidim call it bittul, the Sufis fana, Christians kenosis, after Paul's line that Jesus emptied himself, and one of the Buddha's breathing instructions is to breathe while contemplating letting go.
 
-Once more starts coming through, people around you notice. Things work out more often, and you get more done with less effort. The temptation then is to do something impressive with it.
+Once more starts coming through, you notice it first in small things: the evening after a hard day isn't gone, and the talk you dreaded takes less out of you. The temptation then is to do something impressive with it.
 
 #### Miracles, and the warning against them
 
