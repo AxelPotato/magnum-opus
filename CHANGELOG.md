@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.6.3 (2026-11-03)
+
+- FAQ, at Alex's word after the six readers read 6.6.2 in place: the membership line in What is Paradanta? is taken back out (all six read it as a ladder from Giving School into the center), so the answer is the 6.6.1 text again.
+
+
 ## 6.6.2 (2026-11-03)
 
 - FAQ, at Alex's word: What is Paradanta? now says how someone becomes a member: all our members went through all the steps of the Giving School system, and once they had finished them, decided they wanted to take a more active part in our project.
