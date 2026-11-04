@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.13.0 (2026-11-04)
+
+- Site: private analytics and short links. Every page reports a view and read depth to the site's own analytics service (site/), UTM values are kept in localStorage and taken out of the address bar, and the contact form carries them as hidden fields.
+
+
 ## 6.12.2 (2026-11-04)
 
 - Part zero: drops the closing 'You can stop after any part' line too, at Alex's word.

@@ -1,0 +1,159 @@
+# Portainer stack `boringspirituality` on gs-europe: the essay website (boringspirituality.com).
+# This file is the source of the stack (v5, 2026-11-04). Paste it into Portainer (stack 56) and press Update.
+# Secrets are NOT here: set them as the stack's environment variables in Portainer:
+#   ALLOWED_IPS  Alex's addresses that may open /analytics, comma separated (IPs or CIDR ranges)
+#   API_KEY      the bearer key for the short-link and stats API
+#
+# Two containers:
+#  boringspirituality  nginx. Clones main at start, checks again every 10 minutes, and when HEAD changed rebuilds
+#                      /srv/site: the 6 pages (pills turned into links) and the book files in /book/.
+#                      Anything that is not a file goes to the analytics service, so there is no 404 anymore.
+#  bs-analytics        site/app.py from the same repo (Python standard library, SQLite on the volume bs-analytics).
+#                      Short links, the page beacon, /analytics (only from ALLOWED_IPS) and the API.
+#                      It also pulls main every 10 minutes and restarts itself when site/ changed.
+# Proxy: NPM (`n8n-nginx-1`) -> http://boringspirituality:80 on `npm_shared`. No published port.
+# NPM sets X-Real-IP to the visitor's address; nginx passes it on as X-Client-IP.
+# The contact form on /contact posts straight from the reader's browser to the n8n webhook.
+# $$ = a literal $ (compose would otherwise interpolate it).
+services:
+  boringspirituality:
+    image: nginx:alpine
+    container_name: boringspirituality
+    restart: unless-stopped
+    environment:
+      SITE_NGINX_CONF: |
+        map $$http_x_real_ip $$client_ip { "" $$remote_addr; default $$http_x_real_ip; }
+        server {
+          listen 80;
+          server_name _;
+          root /srv/site;
+          server_tokens off;
+          charset utf-8;
+          absolute_redirect off;
+          resolver 127.0.0.11 valid=30s ipv6=off;
+          set $$app http://bs-analytics:8080;
+
+          gzip on;
+          gzip_vary on;
+          gzip_proxied any;
+          gzip_comp_level 6;
+          gzip_min_length 1024;
+
+          proxy_set_header Host $$host;
+          proxy_set_header X-Client-IP $$client_ip;
+          proxy_set_header User-Agent $$http_user_agent;
+          proxy_set_header Referer $$http_referer;
+          proxy_intercept_errors on;
+          error_page 502 503 504 = @home;
+
+          location = /healthz { access_log off; default_type text/plain; return 200 "ok"; }
+          location = / { return 302 /intro; }
+          location ~ ^/(intro|rational|spiritual|practical|contact|faq)/$$ { return 301 /$$1; }
+          location = /next { return 301 /contact; }
+          location = /analytics { proxy_pass $$app; }
+          location /api/ { client_max_body_size 16k; proxy_pass $$app; }
+          location / {
+            try_files $$uri $$uri.html @app;
+            add_header Cache-Control "no-cache";
+          }
+          location @app { proxy_pass $$app; }
+          location @home { return 302 /intro; }
+        }
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - |
+        REPO=https://github.com/AxelPotato/magnum-opus.git
+        W=/srv/repo
+        printf '%s\n' "$$SITE_NGINX_CONF" > /etc/nginx/conf.d/default.conf
+        nginx -t
+        apk add --no-cache git >/dev/null 2>&1 || echo "apk add git failed"
+        mkdir -p /srv
+        sync_site() {
+          if [ ! -d $$W/.git ]; then
+            git clone --depth 1 --branch main $$REPO $$W || return 1
+          else
+            git -C $$W fetch --depth 1 origin main && git -C $$W reset --hard FETCH_HEAD || return 1
+          fi
+          new=$$(git -C $$W rev-parse HEAD)
+          [ "$$new" = "$$(cat /srv/built 2>/dev/null)" ] && return 0
+          out=/srv/b-$$new
+          rm -rf $$out; mkdir -p $$out
+          : > /tmp/nav.sed
+          for t in intro:Intro rational:Rational spiritual:Spiritual practical:Practical contact:Contact; do
+            s=$${t%%:*}; l=$${t##*:}
+            echo "s#<li class=\"now\">$$l</li>#<li class=\"now\"><a href=\"/$$s\">$$l</a></li>#" >> /tmp/nav.sed
+            echo "s#<li>$$l</li>#<li><a href=\"/$$s\">$$l</a></li>#" >> /tmp/nav.sed
+          done
+          echo 's#</head>#<style>.parts a{color:inherit;text-decoration:none;display:block;margin:-.3rem -.7rem;padding:.3rem .7rem;border-radius:999px}.parts li:hover{border-color:var(--ink);color:var(--ink)}.parts a:focus-visible{outline:2px solid var(--ink);outline-offset:3px}</style></head>#' >> /tmp/nav.sed
+          for p in intro:part-0-intro rational:part-1-rational spiritual:part-2-spiritual practical:part-3-practical contact:contact faq:faq; do
+            n=$${p%%:*}; f=$${p##*:}
+            sed -f /tmp/nav.sed $$W/essay/$$f.html > $$out/$$n.html || return 1
+            [ -s $$out/$$n.html ] && grep -q 'href="/contact"' $$out/$$n.html || { echo "bad page $$n"; return 1; }
+          done
+          mkdir -p $$out/book
+          for b in pdf epub; do
+            cp $$W/essay/book/rational-spiritual-practical.$$b $$out/book/ || echo "book file $$b missing"
+          done
+          ln -sfn $$out /srv/site
+          echo "$$new" > /srv/built
+          for d in /srv/b-*; do [ "$$d" = "$$out" ] || rm -rf "$$d"; done
+          echo "site built from $$new"
+        }
+        i=0
+        until sync_site; do i=$$((i+1)); [ $$i -ge 5 ] && break; sleep 5; done
+        ( while true; do sleep 600; sync_site || echo "sync failed, keeping the old site"; done ) &
+        exec nginx -g 'daemon off;'
+    networks:
+      - npm_shared
+    mem_limit: 192m
+    cpus: 0.5
+    healthcheck:
+      test: ["CMD", "wget", "-q", "-O", "/dev/null", "http://127.0.0.1/healthz"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+
+  bs-analytics:
+    image: python:3.12-alpine
+    container_name: bs-analytics
+    restart: unless-stopped
+    environment:
+      ALLOWED_IPS: ${ALLOWED_IPS}
+      API_KEY: ${API_KEY}
+      DB_PATH: /data/analytics.db
+      PUBLIC_BASE: https://boringspirituality.com
+      PYTHONUNBUFFERED: "1"
+    volumes:
+      - bs-analytics:/data
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - |
+        REPO=https://github.com/AxelPotato/magnum-opus.git
+        W=/srv/repo
+        apk add --no-cache git >/dev/null 2>&1 || echo "apk add git failed"
+        until [ -f $$W/site/app.py ]; do
+          rm -rf $$W; git clone --depth 1 --branch main $$REPO $$W || sleep 15
+        done
+        ( while true; do
+            sleep 600
+            old=$$(git -C $$W rev-parse HEAD:site 2>/dev/null)
+            git -C $$W fetch --depth 1 origin main && git -C $$W reset --hard FETCH_HEAD >/dev/null || continue
+            [ "$$old" = "$$(git -C $$W rev-parse HEAD:site)" ] || { echo "site/ changed, restarting"; pkill -f site/app.py; }
+          done ) &
+        while true; do python $$W/site/app.py; echo "app stopped, restarting"; sleep 2; done
+    networks:
+      - npm_shared
+    mem_limit: 128m
+    cpus: 0.5
+    healthcheck:
+      test: ["CMD", "wget", "-q", "-O", "/dev/null", "http://127.0.0.1:8080/healthz"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+
+volumes:
+  bs-analytics:
+
+networks:
+  npm_shared:
+    external: true
