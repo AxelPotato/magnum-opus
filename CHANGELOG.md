@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.12.1 (2026-11-04)
+
+- Part zero: drops 'and asks for no belief', one of the three permission lines readers felt handled by, at Alex's word; neo-monastery stays as it is.
+
+
 ## 6.12.0 (2026-11-03)
 
 - At Alex's word: the cost line leaves Part zero, and its friends with partners and kids join his relationships example in Part two, step 3; Who taught me rewritten in his voice with the same facts (Riga, the technical university, the teenager who met people with something he didn't, ordinary people without titles, adapted to the 21st century).
