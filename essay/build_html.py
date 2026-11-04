@@ -603,14 +603,59 @@ FONTS = ('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght
 # the email is required. It posts name, email and message, plus the UTM fields and page_url, as urlencoded POST.
 # The webhook took name and email before; the message field is new, so the workflow has to pass it on.
 CONTACT_ENDPOINT = 'https://n8n.giving-school.eu/webhook/essay-lead'
+UTM_KEYS = ('utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term')
 
-# Runs on every page, so UTM values from the page a reader lands on still reach the form on the Next page.
+# Runs on every page. UTM values from a short link or a tagged address are saved in localStorage (the last ones in
+# essay_utm, the very first ones in essay_utm_first), then taken out of the address bar. On the live site (and only
+# there) each page view is reported to the site's own analytics service (site/app.py) with how far the reader got.
+# No cookie, no third party; the visitor id is a random string in localStorage.
 UTM_JS = """
 (function () {
+  var K = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'], LS, SS;
+  try { LS = window.localStorage; SS = window.sessionStorage; } catch (e) { return; }
+  var rnd = function () { return Math.random().toString(36).slice(2, 10) + Date.now().toString(36); };
+  var q = new URLSearchParams(location.search), u = {}, any = false, link = q.get('l');
+  K.forEach(function (k) { if (q.get(k)) { u[k] = q.get(k).slice(0, 200); any = true; } });
   try {
-    var q = new URLSearchParams(location.search), s = {};
-    ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'].forEach(function (k) { if (q.get(k)) s[k] = q.get(k); });
-    if (Object.keys(s).length) sessionStorage.setItem('essay_utm', JSON.stringify(s));
+    if (any) {
+      if (link) u.link = link.slice(0, 40);
+      u.at = new Date().toISOString();
+      LS.setItem('essay_utm', JSON.stringify(u));
+      if (!LS.getItem('essay_utm_first')) LS.setItem('essay_utm_first', JSON.stringify(u));
+    }
+    var ref = document.referrer;
+    if (ref && ref.indexOf(location.host) < 0 && !LS.getItem('essay_ref')) LS.setItem('essay_ref', ref.slice(0, 300));
+    if (any || link) {
+      K.concat(['l']).forEach(function (k) { q.delete(k); });
+      var rest = q.toString();
+      history.replaceState(history.state, '', location.pathname + (rest ? '?' + rest : '') + location.hash);
+    }
+  } catch (e) {}
+  if (!/(^|\.)(boringspirituality|rationalspiritualpractical)\.com$/.test(location.hostname)) return;
+  try {
+    var vid = LS.getItem('essay_vid') || rnd(); LS.setItem('essay_vid', vid);
+    var sid = SS.getItem('essay_sid') || rnd(); SS.setItem('essay_sid', sid);
+    var pv = rnd(), shown = Date.now(), secs = 0, depth = 0;
+    var send = function (o) {
+      o.pv = pv; o.vid = vid; o.sid = sid; o.path = location.pathname;
+      var b = JSON.stringify(o);
+      if (!(navigator.sendBeacon && navigator.sendBeacon('/api/hit', b))) fetch('/api/hit', { method: 'POST', body: b, keepalive: true });
+    };
+    window.essayTrack = send;
+    send({ t: 'view', ref: document.referrer, utm: any ? u : null, link: link,
+           device: /iPad|Tablet/.test(navigator.userAgent) ? 'tablet' : /Mobi|Android|iPhone/.test(navigator.userAgent) ? 'mobile' : 'desktop',
+           lang: navigator.language });
+    var measure = function () {
+      var h = document.documentElement.scrollHeight - innerHeight;
+      depth = Math.max(depth, h > 0 ? Math.round(100 * scrollY / h) : 100);
+    };
+    addEventListener('scroll', measure, { passive: true });
+    var leave = function () {
+      secs += Math.round((Date.now() - shown) / 1000); shown = Date.now(); measure();
+      send({ t: 'leave', depth: depth, secs: secs });
+    };
+    addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') leave(); else shown = Date.now(); });
+    addEventListener('pagehide', leave);
   } catch (e) {}
 })();
 """
@@ -618,6 +663,17 @@ UTM_JS = """
 CONTACT_JS = """
 document.querySelectorAll('.contact-form').forEach(function (f) {
   var el = function (n) { return f.elements.namedItem(n); };
+  // Hidden fields: the last UTM values, the first ones, the short link and the first outside referrer, from localStorage.
+  var fill = function () {
+    var get = function (k) { try { return JSON.parse(localStorage.getItem(k) || '{}'); } catch (x) { return {}; } };
+    var last = get('essay_utm'), first = get('essay_utm_first'), ref = '';
+    try { ref = localStorage.getItem('essay_ref') || ''; } catch (x) {}
+    ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'].forEach(function (k) {
+      el(k).value = last[k] || ''; el('first_' + k).value = first[k] || '';
+    });
+    el('short_link').value = last.link || ''; el('referrer').value = ref;
+  };
+  fill();
   f.addEventListener('submit', function (e) {
     e.preventDefault();
     var s = f.querySelector('.contact-status'), btn = f.querySelector('button');
@@ -626,13 +682,11 @@ document.querySelectorAll('.contact-form').forEach(function (f) {
     if (!v) { s.textContent = 'Add your email, then send.'; return; }
     d.set('email', v);
     ['name', 'message'].forEach(function (k) { var x = el(k).value.trim(); if (x) d.set(k, x); });
-    var utm = {};
-    try { utm = JSON.parse(sessionStorage.getItem('essay_utm') || '{}'); } catch (x) {}
-    Object.keys(utm).forEach(function (k) { if (/^utm_/.test(k) && utm[k]) d.set(k, utm[k]); });
+    f.querySelectorAll('input[type=hidden]').forEach(function (h) { if (h.value) d.set(h.name, h.value); });
     d.set('page_url', location.href);
     btn.disabled = true; s.textContent = 'Sending\u2026';
     fetch(f.dataset.endpoint, { method: 'POST', body: d })
-      .then(function (r) { if (!r.ok) throw new Error(r.status); f.reset(); s.textContent = 'Thank you. I got it, and I\u2019ll try to keep you updated.'; })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); f.reset(); fill(); if (window.essayTrack) window.essayTrack({ t: 'lead' }); s.textContent = 'Thank you. I got it, and I\u2019ll try to keep you updated.'; })
       .catch(function () { s.textContent = 'That didn\u2019t go through. Please try again in a minute.'; })
       .finally(function () { btn.disabled = false; });
   });
@@ -648,6 +702,8 @@ def contact_html(intro=''):
             '<label>Your email<input name="email" type="email" autocomplete="email" maxlength="200"></label>'
             '<label>How are you doing?<span class="hint">Please share anything you feel.</span>'
             '<textarea name="message" rows="5" maxlength="2000"></textarea></label>'
+            + ''.join(f'<input type="hidden" name="{p}{k}">' for p in ('', 'first_') for k in UTM_KEYS)
+            + '<input type="hidden" name="short_link"><input type="hidden" name="referrer">'
             '<label class="trap" aria-hidden="true">Leave this empty<input name="website" tabindex="-1" autocomplete="off"></label>'
             '<button type="submit">Send</button>'
             '<p class="contact-status" role="status" aria-live="polite"></p>'
