@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.12.2 (2026-11-04)
+
+- Part zero: drops the closing 'You can stop after any part' line too, at Alex's word.
+
+
 ## 6.12.1 (2026-11-04)
 
 - Part zero: drops 'and asks for no belief', one of the three permission lines readers felt handled by, at Alex's word; neo-monastery stays as it is.

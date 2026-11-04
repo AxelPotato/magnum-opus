@@ -12,8 +12,6 @@ Part two is the spiritual part: where all of this comes from and where it leads.
 
 Part three is the practical side: the conditions that make it realistic to walk the whole road in one life, from the ones you can start alone tonight to the ones that need other people.
 
-You can stop after any part, and each one makes the next easier to judge.
-
 ## Who taught me
 
 I studied many traditions on my own, and this book is a distillation of that whole journey. For the last six years of it I've learned from my teacher, Genadiy Givin. He's from Riga and studied at the technical university there. As a teenager he met a few people who clearly had something he didn't, and he wanted to know what they knew so much that it led him to the man who became his teacher. He calls the people who handed this on to him, himself included, ordinary people without titles, and what he did was adapt it to life in the 21st century. For him the knowledge is what matters.
