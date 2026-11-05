@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.14.6 (2026-11-05)
+
+- Part one, Drifting: the room is about DO and has nothing to do with income (people working hard in fields that pay little are nowhere near it), and 'the money runs out' is about the waiting; Part three, Discipline: the students' no-substances line and a plain 'I don't recommend that route' for mystical experiences through substances or ayahuasca
+
+
 ## 6.14.5 (2026-11-05)
 
 - Part two: step 3 says pain is a signal to act (a doctor, fighting back, leaving) and letting go drops only the suffering on top; step 6 says the mirror is only for looking at yourself, that pointing it at someone else, above all a group at one person, is an abuse of the idea, and that compassion is the only way to treat someone in pain
