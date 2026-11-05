@@ -4,6 +4,8 @@
 
 Part one was the polite part. Everything in it holds up whichever way you think the universe works. This part is where we part ways. Most people would call the top right corner of that chart the goal. I'd call it the edge of the chart, because the whole chart rests on one quiet assumption: that I'm a separate thing, and a separate thing has to protect itself and take what it needs. Every room on it is that thing getting better at its job.
 
+This part is about the bigger picture: how the macro side of life is built, where all of this comes from and where it leads. If what you're looking for is a more practical next step, Part three is for you. You can go straight there and come back here whenever you like.
+
 One thing first, because it changes how you read everything after it. I'm not religious, and I'm not asking you to adopt anybody's religion. What I will do is quote a lot of traditions: Hindu, Buddhist, Jain, Jewish, Christian, Muslim, Daoist, Greek, and a few people with no religion at all. They use different words, and sometimes different gods, and they keep coming back to a few of the same ideas.
 
 One more thing, about how I'll argue. A world, real or invented, has to be coherent within its own rules. The rules can be as odd as you like, and what makes the world believable is that everything that happens in it follows from them. This is the test I'll run on the picture of reality in this part. Take one assumption about how things are, and ask whether everything else follows from it. You don't have to agree with the starting assumption for the test to work. Coherence is the first test, and your own life is the second, so the end of this part has a check and a prediction you can test on yourself.

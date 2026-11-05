@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.14.2 (2026-11-05)
+
+- Part two opening: a short paragraph saying this part is about how the macro side of life is built, and that readers looking for a practical next step can go straight to Part three
+
+
 ## 6.14.1 (2026-11-05)
 
 - Part two, fold 'But why would it do that?': two answers, Watts's boredom and love (a whole with nothing outside itself has nobody to love); the Lebowski joke is out
