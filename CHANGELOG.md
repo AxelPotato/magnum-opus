@@ -8,6 +8,81 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.16.1 (2026-11-05)
+
+- Part three: the fold My teacher and I is back word for word in its old place at Alex's call (it pokes some people but is very valuable), and names the teacher at its first line: my teacher, Genadiy; the Giving School sentence stays out, and the community note says my teacher again
+
+
+## 6.16.0 (2026-11-05)
+
+- Part three keeps the book off Genadiy, the centers and Giving School, at Alex's call: the Giving School sentence in Friends on the path is out, the fold My teacher and I is cut, the teacher paragraph of section 8 now comes before its Try it fold, and the teacher is named once, in the note on community: my teacher, Genadiy
+
+
+## 6.15.1 (2026-11-05)
+
+- Stay in contact: the last words from 6.15.0 are out again at Alex's call (the book stays as agnostic to the centers as possible); the page is back to the thank-you, the invitation and the form
+
+
+## 6.15.0 (2026-11-05)
+
+- Stay in contact: a few last words from Alex before the form, kept from the old FAQ in his words: the cult joke and that he invites nobody to become Genadiy's student, Giving School in one paragraph, and what happens when someone leaves
+
+
+## 6.14.10 (2026-11-05)
+
+- Part three, Discipline: 'whether I'm at the center or not, just the same' is out (the center is no longer explained anywhere since the FAQ went)
+
+
+## 6.14.9 (2026-11-05)
+
+- A line for people who already over-apologise or over-give: Part one, the hard step for someone who says sorry for everything is saying what they need or saying no; Part three, Giving, for someone who gives until nothing is left, rest, a no and a boundary are the hard step
+
+
+## 6.14.8 (2026-11-05)
+
+- Part three, Discipline: one sentence in Alex's own example, a hundred percent no to alcohol, cigarettes and drugs
+
+
+## 6.14.7 (2026-11-05)
+
+- Part three, Discipline: the substances paragraph from 6.14.6 is taken out again (it answered an FAQ point, and the FAQ is gone)
+
+
+## 6.14.6 (2026-11-05)
+
+- Part one, Drifting: the room is about DO and has nothing to do with income (people working hard in fields that pay little are nowhere near it), and 'the money runs out' is about the waiting; Part three, Discipline: the students' no-substances line and a plain 'I don't recommend that route' for mystical experiences through substances or ayahuasca
+
+
+## 6.14.5 (2026-11-05)
+
+- Part two: step 3 says pain is a signal to act (a doctor, fighting back, leaving) and letting go drops only the suffering on top; step 6 says the mirror is only for looking at yourself, that pointing it at someone else, above all a group at one person, is an abuse of the idea, and that compassion is the only way to treat someone in pain
+
+
+## 6.14.4 (2026-11-05)
+
+- Part zero: the section 'Who taught me' and the photo with the teacher are cut; Part three now names Genadiy Givin at his first mention
+
+
+## 6.14.3 (2026-11-05)
+
+- Part two: 'we are all one' becomes 'we are part of something bigger', one shared consciousness with each life an individual experience of it, in the opening, the axiom's first clause, the chain figure and the later 'if we are one' lines (and Part three's opening); one sentence on the moment most people have felt it
+
+
+## 6.14.2 (2026-11-05)
+
+- Part two opening: a short paragraph saying this part is about how the macro side of life is built, and that readers looking for a practical next step can go straight to Part three
+
+
+## 6.14.1 (2026-11-05)
+
+- Part two, fold 'But why would it do that?': two answers, Watts's boredom and love (a whole with nothing outside itself has nobody to love); the Lebowski joke is out
+
+
+## 6.14.0 (2026-11-05)
+
+- The FAQ page (Questions and answers) is removed at Alex's call after the 29-reader panel: the book now goes Intro, Rational, Spiritual, Practical, Stay in contact, in the sidebar, the PDF and the EPUB. essay/faq.html stays as a redirect to /intro so the live site keeps syncing; site/stack.yml no longer lists the page.
+
+
 ## 6.13.0 (2026-11-04)
 
 - Site: private analytics and short links. Every page reports a view and read depth to the site's own analytics service (site/), UTM values are kept in localStorage and taken out of the address bar, and the contact form carries them as hidden fields.

@@ -341,12 +341,7 @@ def rules2a():
 
 
 def rules0():
-    return {
-        'I studied many traditions on my own': dict(after=figure(
-            f'<img class="pic" src="{uri("teacher")}" width="720" height="900" loading="lazy" '
-            'alt="Two men standing side by side outdoors, the author and his teacher, Genadiy Givin">',
-            'My teacher, Genadiy Givin, and I.', 'photo')),
-    }
+    return {}
 
 
 PART0_CSS = '.fig .pic{display:block;width:100%;max-width:26rem;height:auto;margin:0 auto;border-radius:10px;border:1px solid var(--rule)}'
@@ -359,7 +354,7 @@ def rules2():
         'Under the axiom, you and I are programs.': dict(after=figure(F4.fig_cpu(), 'Far apart on the screen, side by side in the machine. The distance is a property of the drawing.')),
         'The body holds the limits in place.': dict(after=figure(F4.fig_wall(), 'The wall, as it shows in the body. Hold less of it and you sit higher on BE.')),
         'How it carries on is where the traditions part': dict(after=figure(F4.fig_lives(), 'What a life gathers is kept and carried on, whichever form the traditions give it.')),
-        'If we are one, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
+        'If we are all part of one whole, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
         'My answer is that it takes doing less.': dict(after=F6.widget()),
         'Your own body does it too.': dict(after=figure(F5.JOKES['fig_cell'](), 'Every cell carries the whole plan and uses a small part of it. The rest is switched off and kept.')),
         'Measuring resistance gives suffering a job.': dict(after=figure(F5.fig_warning(), 'Suffering as the warning light on the dashboard. The tape is also an option.')),
@@ -842,21 +837,21 @@ def convert(md, R):
     return out, toc
 
 
-# The chapters, in order. The FAQ (faq.md, Alex 2026-11-02: questions about the form of his own life, kept out of
-# the book itself) and Contact (contact.md) are the pages after the essay. Since 5.13.0 the FAQ comes before the
-# contact form (Alex 2026-11-02 20:52), so a reader sees the answers before leaving details.
-NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'FAQ', 'Contact']
-HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Questions and answers', 'Stay in contact']
-NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the book', 'After the book']
-SIDE_NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'FAQ', 'After']  # the small line over each title in the sidebar
+# The chapters, in order. Contact (contact.md) is the page after the essay. The FAQ page (faq.md, 5.11.0 to 6.13.0)
+# was removed in 6.14.0 at Alex's call (2026-11-05, after the 29-reader panel, run 25); it is in git history.
+# FAQ_STUB below still writes essay/faq.html as a small redirect, because the live site's sync loop expects that file.
+NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Contact']
+HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in contact']
+NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the book']
+SIDE_NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After']  # the small line over each title in the sidebar
 ESSAY_PARTS = range(4)  # the parts proper; the pages after them get no drop cap, reading time or part number in links
 # The book's name in the sidebar (Alex, 2026-10-29).
 BOOK_TITLE = 'Rational, Spiritual, Practical'
 BOOK_SUB = 'A modern take on the path from micro to macro'  # Alex, 2026-10-29
 BOOK_BY = 'by Alex'
 # Where each chapter lives on the website. --preview links the built files instead, for a preview copy.
-SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/faq', '/contact']
-FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html', 'part-3-practical.html', 'faq.html', 'contact.html']
+SITE_URLS = ['/intro', '/rational', '/spiritual', '/practical', '/contact']
+FILE_URLS = ['part-0-intro.html', 'part-1-rational.html', 'part-2-spiritual.html', 'part-3-practical.html', 'contact.html']
 URLS = SITE_URLS
 # The PDF and the EPUB, built by tools/build_book.py into essay/book/. The site serves them itself:
 # stack 56 copies essay/book/ to /book/ on every pull.
@@ -883,12 +878,11 @@ def hero_html(part, words=0):
     if backup:
         part = 2
     lede = {
-        0: 'Who is talking, what each part is for, and who taught me.',
+        0: 'Who is talking and what each part is for.',
         1: 'Two directions, four rooms, and a map that turns out to be bigger than it looks.',
         2: 'Two ways of reading a life, one assumption that separates them, and what follows from it in the world\'s religions.',
         3: 'How this is done today, by people with jobs, families and not much spare time.',
-        4: '',  # the FAQ opens straight on its own sentence
-        5: '',  # and so does the contact page
+        4: '',  # the contact page opens straight on its own sentence
     }[part]
     kicker = NUMS[part]
     if backup:
@@ -1045,13 +1039,18 @@ TOC_JS = r"""
 })();
 """
 
+# The FAQ page was removed in 6.14.0. Old /faq links land on the intro. The live site's sync loop (site/stack.yml,
+# until the stack is next updated) copies essay/faq.html and checks it links /contact, so this stub keeps it working.
+FAQ_STUB = ('<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
+            '<meta name="robots" content="noindex"><meta http-equiv="refresh" content="0; url=/intro"><title>Rational, Spiritual, Practical</title></head>'
+            '<body><p><a href="/intro">Start reading</a> or <a href="/contact">stay in contact</a>.</p></body></html>\n')
+
 PARTS = {
     0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: rules0(), cast=False, css_extra=PART0_CSS, foot=PART0_FOOT),
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=False, css_extra=F7.CSS_EXTRA, foot=PART1_FOOT),
     2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + F6.CSS_EXTRA, foot=PART2_FOOT),
     3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=rules3, cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + PART0_CSS, foot=PART3_FOOT),
-    4: dict(md='faq.md', out='faq.html', title='Questions and answers', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
-    5: dict(md='contact.md', out='contact.html', title='Stay in contact', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
+    4: dict(md='contact.md', out='contact.html', title='Stay in contact', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
     # kept for reference, not part of the default build: python build_html.py --part 2a
     '2a': dict(md='backup/part-2-variant-a-psychological.md', out='backup/part-2-variant-a-psychological.html', title='Part Two, backup: Spiritual', rules=lambda: rules2a(),
                cast=False, css_extra=F3.CSS_EXTRA, foot=PART2_FOOT + ' This is the first version of part two, kept as a backup.', fixed_ver='1.0.0', backup=True),
@@ -1123,6 +1122,8 @@ if __name__ == '__main__':
         text = page(n, frag)
         open(out, 'w', encoding='utf-8').write(text)
         print(out, round(len(text) / 1024), 'KB')
+    if not only and not frag:
+        open(os.path.join(HERE, 'faq.html'), 'w', encoding='utf-8').write(FAQ_STUB)
     if not only:
         stale = [k for k in FOLD_KINDS if k not in FOLD_KINDS_SEEN]
         if stale:

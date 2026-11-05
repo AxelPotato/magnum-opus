@@ -292,7 +292,7 @@ def fig_chain():
     b = []
     b.append('<rect class="cardhi" x="20" y="10" width="640" height="76" rx="12"/>')
     b.append(T(40, 36, 'The axiom', 't'))
-    b.append(T(40, 56, 'clause 1: we are one  /  clause 2: the whole experiences separation', 'small'))
+    b.append(T(40, 56, 'clause 1: we are part of something bigger  /  clause 2: the whole experiences separation', 'small'))
     b.append(T(40, 74, 'clause 3: the separation ends', 'small'))
     steps = [
         ('Separation is a way of looking', 'the whole looks at itself from positions', ['from clauses 1 and 2']),
