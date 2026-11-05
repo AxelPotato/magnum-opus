@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.15.0 (2026-11-05)
+
+- Stay in contact: a few last words from Alex before the form, kept from the old FAQ in his words: the cult joke and that he invites nobody to become Genadiy's student, Giving School in one paragraph, and what happens when someone leaves
+
+
 ## 6.14.10 (2026-11-05)
 
 - Part three, Discipline: 'whether I'm at the center or not, just the same' is out (the center is no longer explained anywhere since the FAQ went)
