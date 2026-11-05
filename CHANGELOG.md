@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.14.0 (2026-11-05)
+
+- The FAQ page (Questions and answers) is removed at Alex's call after the 29-reader panel: the book now goes Intro, Rational, Spiritual, Practical, Stay in contact, in the sidebar, the PDF and the EPUB. essay/faq.html stays as a redirect to /intro so the live site keeps syncing; site/stack.yml no longer lists the page.
+
+
 ## 6.13.0 (2026-11-04)
 
 - Site: private analytics and short links. Every page reports a view and read depth to the site's own analytics service (site/), UTM values are kept in localStorage and taken out of the address bar, and the contact form carries them as hidden fields.

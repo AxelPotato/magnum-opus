@@ -8,7 +8,7 @@ The essay began as a talk, "Why letting go is a high-agency skill", given on 202
 
 ## Read it
 
-Open the pages in `essay/` in a browser, in this order: `part-0-intro.html`, `part-1-rational.html`, `part-2-spiritual.html`, `part-3-practical.html`, `faq.html` and `contact.html`. Each is one self-contained file: the charts are inline SVG, the pictures are inside it, and it follows your light or dark setting. Each release on the [Releases](../../releases) page carries the files for that version.
+Open the pages in `essay/` in a browser, in this order: `part-0-intro.html`, `part-1-rational.html`, `part-2-spiritual.html`, `part-3-practical.html` and `contact.html`. Each is one self-contained file: the charts are inline SVG, the pictures are inside it, and it follows your light or dark setting. Each release on the [Releases](../../releases) page carries the files for that version.
 
 The text of each page lives in the `.md` file of the same name.
 

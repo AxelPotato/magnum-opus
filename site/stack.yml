@@ -48,7 +48,7 @@ services:
 
           location = /healthz { access_log off; default_type text/plain; return 200 "ok"; }
           location = / { return 302 /intro; }
-          location ~ ^/(intro|rational|spiritual|practical|contact|faq)/$$ { return 301 /$$1; }
+          location ~ ^/(intro|rational|spiritual|practical|contact)/$$ { return 301 /$$1; }
           location = /next { return 301 /contact; }
           location = /analytics { proxy_pass $$app; }
           location /api/ { client_max_body_size 16k; proxy_pass $$app; }
@@ -85,7 +85,7 @@ services:
             echo "s#<li>$$l</li>#<li><a href=\"/$$s\">$$l</a></li>#" >> /tmp/nav.sed
           done
           echo 's#</head>#<style>.parts a{color:inherit;text-decoration:none;display:block;margin:-.3rem -.7rem;padding:.3rem .7rem;border-radius:999px}.parts li:hover{border-color:var(--ink);color:var(--ink)}.parts a:focus-visible{outline:2px solid var(--ink);outline-offset:3px}</style></head>#' >> /tmp/nav.sed
-          for p in intro:part-0-intro rational:part-1-rational spiritual:part-2-spiritual practical:part-3-practical contact:contact faq:faq; do
+          for p in intro:part-0-intro rational:part-1-rational spiritual:part-2-spiritual practical:part-3-practical contact:contact; do
             n=$${p%%:*}; f=$${p##*:}
             sed -f /tmp/nav.sed $$W/essay/$$f.html > $$out/$$n.html || return 1
             [ -s $$out/$$n.html ] && grep -q 'href="/contact"' $$out/$$n.html || { echo "bad page $$n"; return 1; }

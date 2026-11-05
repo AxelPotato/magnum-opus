@@ -43,7 +43,6 @@ PARTS = [
     ("P1", "essay/part-1-rational.md"),
     ("P2", "essay/part-2-spiritual.md"),
     ("P3", "essay/part-3-practical.md"),
-    ("FAQ", "essay/faq.md"),
 ]
 KINDS = {
     "if-then": [
