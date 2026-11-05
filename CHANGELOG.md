@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.14.3 (2026-11-05)
+
+- Part two: 'we are all one' becomes 'we are part of something bigger', one shared consciousness with each life an individual experience of it, in the opening, the axiom's first clause, the chain figure and the later 'if we are one' lines (and Part three's opening); one sentence on the moment most people have felt it
+
+
 ## 6.14.2 (2026-11-05)
 
 - Part two opening: a short paragraph saying this part is about how the macro side of life is built, and that readers looking for a practical next step can go straight to Part three

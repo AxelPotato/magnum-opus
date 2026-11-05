@@ -359,7 +359,7 @@ def rules2():
         'Under the axiom, you and I are programs.': dict(after=figure(F4.fig_cpu(), 'Far apart on the screen, side by side in the machine. The distance is a property of the drawing.')),
         'The body holds the limits in place.': dict(after=figure(F4.fig_wall(), 'The wall, as it shows in the body. Hold less of it and you sit higher on BE.')),
         'How it carries on is where the traditions part': dict(after=figure(F4.fig_lives(), 'What a life gathers is kept and carried on, whichever form the traditions give it.')),
-        'If we are one, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
+        'If we are all part of one whole, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
         'My answer is that it takes doing less.': dict(after=F6.widget()),
         'Your own body does it too.': dict(after=figure(F5.JOKES['fig_cell'](), 'Every cell carries the whole plan and uses a small part of it. The rest is switched off and kept.')),
         'Measuring resistance gives suffering a job.': dict(after=figure(F5.fig_warning(), 'Suffering as the warning light on the dashboard. The tape is also an option.')),

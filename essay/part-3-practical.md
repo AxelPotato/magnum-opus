@@ -1,6 +1,6 @@
 # Part three: Practical
 
-If your life is going well and feels well, you have no need of a method. Part two drew the rest of the map, the road back to remembering that we are one, and life moves all of us along it anyway, slowly, through the mirror and the turn. What a life gathers carries over, so nobody has to finish the road in one life. Life is patient about it. A method is a way to do on purpose, and faster, what life does slowly.
+If your life is going well and feels well, you have no need of a method. Part two drew the rest of the map, the road back to remembering that we are part of something bigger, and life moves all of us along it anyway, slowly, through the mirror and the turn. What a life gathers carries over, so nobody has to finish the road in one life. Life is patient about it. A method is a way to do on purpose, and faster, what life does slowly.
 
 This part is about walking the whole road in one life, past the small square and into the large one, until we are free of our own limitations. As far as I can see, that comes down to conditions, and I count eight. When all eight are in a person's life, finishing the road is a realistic plan. When one of them is missing, it gets very, very hard, and each section below says why.
 
