@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.16.2 (2026-11-05)
+
+- The faq.html redirect stub is deleted: the site now runs the v5 setup (in /opt/sites/compose.yml on gs-europe since 2026-11-05) and sends /faq to /intro through its fallback; site/stack.yml, site/README.md and CLAUDE.md say where the site runs now
+
+
 ## 6.16.1 (2026-11-05)
 
 - Part three: the fold My teacher and I is back word for word in its old place at Alex's call (it pokes some people but is very valuable), and names the teacher at its first line: my teacher, Genadiy; the Giving School sentence stays out, and the community note says my teacher again

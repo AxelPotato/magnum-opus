@@ -1,6 +1,8 @@
-# Portainer stack `boringspirituality` on gs-europe: the essay website (boringspirituality.com).
-# This file is the source of the stack (v5, 2026-11-04). Paste it into Portainer (stack 56) and press Update.
-# Secrets are NOT here: set them as the stack's environment variables in Portainer:
+# The essay website (boringspirituality.com) on gs-europe, v5 (2026-11-04).
+# Since 2026-11-05 these two services run in the shared compose file /opt/sites/compose.yml (project "sites"),
+# not in a Portainer stack. This file is the source of their two blocks: copy them in and run
+# `docker compose up -d boringspirituality bs-analytics` in /opt/sites.
+# Secrets are NOT here: they are in /opt/sites/.env:
 #   ALLOWED_IPS  Alex's addresses that may open /analytics, comma separated (IPs or CIDR ranges)
 #   API_KEY      the bearer key for the short-link and stats API
 #
