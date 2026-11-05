@@ -839,7 +839,7 @@ def convert(md, R):
 
 # The chapters, in order. Contact (contact.md) is the page after the essay. The FAQ page (faq.md, 5.11.0 to 6.13.0)
 # was removed in 6.14.0 at Alex's call (2026-11-05, after the 29-reader panel, run 25); it is in git history.
-# FAQ_STUB below still writes essay/faq.html as a small redirect, because the live site's sync loop expects that file.
+# Old /faq links land on the intro through the site's fallback (site/app.py).
 NAMES = ['Intro', 'Rational', 'Spiritual', 'Practical', 'Contact']
 HEADS = ['Before you start', 'Rational', 'Spiritual', 'Practical', 'Stay in contact']
 NUMS = ['Part zero', 'Part one', 'Part two', 'Part three', 'After the book']
@@ -1039,12 +1039,6 @@ TOC_JS = r"""
 })();
 """
 
-# The FAQ page was removed in 6.14.0. Old /faq links land on the intro. The live site's sync loop (site/stack.yml,
-# until the stack is next updated) copies essay/faq.html and checks it links /contact, so this stub keeps it working.
-FAQ_STUB = ('<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
-            '<meta name="robots" content="noindex"><meta http-equiv="refresh" content="0; url=/intro"><title>Rational, Spiritual, Practical</title></head>'
-            '<body><p><a href="/intro">Start reading</a> or <a href="/contact">stay in contact</a>.</p></body></html>\n')
-
 PARTS = {
     0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: rules0(), cast=False, css_extra=PART0_CSS, foot=PART0_FOOT),
     1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=False, css_extra=F7.CSS_EXTRA, foot=PART1_FOOT),
@@ -1122,8 +1116,6 @@ if __name__ == '__main__':
         text = page(n, frag)
         open(out, 'w', encoding='utf-8').write(text)
         print(out, round(len(text) / 1024), 'KB')
-    if not only and not frag:
-        open(os.path.join(HERE, 'faq.html'), 'w', encoding='utf-8').write(FAQ_STUB)
     if not only:
         stale = [k for k in FOLD_KINDS if k not in FOLD_KINDS_SEEN]
         if stale:

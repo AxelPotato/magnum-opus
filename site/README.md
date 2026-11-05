@@ -1,8 +1,8 @@
 # Site analytics and short links
 
-`app.py` runs next to the page server in the website's Portainer stack (`stack.yml`, stack 56 on gs-europe).
+`app.py` runs next to the page server on gs-europe, in the shared compose file /opt/sites/compose.yml (`stack.yml` here is the source of the two site blocks).
 Python standard library only; the data is one SQLite file on the volume `bs-analytics`.
-The allowed IPs and the API key are environment variables of the stack in Portainer, never in this repo.
+The allowed IPs and the API key live in /opt/sites/.env on the server, never in this repo.
 
 ## What it does
 
