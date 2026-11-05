@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.0.0 (2026-11-05)
+
+- Version 7.0.0 at Alex's call: the book after the 29-reader panel (run 25) and its recheck (run 26). The FAQ page is gone, Part zero has no teacher section, Part two speaks of being part of something bigger, Parts one to three carry the panel fixes, the book stays off the centers and Giving School and names the teacher once, and the site runs the v5 setup
+
+
 ## 6.16.2 (2026-11-05)
 
 - The faq.html redirect stub is deleted: the site now runs the v5 setup (in /opt/sites/compose.yml on gs-europe since 2026-11-05) and sends /faq to /intro through its fallback; site/stack.yml, site/README.md and CLAUDE.md say where the site runs now
