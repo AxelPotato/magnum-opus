@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.16.0 (2026-11-05)
+
+- Part three keeps the book off Genadiy, the centers and Giving School, at Alex's call: the Giving School sentence in Friends on the path is out, the fold My teacher and I is cut, the teacher paragraph of section 8 now comes before its Try it fold, and the teacher is named once, in the note on community: my teacher, Genadiy
+
+
 ## 6.15.1 (2026-11-05)
 
 - Stay in contact: the last words from 6.15.0 are out again at Alex's call (the book stays as agnostic to the centers as possible); the page is back to the thank-you, the invitation and the form

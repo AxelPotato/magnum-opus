@@ -715,7 +715,6 @@ FOLD_KINDS = {
     'But why would it do that?': 'look',
     'A post-mortem, the way we do it at work': 'look',
     "What if I'm not sure?": 'life',
-    'My teacher and I': 'story',
     'Your sentence, and the yes you already know': 'try',
     'What is behind the goal': 'try',
     'One promise, and the bargain': 'try',
