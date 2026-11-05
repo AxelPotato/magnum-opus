@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.14.4 (2026-11-05)
+
+- Part zero: the section 'Who taught me' and the photo with the teacher are cut; Part three now names Genadiy Givin at his first mention
+
+
 ## 6.14.3 (2026-11-05)
 
 - Part two: 'we are all one' becomes 'we are part of something bigger', one shared consciousness with each life an individual experience of it, in the opening, the axiom's first clause, the chain figure and the later 'if we are one' lines (and Part three's opening); one sentence on the moment most people have felt it

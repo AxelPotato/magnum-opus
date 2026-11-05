@@ -341,12 +341,7 @@ def rules2a():
 
 
 def rules0():
-    return {
-        'I studied many traditions on my own': dict(after=figure(
-            f'<img class="pic" src="{uri("teacher")}" width="720" height="900" loading="lazy" '
-            'alt="Two men standing side by side outdoors, the author and his teacher, Genadiy Givin">',
-            'My teacher, Genadiy Givin, and I.', 'photo')),
-    }
+    return {}
 
 
 PART0_CSS = '.fig .pic{display:block;width:100%;max-width:26rem;height:auto;margin:0 auto;border-radius:10px;border:1px solid var(--rule)}'
@@ -883,7 +878,7 @@ def hero_html(part, words=0):
     if backup:
         part = 2
     lede = {
-        0: 'Who is talking, what each part is for, and who taught me.',
+        0: 'Who is talking and what each part is for.',
         1: 'Two directions, four rooms, and a map that turns out to be bigger than it looks.',
         2: 'Two ways of reading a life, one assumption that separates them, and what follows from it in the world\'s religions.',
         3: 'How this is done today, by people with jobs, families and not much spare time.',
