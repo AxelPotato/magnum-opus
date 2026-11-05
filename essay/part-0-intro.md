@@ -12,4 +12,4 @@ Part two is the spiritual part: where all of this comes from and where it leads.
 
 Part three is the practical side: the conditions that make it realistic to walk the whole road in one life, from the ones you can start alone tonight to the ones that need other people.
 
-One more thing before you start. This book says what I've lived and what I believe, as plainly as I can. I won't stop every few pages to remind you that you're free to disagree, so I'll say it once, here: you are. Use whatever holds up in your own life and put the rest down.
+One more thing before you start. This book says plainly what I've lived and what I believe, and you're free to disagree with any of it. Use whatever holds up in your own life and put the rest down.

@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.0.2 (2026-11-05)
+
+- Part zero door note made direct: the line about not repeating the reminder is gone
+
+
 ## 7.0.1 (2026-11-05)
 
 - Part zero ends with one note at the door: the reader is free to disagree, said once, so the rest of the book does not repeat it; the two scattered permission lines in Part zero and Part one go
