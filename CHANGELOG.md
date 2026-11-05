@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.15.1 (2026-11-05)
+
+- Stay in contact: the last words from 6.15.0 are out again at Alex's call (the book stays as agnostic to the centers as possible); the page is back to the thank-you, the invitation and the form
+
+
 ## 6.15.0 (2026-11-05)
 
 - Stay in contact: a few last words from Alex before the form, kept from the old FAQ in his words: the cult joke and that he invites nobody to become Genadiy's student, Giving School in one paragraph, and what happens when someone leaves
