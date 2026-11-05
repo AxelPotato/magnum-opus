@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.14.10 (2026-11-05)
+
+- Part three, Discipline: 'whether I'm at the center or not, just the same' is out (the center is no longer explained anywhere since the FAQ went)
+
+
 ## 6.14.9 (2026-11-05)
 
 - A line for people who already over-apologise or over-give: Part one, the hard step for someone who says sorry for everything is saying what they need or saying no; Part three, Giving, for someone who gives until nothing is left, rest, a no and a boundary are the hard step
