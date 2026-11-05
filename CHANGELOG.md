@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.14.8 (2026-11-05)
+
+- Part three, Discipline: one sentence in Alex's own example, a hundred percent no to alcohol, cigarettes and drugs
+
+
 ## 6.14.7 (2026-11-05)
 
 - Part three, Discipline: the substances paragraph from 6.14.6 is taken out again (it answered an FAQ point, and the FAQ is gone)
