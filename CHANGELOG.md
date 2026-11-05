@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.14.7 (2026-11-05)
+
+- Part three, Discipline: the substances paragraph from 6.14.6 is taken out again (it answered an FAQ point, and the FAQ is gone)
+
+
 ## 6.14.6 (2026-11-05)
 
 - Part one, Drifting: the room is about DO and has nothing to do with income (people working hard in fields that pay little are nowhere near it), and 'the money runs out' is about the waiting; Part three, Discipline: the students' no-substances line and a plain 'I don't recommend that route' for mystical experiences through substances or ayahuasca

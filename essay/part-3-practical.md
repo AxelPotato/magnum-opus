@@ -78,8 +78,6 @@ It grows from the outside in. A fixed time and a meeting on the calendar are the
 
 For me it looks like this. I've dedicated my life to the spiritual path, and it's my focus every day. That's why I do the three meditations a day whether I'm at the center or not, just the same, and why I can't just stop taking part in something because I don't feel like it that day. It's a way of life, and discipline is a big part of it.
 
-The same way of life keeps substances out of it. Genadiy's students don't use alcohol, drugs or cigarettes at all, because they get in the way of the delicate work of letting go. Some people had their first mystical experience through a substance or at an ayahuasca retreat. There are other ways to get there that are more effective and much safer and healthier, so I don't recommend that route to anyone.
-
 Without discipline, direction follows mood, and mood brings back the swing from Part one.
 
 #### One promise, and the bargain
