@@ -83,7 +83,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Alan Watts, "The Dream of Life", the dreamer who hides the dream from himself [talk, partly checked]
 - Mencius (Mengzi) 2A:2, the vast, flowing qi [text, checked]
 - Konkordia Antarova, Two Lives: no miracles, only levels of knowledge [text, checked]
-- Swami Anand Arun, In Wonder with Osho (no longer cited since 5.0.6; was private context for the memoir in the fold 'My teacher and I', cut in 6.16.0) [text, partly checked]
+- Swami Anand Arun, In Wonder with Osho (no longer cited since 5.0.6; private context for the memoir in the fold 'My teacher and I') [text, partly checked]
 - Friedrich Nietzsche, the Übermensch [concept, unchecked]
 - Pico della Mirandola, Oration on the Dignity of Man: no fixed seat [text, checked]
 - Plato, Symposium: Aristophanes' halves and Diotima's ladder [text, partly checked]

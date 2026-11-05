@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 6.16.1 (2026-11-05)
+
+- Part three: the fold My teacher and I is back word for word in its old place at Alex's call (it pokes some people but is very valuable), and names the teacher at its first line: my teacher, Genadiy; the Giving School sentence stays out, and the community note says my teacher again
+
+
 ## 6.16.0 (2026-11-05)
 
 - Part three keeps the book off Genadiy, the centers and Giving School, at Alex's call: the Giving School sentence in Friends on the path is out, the fold My teacher and I is cut, the teacher paragraph of section 8 now comes before its Try it fold, and the teacher is named once, in the note on community: my teacher, Genadiy
