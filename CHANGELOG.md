@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.0.1 (2026-11-05)
+
+- Part zero ends with one note at the door: the reader is free to disagree, said once, so the rest of the book does not repeat it; the two scattered permission lines in Part zero and Part one go
+
+
 ## 7.0.0 (2026-11-05)
 
 - Version 7.0.0 at Alex's call: the book after the 29-reader panel (run 25) and its recheck (run 26). The FAQ page is gone, Part zero has no teacher section, Part two speaks of being part of something bigger, Parts one to three carry the panel fixes, the book stays off the centers and Giving School and names the teacher once, and the site runs the v5 setup
