@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.5.1 (2026-11-06)
+
+- Part two: the two computer jokes replaced (step 2: crying at a film with an actor dog; step 3: need keeps score of the dishes)
+
+
 ## 7.5.0 (2026-11-06)
 
 - Part two: the opening and 'Why this idea is worth a closer look' cut to about half (827 words with the fold, from 1,329); Einstein, Schrödinger and the two Jain texts no longer cited there
