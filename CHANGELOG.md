@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.5.3 (2026-11-06)
+
+- Part two step 6: the line on thoughts and feelings coming back right away removed
+
+
 ## 7.5.2 (2026-11-06)
 
 - Part two step 6: 'That is what I think karma means' now 'That is what karma really means'
