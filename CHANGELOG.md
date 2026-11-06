@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.5.4 (2026-11-06)
+
+- Part two: 'Don't quote me' line after the border question removed
+
+
 ## 7.5.3 (2026-11-06)
 
 - Part two step 6: the line on thoughts and feelings coming back right away removed

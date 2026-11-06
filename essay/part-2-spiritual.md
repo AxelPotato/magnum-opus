@@ -246,7 +246,7 @@ The prediction is the interesting part. If the sense of separation is held by te
 
 That's the map as far as I can draw it honestly. What I haven't told you is what it takes to walk it, and that is the next part, which has a lot less philosophy in it and a lot more everyday life.
 
-Until then, one question that needs no equipment. Where, right now, does the border of you sit? Don't quote me, but I'd bet it isn't where you think.
+Until then, one question that needs no equipment. Where, right now, does the border of you sit?
 
 ## Sources
 
