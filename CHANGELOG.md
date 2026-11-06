@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.3.0 (2026-11-06)
+
+- Part two: the 'both views are assumptions' (hard problem) and 'how I'll argue' (coherence test) paragraphs cut from the opening; the question of why separation feels so convincing stays as one line; Chalmers no longer cited
+
+
 ## 7.2.1 (2026-11-06)
 
 - Part two: the hospitals and phones lines and 'Me, Alex, a separate entity. Hello.' removed from the first view

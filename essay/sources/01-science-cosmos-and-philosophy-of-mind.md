@@ -8,7 +8,7 @@ Kind: text. Status: checked.
 
 Who: David Chalmers is an Australian philosopher of mind, now at New York University. In this paper he split the puzzles of consciousness into the 'easy' problems, which are about explaining what the brain does (discriminating, reporting, focusing attention), and the 'hard' problem, which is why any of that activity is accompanied by experience at all. 'The hard problem' became the standard name for the second.
 
-In the essay: 'Where the room splits', in the paragraph saying both views are assumptions: the first view is strong at prediction, but nobody has an accepted account of why brain activity feels like something from the inside, which Chalmers named the hard problem in 1995. Also in the Sources list.
+In the essay: no longer cited. Until v7.2.1 it was in Part two's opening, in the paragraph saying both views are assumptions; that paragraph was cut in v7.3.0 at Alex's call (2026-11-06). Kept as private context for discussion: if someone asks why the second view is worth taking seriously, the hard problem is the answer.
 
 Where it sits: Journal of Consciousness Studies 2(3), 1995, pp. 200 to 219. The easy and hard distinction is made in the opening sections (a university course page describes sections 1 to 3 as drawing it).
 

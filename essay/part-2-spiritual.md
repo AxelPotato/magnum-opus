@@ -18,11 +18,9 @@ So under the second view, the idea and the second wind came from the whole you'r
 
 If you want a picture of it with no religion in it, take the sun. Nearly all the energy in your breakfast and in the fuel in your car started out as sunlight, and the sun shines on everybody, whether they ever think about it or not. The source works the same way. It is on all the time and it reaches everyone. What changes from one person to the next is how much of it gets through. The times I've felt it most came with the same sensation: that I'm not alone, that I have a lot of energy at my disposal, and that I can do whatever I set my intention to. And each time, the biggest wish that came with it was to share that state with other people.
 
-Both views are assumptions. Nobody has observed that matter is all there is, because every observation was made through the same mind we're trying to explain. The first view predicts well, and the working assumption that experience depends on brain activity has strong evidence behind it. What nobody has is an accepted account of why that activity feels like anything from the inside, which the philosopher David Chalmers called the hard problem in 1995. The second view finds experience easy, since it is the basic ingredient, and takes on the opposite question: if consciousness is shared, why does separation feel so convincing? That question is most of this part.
+If that's how it is, the obvious question is why being separate feels so convincing. That question is most of this part.
 
 One thing before we go on, because it changes how you read the rest. I'm not religious, and I'm not asking you to adopt anybody's religion. What I will do is quote a lot of traditions: Hindu, Buddhist, Jain, Jewish, Christian, Muslim, Daoist, Greek, and a few people with no religion at all. They use different words, and sometimes different gods, and they keep coming back to a few of the same ideas.
-
-And one thing about how I'll argue. A world, real or invented, has to be coherent within its own rules. The rules can be as odd as you like, and what makes the world believable is that everything that happens in it follows from them. This is the test I'll run on the picture of reality in this part. Take one assumption about how things are, and ask whether everything else follows from it. You don't have to agree with the starting assumption for the test to work. Coherence is the first test, and your own life is the second, so the end of this part has a check and a prediction you can test on yourself.
 
 ## Why this idea is worth a closer look
 
@@ -338,7 +336,6 @@ Translations: Bible verses quoted word for word follow the English Standard Vers
 
 Where we part ways, and why the idea is worth a look
 
-- Chalmers, D. J. (1995). Facing up to the problem of consciousness. Journal of Consciousness Studies, 2(3), 200-219.
 - Spinoza, B. Ethics, Part I (propositions 14 and 15, one substance) and the Preface to Part IV (God or Nature).
 - Einstein, A. Telegram of April 1929 to Rabbi Herbert Goldstein, reported in the New York Times, 25 April 1929.
 - Schrödinger, E. (1944). What Is Life? Cambridge University Press. Schrödinger, E. (1958). Mind and Matter. Cambridge University Press (the Tarner lectures of 1956).

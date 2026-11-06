@@ -20,7 +20,7 @@ Every person, text or study the essay cites should have an entry here, and every
 
 ### Physics, cosmology, philosophy of mind and computing (`01-science-cosmos-and-philosophy-of-mind.md`)
 
-- David Chalmers, 'Facing Up to the Problem of Consciousness' (the hard problem) [text, checked]
+- David Chalmers, 'Facing Up to the Problem of Consciousness' (the hard problem) [text, checked; no longer cited since 7.3.0, private context]
 - The working assumption that consciousness depends on brain activity [concept, unchecked]
 - Pierre-Simon Laplace, Essai philosophique sur les probabilités (1814) [text, checked]
 - Quantum mechanics, chance, and quantum fields [concept, partly checked]
