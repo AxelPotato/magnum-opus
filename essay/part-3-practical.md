@@ -2,9 +2,9 @@
 
 If your life is going well and feels well, you have no need of a method. Part two drew the road back to remembering that we are part of something bigger, and life moves all of us along it anyway, slowly, through the mirror and the turn. Nobody has to finish it in one life. A method is a way to do on purpose, and faster, what life does slowly.
 
-This part is about walking the whole road in one life, past the small square and into the large one, until we are free of our own limitations. As far as I can see, that comes down to conditions, and I count eight. When all eight are in a person's life, finishing the road is a realistic plan. When one of them is missing, it gets very, very hard.
+This part is about walking the whole road in one life, past the small square and into the large one, until we are free of our own limitations. As far as I can see, that comes down to conditions, and I count eight. When all eight are in a person's life, finishing the road is a realistic plan. When one of them is missing, the road gets much longer.
 
-I'm not inviting you to my school, or to anyone's. The old traditions built every one of these conditions long before us, and they can be found or built in many places. Read them as a list to hold your own life against. The order goes from what only you can supply, through the daily work, to what comes from other people.
+The old traditions built every one of these conditions long before us, and they can be found or built in many places. Read them as a list to hold your own life against. The order goes from what only you can supply, through the daily work, to what comes from other people.
 
 ## 1. Your wish, and your yes
 
@@ -189,9 +189,7 @@ A community has energy, and it can still be going in a circle. A teacher, someon
 
 ## A note on community and the teacher
 
-Of everything in this part, community and the teacher get the most criticism. I've met it with almost every person I've talked to about this, and I understand it. I grew up with a strong sense that I should get to do what I want, and in high school I was very much against the whole school system. And still, I wouldn't be where I am without my friends on the path or my teacher.
-
-The fear behind it is natural. What if I meet a teacher who is very convincing, and he uses me? The internet is full of stories like that, and some of what happened in those groups was really bad. I don't know of a checklist that tells a good teacher from a bad one. All you can go on is your own experience. Does this person know more than I do? Does this group actually live the values it talks about? Can I say I disagree and still be welcome, could I leave without a fight, and do I grow when I listen to this teacher? People do leave our community, too. Some go on along their path in new ways, and some come back after a while, and we stay friends whatever they chose.
+Friends on the path and a teacher are the basis of the method I learned, and I wouldn't be where I am without them. The way to judge a teacher and a group is your own experience. Does this person know more than I do? Does this group actually live the values it talks about? Can I say I disagree and still be welcome, could I leave without a fight, and do I grow when I listen to this teacher? People do leave our community, too. Some go on along their path in new ways, and some come back after a while, and we stay friends whatever they chose.
 
 There will be moments, plenty of them, when what you think is very different from what you're offered to try. That discomfort comes to everyone who walks this road, whoever the teacher is, and with no teacher at all. For me there is one way to tell growth from something being wrong. The discomfort of growth comes together with an emotion in my body, so I decide nothing while the emotion is still there. I live through it first, and then I look at the disagreement again with a clear head. Usually most of it has gone with the emotion. When something was still there, I said so, and people took it up. Whether that's a reason to stay or to leave is up to you.
 
