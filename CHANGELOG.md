@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.4.0 (2026-11-06)
+
+- Part two, option B: one picture per step, recaps and repeated safety lines cut, one fold per step, the computer kept in the axiom and step 1; about 12,350 to 8,350 words, every idea kept
+
+
 ## 7.3.0 (2026-11-06)
 
 - Part two: the 'both views are assumptions' (hard problem) and 'how I'll argue' (coherence test) paragraphs cut from the opening; the question of why separation feels so convincing stays as one line; Chalmers no longer cited
