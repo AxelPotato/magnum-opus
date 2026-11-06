@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.1.1 (2026-11-06)
+
+- Part two: Alex's own experience of the source fills the slot
+
+
 ## 7.1.0 (2026-11-06)
 
 - Part two: the second view gets its plainer word, source (Rubin named, the sun as the picture, a slot for Alex's own moment); step 7's river is tied back to it
