@@ -66,7 +66,7 @@ Results are how you check the work, and they are never the aim. If you start cha
 
 Part two's step 2 ended on a pull that only goes one way: do nothing in particular and you end up a little more separate every year. A pull that never takes a day off can only be matched by something that doesn't take one either, and that is discipline, doing what you decided to do after the mood for it has passed.
 
-Keep it light, and keep it yours: a demand you make on yourself, in a friendly tone. Gritting your teeth through practice adds tension, which is the very thing practice is there to remove. Five minutes every day is a frame you can keep, and a frame you keep teaches your mind that you can trust your own word. When a day slips, pick it up the next day without a speech about it.
+Keep it light, and keep it yours: a demand you make on yourself, in a friendly tone. Gritting your teeth through practice adds tension, which is the very thing practice is there to remove. Discipline that runs on pride runs down like a battery, and what keeps it going for years is that you start to enjoy it. Five minutes every day is a frame you can keep, and a frame you keep teaches your mind that you can trust your own word. When a day slips, pick it up the next day without a speech about it.
 
 It grows from the outside in. A fixed time and a meeting on the calendar are the outside, and you can keep them even on a day when you don't feel like it. After a while you see what they give you, and the keeping starts to come from you.
 
@@ -95,7 +95,7 @@ The third job is not to build new tension, and it's the one people forget. If yo
 
 Underneath all three there's a plain skill: seeing your own mind at work. Most of what you do in a day gets triggered. Someone says a thing, something fires, and you've answered before you've decided to. One tool I use: when something fires, notice where it lands in the body, the jaw or the stomach, and look at it there for a moment before you answer. Over time, things that usually arrive glued together start to come apart: what happened and the story I tell myself about it, a real danger and an old fear, what I actually want and what someone else expects of me.
 
-The daily sit is the smallest part of the practice. What it changes is the rest of the day, at the checkout and in the argument. Your family, your work, your health and the people you live with are where the practice really happens, and where you find out whether anything has changed. Without it, you clear the clamps in the morning and build new ones all day, and the drift does the rest.
+The daily sit is the smallest part of the practice. What it changes is the rest of the day, at the checkout and in the argument. Your family, your work, your health and the people you live with are where the practice really happens, and where you find out whether anything has changed. Some weeks the five minutes feel flat and nothing seems to happen. Those dry stretches end, and they end for the people who kept sitting through them. Without the practice, you clear the clamps in the morning and build new ones all day, and the drift does the rest.
 
 #### Five minutes, then two columns
 
@@ -156,7 +156,7 @@ Friends on the path hold you up in the hard moments. When your mood falls throug
 
 None of this replaces the people you already have. Most of us do it alongside family, old friends and a job, and those people tend to notice the change before we do.
 
-It comes with conditions. The people have to be aimed at the same thing, whatever words each of them uses for it. The group has to settle its conflicts quickly, by talking them through without attacking anyone, and keep the agreements it makes. A quarrel reverses the effect: the same closeness that lifts a community weighs it down when there is a wall between two of its people. And the people have to want it. A community multiplies whatever is put into it, and anything times nothing is still nothing, a fact your math teacher would confirm.
+It comes with conditions. The people have to be aimed at the same thing, whatever words each of them uses for it. The group has to settle its conflicts quickly, by talking them through without attacking anyone, and keep the agreements it makes. When two people disagree, the way out is often a third option: keep talking until you find one you both like better than either first idea. A quarrel reverses the effect: the same closeness that lifts a community weighs it down when there is a wall between two of its people. And the people have to want it. A community multiplies whatever is put into it, and anything times nothing is still nothing, a fact your math teacher would confirm.
 
 When your own spark drops, lighting up a friend gets some of it back. Ananda, the Buddha's attendant, once said that good friends are half of the spiritual life, and the Buddha answered that they are the whole of it.
 
@@ -171,7 +171,7 @@ Part two said that a limit you are inside of rarely shows up as a limit. That is
 
 A few steps is the useful distance, close enough that you can see how they got there and far enough that you want what they have. You have probably felt a small version of this already: an afternoon with the calmest person you know, and you leave a little calmer without having done anything.
 
-It works the way a blacksmith learns. There is no syllabus. The apprentice stands next to the smith for years, watching how long the iron stays in the fire and what the smith does when a piece comes out wrong, and one day can do things nobody ever explained. Most of what you are learning here is like that: how to stay steady when a plan falls apart, how to say sorry first without making a ceremony of it. You pick it up the way you pick up an accent from a roommate, without trying, and it is a big part of why people mature much faster with a mentor than alone.
+It works the way a blacksmith learns. There is no syllabus. The apprentice stands next to the smith for years, watching how long the iron stays in the fire and what the smith does when a piece comes out wrong, and one day can do things nobody ever explained. Most of what you are learning here is like that: how to stay steady when a plan falls apart, how to say sorry first without making a ceremony of it. You pick it up the way you pick up an accent from a roommate, without trying, and it is a big part of why people mature much faster with a mentor than alone. Horse trainers know a version of this: a young, nervous horse runs steadier behind an older, calmer one.
 
 #### Ask for one sentence
 
