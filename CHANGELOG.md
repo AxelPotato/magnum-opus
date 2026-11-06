@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.5.2 (2026-11-06)
+
+- Part two step 6: 'That is what I think karma means' now 'That is what karma really means'
+
+
 ## 7.5.1 (2026-11-06)
 
 - Part two: the two computer jokes replaced (step 2: crying at a film with an actor dog; step 3: need keeps score of the dishes)
