@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.8.1 (2026-11-06)
+
+- Part one restructured after Rubin and Cameron (replayed onto Part two's v7.6.1): one picture per idea, hedges out, one studies fold, about 8,300 to 6,000 words; five short book ideas in Alex's words; languishing kept
+
+
 ## 7.6.1 (2026-11-06)
 
 - Part two: three ideas from the Rubin and Cameron reading (word choice for source, fear in the turn, closeness in step 7), Alex 11-06
