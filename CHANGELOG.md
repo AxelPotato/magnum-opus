@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.6.1 (2026-11-06)
+
+- Part two: three ideas from the Rubin and Cameron reading (word choice for source, fear in the turn, closeness in step 7), Alex 11-06
+
+
 ## 7.6.0 (2026-11-06)
 
 - Part two: 'Why I want this' rewritten as 'My own road' (questions, walls, goal, reason), Alex 11-06
