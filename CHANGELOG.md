@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.1.0 (2026-11-06)
+
+- Part two: the second view gets its plainer word, source (Rubin named, the sun as the picture, a slot for Alex's own moment); step 7's river is tied back to it
+
+
 ## 7.0.2 (2026-11-05)
 
 - Part zero door note made direct: the line about not repeating the reminder is gone

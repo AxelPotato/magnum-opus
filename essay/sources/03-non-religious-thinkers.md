@@ -502,3 +502,21 @@ Background: The passage is about government and moral training, and its starting
 
 If someone pushes back:
 - Isn't this about rulers? It was addressed to rulers and scholars, and Zhu Xi made it the first text every student read, so it was read as a pattern for anyone.
+
+## Rick Rubin, The Creative Act: A Way of Being (2023), "The Source of Creativity" (Rubin born 1963; the book was published by Penguin Press in January 2023)
+
+Kind: person. Status: checked against the full text Alex shared (chapter 3 of 78, "The Source of Creativity", and the chapters "The Vessel and the Filter" and "Awareness" that use the word).
+
+Who: American record producer, co-founder of Def Jam and later head of American Recordings, known for work with the Beastie Boys, Johnny Cash, Red Hot Chili Peppers and Adele. The book is 78 short chapters on making art as a way of living, with no religion and no school behind it.
+
+In the essay: Part two, "Where we part ways", in the paragraph that gives the second view its plainer word, source. The essay says that Rubin calls it Source in his book on making art and that for him it is where an artist's ideas come from. It quotes nothing.
+
+The passage (paraphrase, not cleared for quoting): Rubin says the material we create from seems to come from within, that this is an illusion, and that the Source is a wisdom around us, always available, which we sense, remember or tune in to; we carry small fragments of it. He compares it to a cloud that turns into rain, then ocean, then cloud again. In "The Vessel and the Filter" each person's filter reduces Source, and training can widen what gets through. Still in copyright: keep to a paraphrase.
+
+Read it in a book: Rubin, R. (2023). The Creative Act: A Way of Being. Penguin Press. ISBN 9780593652886.
+
+Background: Julia Cameron's The Artist's Way (1992) uses the same word for creative energy ("God is useful shorthand for many of us, but so is Goddess, Mind, Universe, Source, and Higher Power"), which is one reason the word is common among artists. The essay cites only Rubin.
+
+If someone pushes back:
+- Rubin writes about art, not metaphysics. Answer: yes, and the essay says so: for him the word names where ideas come from, and the essay says plainly that it uses the word a little wider.
+- Isn't "source" a New Age word? Answer: it is an ordinary English word for where something comes from, and the essay pins it to one picture, the sun, before using it.
