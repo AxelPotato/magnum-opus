@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.2.0 (2026-11-06)
+
+- Part two: the opening is rewritten around source (starts from the idea in the shower and the second wind, the two views as two answers to where they come from, source and the sun inside the second view); Rubin no longer named
+
+
 ## 7.1.1 (2026-11-06)
 
 - Part two: Alex's own experience of the source fills the slot

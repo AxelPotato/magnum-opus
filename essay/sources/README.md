@@ -81,7 +81,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Confucius, Analects 15.24 (reciprocity, shu) [person, checked]
 - Richard Bach, Jonathan Livingston Seagull (1970), speed as an image [text, unchecked; removed from the essay in 4.13.0]
 - Alan Watts, "The Dream of Life", the dreamer who hides the dream from himself [talk, partly checked]
-- Rick Rubin, The Creative Act (2023), "The Source of Creativity", the word source [book, checked against the text Alex shared; added in 7.1.0]
+- Rick Rubin, The Creative Act (2023), "The Source of Creativity", the word source [book, checked against the text Alex shared; cited in 7.1.0 to 7.1.1, no longer cited since 7.2.0, private context]
 - Mencius (Mengzi) 2A:2, the vast, flowing qi [text, checked]
 - Konkordia Antarova, Two Lives: no miracles, only levels of knowledge [text, checked]
 - Swami Anand Arun, In Wonder with Osho (no longer cited since 5.0.6; private context for the memoir in the fold 'My teacher and I') [text, partly checked]

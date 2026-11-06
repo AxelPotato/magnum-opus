@@ -509,7 +509,7 @@ Kind: person. Status: checked against the full text Alex shared (chapter 3 of 78
 
 Who: American record producer, co-founder of Def Jam and later head of American Recordings, known for work with the Beastie Boys, Johnny Cash, Red Hot Chili Peppers and Adele. The book is 78 short chapters on making art as a way of living, with no religion and no school behind it.
 
-In the essay: Part two, "Where we part ways", in the paragraph that gives the second view its plainer word, source. The essay says that Rubin calls it Source in his book on making art and that for him it is where an artist's ideas come from. It quotes nothing.
+In the essay: no longer cited. Named once in v7.1.0 and v7.1.1, in Part two's opening where the word source is introduced; removed in v7.2.0 at Alex's call (2026-11-06, "Rubin should not be named at this point"). Kept as private context for where the word comes from.
 
 The passage (paraphrase, not cleared for quoting): Rubin says the material we create from seems to come from within, that this is an illusion, and that the Source is a wisdom around us, always available, which we sense, remember or tune in to; we carry small fragments of it. He compares it to a cloud that turns into rain, then ocean, then cloud again. In "The Vessel and the Filter" each person's filter reduces Source, and training can widen what gets through. Still in copyright: keep to a paraphrase.
 
