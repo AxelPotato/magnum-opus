@@ -2,43 +2,32 @@
 
 ## Where we part ways
 
-Part one was the polite part. Everything in it holds up whichever way you think the universe works. This part is where we part ways. Most people would call the top right corner of that chart the goal. I'd call it the edge of the chart, because the whole chart rests on one quiet assumption: that I'm a separate thing, and a separate thing has to protect itself and take what it needs. Every room on it is that thing getting better at its job.
+Part one was the polite part. Everything in it holds up whichever way you think the universe works, and this is where we part ways. Most people would call the top right corner of that chart the goal. I'd call it the edge, because the whole chart rests on one quiet assumption: that I'm a separate thing, and a separate thing has to protect itself and take what it needs. If you'd rather have a practical next step, Part three is for you, and you can come back here any time.
 
-This part is the big picture: how life is built on the macro side, where it comes from and where it leads. If you'd rather have a practical next step, Part three is for you. You can go straight there and come back whenever you like.
+Start with something you've had. You're in the shower, thinking about nothing, and the answer to the thing you were stuck on all week just turns up. Or it's late, someone you love calls and needs help, and from somewhere you get a second wind. Where did that come from?
 
-Start with something you've had. You're in the shower, thinking about nothing in particular, and an idea turns up that solves the thing you were stuck on all week, and you'd swear you didn't think it up. Or it's late, you're done for the day, someone you love calls and needs help, and from somewhere you get a second wind you didn't know you had. Where did that come from?
+The first answer starts from what you can see: a world of things, and underneath them particles. A mind is something a brain does, and when the brain stops, the experiencer stops. Here the idea in the shower was your brain finishing its homework in the background.
 
-There are two answers, at opposite ends, and most people stand somewhere in between without noticing.
+The second view sits at the other extreme, and it starts from a different assumption: that we are part of something bigger. There is one shared consciousness, and each life, yours and mine, is an individual experience of it. I'm one of the places the whole looks out from, with the memory of the rest switched off for a while. Most people have felt a moment of it, holding a newborn maybe, or on a quiet evening by the sea, when the line between you and everything else went thin.
 
-The first starts from observation. Look around and you see a world of things, and underneath them particles, or quantum fields if you want the physicist's answer. I look in a mirror, see one of those things, and feel like a person: me in here, everybody else out there. From that you get an assumption, that matter is the basic stuff, that a mind is something a brain does, and that consciousness depends on that activity. Follow it through and you get materialism, and often determinism, the idea that earlier causes fix everything that happens. When the brain stops, the experiencer stops. Here the idea in the shower was your brain finishing its homework in the background, which is a perfectly good answer.
+Here the idea and the second wind came from the whole, and the word I use for the whole, as it shows up from inside one life, is source. Think of the sun. Nearly all the energy in your breakfast started out as sunlight, and the sun shines on everybody, whether they think about it or not. The source is on all the time and reaches everyone, and what changes from one person to the next is how much of it gets through. The times I've felt it most came with the same sensation: that I'm not alone, that I have a lot of energy at my disposal, and that I can do whatever I set my intention to. And each time, the biggest wish that came with it was to share that state with other people.
 
-The second view sits at the other extreme, and it starts from a different assumption: that we are part of something bigger. There is one shared consciousness, and each life, yours and mine, is an individual experience of it. On this reading I'm not a separate thing inside the world. I'm one of the places the whole looks out from, with the memory of the rest switched off for a while. Most people have felt a moment of it, holding a newborn maybe, or on a quiet evening by the sea, when the line between you and everything else went thin.
-
-So under the second view, the idea and the second wind came from the whole you're part of. The word I use for the whole, as it shows up from inside one life, is source: the place things come from, the ideas and the strength to act on them.
-
-If you want a picture of it with no religion in it, take the sun. Nearly all the energy in your breakfast and in the fuel in your car started out as sunlight, and the sun shines on everybody, whether they ever think about it or not. The source works the same way. It is on all the time and it reaches everyone. What changes from one person to the next is how much of it gets through. The times I've felt it most came with the same sensation: that I'm not alone, that I have a lot of energy at my disposal, and that I can do whatever I set my intention to. And each time, the biggest wish that came with it was to share that state with other people.
-
-If that's how it is, the obvious question is why being separate feels so convincing. That question is most of this part.
-
-One thing before we go on, because it changes how you read the rest. I'm not religious, and I'm not asking you to adopt anybody's religion. What I will do is quote a lot of traditions: Hindu, Buddhist, Jain, Jewish, Christian, Muslim, Daoist, Greek, and a few people with no religion at all. They use different words, and sometimes different gods, and they keep coming back to a few of the same ideas.
+So why does being separate feel so convincing? That question is most of this part.
 
 ## Why this idea is worth a closer look
 
-Here's why I think the second view deserves the effort. People were saying it long before anyone had a long weekend in the mountains, and something close to it turns up in each of the big religions. Hindu texts say it outright. Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism come at it from another side. Agreement alone settles nothing, so the rest of this part does something else with it: it takes the idea as true and shows what follows, and you can judge it by that.
+I'm not religious, and I'm not asking you to adopt anybody's religion. I'll quote a lot of traditions because, in their own words, they keep coming back to this idea. Hindu texts say it outright, Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism come at it from another side. People with no creed say it too. Spinoza argued that there is only one substance, which he called God or Nature, and Carl Sagan said on television in 1980 that we are a way for the cosmos to know itself.
+
+Agreement settles nothing by itself, so I'll take the idea as true and show what follows from it, one step at a time. You can judge it by that.
 
 #### The base, tradition by tradition
 
 * Hinduism: in the Chandogya Upanishad, one of India's oldest texts, a father tells his son that the finest essence is the self of the whole world, and that he is that.
 * Buddhism comes at it from another side. The early discourses teach that none of the parts that make up a person is my self, and later schools say that nothing exists on its own. One school of Chinese Buddhism pictured that as a net of jewels in which each jewel reflects all the others.
-* Jainism, the Indian religion of non-harm, starts from the idea that all souls are alike, and its ethic rests on that. Its oldest text on conduct tells the reader that whoever you intend to harm feels as you would, and a later summary of the faith says that souls render service to one another.
 * Judaism: the central prayer, the Shema, says that the Lord is one, and Chabad, a Hasidic movement, reads that unity as including the world: from God's side the world is as nothing before him, while from ours it is real.
 * Christianity: Jesus prays that his followers may all be one, just as you, Father, are in me, and I in you, and Paul ends his account of the end with God being all in all.
 * Islam: the Quran says that wherever you turn there is the face of God, and the Sufi mystic Ibn Arabi called all things "He/not He," meaning that each thing is God and also not God.
 * Daoism: in the Daodejing the Way gives birth to one, one gives birth to two, and the sequence runs on to the ten thousand things, the Chinese phrase for everything that exists.
-
-People with no creed have said it too. Spinoza argued that there is only one substance, which he called God or Nature, and that everything else is a form of it. When a rabbi cabled Einstein in 1929 to ask whether he believed in God, Einstein said he believed in Spinoza's God, meaning the lawful order of nature, nothing that cares what we do. Erwin Schrödinger argued that the plurality of minds is only apparent and tied that to the Upanishads. And Carl Sagan, about as far from a mystic as a famous person gets, said on television in 1980 that we are a way for the cosmos to know itself.
-
-These people don't hold exactly the view I'll use, and they share the base: what looks like many is not as separate as it looks. I'll take that base as the axiom and follow what comes out of it. If it's right, the ideas people usually file under "spiritual" come out as logical consequences, one after another. The traditions got there from many directions. Here the same ideas are laid out in the order they follow from one assumption.
 
 ## The axiom and the machine
 
@@ -266,11 +255,9 @@ Translations: Bible verses quoted word for word follow the English Standard Vers
 Where we part ways, and why the idea is worth a look
 
 - Spinoza, B. Ethics, Part I (propositions 14 and 15, one substance) and the Preface to Part IV (God or Nature).
-- Einstein, A. Telegram of April 1929 to Rabbi Herbert Goldstein, reported in the New York Times, 25 April 1929.
-- Schrödinger, E. (1944). What Is Life? Cambridge University Press. Schrödinger, E. (1958). Mind and Matter. Cambridge University Press (the Tarner lectures of 1956).
 - Sagan, C. (1980). Cosmos: A Personal Voyage, episode 1, The Shores of the Cosmic Ocean.
 - Chandogya Upanishad 6.8.7. Deuteronomy 6:4. John 17:21. 1 Corinthians 15:28. Quran 2:115. Daodejing 42.
-- Tattvartha Sutra 5.21. The Acharanga Sutra, translated by Jacobi, H. (1884), Jaina Sutras, Part 1 (Sacred Books of the East, vol. 22). Cook, F. H. (1977). Hua-yen Buddhism: The Jewel Net of Indra. Penn State University Press.
+- Cook, F. H. (1977). Hua-yen Buddhism: The Jewel Net of Indra. Penn State University Press.
 - Shneur Zalman of Liadi, Tanya, Part II, Sha'ar ha-Yichud ve-ha-Emunah (the Gate of Unity and Faith). Chittick, W. C. (1989). The Sufi Path of Knowledge. SUNY Press.
 
 The axiom and the machine
