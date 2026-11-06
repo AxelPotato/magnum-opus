@@ -2,39 +2,32 @@
 
 ## Where we part ways
 
-Part one was the polite part. Everything in it holds up whichever way you think the universe works. This part is where we part ways. Most people would call the top right corner of that chart the goal. I'd call it the edge of the chart, because the whole chart rests on one quiet assumption: that I'm a separate thing, and a separate thing has to protect itself and take what it needs. Every room on it is that thing getting better at its job.
+Part one was the polite part. Everything in it holds up whichever way you think the universe works, and this is where we part ways. Most people would call the top right corner of that chart the goal. I'd call it the edge, because the whole chart rests on one quiet assumption: that I'm a separate thing, and a separate thing has to protect itself and take what it needs. If you'd rather have a practical next step, Part three is for you, and you can come back here any time.
 
-This part is about the bigger picture: how the macro side of life is built, where all of this comes from and where it leads. If what you're looking for is a more practical next step, Part three is for you. You can go straight there and come back here whenever you like.
+Start with something you've had. You're in the shower, thinking about nothing, and the answer to the thing you were stuck on all week just turns up. Or it's late, someone you love calls and needs help, and from somewhere you get a second wind. Where did that come from?
 
-One thing first, because it changes how you read everything after it. I'm not religious, and I'm not asking you to adopt anybody's religion. What I will do is quote a lot of traditions: Hindu, Buddhist, Jain, Jewish, Christian, Muslim, Daoist, Greek, and a few people with no religion at all. They use different words, and sometimes different gods, and they keep coming back to a few of the same ideas.
+The first answer starts from what you can see: a world of things, and underneath them particles. A mind is something a brain does, and when the brain stops, the experiencer stops. Here the idea in the shower was your brain finishing its homework in the background.
 
-One more thing, about how I'll argue. A world, real or invented, has to be coherent within its own rules. The rules can be as odd as you like, and what makes the world believable is that everything that happens in it follows from them. This is the test I'll run on the picture of reality in this part. Take one assumption about how things are, and ask whether everything else follows from it. You don't have to agree with the starting assumption for the test to work. Coherence is the first test, and your own life is the second, so the end of this part has a check and a prediction you can test on yourself.
+The second view sits at the other extreme, and it starts from a different assumption: that we are part of something bigger. There is one shared consciousness, and each life, yours and mine, is an individual experience of it. I'm one of the places the whole looks out from, with the memory of the rest switched off for a while. Most people have felt a moment of it, holding a newborn maybe, or on a quiet evening by the sea, when the line between you and everything else went thin.
 
-Two ways of reading a life sit at opposite ends. Most people stand somewhere in between without noticing.
+Here the idea and the second wind came from the whole, and the word I use for the whole, as it shows up from inside one life, is source. Think of the sun. Nearly all the energy in your breakfast started out as sunlight, and the sun shines on everybody, whether they think about it or not. The source is on all the time and reaches everyone, and what changes from one person to the next is how much of it gets through. If source sounds like too much, call it life, or connection. What matters is noticing the moments when there's more of it. The times I've felt it most came with the same sensation: that I'm not alone, that I have a lot of energy at my disposal, and that I can do whatever I set my intention to. And each time, the biggest wish that came with it was to share that state with other people.
 
-The first starts from observation. Look around and you see a world of things, and underneath them particles, or quantum fields if you want the physicist's answer. I look in a mirror, see one of those things, and feel like a person: me in here, everybody else out there. From that you get an assumption, that matter is the basic stuff, that a mind is something a brain does, and that consciousness depends on that activity. Follow it through and you get materialism, and often determinism, the idea that earlier causes fix everything that happens. When the brain stops, the experiencer stops. This view built hospitals and phones, and I live inside it for most of my day. In my body it feels like the plain truth. Me, Alex, a separate entity. Hello.
-
-The second view sits at the other extreme, and it starts from a different assumption: that we are part of something bigger. There is one shared consciousness, and each life, yours and mine, is an individual experience of it. On this reading I'm not a separate thing inside the world. I'm one of the places the whole looks out from, with the memory of the rest switched off for a while. Most people have felt a moment of it, holding a newborn maybe, or on a quiet evening by the sea, when the line between you and everything else went thin.
-
-Both of these are assumptions. Nobody has observed that matter is all there is, because every observation was made through the same mind we're trying to explain. The first view predicts well, and the working assumption that experience depends on brain activity has strong evidence behind it. What nobody has is an accepted account of why that activity feels like anything from the inside, which the philosopher David Chalmers called the hard problem in 1995. The second view finds experience easy, since it is the basic ingredient, and takes on the opposite question: if consciousness is shared, why does separation feel so convincing? That question is most of this part.
+So why does being separate feel so convincing? That question is most of this part.
 
 ## Why this idea is worth a closer look
 
-Here's why I think the second view deserves the effort. People were saying it long before anyone had a long weekend in the mountains, and something close to it turns up in each of the big religions. Hindu texts say it outright. Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism come at it from another side. Agreement alone settles nothing, so the rest of this part does something else with it: it takes the idea as true and shows what follows, and you can judge it by that.
+I'm not religious, and I'm not asking you to adopt anybody's religion. I'll quote a lot of traditions because, in their own words, they keep coming back to this idea. Hindu texts say it outright, Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism come at it from another side. People with no creed say it too. Spinoza argued that there is only one substance, which he called God or Nature, and Carl Sagan said on television in 1980 that we are a way for the cosmos to know itself.
+
+Agreement settles nothing by itself, so I'll take the idea as true and show what follows from it, one step at a time. You can judge it by that.
 
 #### The base, tradition by tradition
 
 * Hinduism: in the Chandogya Upanishad, one of India's oldest texts, a father tells his son that the finest essence is the self of the whole world, and that he is that.
 * Buddhism comes at it from another side. The early discourses teach that none of the parts that make up a person is my self, and later schools say that nothing exists on its own. One school of Chinese Buddhism pictured that as a net of jewels in which each jewel reflects all the others.
-* Jainism, the Indian religion of non-harm, starts from the idea that all souls are alike, and its ethic rests on that. Its oldest text on conduct tells the reader that whoever you intend to harm feels as you would, and a later summary of the faith says that souls render service to one another.
 * Judaism: the central prayer, the Shema, says that the Lord is one, and Chabad, a Hasidic movement, reads that unity as including the world: from God's side the world is as nothing before him, while from ours it is real.
 * Christianity: Jesus prays that his followers may all be one, just as you, Father, are in me, and I in you, and Paul ends his account of the end with God being all in all.
 * Islam: the Quran says that wherever you turn there is the face of God, and the Sufi mystic Ibn Arabi called all things "He/not He," meaning that each thing is God and also not God.
 * Daoism: in the Daodejing the Way gives birth to one, one gives birth to two, and the sequence runs on to the ten thousand things, the Chinese phrase for everything that exists.
-
-People with no creed have said it too. Spinoza argued that there is only one substance, which he called God or Nature, and that everything else is a form of it. When a rabbi cabled Einstein in 1929 to ask whether he believed in God, Einstein said he believed in Spinoza's God, meaning the lawful order of nature, nothing that cares what we do. Erwin Schrödinger argued that the plurality of minds is only apparent and tied that to the Upanishads. And Carl Sagan, about as far from a mystic as a famous person gets, said on television in 1980 that we are a way for the cosmos to know itself.
-
-These people don't hold exactly the view I'll use, and they share the base: what looks like many is not as separate as it looks. I'll take that base as the axiom and follow what comes out of it. If it's right, the ideas people usually file under "spiritual" come out as logical consequences, one after another. The traditions got there from many directions. Here the same ideas are laid out in the order they follow from one assumption.
 
 ## The axiom and the machine
 
@@ -76,212 +69,144 @@ The traditions give answers to why a whole would do this, and they rhyme. Hindu 
 
 ## 2. How a whole turns itself down
 
-Step 1 ended on the claim that separation is a way of looking. That leaves the question this step is about. How does something whole manage to look at itself as a part? Nothing outside the whole could do it to the whole, because there is no outside. So whatever happens has to be something the whole does, and the question becomes what that would take.
+How does something whole manage to look at itself as a part? There is nothing outside it that could do that, so it has to be something the whole does to itself.
 
-My answer is that it takes doing less. A whole that can do anything can also do less than everything, and that ability belongs to being whole, since a whole that couldn't lower its own settings would be limited by that. So picture it turning down a few settings for one point of view. Turn down what that point of view can know, so it sees only what is near it. Turn down what it can do, so it acts only on what is within reach. Give it a clock, so its life has a before and an after. Give it a need, a sense of not having enough yet, so that it reaches for things. Set all four low enough and you get an experiencer who knows a little, can do a little, lasts a little and wants quite a lot, which is a fair description of me before coffee. The need is the busiest of the four. Most of what any of us calls "what I want" grows out of it, shaped by how we were raised and by everything the world around us keeps offering, and very little of it was ever really decided by us.
+My answer is that it takes doing less. A whole that can do anything can also do less than everything, so picture it turning down four settings for one point of view. What it can know, so it sees only what is near. What it can do, so it acts only within reach. Time, so its life has a before and an after. And need, a feeling of not having enough yet, so that it reaches for things. Set all four low and you get someone who knows a little, can do a little, lasts a little and wants quite a lot, which is a fair description of me before coffee.
 
-Operating systems do this all day. A program is given its own private memory, a short list of things it may do, a slice of processor time and a limit on what it can use. The machine still has all of it. The program has been granted a part, and from inside that part the limits look like the way things are. A program doesn't wake up wondering where the rest of the memory went. That is all forgetting has to be: a limit you are inside of, which for that reason never shows up as a limit. It can show up to someone standing outside it, the way everyone hears your accent except you.
+Your own body does it too. Almost every cell carries the full plan for you, and a liver cell uses a small part of it, with the rest switched off and kept. John Gurdon and Shinya Yamanaka shared a Nobel Prize for showing that the parts switched off can be switched back on. A cell with every setting on would be no use to the body. The lowered settings are what give the part its job.
 
-Your own body does it too. Almost every cell in it carries the complete plan for you. A liver cell holds the instructions for an eye and for a nerve, and it uses a small fraction of them. Being a liver cell means having nearly everything switched off so the liver work can get done, and nothing is deleted. John Gurdon put the nucleus of a tadpole's gut cell into an egg that had been emptied of its own, and the egg grew into a frog. In 2006 Shinya Yamanaka showed in mouse skin cells, and a year later in human ones, that a handful of genes can switch a cell back into one that can become anything. They shared a Nobel Prize for it. A cell with every setting on would be no use to the body, so the lowered settings are what give the part its job. A cell also stays well only while it keeps listening. Cells in a body pick up signals from their neighbors that say when to divide and when to stop. How much of the signal from the whole a person still picks up is a matter of degree, and I am somewhere on that scale myself.
+Lowered settings are half of it. The other half is a world that agrees with them. Every body hurts on its own, every object has an edge, every life has its own bills and its own birthday, and each time you check, all of it says you are in here and the rest is out there. The traditions call this lila, the play, and maya, the appearance. It's made so well that the whole, looking through it, believes it, the way you cry at a film while knowing perfectly well that the dog is an actor.
 
-#### Cloaks, contraction and things switched off
+One more thing is needed. A part running a script written in advance would just be the whole reading itself a story. So the whole hands over the steering, and that is free will. You don't choose the rules or what each choice costs. You do choose what you do, and nothing in the steps ahead forces the way back.
 
-* The traditions describe the wall as built, veiled or forgotten. Buddhism says the self is built. What feels like one solid "me" is described as a bundle of parts: body, feelings, perceptions, intentions and habits, and awareness, working together, and the first thing the path asks you to drop is the belief that there is a solid, permanent "me" behind them.
-* Jain teaching describes karma as fine matter that veils the soul's own natural knowledge, as clouds veil the sun, so the perfection was there all along.
-* The letter to the Ephesians says that the non-Jewish world its readers left behind is alienated from the life of God because of the ignorance that is in them (4:18). In the Quran (7:172) God asks the descendants of Adam, "Am I not your Lord?", and Sufis read that moment as the origin the soul has forgotten and longs to return to.
+#### Cloaks, contraction and the steering
+
 * Kashmir Shaivism, a school of Hindu philosophy whose name, Pratyabhijna, means recognition, teaches that the One narrows itself into a person through five cloaks: limited power to act, limited knowledge, a sense of lack that makes us reach for things, time, and a fixed order of cause and place. Its short text, the Pratyabhijnahrdayam, presents the path as recognizing what you are.
 * Isaac Luria, the sixteenth-century Kabbalist of Safed, taught tzimtzum: the Infinite withdraws into itself to leave a space in which a world can exist.
+* Jain teaching describes karma as fine matter that veils the soul's own natural knowledge, as clouds veil the sun, so the perfection was there all along.
 * In the Chandogya Upanishad (6.13) a father has his son put salt in water and come back the next morning. The salt can't be seen, and it is in every sip. Then comes the refrain from 6.8.7: that is the self, and you are that.
-
-Turning the settings down is half of it. The other half is the world the point of view looks out at. A part with fewer settings could still suspect that it belongs to something bigger, unless everything it touches tells it otherwise. So the whole builds the experience of separation to be convincing. Every body hurts on its own, every object has an edge, every life has its own bills and its own birthday, and every time you check, all of it agrees that you are in here and the rest is out there. The traditions call this lila, the play from step 1, or maya, the appearance. It is made so well that the whole, looking through it, starts to believe it. Nothing in it is broken. We are still one, and we built a world that is very good at helping us forget it. Honestly, it is the best software ever shipped. Zero bug reports, mostly because nobody can find the support page.
-
-There is one more thing the whole has to do, and without it none of the rest would work. Picture a part with every setting turned down, inside the most convincing world you can imagine, and still running a script the whole wrote in advance. That part isn't separate at all. It is the whole reading a story to itself, a well-prepared plan that just executes. For the separation to be real, the whole has to hand over the steering, and that is free will, the biggest unknown it could give itself. Watts's dream, in the fold under the axiom, says the same thing: on the night you get tired of knowing how it goes, you dream something you don't control.
-
-Free will here means being free inside the rules. You don't choose the rules or what each choice costs, and you do choose what you do. The steps that follow put a lot of machinery around a person: a drift, a signal that flips, lessons that keep coming back. None of it forces anything. It makes one direction feel better and shows where the work is, and you can ignore it for a whole life. If the return were forced, the separation would never have been real in the first place. What stays open is the pace and the way. Spinoza, whom I quoted at the start as a witness for the one substance, disagrees here. He held that people think themselves free only because they know their own actions and not the causes behind them. On this point the axiom parts ways with him.
-
-#### Foreseen, and still chosen
-
 * In the Mishnah, Rabbi Akiva says that everything is foreseen, and freedom of choice is given (Avot 3:15, numbered 3:16 in some editions). As I read it, that is this whole point in one line: the whole sees everything and still hands over the steering.
-* In the Bhagavad Gita, after teaching Arjuna everything, Krishna tells him to meditate on it and then act as he wishes (18:63).
-* The Quran tells the Prophet to say that the truth is from the Lord, so whoever wills, let him believe, and whoever wills, let him disbelieve (18:29).
-* Pico della Mirandola, the fifteenth-century Italian thinker, has God tell Adam in the Oration on the Dignity of Man that he was given no fixed seat, no face of his own and no special gift, so that he could have whatever seat, face and gifts he chose. Every other creature is bound by laws set for it, and Adam alone decides his own nature by his own free choice.
 
-The body holds the limits in place. The belief that I'm separate is held as tension, and the felt edge of me is the wall. Clench a fist and you feel like a small hard object among other objects, and when you loosen it the feeling softens.
+The body holds the limits in place. The belief that I'm separate is held there as tension. Clench a fist and you feel like a small hard thing among other things, and when you open it the feeling softens. That tension is the wall.
 
-That also explains a pull most of us know. A world built to help a whole forget keeps doing its job, so the default direction is toward more separation. Do nothing in particular and you end up a little more separate every year, more guarded and more sure of where you end. Give it enough years and you become the guy who starts every sentence with "back in my day". I can feel it starting already. Settings that were lowered stay lowered, and nothing in the program's own routine raises them. On its own the drift only goes one way, so something else has to start the return.
+Left alone, the wall gets thicker. A world built to help a whole forget keeps doing its job, so if you do nothing in particular, every year you're a little more guarded and a little more sure of where you end. Give it enough years and you start sentences with "back in my day". Something else has to start the return.
 
 ## 3. The wall, felt from inside
 
-Step 2 built the wall and a world that keeps it convincing. The next question is what the wall feels like from inside, and the axiom has a definite answer to it. The answer covers two things we usually keep in separate drawers, pain and love.
+Start with pain. Some of it is the body doing its job: you touch a hot pan and your hand pulls back before you've had a single thought. Then there is the part we add on top. When something hurts, the tension that holds the wall closes around the pain and says this shouldn't be happening. Most of what we call suffering is that, the pain plus our fight against it. So suffering measures resistance. The more you push against what is happening, the more it hurts.
 
-Start with pain. Some of it is just the body doing its job. You touch a hot pan and your hand pulls back before you've had a single thought, and that kind of pain keeps you alive. Then there is the part we add on top. Step 2 said that the wall is held in the body as tension, and Part one called that tension a tax. When something hurts, the same tension closes around the pain and says that this shouldn't be happening. Most of what we call suffering is that: the pain, plus our fight against it. So suffering measures resistance. The more you push against what is happening, the more it hurts.
+I know this one from my own life. Most of the friends I grew up with, and I'm still friends with them, have a partner, and some have kids. Relationships have never come easily to me, and for many years I didn't know whether I even wanted one. Looking back, what caused me the most suffering on the subject was how much time my mind spent on that question. That was the part I added on top.
 
-I know this one from my own life. Most of the friends I grew up with, and I'm still friends with them, have a partner, and some have kids. Relationships have never come easily to me, and for many years I didn't know whether I even wanted one, sometimes yes, sometimes no. Looking back, what caused me the most suffering on the subject was how much time my mind spent on that question. That was the part I added on top.
+The pain itself is a signal, and most of the time it asks for something to be done. If it's your body, go to a doctor. If it's a person hurting you, fight back or leave. Letting go drops only the layer on top, the inner fight against the fact that this is happening, and without it the next move is usually easier to see.
 
-None of this makes the pain itself something to sit through. Pain is a signal too, and most of the time it asks for something to be done in the world. If it's your body, go to a doctor. If it's a person hurting you, fight back or leave. Letting go of resistance leaves all of that in place. What it drops is the layer on top, the inner fight against the fact that this is happening, and without that layer it is usually easier to see what to do.
+Measuring resistance gives suffering a job. Left alone, the wall only gets thicker, so something has to report what it costs, in a way we can't simply ignore. Suffering is that report. It works like the warning light on a car's dashboard. Nobody enjoys seeing it come on, and it is the only reason anyone opens the hood. Putting a piece of tape over it is also an option, and most of us have tried that at some point.
 
-Measuring resistance gives suffering a job. Step 2 ended on a pull that only goes one way, toward more separation, and nothing in an ordinary day turns it around by itself. So something has to tell us what the wall is costing, and it has to be a message we can't simply ignore. Suffering is that message. It works like the warning light on a car's dashboard. Nobody enjoys seeing it come on, and it is the only reason anyone opens the hood. Putting a piece of tape over it is also an option, and most of us have tried that at some point.
+The same signal reads the other way. When the wall drops for a moment, what you feel is love. A child runs at you and you pick them up, or a friend says exactly what you needed to hear, and for a second you don't notice where you end. Under the axiom it feels good because for that second you are acting as what you are, a part of one whole. Part one called being in love the preview of the far corner of its chart, and this is what the preview shows.
 
-#### A post-mortem, the way we do it at work
+That's also why love is strongest with the people closest to you, where the wall is thinnest. It helps to tell love apart from need, since the two live in the same relationships. Need says, I need you so that I feel whole. Love says, you are part of what I am. Most of us have plenty of both, me included, and the work is to grow the second. Need keeps score of who did the dishes last. Love just does them, which I'm told is very attractive.
 
-* In software, when something breaks, the team writes a post-mortem. The habit is to keep asking why until you reach the cause that, once fixed, stops the whole problem from coming back. Taiichi Ohno made it famous at Toyota as asking why five times. Try it on a wish. Why do I want a new car? Mine is getting old. Why does that matter? I'd feel I'm doing well. Why do I want that? Then I could finally relax. And why relax? Because then I'd be happy. Every chain I've tried ends there, whatever it starts from.
-* Now try it on a pain. Why am I irritated with my colleague? The credit went to someone else. Why does that sting? I need people to see what I'm worth. Why? My worth feels like something out there that I have to win and defend. And why would it be out there? Because I feel like I'm in here, separate, and everything else is out there. That's the wall from step 2, and every chain of this kind I've tried ends at it too. Run it on something of your own. It takes about a minute.
+That leaves the hardest question. If we are all part of one whole, why does it allow cruelty? There is nobody else, so the whole is on both sides of everything that happens, the one who hurts and the one who is hurt. And a steering wheel that could only turn toward kindness wouldn't be a steering wheel. What we call evil is what a point of view does when its wall is at its thickest: it acts as if the other is no part of it at all. Augustine said that evil is the absence of good, the way a shadow is only a place where the light isn't getting through, and under the axiom that is exactly right. Evil is love that is missing. Knowing what cruelty is never asks anyone to stand by, and step 6 says where it lands.
 
-The same signal reads the other way too. If pain is what the wall feels like when it is held tight, then what you feel when it drops for a moment is love. A child runs at you and you pick them up, or a friend says exactly the thing you needed to hear, and for a second you don't notice where you end. Nobody has to explain to you that this feels good. Under the axiom it feels good because for that second you are acting as what you are, a part of one whole, and the wall isn't in the way. Part one called being in love the preview of the far corner of its chart, and this is what the preview is showing.
+So pain and love are one signal, read in two directions. Over one evening that's a mood. Over a year it is a direction.
 
-That's also why love is strongest with the people closest to you. With your children, your partner and your oldest friends the wall is at its thinnest, so it doesn't take much for it to drop. It helps to tell love apart from the need from step 2, since the two live in the same relationships. Need says, I need you so that I feel whole. Love says, you are part of what I am. Most of us have plenty of both, me included, and the work is to grow the second. Love also grows outward a step at a time, from your own people to friends, to strangers, to the people who are hard for you, and further. In my field, two programs sharing memory without permission is a vulnerability. With permission it's a feature, which is also a decent description of a good marriage.
+#### Two arrows, two halves and the absence of good
 
-#### Halves, and a ladder
-
+* In the Sallatha Sutta he says that when something hurts, an untrained person feels two pains, the physical one and the mental one added on top, like a man struck by one arrow and then by a second, while a trained disciple feels only the first (Samyutta Nikaya 36.6).
+* Augustine asks in his Enchiridion what we call evil if not the absence of good, and compares it to a disease or a wound in the body, which is the absence of health and does not exist on its own (chapter 11).
 * In Plato's Symposium, Aristophanes tells a comic story in which humans were once whole and were cut in two, so each of us goes looking for our other half, and he says that love is the name for the desire and pursuit of the whole (192e to 193a). Later in the same dialogue Diotima describes a ladder of love that climbs from one beautiful body to all of them, then to beautiful souls, to laws and knowledge, and finally to beauty itself (210a to 212a).
 * The first letter of John says that God is love, and whoever abides in love abides in God, and God abides in him (4:16).
 * The Metta Sutta, the Buddhist discourse on loving kindness, says that just as a mother would protect her only child with her life, one should cultivate a boundless heart toward all beings (Sutta Nipata 1.8).
-* Ibn Arabi wrote in a poem that his heart had become able to take on every form, a pasture for gazelles and a convent for monks, and that he follows the religion of love wherever its camels turn (Tarjuman al-Ashwaq, poem 11).
-
-That leaves the hardest question this part has to answer. If we are all part of one whole, why would it allow cruelty? The axiom answers it in its own terms. There is nobody else, so the whole is never doing anything to a stranger. It is on both sides of everything that happens, the one who hurts and the one who is hurt. And step 2 handed over the steering, and a steering wheel that could only turn toward kindness wouldn't be a steering wheel. What we call evil is what a point of view does when its wall is at its thickest. It acts as if the other is no part of it at all, and it no longer hears the signal that would tell it otherwise. Augustine, who thought about this question as hard as anyone, said that what we call evil is the absence of good and has no substance of its own. A shadow works the same way, since it is only a place where the light isn't getting through. Under the axiom that is exactly right: evil is love that is missing, the wall standing where the whole should be felt. None of this makes cruelty fine, and none of it asks anyone to stand by. It says what cruelty is, and step 6 says where it lands.
-
-So pain and love are one signal, read in two directions. The more wall you hold, the more it hurts, and the less you hold, the more love gets through. Over one evening that's a mood. Over a year it is a direction, and the next step is about the moment the direction changes.
-
-#### Two arrows, and the absence of good
-
-* In his first talk the Buddha names the truth of suffering, its origin in craving, its ending, and the path that leads to that ending (Samyutta Nikaya 56.11), which is the shape of a post-mortem: the problem, its root cause, the fact that it can end, and the fix. As I read it, craving is the need setting from step 2 in his words.
-* In the Sallatha Sutta he says that when something hurts, an untrained person feels two pains, the physical one and the mental one added on top, like a man struck by one arrow and then by a second, while a trained disciple feels only the first (Samyutta Nikaya 36.6).
-* Augustine asks in his Enchiridion what we call evil if not the absence of good, and compares it to a disease or a wound in the body, which is the absence of health and does not exist on its own (chapter 11).
-* Irenaeus, a second-century bishop, taught that people were made unfinished so that they could grow, and that they come to know the worth of good by having tasted its opposite (Against Heresies IV.38 to 39).
-* At the end of the book of Job, after the voice from the whirlwind, Job says to God that he had heard of him by the hearing of the ear, and now his eye sees him (42:5).
 
 ## 4. The turn
 
-The third clause says the separation ends, step 2 says the drift only goes one way, and step 3 says the wall keeps reporting what it costs. So the whole needs something built in that turns a point of view around once it has gone far enough, and I think that is exactly what we find.
+Picture the run in two halves. In the first half separation is new, and it is the thing being learned. Getting more separate feels good here: my own room, my own money, my own name on the door, winning. This is the half of the game you came for, and the happiness in it is real.
 
-Picture the run in two halves. In the first half separation is new, and it is the thing being learned. Getting more separate feels good here: my own room, my own money, my own name on the door, winning. This is the half of the game you came for, and the happiness you get from it is real.
+Somewhere there is a bottom point, the most separate a point of view gets, and past it the signal flips. The same moves stop paying. A step toward unity starts to feel good in a way that lasts, and taking more for yourself starts to feel empty. Nobody announces it. It shows up as a flatness no new result can touch, and a quiet question of whether this is all there is. I call it the turn. It is where the third clause of the axiom, that the separation ends, starts working on one particular person.
 
-Somewhere there is a bottom point, the most separate a point of view gets, and past it the signal flips. The same moves stop paying. A step toward unity starts to feel good in a way that lasts, and standing still, or taking more for yourself, starts to feel empty. Nobody announces it. It shows up as a flatness that no new result can touch, and a quiet question of whether this is all there is. I call it the turn, and it is the moment the third clause starts working on a particular person.
+Any room on Part one's chart can hit it. In Driven it usually looks like the crash after reaching the goal, in Drifting like the plateau, and in Default like an emptiness in a perfectly ordinary life. For me it was the weekends I mentioned in Part one, when every free hour felt empty and none of my results could reach it. Some people seem to be born after it. They never quite fit a world that runs on separation and start searching young, which from the outside can look a lot like being a difficult teenager.
 
-#### Restless until it rests
+The switch is hard, because everything in you was trained to move the other way. The old moves still look right and stop feeling right, so a driven person often doubles down first. It's like pressing the elevator button harder. Everybody knows it doesn't help, and we all do it. There's a fear in it as well. If more is possible than you thought, the excuses go, and it's all back in your hands.
+
+After the turn, happiness becomes the compass. I mean the state you live in over months: fulfillment, steady good will toward people, wanting to get up in the morning. A moment of fun comes and goes. The test is simple. Over the last year, have I become more fulfilled, or more bleak? Each of us carries our own compass, and nobody else can read it for us. If the emptiness has turned into a depression that weighs on every day, get real help first, from a doctor or a therapist. The compass will still be there afterwards.
+
+Before the turn and after it are two halves of the same game, like a player who has played for years and one who has just started. The second will get there too. Every part of the lila is needed, which is also why the paths look so different.
+
+#### Restless, and coming to yourself
 
 * The Buddha tells his own version in the Anguttara Nikaya (3.39). He describes a delicate life in his father's house, with lotus ponds made just for him, a house for each of the three seasons and musicians for the four months of the rains. Amid all of it he reflected that he too would grow old, get sick and die, and the vanity of youth, of health and of life fell away from him. Later biographies tell the same moment as the four sights: an old man, a sick man, a corpse and a wandering monk.
 * The Teacher of Ecclesiastes made himself great works, built houses, planted vineyards, gathered silver and gold and kept nothing from his eyes that they wanted. Then he looked at everything his hands had done, and all was vanity and a striving after wind (2:4 to 11).
 * Augustine opens his Confessions by telling God that he made us for himself, and that our heart is restless until it rests in him (1.1).
 * Rumi opens his Masnavi with a reed flute that cries because it was parted from the reed bed, and says that everyone who is left far from their source wishes back the time when they were united with it (Book I, 1 to 4).
-
-The turn doesn't belong to one room of Part one's chart. Any room can hit that bottom point. In Driven it usually looks like the crash after reaching the goal. In Drifting it looks like the plateau, years of calm and then the sudden sense that the whole thing is a waste of time. In Default it can come with no drama at all, as an emptiness in a perfectly ordinary life. For me it was the weekends I mentioned in Part one, when every free hour felt empty and none of my results could reach it. Some people go through the turn after a successful run, in this life. Others seem to be born after it. They never quite fit a society that still runs on separation, and they start searching young, which from the outside can look a lot like being a difficult teenager.
-
-The switch is strange and hard, because everything in you was trained to move the other way. The old moves still look right, and they stop feeling right. That is why a driven person at this point often doubles down first, since more of the same is the only direction they know. It is like pressing the elevator button harder. Everybody knows it doesn't help, and still we all do it.
-
-I should say what I mean by happiness here, because it is easy to mishear. A moment of fun or pleasure comes and goes. The happiness I mean is the state you live in over months: fulfillment, steady good will toward people, wanting to get up in the morning. It can include a pleasure that lasts. The test is simple. Over the last year, have I become more fulfilled, or more bleak, with more negative thoughts and more emptiness? After the turn, that is how the direction gets reported. It is the signal from step 3, read over months instead of moments. So the sense of happiness, and the emptiness or depression on the other side of it, is about as close as we get to a compass. Each of us carries our own, nobody else can read it for us, and it works from wherever a person happens to be standing. If the emptiness has turned into a depression that weighs on every day, get real help first, from a doctor or a therapist. The compass will still be there afterwards.
-
-None of this makes anybody better. Before the turn and after it are two parts of the same game. Think of two players, one who has played for years and one who has just started. The first has simply played longer. The second will get there too, in different circumstances, and will meet the same things on the way. Moving toward separation doesn't make someone bad, and moving toward unity doesn't make someone good. Each of us is playing the part of the lila we are in right now, and every part is needed, which is also why the paths look so different, as I explain near the end of this part.
-
-#### Leaving home, and coming to yourself
-
-* As I read it, the story of the garden at the start of the Bible tells the same arc in its own words: the fall is the step down into separation, sin is acting from the wall, and salvation is the way back.
-* In Genesis, Adam and Eve eat from the tree of the knowledge of good and evil, their eyes are opened, they cover themselves and hide from God among the trees, and they are sent out of the garden (3:6 to 8 and 3:23).
-* The usual Greek word for sin in the New Testament, hamartia, comes from a verb that means to miss the mark, and the Hebrew chet has the same sense: the book of Judges uses its verb for slingers who could sling a stone at a hair and not miss (20:16).
 * In the parable of the prodigal son, the younger son takes his share, leaves for a far country and spends everything. When a famine comes and he is feeding pigs, he came to himself (Luke 15:17). He goes home, and while he is still a long way off his father sees him and runs to him (15:20). That is the turn, almost word for word.
-* Western Christian teaching, shaped above all by Augustine, calls the state humanity inherited from the fall original sin, and Paul puts the whole arc in one line: as in Adam all die, so also in Christ shall all be made alive (1 Corinthians 15:22).
-* Isaac Luria, whose tzimtzum is in step 2, taught that the vessels made to hold the divine light broke and scattered sparks into the world, and that tikkun, the repair, gathers them back, with every good deed raising a spark.
-* In the Hymn of the Pearl, an early poem in the apocryphal Acts of Thomas, a prince is sent to Egypt to bring back a pearl, forgets who he is and falls asleep, and wakes when a letter from home reminds him.
 
 ## 5. Something carries over
 
-You have forgotten almost every day you have lived. Try to remember an ordinary afternoon from when you were small, and you get a blur, maybe a face or a smell. Still, the person reading this is made out of those days. Most of the arguments, the lessons and the evenings spent practicing something are gone, and what they left behind is all here: the patience or the lack of it, the fears, the things your hands know how to do. The events went, and what they taught you stayed.
+You have forgotten almost every day you have lived. Try to remember an ordinary afternoon from when you were small, and you get a blur, maybe a face or a smell. Still, the person reading this is made out of those days. The events went, and what they taught you stayed: the patience or the lack of it, the fears, the things your hands know how to do.
 
-Under the axiom the same holds on the largest scale: what a life learned and what it became is kept, the way you keep what your forgotten days taught you. Most traditions call it the soul. Buddhism, which denies a fixed self, speaks instead of a stream that carries on.
+Under the axiom the same holds on the largest scale. What a life learned and what it became is kept. Most traditions call it the soul, and Buddhism, which denies a fixed self, speaks of a stream that carries on.
 
-That something can't be the body, which stays behind, and it can't be one more separate thing, since there is nothing separate at the bottom. It is the part of you that was never really separate: the whole, at one position, going through the separation and keeping the record. Buddhism holds that there is no fixed soul and still says that something continues, and an old Buddhist dialogue has the image I like most for it: a lamp lit from another lamp, where nothing passes across and the second one still burns. In the machine it is the saved state. The program shuts down, the window closes, and most of the session is gone, while what was worth keeping is written to disk. The photos, the passwords and the browser history stay behind, which honestly is a relief. In the game picture from step 4 it is the level you have reached, which is how two people can walk into the same kind of life at very different levels.
+That something can't be the body, which stays behind. It is the part of you that was never really separate, the whole at one position, going through the separation and keeping the record. An old Buddhist dialogue has the image I like most for it: a lamp lit from another lamp, where nothing passes across and the second one still burns.
 
-How it carries on is where the traditions part, and the axiom doesn't need to settle it. In one family of answers it goes on after death in another form: the Catholic Church teaches purgatory, a purification after death, and the Quran puts a barrier, the barzakh, between death and the day of resurrection. In the other it comes back into this world, life after life, which Hindu texts call samsara, until it no longer needs to. Either way, what this life gathered is kept and taken further. That leaves the pace open. One life can move a little or a long way, and several traditions hold that the whole road can be walked within a single life.
+How it carries on is where the traditions part, and the axiom doesn't need to settle it. In one family of answers it goes on after death in another form, like purgatory in Catholic teaching or the barzakh, the barrier the Quran puts between death and resurrection. In the other it comes back into this world, life after life, which Hindu texts call samsara. Either way, what this life gathered is taken further, and several traditions hold that the whole road can be walked within a single life.
 
-#### Lives, afterlives, and the one who goes through them
+That changes what dying is. Death is the end of one session, and the one who lived it goes on. Most of us are still afraid of it, and the axiom says why: a separate self is sure of one thing it will lose, which is itself. So the fear of dying is the wall's strongest reflex, and it eases as the wall eases. That's why so many traditions treat letting go as a practice for dying. Every small thing you stop defending while you're alive makes the last letting go a little more familiar. I still look both ways before crossing the street, twice.
+
+#### Lives, afterlives, and practice for dying
 
 * In the Bhagavad Gita, the Hindu scripture in which the god Krishna advises the warrior Arjuna, he says that the yogi who keeps striving is perfected through many births and then reaches the highest goal (6.45), and he compares the self to a person putting on new clothes and discarding worn ones (2.22). The Buddha says that samsara, the cycle of birth, death and rebirth, has no discoverable beginning and that it is not easy to find a being who has not at some time been your mother (Samyutta Nikaya 15, in one of the oldest collections of his talks).
-* Hindu texts call the release from that round moksha. As I read it, a soul goes deeper into separation over many lives until it reaches the turn, and even after that the way back can take more lives, until it has returned to experiencing the world as one and has no more need to come back.
 * Near the end of The Education of the Human Race, in 1780, Lessing, a thoroughly Enlightenment sort of person, asks why he shouldn't come back as often as he is capable of acquiring fresh knowledge.
-* Jain teaching has each soul reborn until it is freed, Sikh scripture teaches rebirth with liberation by grace, and the Kabbalists, the Jewish mystics, taught gilgul, the cycling of the soul through new bodies.
-* The three big Western religions mostly settled on one life, then resurrection and judgment. Even so, the story doesn't stop at death for them. The Catholic Church teaches purgatory, and Gregory of Nyssa, a fourth-century Church Father, taught that the soul's progress toward God never ends, because God is infinite. The Mishnah records Rabbi Akiva saying that the judgment of the wicked in Gehinnom lasts twelve months (Eduyot 2:10). The Quran says that behind the dead is a barrier until the day they are resurrected (23:100).
 * In the Myth of Er that closes Plato's Republic, souls choose their next lives and then drink from the river of forgetfulness before they are born, which is one old answer to why you don't remember the last one, and the best explanation I've heard for Monday mornings.
-* On the question of who carries over, if there is only one mind, Advaita points the other way. Individuality belongs to the level of appearance, and the witness underneath is the same in everyone. In the Brihadaranyaka Upanishad the Self is the witness in every being, and there is no other witness but him (3.7.23).
 * The lamp comes from the Milindapanha, a dialogue between King Milinda and the monk Nagasena, where the one who is reborn is neither the same nor another, like a lamp that burns all night without being the same flame from one hour to the next.
-* The Satipatthana Sutta ends with the Buddha saying that anyone who develops the four kinds of mindfulness for seven years can expect one of two results, enlightenment in this very life or, if something is left over, non-return. Then he shortens the time step by step, down to seven days (Majjhima Nikaya 10).
-* In the Bhagavad Gita Krishna says that the world is overcome even here by those whose minds are settled in sameness, and that whoever learns, while still in the body, to master desire and anger is a yogi and is happy (5.19 and 5.23). The Hindu tradition calls a person freed while still alive a jivanmukta.
-* The Jain Kalpa Sutra tells how Mahavira, in the thirteenth year of his life as a wandering ascetic, reached kevala, complete knowledge, sitting under a sal tree near the river Rijupalika, and then taught for about thirty more years.
-
-That also changes what dying is. If something carries over, death is the end of one session, and the one who lived it goes on. In the machine, the window closes, the saved state is written, and the machine was never switched off.
-
-Most of us are still afraid of it, and the axiom says why. A separate self is sure of one thing it will lose, which is itself. So the fear of dying is the wall's strongest reflex, the wall defending the wall, and that makes it a fair reading of how much wall a person holds. It eases as the wall eases. That's why so many traditions treat letting go as a practice for dying: every small thing you stop defending while you are alive makes the last letting go a little more familiar. None of this makes me keen to test it early, to be clear. I still look both ways before crossing the street, twice.
-
-#### Practice for dying
-
 * In Plato's Phaedo, Socrates says on the day of his death that those who practice philosophy rightly are practicing nothing other than dying and being dead (64a), and that this is why death frightens them less than anyone (67e).
-* In the Katha Upanishad the boy Nachiketa asks Death himself what happens after a person dies. The answer he is given is that the self is not born and does not die, and is not slain when the body is slain (1.2.18). The Bhagavad Gita repeats the verse almost word for word (2.20).
-* Paul asks, O death, where is your victory? O death, where is your sting? (1 Corinthians 15:55).
-* Rumi writes that he died as a mineral and became a plant, died as a plant and rose to an animal, died as an animal and became a man, and asks why he should fear, since he was never less by dying (Masnavi, Book III, 3901 to 3906).
 
 ## 6. Karma, or the fingers
 
-If we are all part of one whole, there is nobody else. Everyone I could harm is part of the whole I belong to. Hold up your hand. If the index finger and the middle finger start fighting, pressing and scratching, they hurt the hand, and the hand is the only thing either of them can be a part of. Nobody had to appoint a judge.
+If we are all part of one whole, there is nobody else. Hold up your hand. If the index finger and the middle finger start fighting, pressing and scratching, they hurt the hand, and the hand is the only thing either of them can be a part of. Nobody had to appoint a judge.
 
-Most of us have felt this from the inside at least once. You see a small child about to fall into a well, and you feel a jolt of alarm before you have thought anything. Nobody decided to care about that child. Wang Yangming, the Chinese philosopher, used this very example in 1527, and for him the jolt is what forming one body with the child feels like from the inside. For a second the wall isn't there, and that second is the love from step 3.
+Most of us have felt this from the inside. You see a small child about to fall into a well, and you feel a jolt of alarm before you've thought anything. Wang Yangming, the Chinese philosopher, used this very example in 1527, and for him the jolt is what forming one body with the child feels like from the inside.
 
-Step 2 says the whole built the separation to be convincing, and it did such a good job that the fingers really do believe they are separate. Each one gets on with its own business, and every scratch it gives another finger lands on the same hand. That is what I think karma really means. The word is Sanskrit for action, and in everyday use it has turned into a ledger kept somewhere, with a judge and a sentence. The version I was taught has no judge. What happens to you works like a mirror. How you think and what you feel come back to you, and they come back right away, in the same life. Someone irritates you, something hurts, and that shows you a place in yourself that hasn't been mended yet. The mirror only shows, and it does nothing else. The machine has a picture for it too: a program that corrupts shared memory reads the corrupted data back and has nobody to blame, because it was the same memory all along.
+The fingers really do believe they are separate, and every scratch one gives another lands on the same hand. That is what karma really means. The word is Sanskrit for action, and in everyday use it has turned into a ledger with a judge and a sentence. The version I hold has no judge. It works like a mirror. Someone irritates you, and that shows you a place in yourself that hasn't been mended yet.
 
-The mirror is for looking at myself, and only at myself. The most common way to misuse this idea is to point it at someone else, and it does the most harm when a group points it at one person: you're hurting, so that's your mirror, go and work on yourself. That is an abuse of the idea, whoever does it. When another person is in pain or suffering, compassion is the only way to treat them. And when someone is hurting you, the pain is the signal from step 3, and it asks you to act: fight back, get help or leave. The only part the mirror can show you is what you add on top of the pain, the resistance, and that can wait until you're safe.
+The mirror is for looking at yourself, and only at yourself. Pointing it at someone else, you're hurting so go and work on yourself, is an abuse of the idea, and it does the most harm when a group does it to one person. When another person is in pain, compassion is the only way to treat them, and calling it their karma is just indifference. When someone is hurting you, the pain asks you to act: fight back, get help or leave. The mirror can only show you what you add on top, and that can wait until you're safe.
 
-The mirror works in both halves of the game from step 4, and it reads differently in each. Before the turn, it mostly shows the cost of being separate. That is the lesson of the first half: a program has to find out what running alone costs, and every bruise adds to the bill. Nobody is doing it wrong there, any more than a player is doing it wrong by being on level five. The bill grows until the bottom point, and the emptiness of the turn is what it feels like when the bill finally lands. After the turn, the same mirror becomes practical. The compass from step 4 tells you whether you are heading home, and the mirror tells you where the work is. The irritation, the old fight with your mother, the colleague you can't stand: each one marks a spot where you still act as two.
+Before the turn, the mirror mostly shows the cost of being separate, and the bill grows until the bottom point. After the turn it becomes practical. The irritation, the old fight with your mother, the colleague you can't stand: each one marks a spot where you still act as two. The sharpest lessons come from the people closest to you, because that is where it hurts most. When I stop reacting the old way, the other person stops getting the old reaction, and very often the whole pattern between us shifts.
 
-The mirror also picks its material on purpose. The sharpest lessons tend to come from the people closest to you, family, children, parents, because that is where it hurts most. So the work starts on my own side. When I stop reacting the old way, the other person stops getting the old reaction, and very often the whole pattern between us shifts, which is what you'd expect if we are parts of one whole. That never means staying where someone keeps hurting me. Old and heavy things take time, and I may have to come back to them more than once. And this is no reason to wait. If someone close to me is sick or in trouble and I say it's their karma, I've stopped helping, and the word for that is indifference. The better reaction is to make what is happening better, because something in me is part of it too.
-
-Step 5 gives karma its long form. What carries over is the record, and the record includes what wasn't mended. So a lesson that isn't learned comes back in a new costume: a new boss with the old boss's habits, a new relationship with the same argument, and, if this life runs out first, a new life with the same homework. In the machine picture, the thread that carries over keeps meeting what it left unmended, and by the time it sees the whole it has stood in the place of everyone it once called other. That is my reading of the axiom, and it goes beyond what I was taught. If you take it up, take it as a reason to be kind, and never as an explanation for why someone else is in pain.
-
-None of this is punishment. A system built to teach doesn't punish anyone, and it doesn't close a lesson before the lesson is learned. If karma were a person, it would be a very patient tutor who keeps setting the same homework until it gets done, and I have redone some of mine more times than I'd like to admit. The people who teach it this way add that, seen from far enough up, there is no karma at all, only the work in front of you. Until you get there, it is a useful name for the pull of what you haven't mended.
+A lesson that isn't learned comes back in a new costume: a new boss with the old boss's habits, a new relationship with the same argument, and, if this life runs out first, a new life with the same homework. If karma were a person, it would be a very patient tutor who keeps setting the same homework until it gets done, and I have redone some of mine more times than I'd like to admit.
 
 #### Deeds come back, and the other is me
 
 * The traditions differ on who administers karma. In the Buddhist account nobody does: the Buddha said it is intention he calls karma (Anguttara Nikaya 6.63). In Advaita, karma belongs to the world of apparent individuals.
 * The shape turns up elsewhere without any rebirth. Paul writes that whatever one sows, that will he also reap (Galatians 6:7), and the Quran says that if you do good, you do good for yourselves, and if you do evil, you do it to yourselves (17:7).
 * The image of the fingers is old too. Paul says the church is a body with many members, and that if one member suffers, all suffer together (1 Corinthians 12:26). Shantideva, the Indian Buddhist, wrote in his Guide to the Bodhisattva's Way of Life that the hand and the other limbs are many and distinct, yet all are one, and that beings are in the same way all one in wanting happiness (Bodhicaryavatara 8.91).
-* The golden rule is the same logic read forwards: if the other is me, treating them as I want to be treated stops being a nicety and becomes consistency. Hillel, asked to teach the whole Torah while standing on one foot, is reported to have said: what is hateful to you, do not do to your fellow. That is the whole Torah, and the rest is commentary (Shabbat 31a, in the Talmud). Most versions rest on reciprocity or empathy, but the Isha Upanishad goes further: the one who sees all beings in the Self, and the Self in all beings, recoils from nothing.
-* People with no creed get there too. Marcus Aurelius, who is in Part one as well, tells himself that difficult people are his kin, since we are made for cooperation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. Schopenhauer built his ethics on compassion, the recognition in another person of the same being you are, and put it in the Sanskrit formula tat tvam asi, that art thou. And Wang Yangming, whose child at the well is in the text above, wrote in the same passage that the great person forms one body with heaven, earth and all things.
+* The golden rule is the same logic read forwards: if the other is me, treating them as I want to be treated stops being a nicety and becomes consistency. Hillel, asked to teach the whole Torah while standing on one foot, is reported to have said: what is hateful to you, do not do to your fellow. That is the whole Torah, and the rest is commentary (Shabbat 31a, in the Talmud).
 * Repair has its own rules. The Mishnah, an early Jewish law code, says that Yom Kippur, the Day of Atonement, atones for sins between a person and God, but for sins against another person only once that person has been appeased (Yoma 8:9). In the Sermon on the Mount, Jesus says that if you remember at the altar that your brother has something against you, you should leave your gift there and first go and be reconciled (Matthew 5:23-24). The words for repentance point the same way: the Hebrew teshuvah comes from the verb shuv, to return (it is also the everyday word for an answer), the Arabic tawba comes from a root for turning back, and the Greek metanoia means a change of mind.
-
-One warning. The easy version of karma is blame: she had it coming, he reaped what he sowed. That's spiritual bypassing with a calculator. The axiom doesn't support it, because the person you're blaming is as much a part of the whole as you are. The version that follows is responsibility: what in me is this showing, and what's my next move toward the part of myself I've been fighting?
 
 ## 7. Energy
 
 Spend two hours with someone you have to keep your guard up around, and you come out flat. Spend the same two hours with an old friend and you come out lighter, though you talked just as much. The talking didn't use up the energy. The guarding did.
 
-Everybody talks about energy, and hardly anybody says what they mean by it, so here is what I mean. In this step energy is your capacity to act and to be present, the fuel behind DO and BE from Part one: how much you can make happen, and how much of what is happening you can actually take in.
+In this step energy means your capacity to act and to be present, the fuel behind DO and BE from Part one.
 
-The separate self treats it like a tank. I have this much, I spend it, I run out, and I guard what is left. That's what you'd expect from a point of view with lowered settings, in a world built to say that you are in here and the rest is out there. And holding the wall costs, so a good part of the tank goes on guarding the tank.
+The separate self treats it like a tank. I have this much, I spend it, I run out, and I guard what is left. And holding the wall costs, so a good part of the tank goes on guarding the tank.
 
-Under the axiom it can't really work that way, because there is nothing outside the whole to take energy from and nowhere for it to leak to. A part that starts remembering the whole works more like a mill on a river. The mill doesn't drink the river. The water turns the wheel, does real work and flows on to the next mill downstream, and the mill's job is to let it through. A mill that clamps its wheel tight gets less flow. So the extra energy comes from two places, and neither one takes from anybody. Some of it is what you stop spending on the wall. The rest is what flows through once the wheel turns freely, and you have probably felt it: a night spent helping someone you love, or finishing work you care about, when you were tired by the end and somehow not empty. That is a little of the river.
+Under the axiom it can't really work that way, because there is nothing outside the whole to take energy from and nowhere for it to leak to. A part that starts remembering the whole works more like a mill on a river. The mill doesn't drink the river. The water turns the wheel, does real work and flows on to the next mill downstream, and the mill's job is to let it through. A mill that clamps its wheel tight gets less flow. So the extra energy comes from two places, and neither one takes from anybody. Some of it is what you stop spending on the wall. The rest is what flows through once the wheel turns freely, and you have probably felt it: a night spent helping someone you love, or finishing work you care about, when you were tired by the end and somehow not empty. That is a little of the river, and the river is what I called the source at the start of this part.
+
+It changes how you are with people, too. Once the energy comes from the river, you stop trying to get it from the people around you. They can feel the difference, and closeness gets easier.
 
 You can check the first half this week. The next time you come home flat, ask which it was, the talking or the guarding.
-
-#### God, asking, and grace
-
-* As I read it, the nearest thing in the axiom to what the traditions call God is the whole, met from one position. A part can only meet the whole as someone, which is why so many traditions pray to a You. Prayer is the part turning toward the whole, grace is the river from this step arriving without being earned, and gratitude is the part noticing it. Each tradition describes God in its own way, and the examples below are here for the shape they share.
-* In Advaita, Brahman is beyond every quality, and the same Brahman, seen from inside the world of forms, is Ishvara, the Lord who creates and is worshipped.
-* The Quran says that God is nearer to a person than the jugular vein (50:16). Psalm 16:8 says in its plain sense: I have set the LORD always before me. The Baal Shem Tov, the founder of Hasidism, read the same verse as teaching equanimity.
-* Martin Buber, the Jewish philosopher, wrote in I and Thou in 1923 that the lines of all our relations meet in the eternal You, and that every real meeting with another as a You is a glimpse of it.
-* The letter to the Ephesians says that by grace you have been saved through faith, and that this is not your own doing, it is the gift of God (2:8).
-* A prayer attributed to Rabia of Basra, the early Sufi woman saint, asks that if she worships God for fear of hell, God should burn her in it, if for hope of paradise, shut her out of it, and if for God's own sake, not withhold his beauty from her.
-* Buddhism and Jainism have no creator God to pray to, and both keep devotion toward those who have fully woken up, the buddhas and the Jinas, mostly as examples of where the road leads.
 
 Letting go is how the wheel opens. You can't push more water through a mill by gripping the wheel harder, and every bit of guarding you drop is flow you get back. That is why so many traditions describe the way in as a kind of emptying. Hasidim call it bittul, the Sufis fana, Christians kenosis, after Paul's line that Jesus emptied himself, and one of the Buddha's breathing instructions is to breathe while contemplating letting go.
 
 Once more starts coming through, you notice it first in small things: the evening after a hard day isn't gone, and the talk you dreaded takes less out of you. The temptation then is to do something impressive with it.
 
-#### Miracles, and the warning against them
+#### God, grace, and miracles
 
+* As I read it, the nearest thing in the axiom to what the traditions call God is the whole, met from one position. A part can only meet the whole as someone, which is why so many traditions pray to a You. Prayer is the part turning toward the whole, grace is the river from this step arriving without being earned, and gratitude is the part noticing it. Each tradition describes God in its own way, and the examples below are here for the shape they share.
+* The Quran says that God is nearer to a person than the jugular vein (50:16).
+* Martin Buber, the Jewish philosopher, wrote in I and Thou in 1923 that the lines of all our relations meet in the eternal You, and that every real meeting with another as a You is a glimpse of it.
+* A prayer attributed to Rabia of Basra, the early Sufi woman saint, asks that if she worships God for fear of hell, God should burn her in it, if for hope of paradise, shut her out of it, and if for God's own sake, not withhold his beauty from her.
 * Concordia Antarova's novel Two Lives, one of my favorite books, keeps coming back to a single line, which I would translate as: there are no miracles, only different levels of knowledge. Under the axiom a miracle would be one of the settings from step 2 turned up a little, and it looks like magic only to someone who doesn't know the setting is there. My grandma already thinks I'm a black magician every time I fix the computer, so I'm halfway there.
 * Nearly every tradition that describes such powers also warns against chasing them. Patanjali lists them in the Yoga Sutras and then says that, however much they look like achievements to a mind still facing outward, they are obstacles to samadhi, the deepest absorption (3.37).
-* The Buddha said that displays of psychic power horrified him, and that the miracle he valued was instruction (Digha Nikaya 11).
-* Jesus refused to give a sign on demand (Matthew 12:38-39).
-* Teresa of Avila, who was seen lifted off the ground, begged God to stop giving her favors that other people could see (The Life, chapter 20).
-
-  I don't personally care whether miracles happen. Chasing them is the separate self wanting more for itself, which is the tank from this step again. It's like getting admin rights to the whole machine and using them to make the printer work. Fine, that one would actually count as a miracle.
 
 ## 8. Lifting the cloth
 
@@ -299,7 +224,6 @@ Here is the picture I use. Take a piece of cloth with small jewels sewn all over
 * The Great Learning, one of the Confucian classics, runs the same chain from the other end. Those who wanted to bring order to the world first put their own states in order, before that their families, and before that themselves, and it says that once the self is cultivated, the family is set right.
 * Huayan Buddhism pictures the world as the net of the god Indra, with a jewel at every knot, each one reflecting all the others, so that nothing happens to one jewel alone.
 * Jesus says that nobody lights a lamp to put it under a basket. It goes on a stand, and it gives light to everyone in the house (Matthew 5:15).
-* A saying attributed to Seraphim of Sarov, the Russian monk: acquire a peaceful spirit, and thousands around you will be saved.
 * A long study of one town in Massachusetts found that people's happiness tracked the happiness of their friends, and of their friends' friends (Fowler and Christakis, 2008). Other researchers have argued that part of this comes from friends sharing the same surroundings, or people with similar moods finding each other, so how much of it really spreads is still debated.
 
 ## Why the paths differ
@@ -308,11 +232,13 @@ If one structure sits behind all this, why do the religions look so different? T
 
 You can see it in something as ordinary as a guest at the door. Abraham runs out of his tent to feed three strangers, and the story says it was God who came to him (Genesis 18). An Upanishad tells the student to treat the guest as a god (Taittiriya 1.11.2). The Prophet said that whoever believes in God and the Last Day should honor his guest (Sahih al-Bukhari 6018). Jesus says that whoever welcomed a stranger welcomed him (Matthew 25:35 to 40), and a Sikh temple kitchen, the langar, feeds anyone who walks in. A tent, a house and a temple kitchen look nothing alike, and the instruction is the same: open the door. Under the axiom that is no surprise, since whoever is at the door is another part of the same whole.
 
-## Why I want this
+## My own road
 
-Part one's zoom out ended on full human potential, and that's what I'm after for this lifetime: the whole map, including everything past the corner of the chart. I don't want to believe it's there. I want to see it for myself, the way you see that a room is lit once you look up.
+All of this started for me with questions. Why am I alive? What is going on here? How does the world work, and the universe around it? And the one that sounds strange out loud: why am I me?
 
-It started with questions. Why am I alive? What is happening here? How do the universe and the world work? Why am I, me? As I took steps on that road, I started losing some of my walls, and I felt, and then realized, how connected we are. That changed the way I feel toward people and the world. I wish to obtain knowledge of who I am and what it means to exist. And my desire is to share it with other people in a way that is effective and understandable, so that it benefits their lives and makes them happier, because that is what makes me happy. That is what I stand on, the thing I live for that is bigger than me.
+Looking for answers took me down a long road, and somewhere on it I started losing some of my walls. First I felt how connected we are, and only later did I understand it. That changed how I feel toward people and the world.
+
+The questions are still open, and I want the answers in this lifetime, firsthand. Part one's zoom out ended on full human potential, and the whole of that map, past the corner of the chart, is where I'm headed. Along the way I want to pass on what I find, in plain words that work, so that it helps people and makes their lives happier. That is what makes me happy, and it is my reason bigger than me.
 
 ## What you can check
 
@@ -324,21 +250,18 @@ The prediction is the interesting part. If the sense of separation is held by te
 
 That's the map as far as I can draw it honestly. What I haven't told you is what it takes to walk it, and that is the next part, which has a lot less philosophy in it and a lot more everyday life.
 
-Until then, one question that needs no equipment. Where, right now, does the border of you sit? Don't quote me, but I'd bet it isn't where you think.
+Until then, one question that needs no equipment. Where, right now, does the border of you sit?
 
 ## Sources
 
-Translations: Bible verses quoted word for word follow the English Standard Version (ESV). Quran 2:115 and 7:172 follow Arberry, A. J. (1955), The Koran Interpreted, and Quran 17:7 and 23:100 follow the Sahih International translation. Other translators are named next to their texts below.
+Translations: Bible verses quoted word for word follow the English Standard Version (ESV). Quran 2:115 follows Arberry, A. J. (1955), The Koran Interpreted, and Quran 17:7 and 23:100 follow the Sahih International translation. Other translators are named next to their texts below.
 
 Where we part ways, and why the idea is worth a look
 
-- Chalmers, D. J. (1995). Facing up to the problem of consciousness. Journal of Consciousness Studies, 2(3), 200-219.
 - Spinoza, B. Ethics, Part I (propositions 14 and 15, one substance) and the Preface to Part IV (God or Nature).
-- Einstein, A. Telegram of April 1929 to Rabbi Herbert Goldstein, reported in the New York Times, 25 April 1929.
-- Schrödinger, E. (1944). What Is Life? Cambridge University Press. Schrödinger, E. (1958). Mind and Matter. Cambridge University Press (the Tarner lectures of 1956).
 - Sagan, C. (1980). Cosmos: A Personal Voyage, episode 1, The Shores of the Cosmic Ocean.
 - Chandogya Upanishad 6.8.7. Deuteronomy 6:4. John 17:21. 1 Corinthians 15:28. Quran 2:115. Daodejing 42.
-- Tattvartha Sutra 5.21. The Acharanga Sutra, translated by Jacobi, H. (1884), Jaina Sutras, Part 1 (Sacred Books of the East, vol. 22). Cook, F. H. (1977). Hua-yen Buddhism: The Jewel Net of Indra. Penn State University Press.
+- Cook, F. H. (1977). Hua-yen Buddhism: The Jewel Net of Indra. Penn State University Press.
 - Shneur Zalman of Liadi, Tanya, Part II, Sha'ar ha-Yichud ve-ha-Emunah (the Gate of Unity and Faith). Chittick, W. C. (1989). The Sufi Path of Knowledge. SUNY Press.
 
 The axiom and the machine
@@ -354,18 +277,15 @@ The axiom and the machine
 2. How a whole turns itself down
 
 - Gurdon, J. B. (1962). The developmental capacity of nuclei taken from intestinal epithelium cells of feeding tadpoles. Journal of Embryology and Experimental Morphology, 10, 622-640. Takahashi, K., & Yamanaka, S. (2006). Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors. Cell, 126(4), 663-676. Takahashi, K., et al. (2007). Induction of pluripotent stem cells from adult human fibroblasts by defined factors. Cell, 131(5), 861-872. The Nobel Prize in Physiology or Medicine 2012, press release (Gurdon and Yamanaka).
-- Ephesians 4:18. Quran 7:172. The Buddhist teaching of the ten fetters, the first of which is the belief in a permanent personal self. Tattvartha Sutra, chapter 8 (karma as the veil on the soul's knowledge).
+- Tattvartha Sutra, chapter 8 (karma as the veil on the soul's knowledge).
 - Kshemaraja, Pratyabhijnahrdayam (Singh, J. (1963), Pratyabhijnahrdayam: The Secret of Self-Recognition, Motilal Banarsidass). Scholem, G. (1941). Major Trends in Jewish Mysticism, lecture 7, on Isaac Luria and tzimtzum. Chandogya Upanishad 6.13 and 6.8.7.
-- Spinoza, B. Ethics, Part II, proposition 35, scholium (Elwes's translation). Mishnah, Avot 3:15. Bhagavad Gita 18:63 (Arnold, E., The Song Celestial, 1885). Quran 18:29.
-- Pico della Mirandola, G. (1486). Oration on the Dignity of Man (Oratio de hominis dignitate), the Latin text on Latin Wikisource.
+- Mishnah, Avot 3:15.
 
 3. The wall, felt from inside
 
-- Ohno, T. (1988). Toyota Production System: Beyond Large-Scale Production. Productivity Press (first published in Japanese in 1978), on asking why five times.
 - Augustine, Enchiridion, chapter 11.
-- Samyutta Nikaya 56.11 (the Dhammacakkappavattana Sutta). Samyutta Nikaya 36.6 (the Sallatha Sutta).
-- Irenaeus, Against Heresies IV.38-39. Job 42:5.
-- Plato, Symposium 192e-193a (Aristophanes) and 210a-212a (Diotima). 1 John 4:16. Sutta Nipata 1.8 (the Metta Sutta). Ibn Arabi, Tarjuman al-Ashwaq, poem 11 (Nicholson, R. A., 1911, The Tarjuman al-Ashwaq: A Collection of Mystical Odes).
+- Samyutta Nikaya 36.6 (the Sallatha Sutta).
+- Plato, Symposium 192e-193a (Aristophanes) and 210a-212a (Diotima). 1 John 4:16. Sutta Nipata 1.8 (the Metta Sutta).
 
 4. The turn
 
@@ -373,37 +293,33 @@ The axiom and the machine
 - Ecclesiastes 2:4-11 (2:11 quoted from the ESV).
 - Augustine, Confessions 1.1 (Pusey's translation of 1838 reads "our heart is restless, until it repose in Thee").
 - Rumi, Masnavi, Book I, 1-4, translated by Nicholson, R. A. (1926), The Mathnawi of Jalalu'ddin Rumi, vol. II (translation of Books I and II). Gibb Memorial Trust.
-- Genesis 3:6-8 and 3:23. Judges 20:16. Luke 15:11-32. 1 Corinthians 15:22. Scholem, G. (1941). Major Trends in Jewish Mysticism, lecture 7 (the breaking of the vessels and tikkun). The Hymn of the Pearl, in the Acts of Thomas.
+- Luke 15:11-32.
 
 5. Something carries over
 
 - Lessing, G. E. (1780). The Education of the Human Race, section 98 in the usual numbering.
-- Majjhima Nikaya 10, the Satipatthana Sutta (Sujato's translation, SuttaCentral). Bhagavad Gita 5.19 and 5.23 (Arnold, E., The Song Celestial, 1885). Kalpa Sutra, Life of Mahavira §120 and §147 (Jacobi's translation, Sacred Books of the East, vol. 22, pp. 263 and 269).
-- Bhagavad Gita 6.45 and 2.22. Samyutta Nikaya 15. Guru Granth Sahib, the Japji (rebirth and grace). Catechism of the Catholic Church, 1030-1031. Gregory of Nyssa, The Life of Moses. Mishnah, Eduyot 2:10. Quran 23:100.
-- Plato, Republic X (the Myth of Er). Brihadaranyaka Upanishad 3.7.23.
+- Bhagavad Gita 6.45 and 2.22. Samyutta Nikaya 15. Catechism of the Catholic Church, 1030-1031. Quran 23:100.
+- Plato, Republic X (the Myth of Er).
 - Milindapanha, translated by T. W. Rhys Davids, The Questions of King Milinda, Sacred Books of the East, vols. 35 and 36.
-- Plato, Phaedo 64a and 67e. Katha Upanishad 1.2.18. Bhagavad Gita 2.20. 1 Corinthians 15:55. Rumi, Masnavi, Book III, 3901-3906.
+- Plato, Phaedo 64a and 67e.
 
 6. Karma, or the fingers
 
 - Anguttara Nikaya 6.63. Galatians 6:7. Quran 17:7. 1 Corinthians 12:26. Shantideva, Bodhicaryavatara 8.91 (Padmakara Translation Group, The Way of the Bodhisattva, 2006; the wording here is a close paraphrase, and verse numbering varies a little by translation).
-- Babylonian Talmud, Shabbat 31a (Hillel). Isha Upanishad 6 and 7.
-- Marcus Aurelius, Meditations 2.1 (George Long's translation is in the public domain). Schopenhauer, A. (1840). On the Basis of Morality. Wang Yangming (1527). Inquiry on the Great Learning.
+- Babylonian Talmud, Shabbat 31a (Hillel).
+- Wang Yangming (1527). Inquiry on the Great Learning.
 - Mishnah, Yoma 8:9. Matthew 5:23-24.
 
 7. Energy
 
-- The Baal Shem Tov on Psalm 16, and bittul, in the Hasidic tradition. Fana in the Sufi tradition. Philippians 2:5-8. Majjhima Nikaya 118.
-- Shankara on Brahman and Ishvara. Quran 50:16. Psalm 16:8. Buber, M. (1923). I and Thou (Ich und Du). Ephesians 2:8. The prayer attributed to Rabia of Basra in the Sufi tradition (retold in later sources).
+- Bittul in the Hasidic tradition. Fana in the Sufi tradition. Philippians 2:5-8. Majjhima Nikaya 118.
+- Quran 50:16. Buber, M. (1923). I and Thou (Ich und Du). The prayer attributed to Rabia of Basra in the Sufi tradition (retold in later sources).
 - Antarova, K. E. Two Lives (Две жизни), Part I: «нет чудес, а есть та или иная степень знания». The English is the author's own translation.
 - Patanjali, Yoga Sutras 3.37, numbered as in Johnston, C. (1912), The Yoga Sutras of Patanjali: The Book of the Spiritual Man.
-- Digha Nikaya 11, the Kevaddha Sutta (Sujato's translation, SuttaCentral).
-- Matthew 12:38-39.
-- Teresa of Avila, The Life of St. Teresa of Jesus, chapter 20 (Lewis, D., trans., 1904).
 
 8. Lifting the cloth
 
-- Daodejing 54 (Legge's translation, Sacred Books of the East, vol. 39). The Great Learning (Daxue), the opening section (Legge's translation, The Chinese Classics, vol. 1). Cook, F. H. (1977). Hua-yen Buddhism: The Jewel Net of Indra. Penn State University Press. Matthew 5:15. The saying attributed to Seraphim of Sarov circulates in his collected instructions and in later lives of the saint.
+- Daodejing 54 (Legge's translation, Sacred Books of the East, vol. 39). The Great Learning (Daxue), the opening section (Legge's translation, The Chinese Classics, vol. 1). Cook, F. H. (1977). Hua-yen Buddhism: The Jewel Net of Indra. Penn State University Press. Matthew 5:15.
 - Fowler, J. H., & Christakis, N. A. (2008). Dynamic spread of happiness in a large social network: longitudinal analysis over 20 years in the Framingham Heart Study. BMJ, 337, a2338. Cohen-Cole, E., & Fletcher, J. M. (2008). Detecting implausible social network effects in acne, height, and headaches: longitudinal analysis. BMJ, 337, a2533. Shalizi, C. R., & Thomas, A. C. (2011). Homophily and contagion are generically confounded in observational social network studies. Sociological Methods & Research, 40(2), 211-239.
 
 Why the paths differ

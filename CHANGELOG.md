@@ -8,6 +8,71 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.6.1 (2026-11-06)
+
+- Part two: three ideas from the Rubin and Cameron reading (word choice for source, fear in the turn, closeness in step 7), Alex 11-06
+
+
+## 7.6.0 (2026-11-06)
+
+- Part two: 'Why I want this' rewritten as 'My own road' (questions, walls, goal, reason), Alex 11-06
+
+
+## 7.5.4 (2026-11-06)
+
+- Part two: 'Don't quote me' line after the border question removed
+
+
+## 7.5.3 (2026-11-06)
+
+- Part two step 6: the line on thoughts and feelings coming back right away removed
+
+
+## 7.5.2 (2026-11-06)
+
+- Part two step 6: 'That is what I think karma means' now 'That is what karma really means'
+
+
+## 7.5.1 (2026-11-06)
+
+- Part two: the two computer jokes replaced (step 2: crying at a film with an actor dog; step 3: need keeps score of the dishes)
+
+
+## 7.5.0 (2026-11-06)
+
+- Part two: the opening and 'Why this idea is worth a closer look' cut to about half (827 words with the fold, from 1,329); Einstein, Schrödinger and the two Jain texts no longer cited there
+
+
+## 7.4.0 (2026-11-06)
+
+- Part two, option B: one picture per step, recaps and repeated safety lines cut, one fold per step, the computer kept in the axiom and step 1; about 12,350 to 8,350 words, every idea kept
+
+
+## 7.3.0 (2026-11-06)
+
+- Part two: the 'both views are assumptions' (hard problem) and 'how I'll argue' (coherence test) paragraphs cut from the opening; the question of why separation feels so convincing stays as one line; Chalmers no longer cited
+
+
+## 7.2.1 (2026-11-06)
+
+- Part two: the hospitals and phones lines and 'Me, Alex, a separate entity. Hello.' removed from the first view
+
+
+## 7.2.0 (2026-11-06)
+
+- Part two: the opening is rewritten around source (starts from the idea in the shower and the second wind, the two views as two answers to where they come from, source and the sun inside the second view); Rubin no longer named
+
+
+## 7.1.1 (2026-11-06)
+
+- Part two: Alex's own experience of the source fills the slot
+
+
+## 7.1.0 (2026-11-06)
+
+- Part two: the second view gets its plainer word, source (Rubin named, the sun as the picture, a slot for Alex's own moment); step 7's river is tied back to it
+
+
 ## 7.0.2 (2026-11-05)
 
 - Part zero door note made direct: the line about not repeating the reminder is gone
