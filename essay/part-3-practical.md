@@ -213,6 +213,8 @@ Start with a count: which of the eight conditions does your life have now, and w
 
 And one question for the road: who in your life could tell you honestly how you have changed?
 
+That's the whole road as I see it, from a chart about getting things done to the bigger map past it. I'm walking it in this life and I mean to finish it. How far you go is your own yes, and nobody can say it for you.
+
 ## Sources
 
 1. Your wish, and your yes

@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.12.0 (2026-11-06)
+
+- Part three ends with three closing lines: the whole road, that Alex means to finish it, and that how far the reader goes is their own yes
+
+
 ## 7.11.1 (2026-11-06)
 
 - Community note opens on judging a teacher and a group by your own experience; the basis-of-the-method line is cut
