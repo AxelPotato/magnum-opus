@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.11.1 (2026-11-06)
+
+- Community note opens on judging a teacher and a group by your own experience; the basis-of-the-method line is cut
+
+
 ## 7.11.0 (2026-11-06)
 
 - Decisiveness pass: hedges and disclaimers cut in Parts zero to two, Part three no longer opens with 'not inviting you to my school', a missing condition makes the road longer, the community note opens on community as the basis of the method, Part one ends without the stay-here line

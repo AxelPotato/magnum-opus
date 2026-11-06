@@ -189,7 +189,7 @@ A community has energy, and it can still be going in a circle. A teacher, someon
 
 ## A note on community and the teacher
 
-Friends on the path and a teacher are the basis of the method I learned, and I wouldn't be where I am without them. The way to judge a teacher and a group is your own experience. Does this person know more than I do? Does this group actually live the values it talks about? Can I say I disagree and still be welcome, could I leave without a fight, and do I grow when I listen to this teacher? People do leave our community, too. Some go on along their path in new ways, and some come back after a while, and we stay friends whatever they chose.
+The way to judge a teacher and a group is your own experience. Does this person know more than I do? Does this group actually live the values it talks about? Can I say I disagree and still be welcome, could I leave without a fight, and do I grow when I listen to this teacher? People do leave our community, too. Some go on along their path in new ways, and some come back after a while, and we stay friends whatever they chose.
 
 There will be moments, plenty of them, when what you think is very different from what you're offered to try. That discomfort comes to everyone who walks this road, whoever the teacher is, and with no teacher at all. For me there is one way to tell growth from something being wrong. The discomfort of growth comes together with an emotion in my body, so I decide nothing while the emotion is still there. I live through it first, and then I look at the disagreement again with a clear head. Usually most of it has gone with the emotion. When something was still there, I said so, and people took it up. Whether that's a reason to stay or to leave is up to you.
 
