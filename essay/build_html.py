@@ -373,7 +373,7 @@ def photo(key, alt, caption):
 
 def rules3():
     return {
-        'The order goes from what only you': dict(after=figure(F5.fig_eight(), 'Eight conditions, in the order of this part.')),
+        "I'm not inviting you to my school": dict(after=figure(F5.fig_eight(), 'Eight conditions, in the order of this part.')),
         'Think of a time you really decided': dict(after=figure(F5.JOKES['fig_yes'](), 'Before the yes, every day is a small debate. After it, the days line up.')),
         'Anything that moves needs two things': dict(after=figure(F5.fig_cars(), 'The wish is the fuel, and a goal is the steering.')),
         'Behind each goal sits a reason': dict(after=figure(F5.fig_goalreason(), 'The goal can be small as long as the reason is bigger than you.')),
