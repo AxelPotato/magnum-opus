@@ -230,11 +230,13 @@ If one structure sits behind all this, why do the religions look so different? T
 
 You can see it in something as ordinary as a guest at the door. Abraham runs out of his tent to feed three strangers, and the story says it was God who came to him (Genesis 18). An Upanishad tells the student to treat the guest as a god (Taittiriya 1.11.2). The Prophet said that whoever believes in God and the Last Day should honor his guest (Sahih al-Bukhari 6018). Jesus says that whoever welcomed a stranger welcomed him (Matthew 25:35 to 40), and a Sikh temple kitchen, the langar, feeds anyone who walks in. A tent, a house and a temple kitchen look nothing alike, and the instruction is the same: open the door. Under the axiom that is no surprise, since whoever is at the door is another part of the same whole.
 
-## Why I want this
+## My own road
 
-Part one's zoom out ended on full human potential, and that's what I'm after for this lifetime: the whole map, including everything past the corner of the chart. I don't want to believe it's there. I want to see it for myself, the way you see that a room is lit once you look up.
+All of this started for me with questions. Why am I alive? What is going on here? How does the world work, and the universe around it? And the one that sounds strange out loud: why am I me?
 
-It started with questions. Why am I alive? What is happening here? How do the universe and the world work? Why am I, me? As I took steps on that road, I started losing some of my walls, and I felt, and then realized, how connected we are. That changed the way I feel toward people and the world. I wish to obtain knowledge of who I am and what it means to exist. And my desire is to share it with other people in a way that is effective and understandable, so that it benefits their lives and makes them happier, because that is what makes me happy. That is what I stand on, the thing I live for that is bigger than me.
+Looking for answers took me down a long road, and somewhere on it I started losing some of my walls. First I felt how connected we are, and only later did I understand it. That changed how I feel toward people and the world.
+
+The questions are still open, and I want the answers in this lifetime, firsthand. Part one's zoom out ended on full human potential, and the whole of that map, past the corner of the chart, is where I'm headed. Along the way I want to pass on what I find, in plain words that work, so that it helps people and makes their lives happier. That is what makes me happy, and it is my reason bigger than me.
 
 ## What you can check
 
