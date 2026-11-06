@@ -8,6 +8,16 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.10.0 (2026-11-06)
+
+- Part three: four book ideas in Alex's words (Alex 11-06 picks 1 2 3 4): discipline on pride runs down like a battery, dry stretches end, a third option in a disagreement, the young horse behind an older one
+
+
+## 7.9.0 (2026-11-06)
+
+- Part three restructured after Rubin and Cameron: one picture per idea, repeats and recaps cut, the community note and the closing section tightened, about 8,000 to 6,300 words; same eight conditions, folds, stories and sources; 'My teacher and I' unchanged
+
+
 ## 7.8.1 (2026-11-06)
 
 - Part one restructured after Rubin and Cameron (replayed onto Part two's v7.6.1): one picture per idea, hedges out, one studies fold, about 8,300 to 6,000 words; five short book ideas in Alex's words; languishing kept
