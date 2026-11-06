@@ -76,3 +76,11 @@ Alex: "the hose example can be removed, it doesn't add anything too good. Leave 
 > The holes are every fear, insecurity and doubt you carry, and water leaves through each of them all day. Plugging them is inner work, the sorry and the first step in a conflict, and every hole you plug sends more water down the line. The nozzle is DO: somebody has to open it, and that somebody is you. Attention turns the spray into a jet, and wherever it points, the water goes. And something worth watering comes first, even though it comes last in the telling. With nothing to water there is no reason to plug a hole, open the nozzle or aim.
 >
 > Taken in order, each one makes the next one work. Plugged holes give you water to open the nozzle on, an open nozzle gives your attention something to aim, a steady jet makes a target reachable, and a target worth the trouble is a good reason to go back and plug the next hole.
+
+## v7.7.0 restructure (2026-11-06, after Rubin and Cameron)
+
+Same approach as Part two's option B: one picture per idea, hedges out, sharp lines kept. About 8,300 to 6,000 words of main text.
+- Hedges and apologies gone: "don't quote me", "pretend it's science", "a feeling with a percentage sign", "as far as I can tell", "I suspect", "my bet", "take the rest as my reading", "I didn't invent this... I'll show my work".
+- Merged: the five quiet kinds of DO into one paragraph; the drifting trap and its explanations; Stoicism and Advaita into one paragraph; the two study folds into one (six entries); "The reason bigger than you" and "Why a bigger reason works" into one section.
+- Cut: most of the Driven signs, the control paragraph and the sitcom line in High agency, the self-monitoring paragraph (Mor and Winquist, Gilovich's spotlight figure), the lab summary paragraph, Anokhin (fold entry and figure) and Hill 2018. All can come back.
+- v7.7.1: languishing (Keyes, Grant) restored in Default's nice corner at Alex's call (11-06): it is close to many people.

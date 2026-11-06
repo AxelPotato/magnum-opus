@@ -300,17 +300,15 @@ def rules1():
         'Learning to walk on two legs': dict(after=figure(svg_swing(), 'A swing that narrows, then the climb, which stays wavy until the peak. Illustration, not data.')),
         'Zoom out, and the whole square': dict(after=figure(svg_zoom(), 'Zoom out. The whole square we have been using is the small box in the corner.')),
         'Picture the steering wheel of your life.': dict(after=figure(F.fig_wheel(), 'Hands on the wheel, or in the back seat.')),
-        'Asking is a quiet one': dict(after=figure(F.icons_html(), 'Five quiet kinds of DO.', 'plain')),
+        'The quiet kinds of DO': dict(after=figure(F.icons_html(), 'Five quiet kinds of DO.', 'plain')),
         'It matters even if you couldn': dict(after=F7.widget()),
         'Here is the connection to being here.': dict(after=figure(F.fig_attention(), 'Where your attention is, as opposed to where your body is.')),
         'The turbulence comes from walking on two legs.': dict(after=figure(F.fig_legs(), 'Three ways to move. The DO leg is vermilion, the BE leg is blue.')),
         'Here is why the turbulence is worth it': dict(after=figure(F.fig_loop(), 'The two legs feed each other.')),
         'A quick way to find your own examples': dict(after=figure(F.fig_jail(), 'The jail-cell test.')),
-        'The Soviet physiologist Pyotr Anokhin': dict(li_after=figure(F.fig_anokhin(), 'Anokhin\'s functional system, simplified: a goal is a model of the result, and the result is compared with it.')),
         'Viktor Frankl, a psychiatrist': dict(who=[('frankl', 'Viktor Frankl', 'neutral')]),
-        'The lab has looked at this too': dict(after=figure(F.fig_studies(), 'Left: a randomized field experiment. Right: a review of ten long-term studies, which shows an association, not a cause. Read both as a direction.')),
+        'A review of ten studies': dict(li_after=figure(F.fig_studies(), 'Left: a randomized field experiment. Right: a review of ten long-term studies, which shows an association, not a cause. Read both as a direction.')),
         'Picture someone who freezes': dict(after=figure(F.fig_scales(), 'The fear is a vote. A bigger reason is a bigger vote.')),
-        'A lot of the tension is also made of self-monitoring': dict(after=figure(F.fig_spot(), 'The spotlight effect (Gilovich and colleagues, 2000): we overestimate how much others notice us.')),
         'Reasons also outlast goals.': dict(after=figure(F.fig_finish(), 'Goals about you end. Reasons about others keep going.')),
         'What gets someone across the middle on purpose is a pull.': dict(after=figure(F.fig_pushpull(), 'Pushes and a pull.')),
         'The extreme version of this room': dict(after=figure(F.fig_tv(), 'Aware of everything, in none of it.')),
@@ -325,7 +323,7 @@ def rules1():
         'At the far corner of the chart is the peak': dict(after=figure(F.icons_flow_html(), 'Different rooms, same visit.', 'plain')),
         'Put it together.': dict(after=figure(F.fig_footsteps(), 'Walking in step: the lazy leg catches up, again and again.')),
         'The reason is inertia.': dict(after=figure(F.fig_inertia(), 'Inertia.')),
-        'There\'s a name for what Carrey and Phelps ran into': dict(who=[('benshahar', 'Tal Ben-Shahar', 'neutral')]),
+        'Tal Ben-Shahar has a name': dict(who=[('benshahar', 'Tal Ben-Shahar', 'neutral')]),
     }
 
 
