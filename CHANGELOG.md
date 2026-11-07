@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.17.0 (2026-11-07)
+
+- Part one: a second toy after 'The line', two ladders for DO and BE (five steps each, three parts of life), a dot on the cross and one line for the pair (essay/figs8.py)
+
+
 ## 7.16.2 (2026-11-07)
 
 - Part two, source paragraph: 'If you pray, you may already have an older name for it.' added after the sun (Alex picked 3 a; 1 b and 2 b leave the love line and Watts as they are)
