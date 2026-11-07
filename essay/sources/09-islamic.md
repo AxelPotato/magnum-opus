@@ -235,6 +235,8 @@ Who: An Arabic word for a barrier or partition. In the Quran it is used for the 
 
 In the essay: Table, Islam column, row 'What continues': 'The barzakh.' Also behind the sentence about Quran 23:99 to 100.
 
+In the essay (v7.18.0): Part two, step 5 was rewritten and renamed 'Longer than one life'. The barzakh left the main text and is now in the second item of the fold 'Lives, afterlives, and practice for dying': the Quran says that behind the dead there is a barrier, the barzakh, until the day they are raised (23:100).
+
 Where it sits: Quran 23:100 (the barrier clause); 25:53 and 55:20 for the barrier between the seas (from memory, check); Encyclopaedia of the Quran or Encyclopaedia of Islam, 'Barzakh' (the checklist's pointer)
 
 The passage (paraphrase, not cleared for quoting): Paraphrase: the dead are in a waiting state, a barrier, until the day they are raised. Mainstream teaching adds some form of awareness there (hadith about the questioning in the grave). No exact passage seen.
@@ -621,6 +623,7 @@ Kind: text. Status: partly checked (the wording of the Clear Quran translation w
 Who: Verse 48 of Surat al-Ma'ida (the Table Spread), in the passage on the Torah, the Gospel and the Quran. It says God gave each community a code of law and a way of life, and had God willed He would have made them one community.
 
 In the essay: Part two, 'Why the paths differ': 'The Quran says that God gave each community its own law and way, and had God willed would have made them one community, and it tells them to race toward what is good (5:48).' Sources list: Quran 5:48. The essay paraphrases and does not quote, and adds that the verse presents the Quran as the measure of the earlier books. Since 5.0.3 (2026-10-26) 'Why the paths differ' no longer cites it: private context for discussion.
+Not cited since v7.19.0: the section 'Why the paths differ' was removed from Part two (Alex, 2026-11-07).
 
 Where it sits: Quran 5:48.
 
@@ -798,6 +801,7 @@ Kind: text. Status: partly checked.
 Who: A hadith narrated by Abu Hurayra in al-Bukhari's Sahih, in the Book of Good Manners (Kitab al-Adab).
 
 In the essay: Part two, 'Why the paths differ' (since 5.0.3): 'The Prophet said that whoever believes in God and the Last Day should honor his guest (Sahih al-Bukhari 6018).'
+Not cited since v7.19.0: the section 'Why the paths differ' was removed from Part two (Alex, 2026-11-07).
 
 Where it sits: Sahih al-Bukhari 6018 (sunnah.com numbering). The hadith has three clauses: do not harm your neighbor, honor your guest, speak good or keep silent. The guest clause is the middle one. Hadith 6019 (Abu Shurayh) adds a day and a night of special hospitality and three days in all.
 

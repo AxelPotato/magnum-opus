@@ -678,3 +678,18 @@ JOKES = {
     'fig_weekend': lambda: _joke(fig_weekend, J(262, 150, 'hello, inbox', 'c2')),
     'fig_emotion': lambda: _joke(fig_emotion, J(160, 118, 'write the angry', 'c2', 'middle') + J(160, 138, 'email? not now', 'c2', 'middle')),
 }
+
+
+# ------------------------------------------------------------------ the pulled strand (step 5)
+def fig_strand():
+    u = 'sd'
+    b = []
+    b.append('<g style="opacity:.62"><circle class="fhi" cx="130" cy="150" r="96"/>')
+    b.append('<path class="fhi" d="M200 92 C300 78 380 150 470 128 C520 116 560 96 590 96 '
+             'L590 112 C560 112 520 132 470 146 C380 172 300 120 206 206 Z"/></g>')
+    b.append('<circle class="fhi" cx="596" cy="104" r="11"/>')
+    b.append(T(130, 156, 'the whole', 't', 'middle'))
+    b.append(T(596, 70, 'a life,', 'small b', 'middle'))
+    b.append(T(596, 86, 'the very edge', 'small b', 'middle'))
+    b.append(T(400, 206, 'the soul: the strand that still connects it', 'small', 'middle'))
+    return svg('0 0 680 256', 'A soft mass with a long strand pulled out of it; the tip of the strand is a life, and the strand that still connects it to the mass is the soul', ''.join(b), u)

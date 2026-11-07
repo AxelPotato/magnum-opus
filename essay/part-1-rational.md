@@ -48,7 +48,7 @@ Draw them as a cross. DO runs left to right, from things happen to me to I make 
 
 ### Default
 
-Bottom left: low BE and low DO. Things happen to you, and you're braced for the next one. You say a lot, and you follow through on a fraction of it. Roughly 95% of us live here. From the outside a lot of it looks like laziness. It's usually fear, and fear is busy: it burns a lot of energy where nobody can see it, on doubt and regret and replaying.
+Bottom left: low BE and low DO. Things happen to you, and you're braced for the next one. You say a lot, and you follow through on a fraction of it. Most of us live here. From the outside a lot of it looks like laziness. It's usually fear, and fear is busy: it burns a lot of energy where nobody can see it, on doubt and regret and replaying.
 
 Squidward is the most extreme case and the funniest. He complains constantly, all his problems live next door, and he dreams of being a famous artist and clarinetist. When he does try, it goes badly and he blames everybody else. In one episode he moves to a town full of people exactly like him, and the sameness drives him up the wall.
 

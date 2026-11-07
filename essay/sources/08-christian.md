@@ -517,6 +517,8 @@ Who: The Catholic Church's teaching on a purification after death for those who 
 
 In the essay: Not enough time in one life: 'The Catholic Church teaches purgatory, a purification after death for those who die in grace but are not yet fully purified.' Table, row 'What continues' (Christianity): 'Purgatory in Catholic teaching.' Sources list: Catechism 1030-1031.
 
+In the essay (v7.18.0): Part two, step 5 was rewritten and renamed 'Longer than one life'. The purgatory sentence left the main text and is now the second item of the fold 'Lives, afterlives, and practice for dying', with the barzakh: Catholic teaching calls it purgatory, a purification after death for those who die in grace but are not yet fully purified (Catechism 1030 to 1031).
+
 Where it sits: Catechism of the Catholic Church, paragraphs 1030-1032
 
 The passage (paraphrase, not cleared for quoting): Paraphrase close to the Catechism: all who die in God's grace and friendship but still imperfectly purified are assured of eternal salvation, but after death undergo purification to reach the holiness needed to enter the joy of heaven. The Church calls this final purification of the elect Purgatory, entirely different from the punishment of the damned. The paragraph numbers and gist were confirmed in the check; I did not see the full wording on the page in this session.
@@ -919,6 +921,7 @@ Kind: text. Status: checked.
 Who: The parable of the sheep and the goats, the last of Jesus's teachings before the Passion in Matthew.
 
 In the essay: Part two, 'Why the paths differ' (since 5.0.3): 'Jesus says that whoever welcomed a stranger welcomed him (Matthew 25:35 to 40).'
+Not cited since v7.19.0: the section 'Why the paths differ' was removed from Part two (Alex, 2026-11-07).
 
 Where it sits: 25:35 'I was a stranger and you welcomed me'; 25:40 'just as you did it to one of the least of these brothers and sisters of mine, you did it to me' (NRSVUE, read on Bible Gateway on 2026-10-26).
 

@@ -778,6 +778,7 @@ Kind: text. Status: checked.
 Who: The story of Abraham's hospitality at the oaks of Mamre, the founding text of hachnasat orchim, welcoming guests, in Jewish tradition.
 
 In the essay: Part two, 'Why the paths differ' (since 5.0.3): 'Abraham runs out of his tent to feed three strangers, and the story says it was God who came to him (Genesis 18).'
+Not cited since v7.19.0: the section 'Why the paths differ' was removed from Part two (Alex, 2026-11-07).
 
 Where it sits: Genesis 18:1 'The Lord appeared to Abraham by the oaks of Mamre'; 18:2 he sees three men and runs from the tent entrance to meet them; 18:4-5 water for their feet and bread; 18:6-8 the meal. Read on Bible Gateway (NRSVUE) on 2026-10-26.
 

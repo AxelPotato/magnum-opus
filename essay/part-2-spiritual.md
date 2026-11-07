@@ -119,7 +119,7 @@ The switch is hard, because everything in you was trained to move the other way.
 
 After the turn, happiness becomes the compass. I mean the state you live in over months: fulfillment, steady good will toward people, wanting to get up in the morning. A moment of fun comes and goes. The test is simple. Over the last year, have I become more fulfilled, or more bleak? Each of us carries our own compass, and nobody else can read it for us. If the emptiness has turned into a depression that weighs on every day, get real help first, from a doctor or a therapist. The compass will still be there afterwards.
 
-Before the turn and after it are two halves of the same game, like a player who has played for years and one who has just started. The second will get there too. Every part of the lila is needed, which is also why the paths look so different.
+Before the turn and after it are two halves of the same game, like a player who has played for years and one who has just started. The second will get there too. Every part of the lila is needed.
 
 #### Restless, and coming to yourself
 
@@ -131,22 +131,21 @@ Before the turn and after it are two halves of the same game, like a player who 
 
 ## 5. Something carries over
 
-You have forgotten almost every day you have lived. Try to remember an ordinary afternoon from when you were small, and you get a blur, maybe a face or a smell. Still, the person reading this is made out of those days. The events went, and what they taught you stayed: the patience or the lack of it, the fears, the things your hands know how to do.
+Here is a picture of how one whole can be separated without ever coming apart. Imagine a big mass of jelly, and pull a bit of it out. You can pull and pull and pull, and it gets long and thin, and it never comes off the mass. Out at the tip it is so far away that it has forgotten it was ever part of anything. A life is that tip, and everything we experience happens there, at the very edge. The strand behind it, the part that still connects the edge to the whole, is what most traditions call the soul.
 
-Under the axiom the same holds on the largest scale. What a life learned and what it became is kept. Most traditions call it the soul, and Buddhism, which denies a fixed self, speaks of a stream that carries on.
+When a life ends, the tip goes and the strand stays as far out as it was. The name and the memories were lived at the tip. The strand keeps how far out it went and how much of the way back it has already come. You know this from your own childhood: you have forgotten almost every afternoon of it, and the patience, the fears and the things your hands know how to do are still with you. The turn from step 4 is where it stops stretching and starts to draw back in, and the third clause, the separation ends, is the strand back in the whole.
 
-That something can't be the body, which stays behind. It is the part of you that was never really separate, the whole at one position, going through the separation and keeping the record. An old Buddhist dialogue has the image I like most for it: a lamp lit from another lamp, where nothing passes across and the second one still burns.
+This changes how dying looks. A separate self is sure of one thing it will lose, which is itself, so the fear of dying is the wall's strongest reflex. Seen from the strand, what ends is the tip. That's why so many traditions treat letting go as a practice for dying: every small thing you stop defending while you're alive makes the last letting go a little more familiar. I still look both ways before crossing the street, twice.
 
-How it carries on is where the traditions part, and the axiom doesn't need to settle it. In one family of answers it goes on after death in another form, like purgatory in Catholic teaching or the barzakh, the barrier the Quran puts between death and resurrection. In the other it comes back into this world, life after life, which Hindu texts call samsara. Either way, what this life gathered is taken further, and several traditions hold that the whole road can be walked within a single life.
-
-That changes what dying is. Death is the end of one session, and the one who lived it goes on. Most of us are still afraid of it, and the axiom says why: a separate self is sure of one thing it will lose, which is itself. So the fear of dying is the wall's strongest reflex, and it eases as the wall eases. That's why so many traditions treat letting go as a practice for dying. Every small thing you stop defending while you're alive makes the last letting go a little more familiar. I still look both ways before crossing the street, twice.
+Where the strand goes after that, the traditions answer in different ways, and some of their answers are in the fold below. For this life the point is simpler. Whatever you let go of now stays let go, and several traditions hold that the whole way back can be walked within a single life.
 
 #### Lives, afterlives, and practice for dying
 
 * In the Bhagavad Gita, the Hindu scripture in which the god Krishna advises the warrior Arjuna, he says that the yogi who keeps striving is perfected through many births and then reaches the highest goal (6.45), and he compares the self to a person putting on new clothes and discarding worn ones (2.22). The Buddha says that samsara, the cycle of birth, death and rebirth, has no discoverable beginning and that it is not easy to find a being who has not at some time been your mother (Samyutta Nikaya 15, in one of the oldest collections of his talks).
+* The Abrahamic traditions put what comes next in another world. Catholic teaching calls it purgatory, a purification after death for those who die in grace but are not yet fully purified (Catechism of the Catholic Church, 1030 to 1031), and the Quran says that behind the dead there is a barrier, the barzakh, until the day they are raised (23:100).
 * Near the end of The Education of the Human Race, in 1780, Lessing, a thoroughly Enlightenment sort of person, asks why he shouldn't come back as often as he is capable of acquiring fresh knowledge.
 * In the Myth of Er that closes Plato's Republic, souls choose their next lives and then drink from the river of forgetfulness before they are born, which is one old answer to why you don't remember the last one, and the best explanation I've heard for Monday mornings.
-* The lamp comes from the Milindapanha, a dialogue between King Milinda and the monk Nagasena, where the one who is reborn is neither the same nor another, like a lamp that burns all night without being the same flame from one hour to the next.
+* Buddhism, which says there is no fixed self, has its own picture in the Milindapanha, a dialogue between King Milinda and the monk Nagasena, where the one who is reborn is neither the same nor another, like a lamp that burns all night without being the same flame from one hour to the next.
 * In Plato's Phaedo, Socrates says on the day of his death that those who practice philosophy rightly are practicing nothing other than dying and being dead (64a), and that this is why death frightens them less than anyone (67e).
 
 ## 6. Karma, or the fingers
@@ -161,7 +160,7 @@ The mirror is for looking at yourself, and only at yourself. Pointing it at some
 
 Before the turn, the mirror mostly shows the cost of being separate, and the bill grows until the bottom point. After the turn it becomes practical. The irritation, the old fight with your mother, the colleague you can't stand: each one marks a spot where you still act as two. The sharpest lessons come from the people closest to you, because that is where it hurts most. When I stop reacting the old way, the other person stops getting the old reaction, and very often the whole pattern between us shifts.
 
-A lesson that isn't learned comes back in a new costume: a new boss with the old boss's habits, a new relationship with the same argument, and, if this life runs out first, a new life with the same homework. If karma were a person, it would be a very patient tutor who keeps setting the same homework until it gets done, and I have redone some of mine more times than I'd like to admit.
+A lesson that isn't learned comes back in a new costume: a new boss with the old boss's habits, and a new relationship with the same argument. If karma were a person, it would be a very patient tutor who keeps setting the same homework until it gets done, and I have redone some of mine more times than I'd like to admit.
 
 #### Deeds come back, and the other is me
 
@@ -215,12 +214,6 @@ Here is the picture I use. Take a piece of cloth with small jewels sewn all over
 * Huayan Buddhism pictures the world as the net of the god Indra, with a jewel at every knot, each one reflecting all the others, so that nothing happens to one jewel alone.
 * Jesus says that nobody lights a lamp to put it under a basket. It goes on a stand, and it gives light to everyone in the house (Matthew 5:15).
 * A long study of one town in Massachusetts found that people's happiness tracked the happiness of their friends, and of their friends' friends (Fowler and Christakis, 2008). Other researchers have argued that part of this comes from friends sharing the same surroundings, or people with similar moods finding each other, so how much of it really spreads is still debated.
-
-## Why the paths differ
-
-If one structure sits behind all this, why do the religions look so different? The whole goes into separation through countless points of view, no two of them meet the wall in the same way, and so a path is a way back drawn for particular people at a particular time. The core stays because it comes from the structure. The forms change because the people do.
-
-You can see it in something as ordinary as a guest at the door. Abraham runs out of his tent to feed three strangers, and the story says it was God who came to him (Genesis 18). An Upanishad tells the student to treat the guest as a god (Taittiriya 1.11.2). The Prophet said that whoever believes in God and the Last Day should honor his guest (Sahih al-Bukhari 6018). Jesus says that whoever welcomed a stranger welcomed him (Matthew 25:35 to 40), and a Sikh temple kitchen, the langar, feeds anyone who walks in. A tent, a house and a temple kitchen look nothing alike, and the instruction is the same: open the door. Under the axiom that is no surprise, since whoever is at the door is another part of the same whole.
 
 ## My own road
 
@@ -316,10 +309,6 @@ The axiom
 
 - Daodejing 54 (Legge's translation, Sacred Books of the East, vol. 39). The Great Learning (Daxue), the opening section (Legge's translation, The Chinese Classics, vol. 1). Cook, F. H. (1977). Hua-yen Buddhism: The Jewel Net of Indra. Penn State University Press. Matthew 5:15.
 - Fowler, J. H., & Christakis, N. A. (2008). Dynamic spread of happiness in a large social network: longitudinal analysis over 20 years in the Framingham Heart Study. BMJ, 337, a2338. Cohen-Cole, E., & Fletcher, J. M. (2008). Detecting implausible social network effects in acne, height, and headaches: longitudinal analysis. BMJ, 337, a2533. Shalizi, C. R., & Thomas, A. C. (2011). Homophily and contagion are generically confounded in observational social network studies. Sociological Methods & Research, 40(2), 211-239.
-
-Why the paths differ
-
-- Genesis 18:1-8. Taittiriya Upanishad 1.11.2. Sahih al-Bukhari 6018. Matthew 25:35-40. The langar, the free kitchen of the Sikh gurdwara.
 
 What you can check
 

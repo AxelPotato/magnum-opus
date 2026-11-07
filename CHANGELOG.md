@@ -8,6 +8,66 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 8.0.0 (2026-11-07)
+
+- Version 8.0.0 at Alex's call: the book after run 27 and the step-5 recheck. No teacher fold, a new Part two opening, step 5 rebuilt around the pulled strand, no many-lives claims, 'Why the paths differ' removed, 'Most of us live here'
+
+
+## 7.20.2 (2026-11-07)
+
+- Step 5: one sentence on forgotten childhood afternoons and what stays
+
+
+## 7.20.1 (2026-11-07)
+
+- Step 5: 'The name and the memories were lived at the tip' (readers who grieve read 'belonged to' as loss)
+
+
+## 7.20.0 (2026-11-07)
+
+- Part two step 5 streamlined around the strand; title back to 'Something carries over'; lamp only in the fold
+
+
+## 7.19.2 (2026-11-07)
+
+- Part one, Default: 'Roughly 95% of us live here' becomes 'Most of us live here'
+
+
+## 7.19.1 (2026-11-07)
+
+- Remove the unused paths figure rule
+
+
+## 7.19.0 (2026-11-07)
+
+- Part two: 'Why the paths differ' removed; step 6 no longer mentions a new life
+
+
+## 7.18.4 (2026-11-07)
+
+- Step 5: new drawing of the pulled strand (Alex's image) after the strand paragraph
+
+
+## 7.18.3 (2026-11-07)
+
+- Step 5: lives figure removed (it assumed many lives); last line no longer says 'the next one'
+
+
+## 7.18.2 (2026-11-07)
+
+- Step 5: second paragraph made simpler to read
+
+
+## 7.18.1 (2026-11-07)
+
+- Step 5: Alex's jelly strand as the picture of the soul; lamp moved to the next paragraph
+
+
+## 7.18.0 (2026-11-07)
+
+- Part two step 5 rewritten as 'Longer than one life': derived from the turn, step 1 and clause 3; afterlife catalogue moved into the fold; 'session' cut
+
+
 ## 7.17.2 (2026-11-07)
 
 - Part one ladders toy: a sixth step on each ladder above the old top ('it outlasts me', 'nothing to defend'), the old top is now the step before; a pair line for the far corner
