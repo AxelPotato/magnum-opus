@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.19.2 (2026-11-07)
+
+- Part one, Default: 'Roughly 95% of us live here' becomes 'Most of us live here'
+
+
 ## 7.19.1 (2026-11-07)
 
 - Remove the unused paths figure rule
