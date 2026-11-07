@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.15.2 (2026-11-07)
+
+- Part two, the axiom: 'with Buddhism and Jainism coming at it from another side' cut at Alex's call
+
+
 ## 7.15.1 (2026-11-07)
 
 - Part two: the chain figure with the eight steps removed at Alex's call
