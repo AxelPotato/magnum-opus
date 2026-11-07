@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.18.3 (2026-11-07)
+
+- Step 5: lives figure removed (it assumed many lives); last line no longer says 'the next one'
+
+
 ## 7.18.2 (2026-11-07)
 
 - Step 5: second paragraph made simpler to read

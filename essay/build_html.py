@@ -352,7 +352,6 @@ def rules2():
         'One answer is the brain': dict(after=figure(F4.fig_views(), 'Two answers to the same moment. In the first, many separate things. In the second, one whole seen from many places.')),
         "If it's all one whole, why does being separate": dict(after=figure(F4.fig_cpu(), 'Far apart on the screen, side by side in the machine. The distance is a property of the drawing.')),
         'The body holds the limits in place.': dict(after=figure(F4.fig_wall(), 'The wall, as it shows in the body. Hold less of it and you sit higher on BE.')),
-        'Put the turn next to an ordinary life': dict(after=figure(F4.fig_lives(), 'One way back, usually longer than one life.')),
         'If we are all part of one whole, there is nobody else.': dict(after=figure(F4.fig_fingers(), 'Karma, with the courtroom taken out.')),
         'My answer is that it takes doing less.': dict(after=F6.widget()),
         'Your own body does it too.': dict(after=figure(F5.JOKES['fig_cell'](), 'Every cell carries the whole plan and uses a small part of it. The rest is switched off and kept.')),

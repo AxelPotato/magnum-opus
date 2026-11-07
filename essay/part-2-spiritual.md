@@ -143,7 +143,7 @@ You already know this pattern from a smaller scale. You have forgotten almost ev
 
 It changes what there is to be afraid of. A separate self is sure of one thing it will lose, which is itself, so the fear of dying is the wall's strongest reflex, and it eases as the wall eases. Under the axiom what ends is one position, and the one looking from it goes on. That's why so many traditions treat letting go as a practice for dying. Every small thing you stop defending while you're alive makes the last letting go a little more familiar. I still look both ways before crossing the street, twice.
 
-It also makes this life count. What you let go of now doesn't have to be learned again. Several traditions hold that the whole way back can be walked within a single life, and I don't see a reason to save it for the next one.
+It also makes this life count. What you let go of now doesn't have to be learned again. Several traditions hold that the whole way back can be walked within a single life, and I don't see a reason to wait.
 
 #### Lives, afterlives, and practice for dying
 
