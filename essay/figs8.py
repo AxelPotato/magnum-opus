@@ -1,4 +1,4 @@
-"""Two ladders for Part one, after "The line": DO and BE, five steps each, as two sliders. Pick a part
+"""Two ladders for Part one, after "The line": DO and BE, six steps each, as two sliders. Pick a part
 of life, move either ladder, and one line shows what that step looks like there. A small cross puts a
 dot on the chart, and a third line reads the pair by its distance from the line of harmony.
 
@@ -53,6 +53,9 @@ DO = [
     ('I make it happen', ['There is a project that wouldn’t exist without you, and other people grow inside it.',
                           'Things happen for the people around you, too, because you moved first.',
                           'The big dream gets today’s small step, every day.']),
+    ('it outlasts me', ['What you built keeps running and growing while you’re away for a month, and the people in it make their own calls.',
+                        'Your friends start making things happen for each other, because they’ve watched you do it for years.',
+                        'The days you have are the life you meant to build, and the next big thing is already on the calendar.']),
 ]
 
 BE = [
@@ -71,6 +74,9 @@ BE = [
     ('released', ['The odd idea stops feeling dangerous, so you finally say it.',
                   'You tell a friend you’re proud of them, and you take a compliment without arguing.',
                   'A slow evening on your own feels like plenty.']),
+    ('nothing to defend', ['Praise and blame land the same way, and you give the credit away without noticing.',
+                           'You can sit with someone in their worst moment and stay steady and warm the whole time.',
+                           'Even a long wait in a queue feels like your own life, and you’re here for it.']),
 ]
 
 # the pair, by DO minus BE: 0 on the line, 1 and 2+ below it (Driven side), -1 and -2 or less above it
@@ -80,18 +86,21 @@ PAIR = {
     2: 'This is Driven. Things get done, and the tension comes along to every one of them.',
     -1: 'The inside is a step ahead. One plan for tomorrow, kept, would close the gap.',
     -2: 'This is Drifting. A lot of peace inside, and not much changes around you.',
+    'top': 'In step, at the far corner. Everybody visits here now and then, and this is what living here looks like.',
 }
 
 START = (0, 2, 0)  # at work, I keep my word, braced: below the line, the most common picture
 
 
 def pair(d, b):
+    if d == b == len(DO) - 1:
+        return PAIR['top']
     g = max(-2, min(2, d - b))
     return PAIR[g]
 
 
 def _xy(d, b):
-    return 12 + d * 19, 88 - b * 19
+    return round(12 + d * 15.2, 1), round(88 - b * 15.2, 1)
 
 
 JS = r"""
@@ -106,8 +115,8 @@ JS = r"""
       f.querySelector('.row.be .w').textContent=B[b][0]; rb.setAttribute('aria-valuetext',B[b][0]);
       f.querySelector('.say-do').textContent=D[d][1][a];
       f.querySelector('.say-be').textContent=B[b][1][a];
-      f.querySelector('.say-pair').textContent=P[g];
-      dot.setAttribute('cx',12+d*19); dot.setAttribute('cy',88-b*19);
+      f.querySelector('.say-pair').textContent=(d===D.length-1&&b===D.length-1)?P.top:P[g];
+      dot.setAttribute('cx',12+d*15.2); dot.setAttribute('cy',88-b*15.2);
     }
     f.querySelectorAll('.areas button').forEach(function(x,i){x.addEventListener('click',function(){a=i; draw();});});
     rd.addEventListener('input',draw); rb.addEventListener('input',draw);
@@ -118,7 +127,7 @@ JS = r"""
 """
 
 
-def widget(caption='Two ladders, DO and BE, five steps each, and what each step looks like in one part of life.'):
+def widget(caption='Two ladders, DO and BE, six steps each, and what each step looks like in one part of life.'):
     a0, d0, b0 = START
     x, y = _xy(d0, b0)
     btns = ''.join(f'<button type="button" aria-pressed="{"true" if i == a0 else "false"}">{t}</button>'
@@ -130,10 +139,10 @@ def widget(caption='Two ladders, DO and BE, five steps each, and what each step 
              '<line x1="6" y1="94" x2="94" y2="6" stroke="var(--high)" stroke-width="1.6" stroke-dasharray="3 3"/>'
              f'<circle cx="{x}" cy="{y}" r="5.5" fill="var(--ink)"/></svg>')
     rows = (f'<div class="sl" hidden>'
-            f'<div class="row do"><b>DO</b><input type="range" id="ladder-do" min="0" max="4" step="1" value="{d0}" '
-            f'aria-label="DO, from it happens to me to I make it happen"><span class="w">{DO[d0][0]}</span></div>'
-            f'<div class="row be"><b>BE</b><input type="range" id="ladder-be" min="0" max="4" step="1" value="{b0}" '
-            f'aria-label="BE, from braced to released"><span class="w">{BE[b0][0]}</span></div></div>')
+            f'<div class="row do"><b>DO</b><input type="range" id="ladder-do" min="0" max="5" step="1" value="{d0}" '
+            f'aria-label="DO, from it happens to me to it outlasts me"><span class="w">{DO[d0][0]}</span></div>'
+            f'<div class="row be"><b>BE</b><input type="range" id="ladder-be" min="0" max="5" step="1" value="{b0}" '
+            f'aria-label="BE, from braced to nothing to defend"><span class="w">{BE[b0][0]}</span></div></div>')
     lines = (f'<div class="lines" aria-live="polite">'
              f'<p style="--c:var(--driven)"><span class="tag">what you do</span><span class="say-do">{DO[d0][1][a0]}</span></p>'
              f'<p style="--c:var(--drifting)"><span class="tag">how you are inside</span><span class="say-be">{BE[b0][1][a0]}</span></p>'

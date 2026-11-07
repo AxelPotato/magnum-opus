@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.17.2 (2026-11-07)
+
+- Part one ladders toy: a sixth step on each ladder above the old top ('it outlasts me', 'nothing to defend'), the old top is now the step before; a pair line for the far corner
+
+
 ## 7.17.1 (2026-11-07)
 
 - Part one ladders toy: the three parts of life are now one clear segmented button row, the chosen one filled
