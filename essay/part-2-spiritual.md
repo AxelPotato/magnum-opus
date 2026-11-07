@@ -10,7 +10,7 @@ You've had smaller versions of that: the answer that turns up in the shower, or 
 
 One answer is the brain, working away in the background, and most of what we know about the brain backs it. The answer this part is built on, and the one I believe, is that we are part of something bigger. There is one shared consciousness, and each life, yours and mine, is an individual experience of it. The brain matters the way a radio matters: break it and the music stops, though the music was never made inside the box.
 
-The word I use for that bigger whole, as it shows up in one life, is source. It's like the sun, which shines on everybody whether they think about it or not, and what changes from one person to the next is how much of it gets through. Each time more of it came through for me, I stopped feeling alone, I had far more strength than I usually let myself use, and my biggest wish was to share that state with other people.
+The word I use for that bigger whole, as it shows up in one life, is source. It's like the sun, which shines on everybody whether they think about it or not, and what changes from one person to the next is how much of it gets through. If you pray, you may already have an older name for it. Each time more of it came through for me, I stopped feeling alone, I had far more strength than I usually let myself use, and my biggest wish was to share that state with other people.
 
 ## Why a whole would split itself up
 

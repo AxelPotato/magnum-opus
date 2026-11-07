@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.16.2 (2026-11-07)
+
+- Part two, source paragraph: 'If you pray, you may already have an older name for it.' added after the sun (Alex picked 3 a; 1 b and 2 b leave the love line and Watts as they are)
+
+
 ## 7.16.1 (2026-11-07)
 
 - Part two: two wording fixes from the reread ('Each time more of it came through for me'; step 1 'the one machine underneath both of us', so 'running' isn't used twice)
