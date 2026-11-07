@@ -308,13 +308,11 @@ def fig_chain():
     prev_bottom = 86
     for i, (title, because, tags) in enumerate(steps):
         y = y0 + i * (h + gap)
-        b.append(f'<path class="st" d="M245 {prev_bottom + 2} V{y - 3}" marker-end="url(#a{u}ink)"/>')
-        b.append(f'<rect class="card" x="20" y="{y}" width="450" height="{h}" rx="10"/>')
+        b.append(f'<path class="st" d="M340 {prev_bottom + 2} V{y - 3}" marker-end="url(#a{u}ink)"/>')
+        b.append(f'<rect class="card" x="20" y="{y}" width="640" height="{h}" rx="10"/>')
         b.append(T(40, y + 41, str(i + 1), 'big3'))
         b.append(T(76, y + 28, title, 't'))
         b.append(T(76, y + 48, because, 'small'))
-        for k, tg in enumerate(tags):
-            b.append(T(490, y + 28 + k * 17, tg, 'small b'))
         prev_bottom = y + h
     return svg('0 0 680 %d' % (prev_bottom + 14), 'A chain of eight steps, each following from the one before and from a clause of the axiom: separation is a way of looking, how a whole turns itself down, the wall felt from inside, the turn, something carries over, karma, energy, and lifting the cloth', ''.join(b), u)
 

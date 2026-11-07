@@ -8,6 +8,41 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.16.2 (2026-11-07)
+
+- Part two, source paragraph: 'If you pray, you may already have an older name for it.' added after the sun (Alex picked 3 a; 1 b and 2 b leave the love line and Watts as they are)
+
+
+## 7.16.1 (2026-11-07)
+
+- Part two: two wording fixes from the reread ('Each time more of it came through for me'; step 1 'the one machine underneath both of us', so 'running' isn't used twice)
+
+
+## 7.16.0 (2026-11-07)
+
+- Part two, the axiom: the three sentences set as a numbered, accented list (Alex); build_html.py renders any block of two or more numbered lines as a key list card
+
+
+## 7.15.2 (2026-11-07)
+
+- Part two, the axiom: 'with Buddhism and Jainism coming at it from another side' cut at Alex's call
+
+
+## 7.15.1 (2026-11-07)
+
+- Part two: the chain figure with the eight steps removed at Alex's call
+
+
+## 7.15.0 (2026-11-07)
+
+- Part two opening shortened at Alex's call (still long, slow to reach step 1): main text before step 2 from about 1,200 to about 700 words; the hook, two answers and source in five short paragraphs; the why in two; the axiom as one paragraph; step 1 is the screen picture told once and the illusion in two sentences
+
+
+## 7.14.0 (2026-11-07)
+
+- Part two: the opening rewritten (option A, after Rubin and Cameron): starts from McCartney's 'Yesterday' and the reader's own moments, the brain answer stated fairly, the second answer with the radio and the sun, source, Alex's moment without 'whatever I set my intention to'; new section 'Why a whole would split itself up' answers with love and gives the return (rain back to the sea); fold renamed 'Other answers to why' (Watts as in 7.13.3, lila and the hidden treasure moved in from step 1); 'The axiom' as three sentences, then not religious and the base fold; the machine moved into step 1; chain figure without premise tags
+
+
 ## 7.13.3 (2026-11-07)
 
 - Part two, fold But why would it do that?: 'it makes the forgetting part of the fun' becomes 'it gives the forgetting a purpose' (Alex picked a)
