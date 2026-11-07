@@ -235,6 +235,8 @@ Who: An Arabic word for a barrier or partition. In the Quran it is used for the 
 
 In the essay: Table, Islam column, row 'What continues': 'The barzakh.' Also behind the sentence about Quran 23:99 to 100.
 
+In the essay (v7.18.0): Part two, step 5 was rewritten and renamed 'Longer than one life'. The barzakh left the main text and is now in the second item of the fold 'Lives, afterlives, and practice for dying': the Quran says that behind the dead there is a barrier, the barzakh, until the day they are raised (23:100).
+
 Where it sits: Quran 23:100 (the barrier clause); 25:53 and 55:20 for the barrier between the seas (from memory, check); Encyclopaedia of the Quran or Encyclopaedia of Islam, 'Barzakh' (the checklist's pointer)
 
 The passage (paraphrase, not cleared for quoting): Paraphrase: the dead are in a waiting state, a barrier, until the day they are raised. Mainstream teaching adds some form of awareness there (hadith about the questioning in the grave). No exact passage seen.

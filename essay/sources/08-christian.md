@@ -517,6 +517,8 @@ Who: The Catholic Church's teaching on a purification after death for those who 
 
 In the essay: Not enough time in one life: 'The Catholic Church teaches purgatory, a purification after death for those who die in grace but are not yet fully purified.' Table, row 'What continues' (Christianity): 'Purgatory in Catholic teaching.' Sources list: Catechism 1030-1031.
 
+In the essay (v7.18.0): Part two, step 5 was rewritten and renamed 'Longer than one life'. The purgatory sentence left the main text and is now the second item of the fold 'Lives, afterlives, and practice for dying', with the barzakh: Catholic teaching calls it purgatory, a purification after death for those who die in grace but are not yet fully purified (Catechism 1030 to 1031).
+
 Where it sits: Catechism of the Catholic Church, paragraphs 1030-1032
 
 The passage (paraphrase, not cleared for quoting): Paraphrase close to the Catechism: all who die in God's grace and friendship but still imperfectly purified are assured of eternal salvation, but after death undergo purification to reach the holiness needed to enter the joy of heaven. The Church calls this final purification of the elect Purgatory, entirely different from the punishment of the damned. The paragraph numbers and gist were confirmed in the check; I did not see the full wording on the page in this session.

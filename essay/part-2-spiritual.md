@@ -129,21 +129,24 @@ Before the turn and after it are two halves of the same game, like a player who 
 * Rumi opens his Masnavi with a reed flute that cries because it was parted from the reed bed, and says that everyone who is left far from their source wishes back the time when they were united with it (Book I, 1 to 4).
 * In the parable of the prodigal son, the younger son takes his share, leaves for a far country and spends everything. When a famine comes and he is feeding pigs, he came to himself (Luke 15:17). He goes home, and while he is still a long way off his father sees him and runs to him (15:20). That is the turn, almost word for word.
 
-## 5. Something carries over
+## 5. Longer than one life
 
-You have forgotten almost every day you have lived. Try to remember an ordinary afternoon from when you were small, and you get a blur, maybe a face or a smell. Still, the person reading this is made out of those days. The events went, and what they taught you stayed: the patience or the lack of it, the fears, the things your hands know how to do.
+Put the turn next to an ordinary life and the two don't line up. Plenty of people die long before the bottom point, some die right at it, and very few finish the way back by the time the body gives out. The third clause says the separation ends, and for most of us one life is too short for that.
 
-Under the axiom the same holds on the largest scale. What a life learned and what it became is kept. Most traditions call it the soul, and Buddhism, which denies a fixed self, speaks of a stream that carries on.
+So what does dying actually end? Step 1 already answered it. The separation was never in the body. It is a way of looking, and step 2 showed what holds it in place: tension, kept up so long it feels like the world. The body is where the looking happens. When the body goes, the habit of looking has no reason to go with it. If death took the wall down by itself, the turn would have no purpose, and nothing a person lets go of in a life would count for anything.
 
-That something can't be the body, which stays behind. It is the part of you that was never really separate, the whole at one position, going through the separation and keeping the record. An old Buddhist dialogue has the image I like most for it: a lamp lit from another lamp, where nothing passes across and the second one still burns.
+So something carries over, and it is the one who was doing the looking. The name and the memories belong to the life and stay with it. What goes on is where you are on the way: how far out you went, whether you have turned, how much of the wall you have already let go. Most traditions call this the soul. Buddhism, which says there is no fixed self, speaks of a stream of causes and gives the image I like best: a lamp lit from another lamp, where nothing passes across and the second one still burns. Where it goes on, in another world or in a new life here, is where the traditions answer differently, and in every answer it picks up where it stopped.
 
-How it carries on is where the traditions part, and the axiom doesn't need to settle it. In one family of answers it goes on after death in another form, like purgatory in Catholic teaching or the barzakh, the barrier the Quran puts between death and resurrection. In the other it comes back into this world, life after life, which Hindu texts call samsara. Either way, what this life gathered is taken further, and several traditions hold that the whole road can be walked within a single life.
+You already know this pattern from a smaller scale. You have forgotten almost every day you have lived. Try to remember an ordinary afternoon from when you were small, and you get a blur, maybe a face or a smell. Still, the person reading this is made out of those days. The events went, and what they taught you stayed: the patience or the lack of it, the fears, the things your hands know how to do.
 
-That changes what dying is. Death is the end of one session, and the one who lived it goes on. Most of us are still afraid of it, and the axiom says why: a separate self is sure of one thing it will lose, which is itself. So the fear of dying is the wall's strongest reflex, and it eases as the wall eases. That's why so many traditions treat letting go as a practice for dying. Every small thing you stop defending while you're alive makes the last letting go a little more familiar. I still look both ways before crossing the street, twice.
+It changes what there is to be afraid of. A separate self is sure of one thing it will lose, which is itself, so the fear of dying is the wall's strongest reflex, and it eases as the wall eases. Under the axiom what ends is one position, and the one looking from it goes on. That's why so many traditions treat letting go as a practice for dying. Every small thing you stop defending while you're alive makes the last letting go a little more familiar. I still look both ways before crossing the street, twice.
+
+It also makes this life count. What you let go of now doesn't have to be learned again. Several traditions hold that the whole way back can be walked within a single life, and I don't see a reason to save it for the next one.
 
 #### Lives, afterlives, and practice for dying
 
 * In the Bhagavad Gita, the Hindu scripture in which the god Krishna advises the warrior Arjuna, he says that the yogi who keeps striving is perfected through many births and then reaches the highest goal (6.45), and he compares the self to a person putting on new clothes and discarding worn ones (2.22). The Buddha says that samsara, the cycle of birth, death and rebirth, has no discoverable beginning and that it is not easy to find a being who has not at some time been your mother (Samyutta Nikaya 15, in one of the oldest collections of his talks).
+* The Abrahamic traditions put what comes next in another world. Catholic teaching calls it purgatory, a purification after death for those who die in grace but are not yet fully purified (Catechism of the Catholic Church, 1030 to 1031), and the Quran says that behind the dead there is a barrier, the barzakh, until the day they are raised (23:100).
 * Near the end of The Education of the Human Race, in 1780, Lessing, a thoroughly Enlightenment sort of person, asks why he shouldn't come back as often as he is capable of acquiring fresh knowledge.
 * In the Myth of Er that closes Plato's Republic, souls choose their next lives and then drink from the river of forgetfulness before they are born, which is one old answer to why you don't remember the last one, and the best explanation I've heard for Monday mornings.
 * The lamp comes from the Milindapanha, a dialogue between King Milinda and the monk Nagasena, where the one who is reborn is neither the same nor another, like a lamp that burns all night without being the same flame from one hour to the next.
@@ -290,7 +293,7 @@ The axiom
 - Rumi, Masnavi, Book I, 1-4, translated by Nicholson, R. A. (1926), The Mathnawi of Jalalu'ddin Rumi, vol. II (translation of Books I and II). Gibb Memorial Trust.
 - Luke 15:11-32.
 
-5. Something carries over
+5. Longer than one life
 
 - Lessing, G. E. (1780). The Education of the Human Race, section 98 in the usual numbering.
 - Bhagavad Gita 6.45 and 2.22. Samyutta Nikaya 15. Catechism of the Catholic Church, 1030-1031. Quran 23:100.

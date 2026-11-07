@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.18.0 (2026-11-07)
+
+- Part two step 5 rewritten as 'Longer than one life': derived from the turn, step 1 and clause 3; afterlife catalogue moved into the fold; 'session' cut
+
+
 ## 7.17.2 (2026-11-07)
 
 - Part one ladders toy: a sixth step on each ladder above the old top ('it outlasts me', 'nothing to defend'), the old top is now the step before; a pair line for the far corner
