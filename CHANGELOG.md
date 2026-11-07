@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.13.3 (2026-11-07)
+
+- Part two, fold But why would it do that?: 'it makes the forgetting part of the fun' becomes 'it gives the forgetting a purpose' (Alex picked a)
+
+
 ## 7.13.2 (2026-11-07)
 
 - Part two, fold But why would it do that?: Watts's answer is put positively at Alex's call, the adventure of not knowing how the story ends instead of getting bored
