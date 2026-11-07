@@ -59,7 +59,7 @@ From these three clauses I want to build the rest one step at a time. Each step 
 
 If everything is part of one whole, and the whole experiences separation, then being separate can't be a fact about what exists. It has to be a fact about how the whole is looking at itself. So the separation is real as an experience and misleading as a final description, and that's what I mean by illusion. The word gets misused. It doesn't mean nothing is there. The distance between the two windows is real, and you can measure it with a ruler held to the screen. What's wrong is the reading, the thought that two separate things sit that far apart inside the machine. The walls between programs work the same way. From inside a program they are completely real, and they still don't mean the machine is in pieces.
 
-The traditions give answers to why a whole would do this, and they rhyme. Hindu texts call creation lila, play, an activity with no need behind it. Which makes the universe the biggest hobby project ever, and like every hobby project, nobody can explain why it took this long. A whole that looks at itself needs positions to look from, and a position is a separation. Knowing needs a gap.
+The traditions give answers to why a whole would do this, and they rhyme. Hindu texts call creation lila, play, an activity with no need behind it. A whole that looks at itself needs positions to look from, and a position is a separation. Knowing needs a gap.
 
 #### Real as an experience, misleading as the last word
 

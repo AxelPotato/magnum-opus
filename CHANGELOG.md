@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.13.1 (2026-11-07)
+
+- Part two: the hobby project joke after lila is cut at Alex's call (reader run 27)
+
+
 ## 7.13.0 (2026-11-07)
 
 - Part three: the fold My teacher and I is cut at Alex's call after reader run 27 (lowest passage in the book, -0.91); the book no longer names the teacher
