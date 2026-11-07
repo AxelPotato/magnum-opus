@@ -520,3 +520,18 @@ Background: Julia Cameron's The Artist's Way (1992) uses the same word for creat
 If someone pushes back:
 - Rubin writes about art, not metaphysics. Answer: yes, and the essay says so: for him the word names where ideas come from, and the essay says plainly that it uses the word a little wider.
 - Isn't "source" a New Age word? Answer: it is an ordinary English word for where something comes from, and the essay pins it to one picture, the sun, before using it.
+
+## Paul McCartney, how "Yesterday" arrived (1965) (McCartney born 1942; the song was recorded in 1965)
+
+Kind: person. Status: partly checked.
+
+Who: songwriter and bass player of the Beatles.
+
+In the essay: Part two, the opening, 'Where it comes from' (v7.14.0): he woke with the melody, played it to people in the music business for weeks to ask whether it was someone else's, called it "Scrambled Eggs" until it had words, and it became "Yesterday". It is the opening example of an idea that arrives finished.
+
+Where it sits: McCartney's own account, told many times; the fullest is in Barry Miles, Paul McCartney: Many Years From Now (Henry Holt, 1997), and in The Beatles Anthology (2000). A search on 2026-11-07 found the same story on Wikipedia's page for the song and on The Paul McCartney Project. Accounts differ on how long he kept asking (two weeks, about a month, longer), so the essay says "for weeks". Who suggested the final title differs between accounts too, so the essay does not say.
+
+Read it free: https://en.wikipedia.org/wiki/Yesterday_(song) (seen in a search result). https://www.the-paulmccartney-project.com/song/yesterday/ (seen in a search result).
+
+If someone pushes back:
+- It was his brain working while he slept. Answer: yes, and the essay gives that answer first and leaves it standing. The example is there for the feeling he described, that it did not seem to come from him.

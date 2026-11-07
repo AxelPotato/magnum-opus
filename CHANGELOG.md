@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.14.0 (2026-11-07)
+
+- Part two: the opening rewritten (option A, after Rubin and Cameron): starts from McCartney's 'Yesterday' and the reader's own moments, the brain answer stated fairly, the second answer with the radio and the sun, source, Alex's moment without 'whatever I set my intention to'; new section 'Why a whole would split itself up' answers with love and gives the return (rain back to the sea); fold renamed 'Other answers to why' (Watts as in 7.13.3, lila and the hidden treasure moved in from step 1); 'The axiom' as three sentences, then not religious and the base fold; the machine moved into step 1; chain figure without premise tags
+
+
 ## 7.13.3 (2026-11-07)
 
 - Part two, fold But why would it do that?: 'it makes the forgetting part of the fun' becomes 'it gives the forgetting a purpose' (Alex picked a)

@@ -1,24 +1,45 @@
 # Part two: Spiritual
 
-## Where we part ways
+## Where it comes from
 
 Part one was the polite part. Everything in it holds up whichever way you think the universe works, and this is where we part ways. Most people would call the top right corner of that chart the goal. I'd call it the edge, because the whole chart rests on one quiet assumption: that I'm a separate thing, and a separate thing has to protect itself and take what it needs. If you'd rather have a practical next step, Part three is for you, and you can come back here any time.
 
-Start with something you've had. You're in the shower, thinking about nothing, and the answer to the thing you were stuck on all week just turns up. Or it's late, someone you love calls and needs help, and from somewhere you get a second wind. Where did that come from?
+One morning Paul McCartney woke up with a whole melody in his head. He went to the piano and played it, and then for weeks he played it to people in the music business and asked whether they'd heard it somewhere, because it had come out so finished that he was sure he'd stolen it. Nobody had heard it. Until he found the words he called it "Scrambled Eggs," and then it became "Yesterday."
 
-The first answer starts from what you can see: a world of things, and underneath them particles. A mind is something a brain does, and when the brain stops, the experiencer stops. Here the idea in the shower was your brain finishing its homework in the background.
+You've had a smaller version of that. The answer to the thing you were stuck on all week turns up in the shower. Someone you love calls late at night and needs help, and from somewhere you get a second wind. In a hard conversation you hear yourself say exactly the right thing, and you know you didn't plan it. So where does it come from?
 
-The second view sits at the other extreme, and it starts from a different assumption: that we are part of something bigger. There is one shared consciousness, and each life, yours and mine, is an individual experience of it. I'm one of the places the whole looks out from, with the memory of the rest switched off for a while. Most people have felt a moment of it, holding a newborn maybe, or on a quiet evening by the sea, when the line between you and everything else went thin.
+The first answer is the brain. It kept working on the problem in the background, and the second wind is your body doing what bodies do when someone needs them. Most of what we know about the brain backs that answer, and nothing in this part asks you to throw it out.
 
-Here the idea and the second wind came from the whole, and the word I use for the whole, as it shows up from inside one life, is source. Think of the sun. Nearly all the energy in your breakfast started out as sunlight, and the sun shines on everybody, whether they think about it or not. The source is on all the time and reaches everyone, and what changes from one person to the next is how much of it gets through. If source sounds like too much, call it life, or connection. What matters is noticing the moments when there's more of it. The times I've felt it most came with the same sensation: that I'm not alone, that I have a lot of energy at my disposal, and that I can do whatever I set my intention to. And each time, the biggest wish that came with it was to share that state with other people.
+The second answer is the one this part is built on, and it's what I believe. We are part of something bigger. There is one shared consciousness, and each life, yours and mine, is an individual experience of it. The brain matters the way a radio matters: damage it and the music goes, though the music was never made inside the box. I'm one of the places the whole looks out from, with the memory of the rest switched off for a while, and on a good day a little more of the rest gets through. That's the shower, the second wind and the song.
 
-So why does being separate feel so convincing? That question is most of this part.
+The word I use for that bigger whole, as it shows up inside one life, is source. Think of the sun. Nearly all the energy in your breakfast started out as sunlight, and the sun shines on everybody, whether they think about it or not. The source is on all the time and reaches everyone, and what changes from one person to the next is how much of it gets through. The times I've felt more of it come through, I stopped feeling alone, there was far more strength in me than I usually let myself use, and the biggest wish that came with it was to share that state with other people.
 
-## Why this idea is worth a closer look
+## Why a whole would split itself up
 
-I'm not religious, and I'm not asking you to adopt anybody's religion. I'll quote a lot of traditions because, in their own words, they keep coming back to this idea. Hindu texts say it outright, Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism come at it from another side. People with no creed say it too. Spinoza argued that there is only one substance, which he called God or Nature, and Carl Sagan said on television in 1980 that we are a way for the cosmos to know itself.
+The obvious next question is why. Why would one whole break into all these lives and then forget that it had?
 
-Agreement settles nothing by itself, so I'll take the idea as true and show what follows from it, one step at a time. You can judge it by that.
+My answer is love. A whole with nothing outside itself has nobody to love, because love needs someone else, someone you can reach for and come back to. So the whole became many and forgot that it had, and now each part gets to find the others. Seen that way, the separation is what makes love possible at all.
+
+That also tells you which way it goes. If the separation is there for the sake of love, it does its job and ends, a little at a time. Each time two people stop being strangers to each other, a piece of it is done. Rain falls as separate drops, and every drop is already on its way back to the sea.
+
+#### Other answers to why
+
+* Alan Watts, the British writer who spent his life explaining Eastern philosophy to Western audiences, had a story he used to tell, usually called "The Dream of Life," and I enjoy thinking about it this way. Suppose that every night you could dream any dream you wanted, and pack seventy-five years of experience into a single night. The first nights you would have every pleasure you could think of. After enough of those you would want to be surprised, so one night you would dream something you don't control, where things happen to you that you didn't plan. Each night you would hide a little more from yourself and take a bigger gamble, because the not knowing is where the excitement is. Keep going, Watts says, and eventually you would dream the life you are living today.
+* Watts's dream gives the forgetting a purpose. It only works if the dreamer forgets, and a whole that still remembered being whole would be wearing a costume and knowing it. In his version the whole wanted the adventure of not knowing how the story ends.
+* Hindu texts call creation lila, play, an activity with no need behind it, and the Brahma Sutra (2.1.33), a classic Hindu text on the Upanishads, is where the word is used this way. A whole that looks at itself needs positions to look from, and a position is a separation.
+* Sufis quote a saying, "I was a hidden treasure and I loved to be known," which scholars of hadith, the reported sayings of the Prophet Muhammad, do not accept as his. Its logic is close to mine: a whole that wants to be known and loved needs someone else to do the knowing.
+
+## The axiom
+
+Here is the whole idea in three sentences. I'll call them the axiom, because the rest of this part stands on them.
+
+We are part of something bigger. There is one shared consciousness, and everything is a part of it.
+
+The whole experiences separation. It looks at itself through individual lives, and each of us experiences one of them as "my life."
+
+The separation ends.
+
+I'm not religious, and I'm not asking you to adopt anybody's religion. I quote a lot of traditions in this part because, in their own words, they keep coming back to this idea. Hindu texts say it outright, Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism come at it from another side. People with no creed say it too. Spinoza argued that there is only one substance, which he called God or Nature, and Carl Sagan said on television that we are a way for the cosmos to know itself.
 
 #### The base, tradition by tradition
 
@@ -29,42 +50,21 @@ Agreement settles nothing by itself, so I'll take the idea as true and show what
 * Islam: the Quran says that wherever you turn there is the face of God, and the Sufi mystic Ibn Arabi called all things "He/not He," meaning that each thing is God and also not God.
 * Daoism: in the Daodejing the Way gives birth to one, one gives birth to two, and the sequence runs on to the ten thousand things, the Chinese phrase for everything that exists.
 
-## The axiom and the machine
+Agreement settles nothing by itself, so I'll take the axiom as true and follow it one step at a time, and you can judge it by where it leads. Under each step you'll find what the traditions say, so you can see whether they meant the same thing.
 
-The axiom has three clauses.
+## 1. Separation is a way of looking
 
-We are part of something bigger. There is one shared consciousness, a single whole, and everything is a part of it.
-
-The whole experiences separation. It looks at itself through individual lives, each one a position with its own point of view, which each of us experiences as "my life."
-
-The separation ends. Being separate is a phase, and it returns to knowing itself as one. You can see the direction in small things: each time two people stop being strangers to each other, a little of it ends.
-
-The first two clauses describe how things are. The third says where they go, and it is the one the rest of this part leans on most.
-
-#### But why would it do that?
-
-* Here explaining runs out, for me and for everybody else. The materialist picture has the same edge: the Big Bang is where our equations stop, so asking what came before it, or why it happened at all, leaves the question nowhere to stand. The axiom has its own version of that edge. It says that the whole experiences separation, and it can't really say why a whole would want to.
-* What I do have is a story Alan Watts used to tell, and I enjoy thinking about it this way. Watts was the British writer who spent his life explaining Eastern philosophy to Western audiences, and the talk is usually called "The Dream of Life." Suppose that every night you could dream any dream you wanted, and pack seventy-five years of experience into a single night. The first nights you would have every pleasure you could think of. After enough of those you would want to be surprised, so one night you would dream something you don't control, where things happen to you that you didn't plan. Each night you would hide a little more from yourself and take a bigger gamble, because the not knowing is where the excitement is. Keep going, Watts says, and eventually you would dream the life you are living today.
-* That's the second clause told as a story, and it gives the forgetting a purpose. A dream like that only works if the dreamer forgets, and a whole that still remembered being whole would be wearing a costume and knowing it. So if you ask me why the whole would bother, I have two answers, and I like them together. The first is Watts's: it wanted the adventure of not knowing how the story ends. The second matters more to me. A whole with nothing outside itself has nobody to love, because love needs someone else, someone you can reach for and come back to. So the whole became many and forgot that it had, and now each part gets to find the others and love them. Seen that way, the separation is what makes love possible at all.
-
-I'll hold it with a computer, since I spent years in cyber security. Picture one machine running thousands of programs. Each program gets its own private memory and believes it has the whole thing to itself. The operating system maps all of it onto the same physical chips, and the hardware enforces the walls, which is what keeps a random app away from your password manager. The walls are real, though engineers built them. Underneath, there is one machine.
+If it's all one whole, why does being separate feel so convincing? I'll answer with a computer, since I spent years in cyber security. Picture one machine running thousands of programs. Each program gets its own private memory and believes it has the whole thing to itself. The operating system maps all of it onto the same physical chips, and the hardware enforces the walls, which is what keeps a random app away from your password manager. The walls are real, though engineers built them. Underneath, there is one machine.
 
 Now picture the screen. Two windows sit in opposite corners, and there seems to be a distance between them. There is a distance, on the screen. Both windows are computed on the same machine in the same moment, and the machine has never heard of that distance.
 
 Under the axiom, you and I are programs. "Me over here, you over there" is the screen. My private memory is the self I feel from inside. The wall around it is the felt edge of me. The whole is the machine that was running both of us all along. The computer is a picture. It doesn't mean the universe is a simulation or that anyone is running it.
 
-From these three clauses I want to build the rest one step at a time. Each step uses a clause of the axiom, an earlier step, or both, and in a few places I add something I have observed, and I'll say where. Under each step I'll show you what the traditions say, so you can judge for yourself whether they meant the same thing. Here is the whole chain on one page.
-
-## 1. Separation is a way of looking
-
-If everything is part of one whole, and the whole experiences separation, then being separate can't be a fact about what exists. It has to be a fact about how the whole is looking at itself. So the separation is real as an experience and misleading as a final description, and that's what I mean by illusion. The word gets misused. It doesn't mean nothing is there. The distance between the two windows is real, and you can measure it with a ruler held to the screen. What's wrong is the reading, the thought that two separate things sit that far apart inside the machine. The walls between programs work the same way. From inside a program they are completely real, and they still don't mean the machine is in pieces.
-
-The traditions give answers to why a whole would do this, and they rhyme. Hindu texts call creation lila, play, an activity with no need behind it. A whole that looks at itself needs positions to look from, and a position is a separation. Knowing needs a gap.
+So being separate can't be a fact about what exists. It's a fact about how the whole is looking at itself. The separation is real as an experience and misleading as a final description, and that's what I mean by illusion. The word gets misused. It doesn't mean nothing is there. The distance between the two windows is real, and you can measure it with a ruler held to the screen. What's wrong is the reading, the thought that two separate things sit that far apart inside the machine. The walls between programs work the same way. From inside a program they are completely real, and they still don't mean the machine is in pieces.
 
 #### Real as an experience, misleading as the last word
 
 * Hinduism calls the appearance maya, and teachers of Advaita, the non-dual school of Hindu philosophy, warn that "illusion" translates the word badly: the world depends on something deeper for its being, so it is neither fully real nor simply unreal. Plato's prisoners in the cave take shadows for the world, and in the Heart Sutra, a short Buddhist text, form is emptiness and emptiness is form, which Buddhists read as saying that things have no fixed independent nature of their own.
-* The Brahma Sutra (2.1.33), a classic Hindu text on the Upanishads, is where creation is called lila. Sufis quote a saying, "I was a hidden treasure and I loved to be known," which scholars of hadith, the reported sayings of the Prophet Muhammad, do not accept as his. Its logic is the one I just gave: a whole that wants to know itself needs a point of view.
 * Ralph Waldo Emerson, who had left the pulpit, wrote in The Over-Soul in 1841 that we live in succession, in division, in parts, in particles, and that meanwhile within man is the soul of the whole.
 
 ## 2. How a whole turns itself down
@@ -256,7 +256,17 @@ Until then, one question that needs no equipment. Where, right now, does the bor
 
 Translations: Bible verses quoted word for word follow the English Standard Version (ESV). Quran 2:115 follows Arberry, A. J. (1955), The Koran Interpreted, and Quran 17:7 and 23:100 follow the Sahih International translation. Other translators are named next to their texts below.
 
-Where we part ways, and why the idea is worth a look
+Where it comes from
+
+- Miles, B. (1997). Paul McCartney: Many Years From Now. Henry Holt (on how the melody of "Yesterday" arrived, and its working title).
+
+Why a whole would split itself up
+
+- Watts, A. "The Dream of Life", a recorded talk; the audio circulates from the Alan Watts archive (alanwatts.org) and the collection Out of Your Mind (Sounds True). The retelling here is a paraphrase.
+- Brahma Sutra 2.1.33.
+- Chittick, W. C. (1998). The Self-Disclosure of God. SUNY Press (on the hidden treasure saying).
+
+The axiom
 
 - Spinoza, B. Ethics, Part I (propositions 14 and 15, one substance) and the Preface to Part IV (God or Nature).
 - Sagan, C. (1980). Cosmos: A Personal Voyage, episode 1, The Shores of the Cosmic Ocean.
@@ -264,14 +274,9 @@ Where we part ways, and why the idea is worth a look
 - Cook, F. H. (1977). Hua-yen Buddhism: The Jewel Net of Indra. Penn State University Press.
 - Shneur Zalman of Liadi, Tanya, Part II, Sha'ar ha-Yichud ve-ha-Emunah (the Gate of Unity and Faith). Chittick, W. C. (1989). The Sufi Path of Knowledge. SUNY Press.
 
-The axiom and the machine
-
-- Watts, A. "The Dream of Life", a recorded talk; the audio circulates from the Alan Watts archive (alanwatts.org) and the collection Out of Your Mind (Sounds True). The retelling here is a paraphrase.
-
 1. Separation is a way of looking
 
-- Plato, Republic VII (the cave). The Heart Sutra (Conze's translation, in Buddhist Wisdom Books, 1958, is the usual one). Brahma Sutra 2.1.33.
-- Chittick, W. C. (1998). The Self-Disclosure of God. SUNY Press (on the hidden treasure saying).
+- Plato, Republic VII (the cave). The Heart Sutra (Conze's translation, in Buddhist Wisdom Books, 1958, is the usual one).
 - Emerson, R. W. (1841). The Over-Soul, in Essays: First Series.
 
 2. How a whole turns itself down

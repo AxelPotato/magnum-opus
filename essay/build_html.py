@@ -347,8 +347,8 @@ PART0_CSS = '.fig .pic{display:block;width:100%;max-width:26rem;height:auto;marg
 
 def rules2():
     return {
-        'From these three clauses I want to build the rest': dict(after=figure(F4.fig_chain(), 'The chain. The arrows show the order. The tags on the right give the premises each step uses, which are not always the step above.')),
-        'The second view sits at the other extreme': dict(after=figure(F4.fig_views(), 'Two assumptions at opposite ends. Neither can be observed from outside, since the observing is done by the same mind.')),
+        'Agreement settles nothing by itself': dict(after=figure(F4.fig_chain(), 'The road through this part, eight steps from the axiom.')),
+        'The second answer is the one this part is built on': dict(after=figure(F4.fig_views(), 'Two answers to the same moment. In the first, many separate things. In the second, one whole seen from many places.')),
         'Under the axiom, you and I are programs.': dict(after=figure(F4.fig_cpu(), 'Far apart on the screen, side by side in the machine. The distance is a property of the drawing.')),
         'The body holds the limits in place.': dict(after=figure(F4.fig_wall(), 'The wall, as it shows in the body. Hold less of it and you sit higher on BE.')),
         'How it carries on is where the traditions part': dict(after=figure(F4.fig_lives(), 'What a life gathers is kept and carried on, whichever form the traditions give it.')),
@@ -710,7 +710,7 @@ def contact_html(intro=''):
 FOLD_KINDS = {
     'What the studies say': 'study',
     'What the studies say about sticking with it': 'study',
-    'But why would it do that?': 'look',
+    'Other answers to why': 'look',
     "What if I'm not sure?": 'life',
     'Your sentence, and the yes you already know': 'try',
     'What is behind the goal': 'try',
