@@ -373,3 +373,6 @@ Raised by the agents while building the entries. Some are already fixed in 2.3.1
 Four entries were added by hand when Part two was restructured, for citations the first build did not cover: the Shema (Deuteronomy 6:4) and Mishnah Yoma 8:9 in `07-jewish.md`, Matthew 5:23-24 in `08-christian.md`, and Daodejing 42 in `06-jain-sikh-druze-daoist.md`. They are marked unchecked: the passages were not seen on a page in the session, and the links are standard addresses.
 
 After the restructure the essay no longer cites a number of items that still have entries here (for example Laplace, Kalckert and Ehrsson, Lush, Metzinger and Blanke, Mulla Sadra, Akiva and Ben Azzai, Mishnah Sotah 1:7, the Zohar, the Druze). They stay as private background for discussions.
+
+
+v7.19.0 (2026-11-07): Part two's section 'Why the paths differ' was removed, so the guest-at-the-door citations (Genesis 18:1-8, Taittiriya Upanishad 1.11.2, Sahih al-Bukhari 6018, Matthew 25:35-40, the langar) are no longer in the essay. Step 5 was rewritten as 'Longer than one life' in v7.18.0, and step 6 no longer mentions a new life.

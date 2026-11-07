@@ -921,6 +921,7 @@ Kind: text. Status: checked.
 Who: The parable of the sheep and the goats, the last of Jesus's teachings before the Passion in Matthew.
 
 In the essay: Part two, 'Why the paths differ' (since 5.0.3): 'Jesus says that whoever welcomed a stranger welcomed him (Matthew 25:35 to 40).'
+Not cited since v7.19.0: the section 'Why the paths differ' was removed from Part two (Alex, 2026-11-07).
 
 Where it sits: 25:35 'I was a stranger and you welcomed me'; 25:40 'just as you did it to one of the least of these brothers and sisters of mine, you did it to me' (NRSVUE, read on Bible Gateway on 2026-10-26).
 

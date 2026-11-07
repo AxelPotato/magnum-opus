@@ -623,6 +623,7 @@ Kind: text. Status: partly checked (the wording of the Clear Quran translation w
 Who: Verse 48 of Surat al-Ma'ida (the Table Spread), in the passage on the Torah, the Gospel and the Quran. It says God gave each community a code of law and a way of life, and had God willed He would have made them one community.
 
 In the essay: Part two, 'Why the paths differ': 'The Quran says that God gave each community its own law and way, and had God willed would have made them one community, and it tells them to race toward what is good (5:48).' Sources list: Quran 5:48. The essay paraphrases and does not quote, and adds that the verse presents the Quran as the measure of the earlier books. Since 5.0.3 (2026-10-26) 'Why the paths differ' no longer cites it: private context for discussion.
+Not cited since v7.19.0: the section 'Why the paths differ' was removed from Part two (Alex, 2026-11-07).
 
 Where it sits: Quran 5:48.
 
@@ -800,6 +801,7 @@ Kind: text. Status: partly checked.
 Who: A hadith narrated by Abu Hurayra in al-Bukhari's Sahih, in the Book of Good Manners (Kitab al-Adab).
 
 In the essay: Part two, 'Why the paths differ' (since 5.0.3): 'The Prophet said that whoever believes in God and the Last Day should honor his guest (Sahih al-Bukhari 6018).'
+Not cited since v7.19.0: the section 'Why the paths differ' was removed from Part two (Alex, 2026-11-07).
 
 Where it sits: Sahih al-Bukhari 6018 (sunnah.com numbering). The hadith has three clauses: do not harm your neighbor, honor your guest, speak good or keep silent. The guest clause is the middle one. Hadith 6019 (Abu Shurayh) adds a day and a night of special hospitality and three days in all.
 

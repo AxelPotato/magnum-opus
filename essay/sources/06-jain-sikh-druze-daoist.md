@@ -499,6 +499,7 @@ Kind: concept. Status: partly checked.
 Who: Every gurdwara runs a langar, a community kitchen that serves a free meal to anyone who comes, whatever their religion, caste or status, sitting together on the floor. Volunteers cook and serve as seva.
 
 In the essay: Part two, 'Why the paths differ' (since 5.0.3): 'a Sikh temple kitchen, the langar, feeds anyone who walks in.'
+Not cited since v7.19.0: the section 'Why the paths differ' was removed from Part two (Alex, 2026-11-07).
 
 Where it sits: a practice, not a verse. Tradition credits Guru Nanak with starting it and Guru Amar Das with the rule that everyone, the emperor Akbar included in the story, first eats in the langar.
 

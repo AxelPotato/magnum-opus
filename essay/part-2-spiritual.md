@@ -119,7 +119,7 @@ The switch is hard, because everything in you was trained to move the other way.
 
 After the turn, happiness becomes the compass. I mean the state you live in over months: fulfillment, steady good will toward people, wanting to get up in the morning. A moment of fun comes and goes. The test is simple. Over the last year, have I become more fulfilled, or more bleak? Each of us carries our own compass, and nobody else can read it for us. If the emptiness has turned into a depression that weighs on every day, get real help first, from a doctor or a therapist. The compass will still be there afterwards.
 
-Before the turn and after it are two halves of the same game, like a player who has played for years and one who has just started. The second will get there too. Every part of the lila is needed, which is also why the paths look so different.
+Before the turn and after it are two halves of the same game, like a player who has played for years and one who has just started. The second will get there too. Every part of the lila is needed.
 
 #### Restless, and coming to yourself
 
@@ -166,7 +166,7 @@ The mirror is for looking at yourself, and only at yourself. Pointing it at some
 
 Before the turn, the mirror mostly shows the cost of being separate, and the bill grows until the bottom point. After the turn it becomes practical. The irritation, the old fight with your mother, the colleague you can't stand: each one marks a spot where you still act as two. The sharpest lessons come from the people closest to you, because that is where it hurts most. When I stop reacting the old way, the other person stops getting the old reaction, and very often the whole pattern between us shifts.
 
-A lesson that isn't learned comes back in a new costume: a new boss with the old boss's habits, a new relationship with the same argument, and, if this life runs out first, a new life with the same homework. If karma were a person, it would be a very patient tutor who keeps setting the same homework until it gets done, and I have redone some of mine more times than I'd like to admit.
+A lesson that isn't learned comes back in a new costume: a new boss with the old boss's habits, and a new relationship with the same argument. If karma were a person, it would be a very patient tutor who keeps setting the same homework until it gets done, and I have redone some of mine more times than I'd like to admit.
 
 #### Deeds come back, and the other is me
 
@@ -220,12 +220,6 @@ Here is the picture I use. Take a piece of cloth with small jewels sewn all over
 * Huayan Buddhism pictures the world as the net of the god Indra, with a jewel at every knot, each one reflecting all the others, so that nothing happens to one jewel alone.
 * Jesus says that nobody lights a lamp to put it under a basket. It goes on a stand, and it gives light to everyone in the house (Matthew 5:15).
 * A long study of one town in Massachusetts found that people's happiness tracked the happiness of their friends, and of their friends' friends (Fowler and Christakis, 2008). Other researchers have argued that part of this comes from friends sharing the same surroundings, or people with similar moods finding each other, so how much of it really spreads is still debated.
-
-## Why the paths differ
-
-If one structure sits behind all this, why do the religions look so different? The whole goes into separation through countless points of view, no two of them meet the wall in the same way, and so a path is a way back drawn for particular people at a particular time. The core stays because it comes from the structure. The forms change because the people do.
-
-You can see it in something as ordinary as a guest at the door. Abraham runs out of his tent to feed three strangers, and the story says it was God who came to him (Genesis 18). An Upanishad tells the student to treat the guest as a god (Taittiriya 1.11.2). The Prophet said that whoever believes in God and the Last Day should honor his guest (Sahih al-Bukhari 6018). Jesus says that whoever welcomed a stranger welcomed him (Matthew 25:35 to 40), and a Sikh temple kitchen, the langar, feeds anyone who walks in. A tent, a house and a temple kitchen look nothing alike, and the instruction is the same: open the door. Under the axiom that is no surprise, since whoever is at the door is another part of the same whole.
 
 ## My own road
 
@@ -321,10 +315,6 @@ The axiom
 
 - Daodejing 54 (Legge's translation, Sacred Books of the East, vol. 39). The Great Learning (Daxue), the opening section (Legge's translation, The Chinese Classics, vol. 1). Cook, F. H. (1977). Hua-yen Buddhism: The Jewel Net of Indra. Penn State University Press. Matthew 5:15.
 - Fowler, J. H., & Christakis, N. A. (2008). Dynamic spread of happiness in a large social network: longitudinal analysis over 20 years in the Framingham Heart Study. BMJ, 337, a2338. Cohen-Cole, E., & Fletcher, J. M. (2008). Detecting implausible social network effects in acne, height, and headaches: longitudinal analysis. BMJ, 337, a2533. Shalizi, C. R., & Thomas, A. C. (2011). Homophily and contagion are generically confounded in observational social network studies. Sociological Methods & Research, 40(2), 211-239.
-
-Why the paths differ
-
-- Genesis 18:1-8. Taittiriya Upanishad 1.11.2. Sahih al-Bukhari 6018. Matthew 25:35-40. The langar, the free kitchen of the Sikh gurdwara.
 
 What you can check
 
