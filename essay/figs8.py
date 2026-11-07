@@ -11,10 +11,11 @@ CSS_EXTRA = r"""
 .ladders [hidden]{display:none!important}
 .ladders .lead{font-family:var(--mono);font-size:.78rem;line-height:1.5;color:var(--muted);text-align:center;margin:0 auto .5rem;max-width:34rem}
 .ladders .hint{font-family:var(--mono);font-size:.72rem;color:var(--muted);text-align:center;margin:0 0 .5rem}
-.ladders .areas{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.4rem;margin:0 auto .9rem;max-width:36rem}
-.ladders .areas button{font-family:var(--mono);font-size:.74rem;line-height:1.35;text-align:left;color:var(--ink);background:transparent;border:0;border-top:1.5px solid var(--rule);border-radius:0;padding:.5rem .2rem .45rem;cursor:pointer;transition:border-color .2s,color .2s}
-.ladders .areas button:hover{border-top-color:var(--high)}
-.ladders .areas button[aria-pressed="true"]{border-top:3px solid var(--high);color:var(--high);font-weight:600;padding-top:.4rem}
+.ladders .areas{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;margin:0 auto 1rem;max-width:36rem;border:1.5px solid var(--high);border-radius:6px;overflow:hidden}
+.ladders .areas button{font-family:var(--mono);font-size:.74rem;line-height:1.35;text-align:center;color:var(--high);background:var(--card);border:0;border-left:1.5px solid var(--high);border-radius:0;padding:.6rem .4rem;cursor:pointer;transition:background .2s,color .2s}
+.ladders .areas button:first-child{border-left:0}
+.ladders .areas button:hover{background:color-mix(in srgb,var(--high) 12%,var(--card))}
+.ladders .areas button[aria-pressed="true"]{background:var(--high);color:var(--paper);font-weight:600}
 .ladders button:focus-visible,.ladders input:focus-visible{outline:2px solid var(--high);outline-offset:2px}
 .ladders .hy{display:grid;grid-template-columns:minmax(0,1fr) 7.5rem;gap:1.2rem;align-items:center;max-width:36rem;margin:0 auto}
 .ladders .sl{display:flex;flex-direction:column;gap:.8rem;min-width:0}
@@ -29,7 +30,7 @@ CSS_EXTRA = r"""
 .ladders .lines{max-width:34rem;margin:1rem auto 0;display:flex;flex-direction:column;gap:.7rem;text-align:left}
 .ladders .lines p{margin:0;padding-left:.8rem;border-left:3px solid var(--c);font-size:1rem;line-height:1.55}
 .ladders .lines .tag{display:block;font-family:var(--mono);font-size:.7rem;color:var(--muted);line-height:1.4}
-@media (max-width:620px){.ladders .areas{grid-template-columns:1fr;gap:0}.ladders .hy{grid-template-columns:minmax(0,1fr) 5.5rem;gap:.8rem}}
+@media (max-width:620px){.ladders .areas{grid-template-columns:1fr}.ladders .areas button{border-left:0;border-top:1.5px solid var(--high)}.ladders .areas button:first-child{border-top:0}.ladders .hy{grid-template-columns:minmax(0,1fr) 5.5rem;gap:.8rem}}
 @media (prefers-reduced-motion:reduce){.ladders .cross circle{transition:none}}
 """
 

@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.17.1 (2026-11-07)
+
+- Part one ladders toy: the three parts of life are now one clear segmented button row, the chosen one filled
+
+
 ## 7.17.0 (2026-11-07)
 
 - Part one: a second toy after 'The line', two ladders for DO and BE (five steps each, three parts of life), a dot on the cross and one line for the pair (essay/figs8.py)
