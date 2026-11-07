@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.16.1 (2026-11-07)
+
+- Part two: two wording fixes from the reread ('Each time more of it came through for me'; step 1 'the one machine underneath both of us', so 'running' isn't used twice)
+
+
 ## 7.16.0 (2026-11-07)
 
 - Part two, the axiom: the three sentences set as a numbered, accented list (Alex); build_html.py renders any block of two or more numbered lines as a key list card

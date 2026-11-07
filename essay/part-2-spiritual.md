@@ -10,7 +10,7 @@ You've had smaller versions of that: the answer that turns up in the shower, or 
 
 One answer is the brain, working away in the background, and most of what we know about the brain backs it. The answer this part is built on, and the one I believe, is that we are part of something bigger. There is one shared consciousness, and each life, yours and mine, is an individual experience of it. The brain matters the way a radio matters: break it and the music stops, though the music was never made inside the box.
 
-The word I use for that bigger whole, as it shows up in one life, is source. It's like the sun, which shines on everybody whether they think about it or not, and what changes from one person to the next is how much of it gets through. The times more of it came through for me, I stopped feeling alone, I had far more strength than I usually let myself use, and my biggest wish was to share that state with other people.
+The word I use for that bigger whole, as it shows up in one life, is source. It's like the sun, which shines on everybody whether they think about it or not, and what changes from one person to the next is how much of it gets through. Each time more of it came through for me, I stopped feeling alone, I had far more strength than I usually let myself use, and my biggest wish was to share that state with other people.
 
 ## Why a whole would split itself up
 
@@ -50,7 +50,7 @@ Agreement settles nothing by itself, so I'll take the axiom as true and follow i
 
 If it's all one whole, why does being separate feel so convincing? Picture two windows in opposite corners of your screen. On the screen there is a real distance between them, and you could measure it with a ruler. Inside the computer both are worked out by the same chip in the same moment, and the chip has never heard of that distance. I spent years in cyber security, and the walls between programs work the same way: completely real to each program, and still one machine underneath.
 
-That's what I mean when I call separation an illusion. It's real as an experience and misleading as a final description. You and I are the two windows, and the whole is the machine that was running both of us all along. The computer is only a picture, and it doesn't mean anyone is running a simulation.
+That's what I mean when I call separation an illusion. It's real as an experience and misleading as a final description. You and I are the two windows, and the whole is the one machine underneath both of us. The computer is only a picture, and it doesn't mean anyone is running a simulation.
 
 #### Real as an experience, misleading as the last word
 
