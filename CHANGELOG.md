@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.13.2 (2026-11-07)
+
+- Part two, fold But why would it do that?: Watts's answer is put positively at Alex's call, the adventure of not knowing how the story ends instead of getting bored
+
+
 ## 7.13.1 (2026-11-07)
 
 - Part two: the hobby project joke after lila is cut at Alex's call (reader run 27)
