@@ -23,6 +23,7 @@ import figs4 as F4
 import figs5 as F5
 import figs6 as F6
 import figs7 as F7
+import figs8 as F8
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 IMG = os.path.join(HERE, 'img')
@@ -302,6 +303,7 @@ def rules1():
         'Picture the steering wheel of your life.': dict(after=figure(F.fig_wheel(), 'Hands on the wheel, or in the back seat.')),
         'The quiet kinds of DO': dict(after=figure(F.icons_html(), 'Five quiet kinds of DO.', 'plain')),
         'It matters even if you couldn': dict(after=F7.widget()),
+        'Below the line, in Driven': dict(after=F8.widget()),
         'Here is the connection to being here.': dict(after=figure(F.fig_attention(), 'Where your attention is, as opposed to where your body is.')),
         'The turbulence comes from walking on two legs.': dict(after=figure(F.fig_legs(), 'Three ways to move. The DO leg is vermilion, the BE leg is blue.')),
         'Here is why the turbulence is worth it': dict(after=figure(F.fig_loop(), 'The two legs feed each other.')),
@@ -1041,7 +1043,7 @@ TOC_JS = r"""
 
 PARTS = {
     0: dict(md='part-0-intro.md', out='part-0-intro.html', title='Part Zero: Before you start', rules=lambda: rules0(), cast=False, css_extra=PART0_CSS, foot=PART0_FOOT),
-    1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=False, css_extra=F7.CSS_EXTRA, foot=PART1_FOOT),
+    1: dict(md='part-1-rational.md', out='part-1-rational.html', title='Part One: Rational', rules=rules1, cast=False, css_extra=F7.CSS_EXTRA + F8.CSS_EXTRA, foot=PART1_FOOT),
     2: dict(md='part-2-spiritual.md', out='part-2-spiritual.html', title='Part Two: Spiritual', rules=lambda: rules2(), cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + F6.CSS_EXTRA, foot=PART2_FOOT),
     3: dict(md='part-3-practical.md', out='part-3-practical.html', title='Part Three: Practical', rules=rules3, cast=False, css_extra=F3.CSS_EXTRA + F4.CSS_EXTRA + F5.CSS_EXTRA + PART0_CSS, foot=PART3_FOOT),
     4: dict(md='contact.md', out='contact.html', title='Stay in contact', rules=lambda: {}, cast=False, css_extra='', foot=NEXT_FOOT),
