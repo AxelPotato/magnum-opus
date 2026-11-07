@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.19.1 (2026-11-07)
+
+- Remove the unused paths figure rule
+
+
 ## 7.19.0 (2026-11-07)
 
 - Part two: 'Why the paths differ' removed; step 6 no longer mentions a new life
