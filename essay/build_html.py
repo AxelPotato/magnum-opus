@@ -545,6 +545,7 @@ figure{margin:0}
 .cast img.default{box-shadow:0 0 0 2px var(--default)}.cast img.driven{box-shadow:0 0 0 2px var(--driven)}.cast img.drifting{box-shadow:0 0 0 2px var(--drifting)}.cast img.high{box-shadow:0 0 0 2px var(--high)}
 .cast-cap{font-family:var(--mono);font-size:.74rem;color:var(--muted);text-align:center;margin:-1.6rem 0 2.2rem}
 .sources{font-size:.92rem;line-height:1.55;padding-left:1.1rem}
+.keylist{list-style:none;counter-reset:k;margin:.4rem 0 1.8rem;padding:1.1rem 1.3rem;border-left:4px solid var(--accent);border-radius:0 8px 8px 0;background:color-mix(in srgb,var(--accent) 7%,transparent)}.keylist li{counter-increment:k;position:relative;padding-left:2.4rem;margin:.55rem 0;font-family:var(--display);font-size:1.15rem;line-height:1.4;font-weight:600}.keylist li::before{content:counter(k);position:absolute;left:0;top:0;width:1.7rem;height:1.7rem;border-radius:50%;background:var(--accent);color:var(--paper);font-size:.95rem;display:flex;align-items:center;justify-content:center}
 .say{padding-left:1.15rem;margin:0 0 1.4rem}
 .slot{font-family:var(--mono);font-size:.82rem;line-height:1.5;color:var(--muted);border-left:3px solid var(--driven);padding:.5rem .8rem;margin:1.2rem 0;background:var(--card)}
 details.say-fold{margin:1.4rem 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:.15rem 0}
@@ -794,6 +795,10 @@ def convert(md, R):
                 fold_title = None
             else:
                 out.append(f'<ul class="say">{lis}</ul>')
+            continue
+        if '\n' in b and re.match(r'\d\. ', b) and all(re.match(r'\d\. ', l) for l in b.split('\n')):  # a numbered block is a key list, set as an accented card
+            lis = ''.join(f'<li>{smart(l.split(". ", 1)[1])}</li>' for l in b.split('\n'))
+            out.append(f'<ol class="keylist">{lis}</ol>')
             continue
         if b.startswith('- '):
             lis = ''.join(f'<li>{smart(l[2:])}</li>' for l in b.split('\n') if l.startswith('- '))

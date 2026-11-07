@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.16.0 (2026-11-07)
+
+- Part two, the axiom: the three sentences set as a numbered, accented list (Alex); build_html.py renders any block of two or more numbered lines as a key list card
+
+
 ## 7.15.2 (2026-11-07)
 
 - Part two, the axiom: 'with Buddhism and Jainism coming at it from another side' cut at Alex's call

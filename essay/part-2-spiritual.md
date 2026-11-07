@@ -27,7 +27,11 @@ That also tells you which way it goes. Each time two people stop being strangers
 
 ## The axiom
 
-Here is the whole idea in three sentences, and the rest of this part stands on them, so I'll call them the axiom. We are part of something bigger, one shared consciousness. The whole experiences separation, through individual lives. The separation ends.
+Here is the whole idea in three sentences, and the rest of this part stands on them, so I'll call them the axiom.
+
+1. We are part of something bigger, one shared consciousness.
+2. The whole experiences separation, through individual lives.
+3. The separation ends.
 
 I'm not religious, and I'm not asking you to adopt anybody's religion. I quote the traditions because, in their own words, they keep coming back to this idea. People with no creed say it too. Spinoza called the one substance God or Nature, and Carl Sagan said on television that we are a way for the cosmos to know itself.
 
