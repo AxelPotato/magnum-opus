@@ -84,7 +84,7 @@ Every person, text or study the essay cites should have an entry here, and every
 - Rick Rubin, The Creative Act (2023), "The Source of Creativity", the word source [book, checked against the text Alex shared; cited in 7.1.0 to 7.1.1, no longer cited since 7.2.0, private context]
 - Mencius (Mengzi) 2A:2, the vast, flowing qi [text, checked]
 - Konkordia Antarova, Two Lives: no miracles, only levels of knowledge [text, checked]
-- Swami Anand Arun, In Wonder with Osho (no longer cited since 5.0.6; private context for the memoir in the fold 'My teacher and I') [text, partly checked]
+- Swami Anand Arun, In Wonder with Osho (no longer cited since 5.0.6; private context for the memoir in the fold 'My teacher and I', which was cut in 7.13.0) [text, partly checked]
 - Friedrich Nietzsche, the Übermensch [concept, unchecked]
 - Pico della Mirandola, Oration on the Dignity of Man: no fixed seat [text, checked]
 - Plato, Symposium: Aristophanes' halves and Diotima's ladder [text, partly checked]

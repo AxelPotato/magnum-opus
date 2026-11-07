@@ -712,7 +712,6 @@ FOLD_KINDS = {
     'What the studies say about sticking with it': 'study',
     'But why would it do that?': 'look',
     "What if I'm not sure?": 'life',
-    'My teacher and I': 'story',
     'Your sentence, and the yes you already know': 'try',
     'What is behind the goal': 'try',
     'One promise, and the bargain': 'try',
