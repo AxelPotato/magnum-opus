@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.20.1 (2026-11-07)
+
+- Step 5: 'The name and the memories were lived at the tip' (readers who grieve read 'belonged to' as loss)
+
+
 ## 7.20.0 (2026-11-07)
 
 - Part two step 5 streamlined around the strand; title back to 'Something carries over'; lamp only in the fold
