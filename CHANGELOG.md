@@ -8,6 +8,26 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.13.3 (2026-11-07)
+
+- Part two, fold But why would it do that?: 'it makes the forgetting part of the fun' becomes 'it gives the forgetting a purpose' (Alex picked a)
+
+
+## 7.13.2 (2026-11-07)
+
+- Part two, fold But why would it do that?: Watts's answer is put positively at Alex's call, the adventure of not knowing how the story ends instead of getting bored
+
+
+## 7.13.1 (2026-11-07)
+
+- Part two: the hobby project joke after lila is cut at Alex's call (reader run 27)
+
+
+## 7.13.0 (2026-11-07)
+
+- Part three: the fold My teacher and I is cut at Alex's call after reader run 27 (lowest passage in the book, -0.91); the book no longer names the teacher
+
+
 ## 7.12.0 (2026-11-06)
 
 - Part three ends with three closing lines: the whole road, that Alex means to finish it, and that how far the reader goes is their own yes
