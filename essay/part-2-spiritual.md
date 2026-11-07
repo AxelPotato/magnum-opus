@@ -2,25 +2,21 @@
 
 ## Where it comes from
 
-Part one was the polite part. Everything in it holds up whichever way you think the universe works, and this is where we part ways. Most people would call the top right corner of that chart the goal. I'd call it the edge, because the whole chart rests on one quiet assumption: that I'm a separate thing, and a separate thing has to protect itself and take what it needs. If you'd rather have a practical next step, Part three is for you, and you can come back here any time.
+Part one was the polite part, and this is where we part ways. Most people would call the top right corner of that chart the goal. I'd call it the edge, because the whole chart rests on one quiet assumption: that I'm a separate thing, and a separate thing has to protect itself and take what it needs. If you'd rather have a practical next step, Part three is for you, and you can come back here any time.
 
-One morning Paul McCartney woke up with a whole melody in his head. He went to the piano and played it, and then for weeks he played it to people in the music business and asked whether they'd heard it somewhere, because it had come out so finished that he was sure he'd stolen it. Nobody had heard it. Until he found the words he called it "Scrambled Eggs," and then it became "Yesterday."
+One morning Paul McCartney woke up with a whole melody in his head. It came out so finished that for weeks he played it to people in the music business and asked whether he'd stolen it from somewhere. Nobody had heard it. He called it "Scrambled Eggs" until he found the words, and then it became "Yesterday."
 
-You've had a smaller version of that. The answer to the thing you were stuck on all week turns up in the shower. Someone you love calls late at night and needs help, and from somewhere you get a second wind. In a hard conversation you hear yourself say exactly the right thing, and you know you didn't plan it. So where does it come from?
+You've had smaller versions of that: the answer that turns up in the shower, or the second wind when someone you love needs you at midnight. So where does it come from?
 
-The first answer is the brain. It kept working on the problem in the background, and the second wind is your body doing what bodies do when someone needs them. Most of what we know about the brain backs that answer, and nothing in this part asks you to throw it out.
+One answer is the brain, working away in the background, and most of what we know about the brain backs it. The answer this part is built on, and the one I believe, is that we are part of something bigger. There is one shared consciousness, and each life, yours and mine, is an individual experience of it. The brain matters the way a radio matters: break it and the music stops, though the music was never made inside the box.
 
-The second answer is the one this part is built on, and it's what I believe. We are part of something bigger. There is one shared consciousness, and each life, yours and mine, is an individual experience of it. The brain matters the way a radio matters: damage it and the music goes, though the music was never made inside the box. I'm one of the places the whole looks out from, with the memory of the rest switched off for a while, and on a good day a little more of the rest gets through. That's the shower, the second wind and the song.
-
-The word I use for that bigger whole, as it shows up inside one life, is source. Think of the sun. Nearly all the energy in your breakfast started out as sunlight, and the sun shines on everybody, whether they think about it or not. The source is on all the time and reaches everyone, and what changes from one person to the next is how much of it gets through. The times I've felt more of it come through, I stopped feeling alone, there was far more strength in me than I usually let myself use, and the biggest wish that came with it was to share that state with other people.
+The word I use for that bigger whole, as it shows up in one life, is source. It's like the sun, which shines on everybody whether they think about it or not, and what changes from one person to the next is how much of it gets through. The times more of it came through for me, I stopped feeling alone, I had far more strength than I usually let myself use, and my biggest wish was to share that state with other people.
 
 ## Why a whole would split itself up
 
-The obvious next question is why. Why would one whole break into all these lives and then forget that it had?
+Why would one whole break into all these lives and forget that it had? My answer is love. A whole with nothing outside itself has nobody to love, because love needs someone else, someone you can reach for and come back to. So the whole became many, and now each part gets to find the others.
 
-My answer is love. A whole with nothing outside itself has nobody to love, because love needs someone else, someone you can reach for and come back to. So the whole became many and forgot that it had, and now each part gets to find the others. Seen that way, the separation is what makes love possible at all.
-
-That also tells you which way it goes. If the separation is there for the sake of love, it does its job and ends, a little at a time. Each time two people stop being strangers to each other, a piece of it is done. Rain falls as separate drops, and every drop is already on its way back to the sea.
+That also tells you which way it goes. Each time two people stop being strangers, a little of the separation has done its job. Rain falls as separate drops, and every drop is on its way back to the sea.
 
 #### Other answers to why
 
@@ -31,15 +27,9 @@ That also tells you which way it goes. If the separation is there for the sake o
 
 ## The axiom
 
-Here is the whole idea in three sentences. I'll call them the axiom, because the rest of this part stands on them.
+Here is the whole idea in three sentences, and the rest of this part stands on them, so I'll call them the axiom. We are part of something bigger, one shared consciousness. The whole experiences separation, through individual lives. The separation ends.
 
-We are part of something bigger. There is one shared consciousness, and everything is a part of it.
-
-The whole experiences separation. It looks at itself through individual lives, and each of us experiences one of them as "my life."
-
-The separation ends.
-
-I'm not religious, and I'm not asking you to adopt anybody's religion. I quote a lot of traditions in this part because, in their own words, they keep coming back to this idea. Hindu texts say it outright, Judaism, Christianity and Islam say it in their mystical layers and in a few plain verses, Daoism says that the many come from one, and Buddhism and Jainism come at it from another side. People with no creed say it too. Spinoza argued that there is only one substance, which he called God or Nature, and Carl Sagan said on television that we are a way for the cosmos to know itself.
+I'm not religious, and I'm not asking you to adopt anybody's religion. I quote the traditions because, in their own words, they keep coming back to this idea, with Buddhism and Jainism coming at it from another side. People with no creed say it too. Spinoza called the one substance God or Nature, and Carl Sagan said on television that we are a way for the cosmos to know itself.
 
 #### The base, tradition by tradition
 
@@ -50,17 +40,13 @@ I'm not religious, and I'm not asking you to adopt anybody's religion. I quote a
 * Islam: the Quran says that wherever you turn there is the face of God, and the Sufi mystic Ibn Arabi called all things "He/not He," meaning that each thing is God and also not God.
 * Daoism: in the Daodejing the Way gives birth to one, one gives birth to two, and the sequence runs on to the ten thousand things, the Chinese phrase for everything that exists.
 
-Agreement settles nothing by itself, so I'll take the axiom as true and follow it one step at a time, and you can judge it by where it leads. Under each step you'll find what the traditions say, so you can see whether they meant the same thing.
+Agreement settles nothing by itself, so I'll take the axiom as true and follow it one step at a time.
 
 ## 1. Separation is a way of looking
 
-If it's all one whole, why does being separate feel so convincing? I'll answer with a computer, since I spent years in cyber security. Picture one machine running thousands of programs. Each program gets its own private memory and believes it has the whole thing to itself. The operating system maps all of it onto the same physical chips, and the hardware enforces the walls, which is what keeps a random app away from your password manager. The walls are real, though engineers built them. Underneath, there is one machine.
+If it's all one whole, why does being separate feel so convincing? Picture two windows in opposite corners of your screen. On the screen there is a real distance between them, and you could measure it with a ruler. Inside the computer both are worked out by the same chip in the same moment, and the chip has never heard of that distance. I spent years in cyber security, and the walls between programs work the same way: completely real to each program, and still one machine underneath.
 
-Now picture the screen. Two windows sit in opposite corners, and there seems to be a distance between them. There is a distance, on the screen. Both windows are computed on the same machine in the same moment, and the machine has never heard of that distance.
-
-Under the axiom, you and I are programs. "Me over here, you over there" is the screen. My private memory is the self I feel from inside. The wall around it is the felt edge of me. The whole is the machine that was running both of us all along. The computer is a picture. It doesn't mean the universe is a simulation or that anyone is running it.
-
-So being separate can't be a fact about what exists. It's a fact about how the whole is looking at itself. The separation is real as an experience and misleading as a final description, and that's what I mean by illusion. The word gets misused. It doesn't mean nothing is there. The distance between the two windows is real, and you can measure it with a ruler held to the screen. What's wrong is the reading, the thought that two separate things sit that far apart inside the machine. The walls between programs work the same way. From inside a program they are completely real, and they still don't mean the machine is in pieces.
+That's what I mean when I call separation an illusion. It's real as an experience and misleading as a final description. You and I are the two windows, and the whole is the machine that was running both of us all along. The computer is only a picture, and it doesn't mean anyone is running a simulation.
 
 #### Real as an experience, misleading as the last word
 
