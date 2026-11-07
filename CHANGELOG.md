@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.20.0 (2026-11-07)
+
+- Part two step 5 streamlined around the strand; title back to 'Something carries over'; lamp only in the fold
+
+
 ## 7.19.2 (2026-11-07)
 
 - Part one, Default: 'Roughly 95% of us live here' becomes 'Most of us live here'

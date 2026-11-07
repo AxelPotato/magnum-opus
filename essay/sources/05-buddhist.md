@@ -252,7 +252,7 @@ Who: A dialogue between the Indo-Greek king Milinda and the Buddhist monk Nagase
 
 In the essay: Part two, 'Not enough time in one life': Buddhism 'holds that there is no fixed soul, and yet that something continues, and in the Milindapanha the monk Nagasena compares it to a flame passed from one lamp to another, neither the same flame nor a different one.' Table: 'Rebirth without a fixed soul, like a flame passed from lamp to lamp.'
 
-In the essay (v7.18.0): Part two, step 5 was rewritten and renamed 'Longer than one life'. Main text: Buddhism, which says there is no fixed self, speaks of a stream of causes and gives the image of a lamp lit from another lamp, where nothing passes across and the second one still burns. The fold keeps the lamp that burns all night.
+In the essay (v7.18.0): Part two, step 5 was rewritten and renamed 'Longer than one life'. v7.20.0: the lamp left the main text; it is only in the fold now (the lamp that burns all night).
 
 Where it sits: Rhys Davids, SBE 35, Book II, the questions on individuality and rebirth (the sacred-texts page sbe3505 contains the lamp burning through the night; the phrase 'neither the same nor another' was seen on the dhammatalks.net copy of the same translation). A second simile, lighting one lamp from another, is described in a journal summary as belonging to the Book III discussion of rebirth without a subject. Check which page carries which image.
 

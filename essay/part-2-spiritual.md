@@ -129,21 +129,15 @@ Before the turn and after it are two halves of the same game, like a player who 
 * Rumi opens his Masnavi with a reed flute that cries because it was parted from the reed bed, and says that everyone who is left far from their source wishes back the time when they were united with it (Book I, 1 to 4).
 * In the parable of the prodigal son, the younger son takes his share, leaves for a far country and spends everything. When a famine comes and he is feeding pigs, he came to himself (Luke 15:17). He goes home, and while he is still a long way off his father sees him and runs to him (15:20). That is the turn, almost word for word.
 
-## 5. Longer than one life
+## 5. Something carries over
 
-Put the turn next to an ordinary life and the two don't line up. Plenty of people die long before the bottom point, some die right at it, and very few finish the way back by the time the body gives out. The third clause says the separation ends, and for most of us one life is too short for that.
+Here is a picture of how one whole can be separated without ever coming apart. Imagine a big mass of jelly, and pull a bit of it out. You can pull and pull and pull, and it gets long and thin, and it never comes off the mass. Out at the tip it is so far away that it has forgotten it was ever part of anything. A life is that tip, and everything we experience happens there, at the very edge. The strand behind it, the part that still connects the edge to the whole, is what most traditions call the soul.
 
-So what does dying end? The body, yes. But the body was never what kept us separate. As step 1 said, separation is a way of looking, a habit. When the body dies, there is no reason for the habit to die with it. And if dying ended the separation all by itself, the turn would have no point, and nothing we let go of in a life would matter.
+When a life ends, the tip goes and the strand stays as far out as it was. The name and the memories belonged to the tip. The strand keeps how far out it went and how much of the way back it has already come. The turn from step 4 is where it stops stretching and starts to draw back in, and the third clause, the separation ends, is the strand back in the whole.
 
-So something carries over, and the picture I use for it is a soft one. Imagine a big mass of jelly, and pull a bit of it out. You can pull and pull and pull, and it gets long and thin, and it never comes off the mass. Out at the tip it is so far away that it has forgotten it was ever part of anything. A life is that tip, the very edge, and everything we experience happens there. The strand behind it, the part that still connects the edge to the whole, is what most traditions call the soul. When a life ends, the tip goes, and the strand is still as far out as it was. The name and the memories belonged to the tip. What goes on is where you are on the way: how far out you went, whether you have turned, how much of the wall you have already let go. The turn from step 4 is the moment the strand stops stretching and starts drawing back in.
+This changes how dying looks. A separate self is sure of one thing it will lose, which is itself, so the fear of dying is the wall's strongest reflex. Seen from the strand, what ends is the tip. That's why so many traditions treat letting go as a practice for dying: every small thing you stop defending while you're alive makes the last letting go a little more familiar. I still look both ways before crossing the street, twice.
 
-Where it goes on, in another world or in a new life here, is where the traditions answer differently, and in every answer it picks up where it stopped. Buddhism, which says there is no fixed self, speaks of a stream of causes and gives an image of its own: a lamp lit from another lamp, where nothing passes across and the second one still burns.
-
-You already know this pattern from a smaller scale. You have forgotten almost every day you have lived. Try to remember an ordinary afternoon from when you were small, and you get a blur, maybe a face or a smell. Still, the person reading this is made out of those days. The events went, and what they taught you stayed: the patience or the lack of it, the fears, the things your hands know how to do.
-
-It changes what there is to be afraid of. A separate self is sure of one thing it will lose, which is itself, so the fear of dying is the wall's strongest reflex, and it eases as the wall eases. Under the axiom what ends is one position, and the one looking from it goes on. That's why so many traditions treat letting go as a practice for dying. Every small thing you stop defending while you're alive makes the last letting go a little more familiar. I still look both ways before crossing the street, twice.
-
-It also makes this life count. What you let go of now doesn't have to be learned again. Several traditions hold that the whole way back can be walked within a single life, and I don't see a reason to wait.
+Where the strand goes after that, the traditions answer in different ways, and some of their answers are in the fold below. For this life the point is simpler. Whatever you let go of now stays let go, and several traditions hold that the whole way back can be walked within a single life.
 
 #### Lives, afterlives, and practice for dying
 
@@ -151,7 +145,7 @@ It also makes this life count. What you let go of now doesn't have to be learned
 * The Abrahamic traditions put what comes next in another world. Catholic teaching calls it purgatory, a purification after death for those who die in grace but are not yet fully purified (Catechism of the Catholic Church, 1030 to 1031), and the Quran says that behind the dead there is a barrier, the barzakh, until the day they are raised (23:100).
 * Near the end of The Education of the Human Race, in 1780, Lessing, a thoroughly Enlightenment sort of person, asks why he shouldn't come back as often as he is capable of acquiring fresh knowledge.
 * In the Myth of Er that closes Plato's Republic, souls choose their next lives and then drink from the river of forgetfulness before they are born, which is one old answer to why you don't remember the last one, and the best explanation I've heard for Monday mornings.
-* The lamp comes from the Milindapanha, a dialogue between King Milinda and the monk Nagasena, where the one who is reborn is neither the same nor another, like a lamp that burns all night without being the same flame from one hour to the next.
+* Buddhism, which says there is no fixed self, has its own picture in the Milindapanha, a dialogue between King Milinda and the monk Nagasena, where the one who is reborn is neither the same nor another, like a lamp that burns all night without being the same flame from one hour to the next.
 * In Plato's Phaedo, Socrates says on the day of his death that those who practice philosophy rightly are practicing nothing other than dying and being dead (64a), and that this is why death frightens them less than anyone (67e).
 
 ## 6. Karma, or the fingers
@@ -289,7 +283,7 @@ The axiom
 - Rumi, Masnavi, Book I, 1-4, translated by Nicholson, R. A. (1926), The Mathnawi of Jalalu'ddin Rumi, vol. II (translation of Books I and II). Gibb Memorial Trust.
 - Luke 15:11-32.
 
-5. Longer than one life
+5. Something carries over
 
 - Lessing, G. E. (1780). The Education of the Human Race, section 98 in the usual numbering.
 - Bhagavad Gita 6.45 and 2.22. Samyutta Nikaya 15. Catechism of the Catholic Church, 1030-1031. Quran 23:100.
