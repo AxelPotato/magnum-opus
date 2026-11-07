@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.18.2 (2026-11-07)
+
+- Step 5: second paragraph made simpler to read
+
+
 ## 7.18.1 (2026-11-07)
 
 - Step 5: Alex's jelly strand as the picture of the soul; lamp moved to the next paragraph
