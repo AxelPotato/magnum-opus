@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 8.0.0 (2026-11-07)
+
+- Version 8.0.0 at Alex's call: the book after run 27 and the step-5 recheck. No teacher fold, a new Part two opening, step 5 rebuilt around the pulled strand, no many-lives claims, 'Why the paths differ' removed, 'Most of us live here'
+
+
 ## 7.20.2 (2026-11-07)
 
 - Step 5: one sentence on forgotten childhood afternoons and what stays
