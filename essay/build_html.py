@@ -347,7 +347,6 @@ PART0_CSS = '.fig .pic{display:block;width:100%;max-width:26rem;height:auto;marg
 
 def rules2():
     return {
-        'Agreement settles nothing by itself': dict(after=figure(F4.fig_chain(), 'The road through this part, eight steps from the axiom.')),
         'One answer is the brain': dict(after=figure(F4.fig_views(), 'Two answers to the same moment. In the first, many separate things. In the second, one whole seen from many places.')),
         "If it's all one whole, why does being separate": dict(after=figure(F4.fig_cpu(), 'Far apart on the screen, side by side in the machine. The distance is a property of the drawing.')),
         'The body holds the limits in place.': dict(after=figure(F4.fig_wall(), 'The wall, as it shows in the body. Hold less of it and you sit higher on BE.')),

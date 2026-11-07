@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.15.1 (2026-11-07)
+
+- Part two: the chain figure with the eight steps removed at Alex's call
+
+
 ## 7.15.0 (2026-11-07)
 
 - Part two opening shortened at Alex's call (still long, slow to reach step 1): main text before step 2 from about 1,200 to about 700 words; the hook, two answers and source in five short paragraphs; the why in two; the axiom as one paragraph; step 1 is the screen picture told once and the illusion in two sentences
