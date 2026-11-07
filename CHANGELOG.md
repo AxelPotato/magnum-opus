@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 7.18.1 (2026-11-07)
+
+- Step 5: Alex's jelly strand as the picture of the soul; lamp moved to the next paragraph
+
+
 ## 7.18.0 (2026-11-07)
 
 - Part two step 5 rewritten as 'Longer than one life': derived from the turn, step 1 and clause 3; afterlife catalogue moved into the fold; 'session' cut
