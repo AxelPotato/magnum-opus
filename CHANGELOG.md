@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 8.2.0 (2026-11-08)
+
+- Part zero now says the book's goal: clear thinking and spirituality belong together, and inner development is the foundation of every life, which plain logic can show
+
+
 ## 8.1.0 (2026-11-08)
 
 - Part zero cut to three short paragraphs at Alex's word: who I am, the monk line, and one paragraph on the book (rational, spiritual and practical; free to disagree). The walk through each part is gone
