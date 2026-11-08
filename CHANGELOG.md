@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 8.2.1 (2026-11-08)
+
+- Part two: the skip-to-Part-three line moved from the opening paragraph to the end of the axiom section, just before step 1, and reworded
+
+
 ## 8.2.0 (2026-11-08)
 
 - Part zero now says the book's goal: clear thinking and spirituality belong together, and inner development is the foundation of every life, which plain logic can show
