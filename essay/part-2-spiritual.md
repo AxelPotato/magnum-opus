@@ -2,7 +2,7 @@
 
 ## Where it comes from
 
-Part one was the polite part, and this is where we part ways. Most people would call the top right corner of that chart the goal. I'd call it the edge, because the whole chart rests on one quiet assumption: that I'm a separate thing, and a separate thing has to protect itself and take what it needs. If you'd rather have a practical next step, Part three is for you, and you can come back here any time.
+Part one was the polite part, and this is where we part ways. Most people would call the top right corner of that chart the goal. I'd call it the edge, because the whole chart rests on one quiet assumption: that I'm a separate thing, and a separate thing has to protect itself and take what it needs.
 
 One morning Paul McCartney woke up with a whole melody in his head. It came out so finished that for weeks he played it to people in the music business and asked whether he'd stolen it from somewhere. Nobody had heard it. He called it "Scrambled Eggs" until he found the words, and then it became "Yesterday."
 
@@ -44,7 +44,7 @@ I'm not religious, and I'm not asking you to adopt anybody's religion. I quote t
 * Islam: the Quran says that wherever you turn there is the face of God, and the Sufi mystic Ibn Arabi called all things "He/not He," meaning that each thing is God and also not God.
 * Daoism: in the Daodejing the Way gives birth to one, one gives birth to two, and the sequence runs on to the ten thousand things, the Chinese phrase for everything that exists.
 
-Agreement settles nothing by itself, so I'll take the axiom as true and follow it one step at a time.
+Agreement settles nothing by itself, so I'll take the axiom as true and follow it one step at a time. There are eight steps. If you came for the practice, Part three works fine on its own, so feel free to go there first and come back here whenever you're curious.
 
 ## 1. Separation is a way of looking
 
