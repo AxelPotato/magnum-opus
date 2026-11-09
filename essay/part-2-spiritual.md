@@ -16,7 +16,7 @@ The word I use for that bigger whole, as it shows up in one life, is source. It'
 
 Why would one whole break into all these lives and forget that it had? My answer is love. A whole with nothing outside itself has nobody to love, because love needs someone else, someone you can reach for and come back to. So the whole became many, and now each part gets to find the others.
 
-That also tells you which way it goes. Each time two people stop being strangers, a little of the separation has done its job. Rain falls as separate drops, and every drop is on its way back to the sea.
+That also tells you which way it goes. Think of hide and seek. Nobody hides in order to stay hidden; the game is played for the moment of being found, and the better the hiding place, the better that moment. The whole hid itself in every one of us, and each time two people stop being strangers, a little of the hiding has done its job.
 
 #### Other answers to why
 
@@ -44,7 +44,7 @@ I'm not religious, and I'm not asking you to adopt anybody's religion. I quote t
 * Islam: the Quran says that wherever you turn there is the face of God, and the Sufi mystic Ibn Arabi called all things "He/not He," meaning that each thing is God and also not God.
 * Daoism: in the Daodejing the Way gives birth to one, one gives birth to two, and the sequence runs on to the ten thousand things, the Chinese phrase for everything that exists.
 
-Agreement settles nothing by itself, so I'll take the axiom as true and follow it one step at a time. There are eight steps. If you came for the practice, Part three works fine on its own, so feel free to go there first and come back here whenever you're curious.
+Agreement settles nothing by itself, so I'll take the axiom as true and follow it one step at a time. There are eight steps, and two of them end in something you can test this week: step 7 has a question to ask yourself the next time you come home flat, and the last section has a prediction about generosity that you can run on yourself. If the picture is wrong, that is where it fails. You don't have to believe any of it to walk the road in Part three; the road will tell you. If you came for the practice, Part three works fine on its own, so feel free to go there first and come back here whenever you're curious.
 
 ## 1. Separation is a way of looking
 
@@ -95,7 +95,7 @@ The same signal reads the other way. When the wall drops for a moment, what you 
 
 That's also why love is strongest with the people closest to you, where the wall is thinnest. It helps to tell love apart from need, since the two live in the same relationships. Need says, I need you so that I feel whole. Love says, you are part of what I am. Most of us have plenty of both, me included, and the work is to grow the second. Need keeps score of who did the dishes last. Love just does them, which I'm told is very attractive.
 
-That leaves the hardest question. If we are all part of one whole, why does it allow cruelty? There is nobody else, so the whole is on both sides of everything that happens, the one who hurts and the one who is hurt. And a steering wheel that could only turn toward kindness wouldn't be a steering wheel. What we call evil is what a point of view does when its wall is at its thickest: it acts as if the other is no part of it at all. Augustine said that evil is the absence of good, the way a shadow is only a place where the light isn't getting through, and under the axiom that is exactly right. Evil is love that is missing. Knowing what cruelty is never asks anyone to stand by, and step 6 says where it lands.
+That leaves the hardest question. If we are all part of one whole, why does it allow cruelty? There is nobody else, so the whole is on both sides of everything that happens, the one who hurts and the one who is hurt. And a steering wheel that could only turn toward kindness wouldn't be a steering wheel. What we call evil is what a point of view does when its wall is at its thickest: it acts as if the other is no part of it at all. Augustine said that evil is the absence of good, the way a shadow is only a place where the light isn't getting through, and under the axiom that is exactly right. Evil is love that is missing. Knowing what cruelty is never asks anyone to stand by. And much of the worst pain has no cruelty in it at all: a car on a wet road, an illness, a child who dies young. Nobody's thick wall did that, and the axiom hands out no blame for it, because there is nobody outside the whole to blame. What it does say is how to meet a person in that pain, and step 6 begins there, with compassion.
 
 So pain and love are one signal, read in two directions. Over one evening that's a mood. Over a year it is a direction.
 

@@ -1,6 +1,6 @@
 # Part zero: Before you start
 
-I'm Alex. I work in cyber security, and my spiritual search has run for more than fourteen years. In many ways I'm a modern monk with a day job, living in a kind of neo-monastery.
+I'm Alex. I work in cyber security, and my spiritual search has run for more than fourteen years. In many ways I'm a modern monk with a day job.
 
 If you've ever seen a monk, Buddhist or Christian, someone who took the serious spiritual path in one of the religions, and thought to yourself, I want that too, minus the religion: that's pretty much what I thought and felt when I chose this life.
 
