@@ -45,7 +45,7 @@ You can see from the outside how strong a wish is. A project that never gets bui
 
 #### Your sentence, and the yes you already know
 
-* Write one sentence that starts "I want this because", in your own words, and keep it somewhere you'll see it. In a month, read it again and ask whether it still sounds like you or like something you read somewhere.
+* Write one sentence that starts "I want this because", in your own words. Most people can't finish it on the first try, and that's fine: keep the half sentence somewhere you'll see it and let it fill in over the coming weeks, because finding it is part of the work. In a month, read it again and ask whether it still sounds like you or like something you read somewhere.
 * Then remember a time you really decided something. Write down what changed in the days after, and ask what the same yes would sound like here.
 
 ## 2. A goal, and a reason
@@ -70,7 +70,7 @@ Keep it light, and keep it yours: a demand you make on yourself, in a friendly t
 
 It grows from the outside in. A fixed time and a meeting on the calendar are the outside, and you can keep them even on a day when you don't feel like it. After a while you see what they give you, and the keeping starts to come from you.
 
-For me it looks like this. I've dedicated my life to the spiritual path, and it's my focus every day. That's why I do the three meditations a day, every day, and why I can't just stop taking part in something because I don't feel like it that day. Another thing I'm disciplined about is alcohol, cigarettes and drugs: a hundred percent no to all of them. It's a way of life, and discipline is a big part of it.
+For me it looks like this. I've dedicated my life to the spiritual path, and it's my focus every day. That's why I do the three meditations a day, every day, and why I can't just stop taking part in something because I don't feel like it that day. Another thing I'm disciplined about is alcohol, cigarettes and drugs: a hundred percent no to all of them. It's a way of life, and discipline is a big part of it. That is my line, though, the line of the life I chose. What the method asks changes with the stage you're at, and at the start it asks much less: five minutes a day that you keep, and a decision you keep after the mood for it has passed.
 
 Without discipline, direction follows mood, and mood brings back the swing from Part one.
 
@@ -89,8 +89,6 @@ The second job is letting go of the tension you've already built up. Tension sit
 
 Stillness is the simplest form of this, and you can start tonight, alone. Close your eyes and feel the life in your body. Put your attention on that sensation, and learn to gain pleasure from it. That's the whole instruction. Start with five minutes, and sit longer or more often whenever you like. It's also where to look for the border of you that Part two asked about. You don't need to agree with anything in this book to try it, and five minutes will tell you more about it than I can.
 
-Prayer is the same attention pointed somewhere else. In stillness it rests on the body, and in prayer it turns toward the whole, which here means learning to talk with life itself. One way in is a question: how would you talk if you met God, or whatever you call the source? You would take off the masks and speak as you are. Asking is part of it, for help and for other people, and the asking tends to turn toward giving. You can tell the conversation is real the way you can tell a person is really listening to you. And prayers alone don't bring rain. Someone has to dig the ditches for it.
-
 The third job is not to build new tension, and it's the one people forget. If you clear your shoulders in the morning and spend the day clenching, you've bailed a boat with the hole still open. It mostly comes down to small choices, like saying the sentence now instead of carrying it, and not rehearsing the argument in the shower. Each of them is a clamp that never forms.
 
 Underneath all three there's a plain skill: seeing your own mind at work. Most of what you do in a day gets triggered. Someone says a thing, something fires, and you've answered before you've decided to. One tool I use: when something fires, notice where it lands in the body, the jaw or the stomach, and look at it there for a moment before you answer. Over time, things that usually arrive glued together start to come apart: what happened and the story I tell myself about it, a real danger and an old fear, what I actually want and what someone else expects of me.
@@ -101,6 +99,8 @@ The daily sit is the smallest part of the practice. What it changes is the rest 
 
 * Once a day, do the five minutes of stillness from this section: close your eyes, feel the life in your body, put your attention on that sensation, and learn to enjoy it. If that's all you do, it's plenty.
 * If you'd like to take it further, open your eyes afterwards and think of one hard moment from the day. Write two columns: what happened, and the story you told yourself about it. After a few minutes of stillness the two are much easier to tell apart.
+
+Prayer is the same attention pointed somewhere else. In stillness it rests on the body, and in prayer it turns toward the whole, which here means learning to talk with life itself. One way in is a question: how would you talk if you met God, or whatever you call the source? You would take off the masks and speak as you are. Asking is part of it, for help and for other people, and the asking tends to turn toward giving. You can tell the conversation is real the way you can tell a person is really listening to you. And prayers alone don't bring rain. Someone has to dig the ditches for it.
 
 ## 5. Giving
 
@@ -186,7 +186,7 @@ The way to judge a teacher and a group is your own experience. Does this person 
 
 There will be moments, plenty of them, when what you think is very different from what you're offered to try. That discomfort comes to everyone who walks this road, whoever the teacher is, and with no teacher at all. For me there is one way to tell growth from something being wrong. The discomfort of growth comes together with an emotion in my body, so I decide nothing while the emotion is still there. I live through it first, and then I look at the disagreement again with a clear head. Usually most of it has gone with the emotion. When something was still there, I said so, and people took it up. Whether that's a reason to stay or to leave is up to you.
 
-The hardest thing to convey is the inner decision that this is a person whose view of me I trust, and that comes only through your own experience. And you don't have to have a teacher at all. I studied on my own for years before I found mine, and it's the slower road, but it is a road.
+The hardest thing to convey is the inner decision that this is a person whose view of me I trust, and that comes only through your own experience. And you don't have to have a teacher at all. I studied on my own for years before I found mine, and it's the slower road, but it is a road. If there's nobody around you for this yet, that's how most of us started, me included. It's also what the form at the end of this book is for: a reader with nobody to compare notes with can at least write to me.
 
 ## The cloth and the world
 

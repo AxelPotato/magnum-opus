@@ -386,7 +386,6 @@ def rules3():
         'When someone harms you, you react': dict(after=figure(F5.fig_samestep(), 'The same step away can be a clear choice or a flinch.')),
         'This matters more now than it used to': dict(after=figure(F5.JOKES['fig_weekend'](), 'A strong weekend, on your own and with people you see every week. An illustration, not data.')),
         'There will be moments, plenty of them': dict(after=figure(F5.fig_emotion(), 'Decide nothing while the emotion is there. Look again with a clear head, and take seriously what is still there.')),
-        'Stillness is the simplest form of this': dict(after=photo('stillness', 'The author sitting cross-legged with eyes closed, with his team meditating around him', 'Most days I sit like this two or three times. The beard is not part of the method.')),
     }
 
 
@@ -592,7 +591,7 @@ FONTS = ('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght
 
 
 # Where the contact form on the Next page sends its leads: the n8n essay-lead webhook.
-# The form asks for a name, an email and an open message, "How are you doing?" (Alex, 17 October); only
+# The form asks for a name, an email and an open message, "How was it, and what are you looking for next?" (Alex, 9 November; was "How are you doing?" from 17 October); only
 # the email is required. It posts name, email and message, plus the UTM fields and page_url, as urlencoded POST.
 # The webhook took name and email before; the message field is new, so the workflow has to pass it on.
 CONTACT_ENDPOINT = 'https://n8n.giving-school.eu/webhook/essay-lead'
@@ -693,7 +692,7 @@ def contact_html(intro=''):
             f'<form class="contact-form" data-endpoint="{html.escape(CONTACT_ENDPOINT)}">'
             '<label>Your name<input name="name" autocomplete="name" maxlength="120"></label>'
             '<label>Your email<input name="email" type="email" autocomplete="email" maxlength="200"></label>'
-            '<label>How are you doing?<span class="hint">Please share anything you feel.</span>'
+            '<label>How was it, and what are you looking for next?<span class="hint">What you tried, what happened, anything you want to ask.</span>'
             '<textarea name="message" rows="5" maxlength="2000"></textarea></label>'
             + ''.join(f'<input type="hidden" name="{p}{k}">' for p in ('', 'first_') for k in UTM_KEYS)
             + '<input type="hidden" name="short_link"><input type="hidden" name="referrer">'

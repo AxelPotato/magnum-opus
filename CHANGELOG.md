@@ -8,6 +8,16 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 8.3.1 (2026-11-09)
+
+- Discipline: what the method asks changes with the stage; at the start, five minutes a day you keep
+
+
+## 8.3.0 (2026-11-09)
+
+- After reader run 29: hide and seek instead of the raindrops; two tests named at the end of the axiom and no belief needed for Part three; pain that is nobody's fault in step 3; the discipline line marked as Alex's own; the sentence exercise allowed to stay half finished; prayer moved after the stillness fold and the stillness photo removed; a line for readers with nobody in the teacher note; the form asks how it was and what you are looking for next; neo-monastery dropped from the intro
+
+
 ## 8.2.1 (2026-11-08)
 
 - Part two: the skip-to-Part-three line moved from the opening paragraph to the end of the axiom section, just before step 1, and reworded
