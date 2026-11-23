@@ -8,6 +8,11 @@ The essay page (`essay/part-1-rational.html`) follows Major.minor.fix. Every cha
 
 <!-- entries -->
 
+## 8.4.0 (2026-11-23)
+
+- Intro opens with Alex's mission paragraph: why he does what he does and wrote the book
+
+
 ## 8.3.1 (2026-11-09)
 
 - Discipline: what the method asks changes with the stage; at the start, five minutes a day you keep
